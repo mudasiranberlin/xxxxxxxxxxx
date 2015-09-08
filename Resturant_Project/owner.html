@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Owner </title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles/lib/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="styles/lib/bootstrap-theme.min.css">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <link href='http://fonts.googleapis.com/css?family=Chewy' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" href="fav.ico">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+
+
+</head>
+
+<body id="owner-body">
+<div id="top-nav" class="navbar navbar-inverse navbar-static-top">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" style="color: white!important;" href="homepage.html">SWADH</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="container" id="ownerHome">
+    <ul class="nav nav-tabs nav-justified">
+
+        <li class="active">
+            <a href="#tab-reservation" data-toggle="tab">
+                <span class="glyphicon glyphicon-calendar"></span>
+                <span class="tab-text">Reservations</span>
+            </a>
+        </li>
+        <li>
+            <a href="#tab-seating" data-toggle="tab">
+                <span class="glyphicon glyphicon-th"></span>
+                <span class="tab-text">Seating</span>
+            </a>
+        </li>
+    </ul>
+    <div id="content" class="tab-content">
+        <div class="tab-pane active" id="tab-reservation">
+            <h6>Reservation List</h6>
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Search Reservation" id="inputSearch">
+                <div class="input-group-btn">
+                    <button class="btn btn-primary" type="submit"><i class="glyphicon glyphicon-search"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div id="scroll-tab">
+            <table id="table-scroll" class="table table-condensed">
+                <thead>
+                <tr>
+                    <th>CNF#</th>
+                    <th>Name</th>
+                    <th>Date</th>
+                    <th>#</th>
+                    <th>Action</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>JO83CD</td>
+                    <td>DATTA</td>
+                    <td>08/01/2015 05:00PM</td>
+                    <td>7</td>
+                    <td>
+                        <button class="btn btn-primary" title="Open Details">
+                            <span class="glyphicon glyphicon-share"></span>
+                            <span class="btn-text inv">Details</span>
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>JO83CD</td>
+                    <td>DATTA</td>
+                    <td>08/01/2015 05:00PM</td>
+                    <td>7</td>
+                    <td>
+                        <button class="btn btn-primary" title="Open Details">
+                            <span class="glyphicon glyphicon-share"></span>
+                            <span class="btn-text inv">Details</span>
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>JO83CD</td>
+                    <td>DATTA</td>
+                    <td>08/01/2015 05:00PM</td>
+                    <td>7</td>
+                    <td>
+                        <button class="btn btn-primary" title="Open Details">
+                            <span class="glyphicon glyphicon-share"></span>
+                            <span class="btn-text inv">Details</span>
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>JO83CD</td>
+                    <td>DATTA</td>
+                    <td>08/01/2015 05:00PM</td>
+                    <td>7</td>
+                    <td>
+                        <button class="btn btn-primary" title="Open Details">
+                            <span class="glyphicon glyphicon-share"></span>
+                            <span class="btn-text inv">Details</span>
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>JO83CD</td>
+                    <td>DATTA</td>
+                    <td>08/01/2015 05:00PM</td>
+                    <td>7</td>
+                    <td>
+                        <button class="btn btn-primary" title="Open Details">
+                            <span class="glyphicon glyphicon-share"></span>
+                            <span class="btn-text inv">Details</span>
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>JO83CD</td>
+                    <td>DATTA</td>
+                    <td>08/01/2015 05:00PM</td>
+                    <td>7</td>
+                    <td>
+                        <button class="btn btn-primary" title="Open Details">
+                            <span class="glyphicon glyphicon-share"></span>
+                            <span class="btn-text inv">Details</span>
+                        </button>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+            </div>
+            <ul class="pagination pull-right">
+                <li><a href="#">&laquo;</a>
+                </li>
+                <li class="active"><a href="#">1</a>
+                </li>
+                <li><a href="#">2</a>
+                </li>
+                <li><a href="#">3</a>
+                </li>
+                <li><a href="#">4</a>
+                </li>
+                <li><a href="#">5</a>
+                </li>
+                <li><a href="#">&raquo;</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="tab-pane" id="tab-seating">
+            <h6>Seating Area</h6>
+            <div class="container">
+                <div id="shrink" class="col-xs-11 col-sm-11">
+                    <table id="seating-table" class="table table-condensed">
+                        <thead>
+                        <tr>
+                            <th>Table#</th>
+                            <th>Size</th>
+                            <th>Status</th>
+                            <th>Since</th>
+                            <th>CNF#</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>4</td>
+                            <td>Occupied</td>
+                            <td>1:30PM</td>
+                            <td>
+                                <button type="button" class="btn btn-link">DA83CD</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td>4</td>
+                            <td>Available</td>
+                            <td>-</td>
+                            <td>
+                                <span class="btn-filler"></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td>4</td>
+                            <td>Occupied</td>
+                            <td>1:30PM</td>
+                            <td>
+                                <button type="button" class="btn btn-link">DA83CD</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td>4</td>
+                            <td>Occupied</td>
+                            <td>1:30PM</td>
+                            <td>
+                                <button type="button" class="btn btn-link">DA83CD</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td>4</td>
+                            <td>Available</td>
+                            <td>-</td>
+                            <td>
+                                <span class="btn-filler"></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td>4</td>
+                            <td>Occupied</td>
+                            <td>1:30PM</td>
+                            <td>
+                                <button type="button" class="btn btn-link">DA83CD</button>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td>4</td>
+                            <td>Available</td>
+                            <td>-</td>
+                            <td>
+                                <span class="btn-filler"></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>1</td>
+                            <td>4</td>
+                            <td>Available</td>
+                            <td>-</td>
+                            <td>
+                                <span class="btn-filler"></span>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<footer class="text-center"><b>© 2015 Swadh Indian Resturant, Inc. All rights reserved. </b></footer>
+
+
+<script type="text/javascript" src="scripts/lib/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="scripts/lib/bootstrap.min.js"></script>
+</body>
+</html>

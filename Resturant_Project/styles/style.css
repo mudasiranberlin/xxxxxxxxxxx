@@ -1,0 +1,173 @@
+
+/*ul.nav-tabs a span.glyphicon {
+    font-size: 1.4em;
+    top: 4px;
+    margin-right: 4px;
+}*/
+
+.tab-content {
+    background-color: rgba(208, 212, 151, 0.75);
+    padding: 10px;
+    border-radius: 0 0 4px 4px;
+    box-shadow: 0 0 10px #FFF;
+}
+
+
+
+.font6{
+    font-family: 'noticia text', serif;
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+.font7{
+    font-family: helvetica-w01-light, helvetica-w02-light, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    color: black;
+    text-align: center;
+}
+
+.font8{
+    font-family: helvetica-w01-light, helvetica-w02-light, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    color: black;
+    text-align: center;
+}
+#welcome,#footer,#temp1,#temp2,#temp3,#temp4,#owner-home,#inputSearch{
+    background-color: rgba(208, 212, 151, 0.75);
+}
+
+
+.font3{
+    font-family: 'noticia text', serif;
+    font-size: 35px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    color: brown;
+}
+
+.font4{
+    font-family: helvetica-w01-light, helvetica-w02-light, sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    font-variant: normal;
+    line-height: 40px;
+    font-weight: 100;
+    color:black;
+    text-align: justify;
+}
+.row{
+    padding-bottom: 15px;
+}
+
+/*#temp1,{
+    background-color: rgba(208, 212, 151, 0.75);
+}*/
+#temp2 {
+    color: navy;
+}
+
+
+.tiny{
+    font-size:50%;
+}
+
+
+body{
+    background: url(../5.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#owner-body{
+    background: url(../4.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#top-nav{
+    background-color: white;
+}
+
+.navbar-brand{
+    font-family: 'Oleo Script', cursive;
+    font-size: 36px;
+    font-weight: 400;
+}
+
+a{
+    color: darkslategray!important;
+    font-family: 'Oleo Script', cursive;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+@media (max-width: 720px) {
+    .navbar-nav, #top-nav{
+        text-align: left;
+
+    }
+
+}
+
+.text-center{
+    color: white!important;
+}
+
+#tab-reservation{
+    margin: 2% 2% 0 2%;
+}
+
+/*#tab-reservation{
+    margin: 2% 2% 0 2%;
+}*/
+
+#scroll-tab{
+    overflow: auto;
+}
+
+
+
+#tab-reservation>h6{
+    font-family: 'Chewy', cursive;
+    font-size: 30px;
+    font-weight: 400;
+    color: navy;
+}
+
+#tab-seating>h6{
+    font-family: 'Chewy', cursive;
+    font-size: 30px;
+    font-weight: 400;
+    color: navy;
+}
+
+#shrink{
+    overflow: auto;
+}
+
+a>span{
+    color:blue;
+}
+
+ @media (max-width: 512px) {
+    .inv{
+        display: none;
+    }
+
+ }
+
+

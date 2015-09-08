@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title> Swadh </title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="fav.ico">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+
+</head>
+
+<body>
+<div id="top-nav" class="navbar navbar-inverse navbar-static-top">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="homepage.html">SWADH</a>
+        </div>
+        <div>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#" id="guest"><i class="glyphicon glyphicon-user"></i> GUEST</a></li>
+                <li><a href="#" id="owner"><i class="glyphicon glyphicon-king"></i> OWNER</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="container col-sm-7" style="margin-top:15px">
+    <div id= "temp1" class="panel panel-default">
+        <div id= "temp2" class="panel-heading">
+            <h1> GUEST <span class='tiny'><strong> RESERVATION </strong></span> </h1>
+        </div>
+
+        <div class="panel-body">
+
+            <div  class="col-sm-12" id="jtab" >
+                <div class="panel-body">
+                    <form role="form" action="homepage.html">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div>
+                                    <label >Date</label>
+                                    <input type="date" id="demo" class="form-control" placeholder="MM/DD/YYYY">
+                                </div>
+                             </div>
+
+                            <div class="col-sm-6">
+                                <div>
+                                    <label >Time</label>
+                                    <input type="time" min="13:00:00" max="23:00:00" class="form-control" placeholder="--:--:----">
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div>
+                                    <label >Name</label>
+                                    <input type="text" class="form-control" placeholder="Enter Your Name">
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div>
+                                    <label >Phone</label>
+                                    <input type="tel" class="form-control" placeholder="Enter Your Phone">
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6">
+                                <div>
+                                    <label >Email</label>
+                                    <input type="email" class="form-control" placeholder="eg:datta@example.com">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div>
+                                    <label >Party Size</label>
+                                    <input type="number" min="1" class="form-control" placeholder="Number of Guests">
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6">
+                                <div>
+                                    <label >Special Needs</label>
+                                    <input type="text" class="form-control" placeholder="eg: Birthday, Anniversary">
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                        <div>
+                            <button type="submit" class="btn large-btn btn-primary">Reserve</button>
+                        </div>
+
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div id= "temp3" class="panel panel-default">
+        <div id= "temp4" class="panel-heading">
+            <h1> Owner <span class='tiny'><strong> Login </strong></span> </h1>
+        </div>
+
+        <div class="panel-body">
+
+            <div  class="col-sm-" >
+                <div class="panel-body">
+                    <form role="form">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div>
+                                    <label >Email</label>
+                                    <input type="email" class="form-control" placeholder="datta@example.com">
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6">
+                                <div>
+                                    <label >Password</label>
+                                    <input type="password" class="form-control" placeholder="password">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <button type="submit" class="btn large-btn btn-primary">Login</button>
+                        </div>
+
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="welcome" class="container col-sm-5 panel panel-default" style="margin-top:15px">
+
+    <div class="panel-body">
+
+        <h3 class="font3">WELCOME</h3>
+            <span id="temp100" class="font4"> </span>
+    </div>
+
+</div>
+
+
+<div id="footer" class="container col-sm-12 panel panel-default">
+    <div class="panel-body">
+        <div class="row">
+            <div id="order_foot" class="col-sm-4">
+        <h6 class="font6">ORDERS</h6>
+        <p class="font7">Phone: 1.800.000.0000 </p>
+        <p class="font8">Email: info@swadh.com</p>
+        </div>
+
+            <div id="addr_foot" class="col-sm-4">
+        <h6 class="font6">ADDRESS</h6>
+        <p class="font7"> 2901 South Michigan Ave </p>
+        <p class="font8"> 2005, Chicago, IL-60616</p>
+    </div>
+
+            <div id="hours_foot" class="col-sm-4">
+            <h6 class="font6">HOURS</h6>
+            <p class="font7"> WEEKDAYS: 1PM-10PM </p>
+            <p class="font8"> WEEKENDS: 1PM-11PM </p>
+        </div>
+         </div>
+
+    <div id="inside_foot" style="text-align: center">
+        <b class="font7">© 2015 Swadh Indian Resturant, Inc. All rights reserved. </b>
+        <a class="font8" id="foots" href="#"><b>swadh.com</b></a>
+    </div>
+    </div>
+</div>
+
+
+<script src="app.js"></script>
+
+
+<script src="http://cdn.jsdelivr.net/webshim/1.12.4/polyfiller.js"></script>
+<script src="http://cdn.jsdelivr.net/webshim/1.12.4/extras/modernizr-custom.js"></script>
+<script>
+    webshims.setOptions('waitReady', false);
+    webshims.setOptions('forms-ext', {types: 'date'});
+    webshims.polyfill('forms forms-ext');
+</script>
+</body>
+</html>
