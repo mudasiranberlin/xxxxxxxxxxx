@@ -1,0 +1,9 @@
+exec : compile
+	./bench_compile
+
+compile : memory_kilobyte.cpp
+	g++ memory_kilobyte.cpp -o bench_compile -pthread
+
+
+
+

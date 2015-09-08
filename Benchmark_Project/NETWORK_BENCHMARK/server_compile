@@ -1,0 +1,9 @@
+exec : compile
+	./bench_compile
+
+compile : server.c
+	g++ server.c -o bench_compile -pthread
+
+
+
+

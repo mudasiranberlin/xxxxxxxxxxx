@@ -1,0 +1,9 @@
+exec : compile
+	./bench_compile
+
+compile : cpu_iops.cpp
+	g++ cpu_iops.cpp -o bench_compile -pthread
+
+
+
+

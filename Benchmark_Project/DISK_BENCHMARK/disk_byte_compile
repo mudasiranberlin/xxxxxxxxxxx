@@ -1,0 +1,9 @@
+exec : compile
+	./bench_compile
+
+compile : disk_byte.cpp
+	g++ disk_byte.cpp -o bench_compile -pthread
+
+
+
+

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><web-app xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+	
+	
+	<welcome-file-list>
+	<welcome-file>index.html</welcome-file>
+	</welcome-file-list>
+ <servlet>
+  <servlet-name>SystemServiceServlet</servlet-name>
+  <servlet-class>com.google.api.server.spi.SystemServiceServlet</servlet-class>
+  <init-param>
+   <param-name>services</param-name>
+   <param-value/>
+  </init-param>
+ </servlet>
+ 
+ <servlet-mapping>
+  <servlet-name>SystemServiceServlet</servlet-name>
+  <url-pattern>/_ah/spi/*</url-pattern>
+ </servlet-mapping>
+ 
+ 
+ <servlet>
+    <servlet-name>Insert</servlet-name>
+    <servlet-class>com.sjb.Insert</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>ListFiles</servlet-name>
+    <servlet-class>com.sjb.ListFiles</servlet-class>
+  </servlet>
+  
+  <servlet>
+    <servlet-name>FindFile</servlet-name>
+    <servlet-class>com.sjb.FindFile</servlet-class>
+  </servlet>
+  
+   <servlet>
+    <servlet-name>DisplayContents</servlet-name>
+    <servlet-class>com.sjb.DisplayContents</servlet-class>
+  </servlet>
+  
+  <servlet>
+    <servlet-name>RemoveTheFile</servlet-name>
+    <servlet-class>com.sjb.RemoveTheFile</servlet-class>
+  </servlet>
+  
+   <servlet>
+    <servlet-name>RemoveAll</servlet-name>
+    <servlet-class>com.sjb.RemoveAll</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>Insert</servlet-name>
+    <url-pattern>/insert</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>ListFiles</servlet-name>
+    <url-pattern>/listfiles</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>FindFile</servlet-name>
+    <url-pattern>/findfile</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>DisplayContents</servlet-name>
+    <url-pattern>/displaycontents</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>RemoveTheFile</servlet-name>
+    <url-pattern>/removethefile</url-pattern>
+  </servlet-mapping>
+  
+     <servlet-mapping>
+    <servlet-name>RemoveAll</servlet-name>
+    <url-pattern>/removeall</url-pattern>
+  </servlet-mapping>
+ 
+</web-app>

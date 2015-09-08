@@ -1,0 +1,9 @@
+exec : compile
+	./bench_compile
+
+compile : cpu_flops.cpp
+	g++ cpu_flops.cpp -o bench_compile -pthread
+
+
+
+

@@ -1,0 +1,796 @@
+2014-10-25 04:45:45,093+0000 INFO  Loader JAVA Oracle Corporation OpenJDK 64-Bit Server VM 1.7.0_65
+2014-10-25 04:45:45,095+0000 INFO  Loader VERSION Swift trunk git-rev: 2d334140f2c288e5aeb3d354de0ecda35b4b3aac heads/master 6130 (modified locally)
+2014-10-25 04:45:45,095+0000 INFO  Loader RUN_ID run002
+2014-10-25 04:45:45,095+0000 INFO  Loader ARGUMENTS [-runid, run002, -logfile, /home/ubuntu/run002/swift.log, wordcount.swift]
+2014-10-25 04:45:45,095+0000 INFO  Loader MAX_HEAP 954728448
+2014-10-25 04:45:45,095+0000 INFO  Loader GLOBUS_HOSTNAME ip-172-31-19-99
+2014-10-25 04:45:45,095+0000 INFO  Loader CWD /home/ubuntu/.
+2014-10-25 04:45:45,097+0000 DEBUG Loader SWIFT_CONFIGURATION 
+[D] /home/ubuntu/swift-trunk/etc/swift.conf
+[C] <Command Line>
+{
+    TCPPortRange: "50000, 50100"                            # [D] line 27
+    alwaysTransferWrapperLog: true                          # [D] line 61
+    executionRetries: 0                                     # [D] line 137
+    fileOperationsThrottle: 8                               # [D] line 121
+    fileTransfersThrottle: 4                                # [D] line 107
+    hostJobSubmitThrottle: 2                                # [D] line 95
+    jobSubmitThrottle: 4                                    # [D] line 83
+    keepSiteDir: false                                      # [D] line 131
+    lazyErrors: true                                        # [D] line 41
+    logProvenance: false                                    # [D] line 200
+    maxForeachThreads: 16384                                # [D] line 194
+    replicationEnabled: false                               # [D] line 146
+    replicationLimit: 3                                     # [D] line 157
+    replicationMinQueueTime: 60                             # [D] line 153
+	site.local {
+        app.ALL.executable: "*"                             # [D] line 232
+        execution.type: "local"                             # [D] line 223
+        filesystem.type: "local"                            # [D] line 226
+        workDirectory: "swiftwork"                          # [D] line 229
+	}
+    sites: [local]                                          # [D] line 236
+    tracingEnabled: false                                   # [D] line 51
+}
+
+2014-10-25 04:45:45,098+0000 DEBUG textfiles BEGIN SWIFTSCRIPT:
+type file;
+
+type infile;
+
+type outfile;
+
+type script;
+
+app (outfile o) wordcount (script s, infile i) 
+
+{
+ 
+ java "-jar" @filename(s)  @filename(i) stdout=@filename(o);
+
+}
+
+script s <"/home/ubuntu/Wordcount.jar">;
+
+infile input1<"words1.txt">;
+outfile of1<"count1.txt">;
+of1 = wordcount(s,input1);
+
+
+
+infile input2<"words2.txt">;
+outfile of2<"count2.txt">;
+of2 = wordcount(s,input2);
+
+
+infile input3<"words3.txt">;
+outfile of3<"count3.txt">;
+of3 = wordcount(s,input3);
+
+
+
+infile input4<"words4.txt">;
+outfile of4<"count4.txt">;
+of4 = wordcount(s,input4);
+
+
+infile input5<"words5.txt">;
+outfile of5<"count5.txt">;
+of5 = wordcount(s,input5);
+
+
+infile input6<"words6.txt">;
+outfile of6<"count6.txt">;
+of6 = wordcount(s,input6);
+
+
+infile input7<"words7.txt">;
+outfile of7<"count7.txt">;
+of7 = wordcount(s,input7);
+
+
+infile input8<"words8.txt">;
+outfile of8<"count8.txt">;
+of8 = wordcount(s,input8);
+
+
+infile input9<"words9.txt">;
+outfile of9<"count9.txt">;
+of9 = wordcount(s,input9);
+
+
+infile input10<"words10.txt">;
+outfile of10<"count10.txt">;
+of10 = wordcount(s,input10);
+
+
+infile input11<"words11.txt">;
+outfile of11<"count11.txt">;
+of11 = wordcount(s,input11);
+
+
+infile input12<"words12.txt">;
+outfile of12<"count12.txt">;
+of12 = wordcount(s,input12);
+
+
+infile input13<"words13.txt">;
+outfile of13<"count13.txt">;
+of13 = wordcount(s,input13);
+
+
+infile input14<"words14.txt">;
+outfile of14<"count14.txt">;
+of14 = wordcount(s,input14);
+
+
+infile input15<"words15.txt">;
+outfile of15<"count15.txt">;
+of15 = wordcount(s,input15);
+
+
+2014-10-25 04:45:45,098+0000 DEBUG textfiles END SWIFTSCRIPT:
+2014-10-25 04:45:45,098+0000 DEBUG Loader kmlversion is >ee613f96-e326-4a30-9f06-5603f55d0943-no-provenance<
+2014-10-25 04:45:45,098+0000 DEBUG Loader build version is >ee613f96-e326-4a30-9f06-5603f55d0943-no-provenance<
+2014-10-25 04:45:45,098+0000 DEBUG Loader Recompilation suppressed.
+2014-10-25 04:45:45,949+0000 INFO  Loader RUN_START
+2014-10-25 04:45:45,953+0000 INFO  SwiftExecutor swift.home = /home/ubuntu/swift-trunk
+2014-10-25 04:45:45,989+0000 INFO  AbstractScheduler Setting resources to: {local=local}
+2014-10-25 04:45:46,001+0000 INFO  GlobalSubmitQueue No global submit throttle set. Using default (1024)
+2014-10-25 04:45:46,014+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:45:46,014+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:45:46,050+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 7563512, JVMThreads: 14
+2014-10-25 04:45:46,051+0000 INFO  RuntimeStats$ProgressTicker 
+2014-10-25 04:45:46,053+0000 DEBUG swift PROCEDURE line=9 thread=R-1 name=wordcount
+2014-10-25 04:45:46,053+0000 DEBUG swift PROCEDURE line=9 thread=R-0 name=wordcount
+2014-10-25 04:45:46,054+0000 DEBUG swift PROCEDURE line=9 thread=R-2 name=wordcount
+2014-10-25 04:45:46,054+0000 DEBUG swift PROCEDURE line=9 thread=R-3 name=wordcount
+2014-10-25 04:45:46,058+0000 DEBUG swift PROCEDURE line=9 thread=R-4 name=wordcount
+2014-10-25 04:45:46,058+0000 DEBUG swift PROCEDURE line=9 thread=R-5 name=wordcount
+2014-10-25 04:45:46,059+0000 DEBUG swift PROCEDURE line=9 thread=R-6 name=wordcount
+2014-10-25 04:45:46,059+0000 DEBUG swift PROCEDURE line=9 thread=R-7 name=wordcount
+2014-10-25 04:45:46,059+0000 DEBUG swift PROCEDURE line=9 thread=R-8 name=wordcount
+2014-10-25 04:45:46,059+0000 DEBUG swift PROCEDURE line=9 thread=R-9 name=wordcount
+2014-10-25 04:45:46,060+0000 DEBUG swift PROCEDURE line=9 thread=R-10 name=wordcount
+2014-10-25 04:45:46,060+0000 DEBUG swift PROCEDURE line=9 thread=R-11 name=wordcount
+2014-10-25 04:45:46,060+0000 DEBUG swift PROCEDURE line=9 thread=R-12 name=wordcount
+2014-10-25 04:45:46,060+0000 DEBUG swift PROCEDURE line=9 thread=R-13 name=wordcount
+2014-10-25 04:45:46,061+0000 DEBUG swift PROCEDURE line=9 thread=R-14 name=wordcount
+2014-10-25 04:45:46,062+0000 INFO  swift START host=local - Initializing shared directory
+2014-10-25 04:45:46,062+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,068+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,069+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,070+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,070+0000 INFO  swift END host=local - Done initializing shared directory
+2014-10-25 04:45:46,071+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-mnhj5bzl thread=R-1 host=local replicationGroup=null
+2014-10-25 04:45:46,071+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-nnhj5bzl thread=R-0 host=local replicationGroup=null
+2014-10-25 04:45:46,072+0000 INFO  swift START jobid=java-nnhj5bzl host=local - Initializing directory structure
+2014-10-25 04:45:46,072+0000 INFO  swift START path= dir=wordcount-run002/shared - Creating directory structure
+2014-10-25 04:45:46,075+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,075+0000 INFO  swift START path=__root__/home/ubuntu dir=wordcount-run002/shared - Creating directory structure
+2014-10-25 04:45:46,076+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,076+0000 INFO  swift START jobid=java-mnhj5bzl host=local - Initializing directory structure
+2014-10-25 04:45:46,076+0000 INFO  swift END jobid=java-nnhj5bzl - Done initializing directory structure
+2014-10-25 04:45:46,076+0000 INFO  swift START jobid=java-nnhj5bzl - Staging in files [file://localhost//home/ubuntu/Wordcount.jar, file://localhost/words1.txt]
+2014-10-25 04:45:46,076+0000 INFO  swift END jobid=java-mnhj5bzl - Done initializing directory structure
+2014-10-25 04:45:46,076+0000 INFO  swift START jobid=java-mnhj5bzl - Staging in files [file://localhost/words2.txt, file://localhost//home/ubuntu/Wordcount.jar]
+2014-10-25 04:45:46,079+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,079+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,079+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,080+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,082+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:45:46,083+0000 DEBUG swift CDM: file://localhost/words1.txt : DEFAULT
+2014-10-25 04:45:46,083+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:45:46,083+0000 DEBUG swift CDM: file://localhost/words2.txt : DEFAULT
+2014-10-25 04:45:46,084+0000 DEBUG swift FILE_STAGE_IN_START file=words1.txt srchost=localhost srcdir= srcname=words1.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:45:46,084+0000 DEBUG swift FILE_STAGE_IN_START file=Wordcount.jar srchost=localhost srcdir=/home/ubuntu srcname=Wordcount.jar desthost=local destdir=wordcount-run002/shared/__root__/home/ubuntu provider=file policy=DEFAULT
+2014-10-25 04:45:46,085+0000 DEBUG swift FILE_STAGE_IN_START file=words2.txt srchost=localhost srcdir= srcname=words2.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:45:46,087+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,088+0000 DEBUG swift FILE_STAGE_IN_END file=Wordcount.jar srchost=localhost srcdir=/home/ubuntu srcname=Wordcount.jar desthost=local destdir=wordcount-run002/shared/__root__/home/ubuntu provider=file
+2014-10-25 04:45:46,097+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,097+0000 DEBUG swift FILE_STAGE_IN_END file=words1.txt srchost=localhost srcdir= srcname=words1.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:45:46,097+0000 INFO  swift END jobid=java-nnhj5bzl - Staging in finished
+2014-10-25 04:45:46,097+0000 DEBUG swift JOB_START jobid=java-nnhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words1.txt] tmpdir=wordcount-run002/jobs/n/java-nnhj5bzl host=local
+2014-10-25 04:45:46,101+0000 INFO  Execute JOB_TASK jobid=java-nnhj5bzl taskid=urn:R-0-1414212345137 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-nnhj5bzl -jobdir n -scratch  -e java -out count1.txt -err stderr.txt -i -d __root__/home/ubuntu -if __root__/home/ubuntu/Wordcount.jar|words1.txt -of count1.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words1.txt
+2014-10-25 04:45:46,108+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-0-1414212345137 status=8
+2014-10-25 04:45:46,110+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-0-1414212345137 status=1
+2014-10-25 04:45:46,110+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:46,110+0000 DEBUG swift FILE_STAGE_IN_END file=words2.txt srchost=localhost srcdir= srcname=words2.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:45:46,111+0000 INFO  swift END jobid=java-mnhj5bzl - Staging in finished
+2014-10-25 04:45:46,111+0000 DEBUG swift JOB_START jobid=java-mnhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words2.txt] tmpdir=wordcount-run002/jobs/m/java-mnhj5bzl host=local
+2014-10-25 04:45:46,111+0000 INFO  Execute JOB_TASK jobid=java-mnhj5bzl taskid=urn:R-1-1414212345139 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-mnhj5bzl -jobdir m -scratch  -e java -out count2.txt -err stderr.txt -i -d __root__/home/ubuntu -if words2.txt|__root__/home/ubuntu/Wordcount.jar -of count2.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words2.txt
+2014-10-25 04:45:46,111+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-1-1414212345139 status=8
+2014-10-25 04:45:46,112+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-1-1414212345139 status=1
+2014-10-25 04:45:46,116+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-1-1414212345139 status=2
+2014-10-25 04:45:46,117+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-0-1414212345137 status=2
+2014-10-25 04:45:47,052+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 10483784, JVMThreads: 19
+2014-10-25 04:45:47,053+0000 INFO  RuntimeStats$ProgressTicker   Selecting site:13  Active:2
+2014-10-25 04:45:48,053+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 10483864, JVMThreads: 19
+2014-10-25 04:45:49,053+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 10483944, JVMThreads: 19
+2014-10-25 04:45:50,053+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 10484024, JVMThreads: 19
+2014-10-25 04:45:50,536+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:50,536+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-0-1414212345137 status=7
+2014-10-25 04:45:50,536+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:50,536+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-1-1414212345139 status=7
+2014-10-25 04:45:50,537+0000 DEBUG swift START jobid=java-nnhj5bzl
+2014-10-25 04:45:50,537+0000 DEBUG swift START jobid=java-mnhj5bzl
+2014-10-25 04:45:50,538+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:50,538+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:50,538+0000 INFO  swift SUCCESS jobid=java-nnhj5bzl - Success file found
+2014-10-25 04:45:50,538+0000 DEBUG swift STAGING_OUT jobid=java-nnhj5bzl
+2014-10-25 04:45:50,538+0000 INFO  swift START jobid=java-nnhj5bzl - Staging out files
+2014-10-25 04:45:50,538+0000 DEBUG swift stageouts: [file://localhost/count1.txt]
+2014-10-25 04:45:50,540+0000 INFO  swift SUCCESS jobid=java-mnhj5bzl - Success file found
+2014-10-25 04:45:50,540+0000 DEBUG swift STAGING_OUT jobid=java-mnhj5bzl
+2014-10-25 04:45:50,540+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count1.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-nnhj5bzl
+2014-10-25 04:45:50,540+0000 INFO  swift START jobid=java-mnhj5bzl - Staging out files
+2014-10-25 04:45:50,540+0000 DEBUG swift stageouts: [file://localhost/count2.txt]
+2014-10-25 04:45:50,540+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count2.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-mnhj5bzl
+2014-10-25 04:45:50,540+0000 INFO  LateBindingScheduler jobs queued: 14
+2014-10-25 04:45:50,541+0000 DEBUG swift CDM: file://localhost/count1.txt : DEFAULT
+2014-10-25 04:45:50,541+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:50,541+0000 DEBUG swift CDM: file://localhost/count2.txt : DEFAULT
+2014-10-25 04:45:50,547+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:50,547+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:50,547+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count1.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:45:50,548+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:50,548+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count2.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:45:50,549+0000 INFO  swift END jobid=java-nnhj5bzl - Staging out finished
+2014-10-25 04:45:50,550+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:50,555+0000 INFO  swift END jobid=java-mnhj5bzl - Staging out finished
+2014-10-25 04:45:50,555+0000 INFO  LateBindingScheduler jobs queued: 14
+2014-10-25 04:45:50,559+0000 DEBUG swift JOB_END jobid=java-nnhj5bzl
+2014-10-25 04:45:50,559+0000 INFO  swift END_SUCCESS thread=R-0 tr=java
+2014-10-25 04:45:50,559+0000 DEBUG swift PROCEDURE_END line=9 thread=R-0 name=wordcount
+2014-10-25 04:45:50,560+0000 INFO  LateBindingScheduler jobs queued: 13
+2014-10-25 04:45:50,561+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-onhj5bzl thread=R-4 host=local replicationGroup=null
+2014-10-25 04:45:50,561+0000 INFO  swift START jobid=java-onhj5bzl host=local - Initializing directory structure
+2014-10-25 04:45:50,561+0000 INFO  swift END jobid=java-onhj5bzl - Done initializing directory structure
+2014-10-25 04:45:50,561+0000 INFO  swift START jobid=java-onhj5bzl - Staging in files [file://localhost/words5.txt, file://localhost//home/ubuntu/Wordcount.jar]
+2014-10-25 04:45:50,562+0000 DEBUG swift JOB_END jobid=java-mnhj5bzl
+2014-10-25 04:45:50,562+0000 INFO  LateBindingScheduler jobs queued: 12
+2014-10-25 04:45:50,562+0000 INFO  LateBindingScheduler jobs queued: 12
+2014-10-25 04:45:50,563+0000 INFO  swift END_SUCCESS thread=R-1 tr=java
+2014-10-25 04:45:50,563+0000 DEBUG swift PROCEDURE_END line=9 thread=R-1 name=wordcount
+2014-10-25 04:45:50,563+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-pnhj5bzl thread=R-5 host=local replicationGroup=null
+2014-10-25 04:45:50,564+0000 INFO  swift START jobid=java-pnhj5bzl host=local - Initializing directory structure
+2014-10-25 04:45:50,564+0000 INFO  swift END jobid=java-pnhj5bzl - Done initializing directory structure
+2014-10-25 04:45:50,564+0000 INFO  swift START jobid=java-pnhj5bzl - Staging in files [file://localhost/words6.txt, file://localhost//home/ubuntu/Wordcount.jar]
+2014-10-25 04:45:50,564+0000 DEBUG swift CDM: file://localhost/words5.txt : DEFAULT
+2014-10-25 04:45:50,564+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:45:50,565+0000 DEBUG swift FILE_STAGE_IN_START file=words5.txt srchost=localhost srcdir= srcname=words5.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:45:50,565+0000 INFO  LateBindingScheduler jobs queued: 12
+2014-10-25 04:45:50,565+0000 INFO  LateBindingScheduler jobs queued: 12
+2014-10-25 04:45:50,566+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:45:50,566+0000 DEBUG swift CDM: file://localhost/words6.txt : DEFAULT
+2014-10-25 04:45:50,566+0000 DEBUG swift FILE_STAGE_IN_START file=words6.txt srchost=localhost srcdir= srcname=words6.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:45:50,578+0000 INFO  LateBindingScheduler jobs queued: 11
+2014-10-25 04:45:50,578+0000 INFO  LateBindingScheduler jobs queued: 11
+2014-10-25 04:45:50,578+0000 DEBUG swift FILE_STAGE_IN_END file=words5.txt srchost=localhost srcdir= srcname=words5.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:45:50,579+0000 INFO  swift END jobid=java-onhj5bzl - Staging in finished
+2014-10-25 04:45:50,579+0000 DEBUG swift JOB_START jobid=java-onhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words5.txt] tmpdir=wordcount-run002/jobs/o/java-onhj5bzl host=local
+2014-10-25 04:45:50,579+0000 INFO  Execute JOB_TASK jobid=java-onhj5bzl taskid=urn:R-4-1414212345179 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-onhj5bzl -jobdir o -scratch  -e java -out count5.txt -err stderr.txt -i -d __root__/home/ubuntu -if words5.txt|__root__/home/ubuntu/Wordcount.jar -of count5.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words5.txt
+2014-10-25 04:45:50,580+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-4-1414212345179 status=8
+2014-10-25 04:45:50,580+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-4-1414212345179 status=1
+2014-10-25 04:45:50,580+0000 DEBUG swift FILE_STAGE_IN_END file=words6.txt srchost=localhost srcdir= srcname=words6.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:45:50,580+0000 INFO  swift END jobid=java-pnhj5bzl - Staging in finished
+2014-10-25 04:45:50,580+0000 DEBUG swift JOB_START jobid=java-pnhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words6.txt] tmpdir=wordcount-run002/jobs/p/java-pnhj5bzl host=local
+2014-10-25 04:45:50,581+0000 INFO  Execute JOB_TASK jobid=java-pnhj5bzl taskid=urn:R-5-1414212345181 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-pnhj5bzl -jobdir p -scratch  -e java -out count6.txt -err stderr.txt -i -d __root__/home/ubuntu -if words6.txt|__root__/home/ubuntu/Wordcount.jar -of count6.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words6.txt
+2014-10-25 04:45:50,581+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-5-1414212345181 status=8
+2014-10-25 04:45:50,581+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-5-1414212345181 status=1
+2014-10-25 04:45:50,582+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-5-1414212345181 status=2
+2014-10-25 04:45:50,582+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-4-1414212345179 status=2
+2014-10-25 04:45:51,054+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 12158872, JVMThreads: 19
+2014-10-25 04:45:51,054+0000 INFO  RuntimeStats$ProgressTicker   Selecting site:11  Active:2  Finished successfully:2
+2014-10-25 04:45:52,054+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 12158952, JVMThreads: 19
+2014-10-25 04:45:53,054+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 12159032, JVMThreads: 19
+2014-10-25 04:45:54,055+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 12159112, JVMThreads: 19
+2014-10-25 04:45:55,022+0000 INFO  LateBindingScheduler jobs queued: 11
+2014-10-25 04:45:55,022+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-4-1414212345179 status=7
+2014-10-25 04:45:55,022+0000 DEBUG swift START jobid=java-onhj5bzl
+2014-10-25 04:45:55,023+0000 INFO  LateBindingScheduler jobs queued: 11
+2014-10-25 04:45:55,023+0000 INFO  swift SUCCESS jobid=java-onhj5bzl - Success file found
+2014-10-25 04:45:55,024+0000 DEBUG swift STAGING_OUT jobid=java-onhj5bzl
+2014-10-25 04:45:55,024+0000 INFO  swift START jobid=java-onhj5bzl - Staging out files
+2014-10-25 04:45:55,024+0000 DEBUG swift stageouts: [file://localhost/count5.txt]
+2014-10-25 04:45:55,024+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count5.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-onhj5bzl
+2014-10-25 04:45:55,025+0000 INFO  LateBindingScheduler jobs queued: 11
+2014-10-25 04:45:55,025+0000 DEBUG swift CDM: file://localhost/count5.txt : DEFAULT
+2014-10-25 04:45:55,026+0000 INFO  LateBindingScheduler jobs queued: 11
+2014-10-25 04:45:55,027+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count5.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:45:55,028+0000 INFO  LateBindingScheduler jobs queued: 11
+2014-10-25 04:45:55,028+0000 INFO  swift END jobid=java-onhj5bzl - Staging out finished
+2014-10-25 04:45:55,029+0000 INFO  LateBindingScheduler jobs queued: 11
+2014-10-25 04:45:55,030+0000 DEBUG swift JOB_END jobid=java-onhj5bzl
+2014-10-25 04:45:55,030+0000 INFO  swift END_SUCCESS thread=R-4 tr=java
+2014-10-25 04:45:55,030+0000 DEBUG swift PROCEDURE_END line=9 thread=R-4 name=wordcount
+2014-10-25 04:45:55,042+0000 INFO  LateBindingScheduler jobs queued: 11
+2014-10-25 04:45:55,042+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-5-1414212345181 status=7
+2014-10-25 04:45:55,042+0000 DEBUG swift START jobid=java-pnhj5bzl
+2014-10-25 04:45:55,042+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-qnhj5bzl thread=R-7 host=local replicationGroup=null
+2014-10-25 04:45:55,043+0000 INFO  swift START jobid=java-qnhj5bzl host=local - Initializing directory structure
+2014-10-25 04:45:55,043+0000 INFO  swift END jobid=java-qnhj5bzl - Done initializing directory structure
+2014-10-25 04:45:55,043+0000 INFO  swift START jobid=java-qnhj5bzl - Staging in files [file://localhost//home/ubuntu/Wordcount.jar, file://localhost/words8.txt]
+2014-10-25 04:45:55,044+0000 INFO  LateBindingScheduler jobs queued: 10
+2014-10-25 04:45:55,044+0000 INFO  LateBindingScheduler jobs queued: 10
+2014-10-25 04:45:55,044+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:45:55,044+0000 INFO  swift SUCCESS jobid=java-pnhj5bzl - Success file found
+2014-10-25 04:45:55,044+0000 DEBUG swift STAGING_OUT jobid=java-pnhj5bzl
+2014-10-25 04:45:55,044+0000 INFO  swift START jobid=java-pnhj5bzl - Staging out files
+2014-10-25 04:45:55,044+0000 DEBUG swift stageouts: [file://localhost/count6.txt]
+2014-10-25 04:45:55,044+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count6.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-pnhj5bzl
+2014-10-25 04:45:55,045+0000 INFO  LateBindingScheduler jobs queued: 10
+2014-10-25 04:45:55,045+0000 INFO  LateBindingScheduler jobs queued: 10
+2014-10-25 04:45:55,045+0000 DEBUG swift CDM: file://localhost/words8.txt : DEFAULT
+2014-10-25 04:45:55,046+0000 DEBUG swift FILE_STAGE_IN_START file=words8.txt srchost=localhost srcdir= srcname=words8.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:45:55,046+0000 DEBUG swift CDM: file://localhost/count6.txt : DEFAULT
+2014-10-25 04:45:55,047+0000 INFO  LateBindingScheduler jobs queued: 10
+2014-10-25 04:45:55,048+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count6.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:45:55,049+0000 INFO  LateBindingScheduler jobs queued: 10
+2014-10-25 04:45:55,050+0000 INFO  swift END jobid=java-pnhj5bzl - Staging out finished
+2014-10-25 04:45:55,051+0000 INFO  LateBindingScheduler jobs queued: 10
+2014-10-25 04:45:55,052+0000 DEBUG swift JOB_END jobid=java-pnhj5bzl
+2014-10-25 04:45:55,052+0000 INFO  swift END_SUCCESS thread=R-5 tr=java
+2014-10-25 04:45:55,052+0000 DEBUG swift PROCEDURE_END line=9 thread=R-5 name=wordcount
+2014-10-25 04:45:55,055+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 12765152, JVMThreads: 20
+2014-10-25 04:45:55,055+0000 INFO  RuntimeStats$ProgressTicker   Selecting site:10  Stage in:1  Finished successfully:4
+2014-10-25 04:45:55,059+0000 INFO  LateBindingScheduler jobs queued: 10
+2014-10-25 04:45:55,059+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-rnhj5bzl thread=R-6 host=local replicationGroup=null
+2014-10-25 04:45:55,060+0000 INFO  swift START jobid=java-rnhj5bzl host=local - Initializing directory structure
+2014-10-25 04:45:55,060+0000 INFO  swift END jobid=java-rnhj5bzl - Done initializing directory structure
+2014-10-25 04:45:55,060+0000 INFO  swift START jobid=java-rnhj5bzl - Staging in files [file://localhost/words7.txt, file://localhost//home/ubuntu/Wordcount.jar]
+2014-10-25 04:45:55,061+0000 INFO  LateBindingScheduler jobs queued: 9
+2014-10-25 04:45:55,061+0000 DEBUG swift CDM: file://localhost/words7.txt : DEFAULT
+2014-10-25 04:45:55,061+0000 DEBUG swift FILE_STAGE_IN_START file=words7.txt srchost=localhost srcdir= srcname=words7.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:45:55,061+0000 INFO  LateBindingScheduler jobs queued: 10
+2014-10-25 04:45:55,063+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:45:55,063+0000 DEBUG swift FILE_STAGE_IN_END file=words8.txt srchost=localhost srcdir= srcname=words8.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:45:55,067+0000 INFO  swift END jobid=java-qnhj5bzl - Staging in finished
+2014-10-25 04:45:55,067+0000 DEBUG swift JOB_START jobid=java-qnhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words8.txt] tmpdir=wordcount-run002/jobs/q/java-qnhj5bzl host=local
+2014-10-25 04:45:55,067+0000 INFO  Execute JOB_TASK jobid=java-qnhj5bzl taskid=urn:R-7-1414212345220 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-qnhj5bzl -jobdir q -scratch  -e java -out count8.txt -err stderr.txt -i -d __root__/home/ubuntu -if __root__/home/ubuntu/Wordcount.jar|words8.txt -of count8.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words8.txt
+2014-10-25 04:45:55,068+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-7-1414212345220 status=8
+2014-10-25 04:45:55,068+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-7-1414212345220 status=1
+2014-10-25 04:45:55,068+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-7-1414212345220 status=2
+2014-10-25 04:45:55,077+0000 INFO  LateBindingScheduler jobs queued: 9
+2014-10-25 04:45:55,079+0000 DEBUG swift FILE_STAGE_IN_END file=words7.txt srchost=localhost srcdir= srcname=words7.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:45:55,079+0000 INFO  swift END jobid=java-rnhj5bzl - Staging in finished
+2014-10-25 04:45:55,079+0000 DEBUG swift JOB_START jobid=java-rnhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words7.txt] tmpdir=wordcount-run002/jobs/r/java-rnhj5bzl host=local
+2014-10-25 04:45:55,079+0000 INFO  Execute JOB_TASK jobid=java-rnhj5bzl taskid=urn:R-6-1414212345223 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-rnhj5bzl -jobdir r -scratch  -e java -out count7.txt -err stderr.txt -i -d __root__/home/ubuntu -if words7.txt|__root__/home/ubuntu/Wordcount.jar -of count7.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words7.txt
+2014-10-25 04:45:55,080+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-6-1414212345223 status=8
+2014-10-25 04:45:55,080+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-6-1414212345223 status=1
+2014-10-25 04:45:55,081+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-6-1414212345223 status=2
+2014-10-25 04:45:56,055+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 13218224, JVMThreads: 19
+2014-10-25 04:45:56,055+0000 INFO  RuntimeStats$ProgressTicker   Selecting site:9  Active:2  Finished successfully:4
+2014-10-25 04:45:57,056+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 13218304, JVMThreads: 19
+2014-10-25 04:45:58,056+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 13218384, JVMThreads: 19
+2014-10-25 04:45:59,056+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 13218464, JVMThreads: 19
+2014-10-25 04:45:59,444+0000 INFO  LateBindingScheduler jobs queued: 9
+2014-10-25 04:45:59,444+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-6-1414212345223 status=7
+2014-10-25 04:45:59,444+0000 DEBUG swift START jobid=java-rnhj5bzl
+2014-10-25 04:45:59,445+0000 INFO  LateBindingScheduler jobs queued: 9
+2014-10-25 04:45:59,445+0000 INFO  swift SUCCESS jobid=java-rnhj5bzl - Success file found
+2014-10-25 04:45:59,445+0000 DEBUG swift STAGING_OUT jobid=java-rnhj5bzl
+2014-10-25 04:45:59,445+0000 INFO  swift START jobid=java-rnhj5bzl - Staging out files
+2014-10-25 04:45:59,445+0000 DEBUG swift stageouts: [file://localhost/count7.txt]
+2014-10-25 04:45:59,446+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count7.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-rnhj5bzl
+2014-10-25 04:45:59,447+0000 INFO  LateBindingScheduler jobs queued: 9
+2014-10-25 04:45:59,447+0000 DEBUG swift CDM: file://localhost/count7.txt : DEFAULT
+2014-10-25 04:45:59,448+0000 INFO  LateBindingScheduler jobs queued: 9
+2014-10-25 04:45:59,449+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count7.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:45:59,450+0000 INFO  LateBindingScheduler jobs queued: 9
+2014-10-25 04:45:59,451+0000 INFO  swift END jobid=java-rnhj5bzl - Staging out finished
+2014-10-25 04:45:59,452+0000 INFO  LateBindingScheduler jobs queued: 9
+2014-10-25 04:45:59,453+0000 DEBUG swift JOB_END jobid=java-rnhj5bzl
+2014-10-25 04:45:59,453+0000 INFO  swift END_SUCCESS thread=R-6 tr=java
+2014-10-25 04:45:59,453+0000 DEBUG swift PROCEDURE_END line=9 thread=R-6 name=wordcount
+2014-10-25 04:45:59,545+0000 INFO  LateBindingScheduler jobs queued: 9
+2014-10-25 04:45:59,545+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-7-1414212345220 status=7
+2014-10-25 04:45:59,546+0000 DEBUG swift START jobid=java-qnhj5bzl
+2014-10-25 04:45:59,546+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-snhj5bzl thread=R-9 host=local replicationGroup=null
+2014-10-25 04:45:59,546+0000 INFO  swift START jobid=java-snhj5bzl host=local - Initializing directory structure
+2014-10-25 04:45:59,546+0000 INFO  swift END jobid=java-snhj5bzl - Done initializing directory structure
+2014-10-25 04:45:59,546+0000 INFO  LateBindingScheduler jobs queued: 8
+2014-10-25 04:45:59,546+0000 INFO  swift START jobid=java-snhj5bzl - Staging in files [file://localhost//home/ubuntu/Wordcount.jar, file://localhost/words10.txt]
+2014-10-25 04:45:59,547+0000 INFO  swift SUCCESS jobid=java-qnhj5bzl - Success file found
+2014-10-25 04:45:59,547+0000 DEBUG swift STAGING_OUT jobid=java-qnhj5bzl
+2014-10-25 04:45:59,547+0000 INFO  swift START jobid=java-qnhj5bzl - Staging out files
+2014-10-25 04:45:59,547+0000 DEBUG swift stageouts: [file://localhost/count8.txt]
+2014-10-25 04:45:59,547+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count8.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-qnhj5bzl
+2014-10-25 04:45:59,547+0000 INFO  LateBindingScheduler jobs queued: 8
+2014-10-25 04:45:59,548+0000 INFO  LateBindingScheduler jobs queued: 8
+2014-10-25 04:45:59,548+0000 INFO  LateBindingScheduler jobs queued: 8
+2014-10-25 04:45:59,548+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:45:59,548+0000 DEBUG swift CDM: file://localhost/count8.txt : DEFAULT
+2014-10-25 04:45:59,548+0000 DEBUG swift CDM: file://localhost/words10.txt : DEFAULT
+2014-10-25 04:45:59,549+0000 DEBUG swift FILE_STAGE_IN_START file=words10.txt srchost=localhost srcdir= srcname=words10.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:45:59,551+0000 INFO  LateBindingScheduler jobs queued: 8
+2014-10-25 04:45:59,551+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count8.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:45:59,552+0000 INFO  LateBindingScheduler jobs queued: 8
+2014-10-25 04:45:59,552+0000 INFO  swift END jobid=java-qnhj5bzl - Staging out finished
+2014-10-25 04:45:59,553+0000 INFO  LateBindingScheduler jobs queued: 8
+2014-10-25 04:45:59,554+0000 DEBUG swift JOB_END jobid=java-qnhj5bzl
+2014-10-25 04:45:59,554+0000 INFO  swift END_SUCCESS thread=R-7 tr=java
+2014-10-25 04:45:59,554+0000 DEBUG swift PROCEDURE_END line=9 thread=R-7 name=wordcount
+2014-10-25 04:45:59,560+0000 INFO  LateBindingScheduler jobs queued: 8
+2014-10-25 04:45:59,560+0000 DEBUG swift FILE_STAGE_IN_END file=words10.txt srchost=localhost srcdir= srcname=words10.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:45:59,561+0000 INFO  swift END jobid=java-snhj5bzl - Staging in finished
+2014-10-25 04:45:59,561+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-tnhj5bzl thread=R-8 host=local replicationGroup=null
+2014-10-25 04:45:59,561+0000 DEBUG swift JOB_START jobid=java-snhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words10.txt] tmpdir=wordcount-run002/jobs/s/java-snhj5bzl host=local
+2014-10-25 04:45:59,561+0000 INFO  swift START jobid=java-tnhj5bzl host=local - Initializing directory structure
+2014-10-25 04:45:59,561+0000 INFO  swift END jobid=java-tnhj5bzl - Done initializing directory structure
+2014-10-25 04:45:59,561+0000 INFO  Execute JOB_TASK jobid=java-snhj5bzl taskid=urn:R-9-1414212345256 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-snhj5bzl -jobdir s -scratch  -e java -out count10.txt -err stderr.txt -i -d __root__/home/ubuntu -if __root__/home/ubuntu/Wordcount.jar|words10.txt -of count10.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words10.txt
+2014-10-25 04:45:59,561+0000 INFO  swift START jobid=java-tnhj5bzl - Staging in files [file://localhost/words9.txt, file://localhost//home/ubuntu/Wordcount.jar]
+2014-10-25 04:45:59,562+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-9-1414212345256 status=8
+2014-10-25 04:45:59,562+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-9-1414212345256 status=1
+2014-10-25 04:45:59,562+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:45:59,562+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:45:59,562+0000 DEBUG swift CDM: file://localhost/words9.txt : DEFAULT
+2014-10-25 04:45:59,562+0000 DEBUG swift FILE_STAGE_IN_START file=words9.txt srchost=localhost srcdir= srcname=words9.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:45:59,562+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:45:59,568+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-9-1414212345256 status=2
+2014-10-25 04:45:59,579+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:45:59,579+0000 DEBUG swift FILE_STAGE_IN_END file=words9.txt srchost=localhost srcdir= srcname=words9.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:45:59,580+0000 INFO  swift END jobid=java-tnhj5bzl - Staging in finished
+2014-10-25 04:45:59,580+0000 DEBUG swift JOB_START jobid=java-tnhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words9.txt] tmpdir=wordcount-run002/jobs/t/java-tnhj5bzl host=local
+2014-10-25 04:45:59,580+0000 INFO  Execute JOB_TASK jobid=java-tnhj5bzl taskid=urn:R-8-1414212345265 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-tnhj5bzl -jobdir t -scratch  -e java -out count9.txt -err stderr.txt -i -d __root__/home/ubuntu -if words9.txt|__root__/home/ubuntu/Wordcount.jar -of count9.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words9.txt
+2014-10-25 04:45:59,580+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-8-1414212345265 status=8
+2014-10-25 04:45:59,580+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-8-1414212345265 status=1
+2014-10-25 04:45:59,581+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-8-1414212345265 status=2
+2014-10-25 04:46:00,056+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 14650120, JVMThreads: 19
+2014-10-25 04:46:00,057+0000 INFO  RuntimeStats$ProgressTicker   Selecting site:7  Active:2  Finished successfully:6
+2014-10-25 04:46:01,057+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 14650200, JVMThreads: 19
+2014-10-25 04:46:02,057+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 14650280, JVMThreads: 19
+2014-10-25 04:46:03,057+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 14650360, JVMThreads: 19
+2014-10-25 04:46:03,996+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:46:03,996+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-9-1414212345256 status=7
+2014-10-25 04:46:03,996+0000 DEBUG swift START jobid=java-snhj5bzl
+2014-10-25 04:46:03,997+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:46:03,997+0000 INFO  swift SUCCESS jobid=java-snhj5bzl - Success file found
+2014-10-25 04:46:03,997+0000 DEBUG swift STAGING_OUT jobid=java-snhj5bzl
+2014-10-25 04:46:03,997+0000 INFO  swift START jobid=java-snhj5bzl - Staging out files
+2014-10-25 04:46:03,997+0000 DEBUG swift stageouts: [file://localhost/count10.txt]
+2014-10-25 04:46:03,997+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count10.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-snhj5bzl
+2014-10-25 04:46:03,998+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:46:03,998+0000 DEBUG swift CDM: file://localhost/count10.txt : DEFAULT
+2014-10-25 04:46:03,999+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:46:03,999+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:46:03,999+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-8-1414212345265 status=7
+2014-10-25 04:46:04,003+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count10.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:46:04,004+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:46:04,004+0000 DEBUG swift START jobid=java-tnhj5bzl
+2014-10-25 04:46:04,004+0000 INFO  swift END jobid=java-snhj5bzl - Staging out finished
+2014-10-25 04:46:04,005+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:46:04,005+0000 INFO  swift SUCCESS jobid=java-tnhj5bzl - Success file found
+2014-10-25 04:46:04,005+0000 DEBUG swift STAGING_OUT jobid=java-tnhj5bzl
+2014-10-25 04:46:04,005+0000 INFO  swift START jobid=java-tnhj5bzl - Staging out files
+2014-10-25 04:46:04,005+0000 DEBUG swift stageouts: [file://localhost/count9.txt]
+2014-10-25 04:46:04,006+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count9.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-tnhj5bzl
+2014-10-25 04:46:04,006+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:46:04,006+0000 DEBUG swift CDM: file://localhost/count9.txt : DEFAULT
+2014-10-25 04:46:04,011+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:46:04,011+0000 INFO  LateBindingScheduler jobs queued: 7
+2014-10-25 04:46:04,012+0000 DEBUG swift JOB_END jobid=java-snhj5bzl
+2014-10-25 04:46:04,012+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count9.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:46:04,012+0000 INFO  swift END_SUCCESS thread=R-9 tr=java
+2014-10-25 04:46:04,012+0000 DEBUG swift PROCEDURE_END line=9 thread=R-9 name=wordcount
+2014-10-25 04:46:04,012+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-unhj5bzl thread=R-10 host=local replicationGroup=null
+2014-10-25 04:46:04,013+0000 INFO  swift START jobid=java-unhj5bzl host=local - Initializing directory structure
+2014-10-25 04:46:04,013+0000 INFO  swift END jobid=java-unhj5bzl - Done initializing directory structure
+2014-10-25 04:46:04,013+0000 INFO  swift START jobid=java-unhj5bzl - Staging in files [file://localhost/words11.txt, file://localhost//home/ubuntu/Wordcount.jar]
+2014-10-25 04:46:04,013+0000 INFO  LateBindingScheduler jobs queued: 6
+2014-10-25 04:46:04,014+0000 INFO  LateBindingScheduler jobs queued: 6
+2014-10-25 04:46:04,014+0000 INFO  LateBindingScheduler jobs queued: 6
+2014-10-25 04:46:04,014+0000 DEBUG swift CDM: file://localhost/words11.txt : DEFAULT
+2014-10-25 04:46:04,014+0000 DEBUG swift FILE_STAGE_IN_START file=words11.txt srchost=localhost srcdir= srcname=words11.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:46:04,014+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:46:04,015+0000 INFO  swift END jobid=java-tnhj5bzl - Staging out finished
+2014-10-25 04:46:04,016+0000 INFO  LateBindingScheduler jobs queued: 6
+2014-10-25 04:46:04,023+0000 DEBUG swift JOB_END jobid=java-tnhj5bzl
+2014-10-25 04:46:04,023+0000 INFO  swift END_SUCCESS thread=R-8 tr=java
+2014-10-25 04:46:04,023+0000 DEBUG swift PROCEDURE_END line=9 thread=R-8 name=wordcount
+2014-10-25 04:46:04,027+0000 INFO  LateBindingScheduler jobs queued: 6
+2014-10-25 04:46:04,028+0000 DEBUG swift FILE_STAGE_IN_END file=words11.txt srchost=localhost srcdir= srcname=words11.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:46:04,028+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-vnhj5bzl thread=R-12 host=local replicationGroup=null
+2014-10-25 04:46:04,028+0000 INFO  swift END jobid=java-unhj5bzl - Staging in finished
+2014-10-25 04:46:04,028+0000 DEBUG swift JOB_START jobid=java-unhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words11.txt] tmpdir=wordcount-run002/jobs/u/java-unhj5bzl host=local
+2014-10-25 04:46:04,028+0000 INFO  swift START jobid=java-vnhj5bzl host=local - Initializing directory structure
+2014-10-25 04:46:04,028+0000 INFO  swift END jobid=java-vnhj5bzl - Done initializing directory structure
+2014-10-25 04:46:04,029+0000 INFO  swift START jobid=java-vnhj5bzl - Staging in files [file://localhost/words13.txt, file://localhost//home/ubuntu/Wordcount.jar]
+2014-10-25 04:46:04,029+0000 INFO  Execute JOB_TASK jobid=java-unhj5bzl taskid=urn:R-10-1414212345298 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-unhj5bzl -jobdir u -scratch  -e java -out count11.txt -err stderr.txt -i -d __root__/home/ubuntu -if words11.txt|__root__/home/ubuntu/Wordcount.jar -of count11.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words11.txt
+2014-10-25 04:46:04,029+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-10-1414212345298 status=8
+2014-10-25 04:46:04,029+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-10-1414212345298 status=1
+2014-10-25 04:46:04,029+0000 INFO  LateBindingScheduler jobs queued: 5
+2014-10-25 04:46:04,029+0000 INFO  LateBindingScheduler jobs queued: 5
+2014-10-25 04:46:04,030+0000 DEBUG swift CDM: file://localhost/words13.txt : DEFAULT
+2014-10-25 04:46:04,030+0000 DEBUG swift FILE_STAGE_IN_START file=words13.txt srchost=localhost srcdir= srcname=words13.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:46:04,030+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:46:04,031+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-10-1414212345298 status=2
+2014-10-25 04:46:04,042+0000 INFO  LateBindingScheduler jobs queued: 5
+2014-10-25 04:46:04,042+0000 DEBUG swift FILE_STAGE_IN_END file=words13.txt srchost=localhost srcdir= srcname=words13.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:46:04,042+0000 INFO  swift END jobid=java-vnhj5bzl - Staging in finished
+2014-10-25 04:46:04,042+0000 DEBUG swift JOB_START jobid=java-vnhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words13.txt] tmpdir=wordcount-run002/jobs/v/java-vnhj5bzl host=local
+2014-10-25 04:46:04,043+0000 INFO  Execute JOB_TASK jobid=java-vnhj5bzl taskid=urn:R-12-1414212345307 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-vnhj5bzl -jobdir v -scratch  -e java -out count13.txt -err stderr.txt -i -d __root__/home/ubuntu -if words13.txt|__root__/home/ubuntu/Wordcount.jar -of count13.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words13.txt
+2014-10-25 04:46:04,043+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-12-1414212345307 status=8
+2014-10-25 04:46:04,043+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-12-1414212345307 status=1
+2014-10-25 04:46:04,044+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-12-1414212345307 status=2
+2014-10-25 04:46:04,058+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 15858592, JVMThreads: 19
+2014-10-25 04:46:04,058+0000 INFO  RuntimeStats$ProgressTicker   Selecting site:5  Active:2  Finished successfully:8
+2014-10-25 04:46:05,058+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 16068608, JVMThreads: 19
+2014-10-25 04:46:06,058+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 16068688, JVMThreads: 19
+2014-10-25 04:46:07,058+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 16068768, JVMThreads: 19
+2014-10-25 04:46:08,059+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 16068848, JVMThreads: 19
+2014-10-25 04:46:08,525+0000 INFO  LateBindingScheduler jobs queued: 5
+2014-10-25 04:46:08,525+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-10-1414212345298 status=7
+2014-10-25 04:46:08,525+0000 DEBUG swift START jobid=java-unhj5bzl
+2014-10-25 04:46:08,526+0000 INFO  LateBindingScheduler jobs queued: 5
+2014-10-25 04:46:08,526+0000 INFO  swift SUCCESS jobid=java-unhj5bzl - Success file found
+2014-10-25 04:46:08,526+0000 DEBUG swift STAGING_OUT jobid=java-unhj5bzl
+2014-10-25 04:46:08,526+0000 INFO  swift START jobid=java-unhj5bzl - Staging out files
+2014-10-25 04:46:08,526+0000 DEBUG swift stageouts: [file://localhost/count11.txt]
+2014-10-25 04:46:08,526+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count11.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-unhj5bzl
+2014-10-25 04:46:08,527+0000 INFO  LateBindingScheduler jobs queued: 5
+2014-10-25 04:46:08,527+0000 DEBUG swift CDM: file://localhost/count11.txt : DEFAULT
+2014-10-25 04:46:08,528+0000 INFO  LateBindingScheduler jobs queued: 5
+2014-10-25 04:46:08,528+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count11.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:46:08,529+0000 INFO  LateBindingScheduler jobs queued: 5
+2014-10-25 04:46:08,529+0000 INFO  swift END jobid=java-unhj5bzl - Staging out finished
+2014-10-25 04:46:08,531+0000 INFO  LateBindingScheduler jobs queued: 5
+2014-10-25 04:46:08,531+0000 DEBUG swift JOB_END jobid=java-unhj5bzl
+2014-10-25 04:46:08,532+0000 INFO  swift END_SUCCESS thread=R-10 tr=java
+2014-10-25 04:46:08,532+0000 DEBUG swift PROCEDURE_END line=9 thread=R-10 name=wordcount
+2014-10-25 04:46:08,548+0000 INFO  LateBindingScheduler jobs queued: 5
+2014-10-25 04:46:08,548+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-12-1414212345307 status=7
+2014-10-25 04:46:08,548+0000 DEBUG swift START jobid=java-vnhj5bzl
+2014-10-25 04:46:08,548+0000 INFO  LateBindingScheduler jobs queued: 4
+2014-10-25 04:46:08,548+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-xnhj5bzl thread=R-11 host=local replicationGroup=null
+2014-10-25 04:46:08,549+0000 INFO  swift START jobid=java-xnhj5bzl host=local - Initializing directory structure
+2014-10-25 04:46:08,549+0000 INFO  swift END jobid=java-xnhj5bzl - Done initializing directory structure
+2014-10-25 04:46:08,549+0000 INFO  swift SUCCESS jobid=java-vnhj5bzl - Success file found
+2014-10-25 04:46:08,549+0000 DEBUG swift STAGING_OUT jobid=java-vnhj5bzl
+2014-10-25 04:46:08,549+0000 INFO  swift START jobid=java-xnhj5bzl - Staging in files [file://localhost/words12.txt, file://localhost//home/ubuntu/Wordcount.jar]
+2014-10-25 04:46:08,549+0000 INFO  swift START jobid=java-vnhj5bzl - Staging out files
+2014-10-25 04:46:08,549+0000 DEBUG swift stageouts: [file://localhost/count13.txt]
+2014-10-25 04:46:08,549+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count13.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-vnhj5bzl
+2014-10-25 04:46:08,550+0000 INFO  LateBindingScheduler jobs queued: 4
+2014-10-25 04:46:08,550+0000 INFO  LateBindingScheduler jobs queued: 4
+2014-10-25 04:46:08,550+0000 INFO  LateBindingScheduler jobs queued: 4
+2014-10-25 04:46:08,550+0000 DEBUG swift CDM: file://localhost/words12.txt : DEFAULT
+2014-10-25 04:46:08,550+0000 DEBUG swift FILE_STAGE_IN_START file=words12.txt srchost=localhost srcdir= srcname=words12.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:46:08,550+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:46:08,551+0000 DEBUG swift CDM: file://localhost/count13.txt : DEFAULT
+2014-10-25 04:46:08,555+0000 INFO  LateBindingScheduler jobs queued: 4
+2014-10-25 04:46:08,556+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count13.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:46:08,556+0000 INFO  LateBindingScheduler jobs queued: 4
+2014-10-25 04:46:08,557+0000 INFO  swift END jobid=java-vnhj5bzl - Staging out finished
+2014-10-25 04:46:08,558+0000 INFO  LateBindingScheduler jobs queued: 4
+2014-10-25 04:46:08,559+0000 DEBUG swift JOB_END jobid=java-vnhj5bzl
+2014-10-25 04:46:08,559+0000 INFO  swift END_SUCCESS thread=R-12 tr=java
+2014-10-25 04:46:08,559+0000 DEBUG swift PROCEDURE_END line=9 thread=R-12 name=wordcount
+2014-10-25 04:46:08,562+0000 INFO  LateBindingScheduler jobs queued: 4
+2014-10-25 04:46:08,563+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-ynhj5bzl thread=R-13 host=local replicationGroup=null
+2014-10-25 04:46:08,563+0000 INFO  swift START jobid=java-ynhj5bzl host=local - Initializing directory structure
+2014-10-25 04:46:08,563+0000 INFO  swift END jobid=java-ynhj5bzl - Done initializing directory structure
+2014-10-25 04:46:08,564+0000 INFO  swift START jobid=java-ynhj5bzl - Staging in files [file://localhost/words14.txt, file://localhost//home/ubuntu/Wordcount.jar]
+2014-10-25 04:46:08,564+0000 DEBUG swift FILE_STAGE_IN_END file=words12.txt srchost=localhost srcdir= srcname=words12.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:46:08,564+0000 INFO  swift END jobid=java-xnhj5bzl - Staging in finished
+2014-10-25 04:46:08,564+0000 DEBUG swift JOB_START jobid=java-xnhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words12.txt] tmpdir=wordcount-run002/jobs/x/java-xnhj5bzl host=local
+2014-10-25 04:46:08,565+0000 INFO  Execute JOB_TASK jobid=java-xnhj5bzl taskid=urn:R-11-1414212345344 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-xnhj5bzl -jobdir x -scratch  -e java -out count12.txt -err stderr.txt -i -d __root__/home/ubuntu -if words12.txt|__root__/home/ubuntu/Wordcount.jar -of count12.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words12.txt
+2014-10-25 04:46:08,565+0000 INFO  LateBindingScheduler jobs queued: 3
+2014-10-25 04:46:08,565+0000 INFO  LateBindingScheduler jobs queued: 3
+2014-10-25 04:46:08,565+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-11-1414212345344 status=8
+2014-10-25 04:46:08,565+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-11-1414212345344 status=1
+2014-10-25 04:46:08,565+0000 DEBUG swift CDM: file://localhost/words14.txt : DEFAULT
+2014-10-25 04:46:08,565+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:46:08,565+0000 DEBUG swift FILE_STAGE_IN_START file=words14.txt srchost=localhost srcdir= srcname=words14.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:46:08,566+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-11-1414212345344 status=2
+2014-10-25 04:46:08,574+0000 INFO  LateBindingScheduler jobs queued: 3
+2014-10-25 04:46:08,575+0000 DEBUG swift FILE_STAGE_IN_END file=words14.txt srchost=localhost srcdir= srcname=words14.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:46:08,576+0000 INFO  swift END jobid=java-ynhj5bzl - Staging in finished
+2014-10-25 04:46:08,576+0000 DEBUG swift JOB_START jobid=java-ynhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words14.txt] tmpdir=wordcount-run002/jobs/y/java-ynhj5bzl host=local
+2014-10-25 04:46:08,576+0000 INFO  Execute JOB_TASK jobid=java-ynhj5bzl taskid=urn:R-13-1414212345349 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-ynhj5bzl -jobdir y -scratch  -e java -out count14.txt -err stderr.txt -i -d __root__/home/ubuntu -if words14.txt|__root__/home/ubuntu/Wordcount.jar -of count14.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words14.txt
+2014-10-25 04:46:08,577+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-13-1414212345349 status=8
+2014-10-25 04:46:08,577+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-13-1414212345349 status=1
+2014-10-25 04:46:08,578+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-13-1414212345349 status=2
+2014-10-25 04:46:09,059+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 17135888, JVMThreads: 19
+2014-10-25 04:46:09,059+0000 INFO  RuntimeStats$ProgressTicker   Selecting site:3  Active:2  Finished successfully:10
+2014-10-25 04:46:10,059+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 17240968, JVMThreads: 19
+2014-10-25 04:46:11,060+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 17241048, JVMThreads: 19
+2014-10-25 04:46:12,060+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 17241128, JVMThreads: 19
+2014-10-25 04:46:13,060+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 17241208, JVMThreads: 19
+2014-10-25 04:46:13,071+0000 INFO  LateBindingScheduler jobs queued: 3
+2014-10-25 04:46:13,071+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-11-1414212345344 status=7
+2014-10-25 04:46:13,071+0000 DEBUG swift START jobid=java-xnhj5bzl
+2014-10-25 04:46:13,072+0000 INFO  LateBindingScheduler jobs queued: 3
+2014-10-25 04:46:13,072+0000 INFO  swift SUCCESS jobid=java-xnhj5bzl - Success file found
+2014-10-25 04:46:13,072+0000 DEBUG swift STAGING_OUT jobid=java-xnhj5bzl
+2014-10-25 04:46:13,072+0000 INFO  swift START jobid=java-xnhj5bzl - Staging out files
+2014-10-25 04:46:13,072+0000 DEBUG swift stageouts: [file://localhost/count12.txt]
+2014-10-25 04:46:13,072+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count12.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-xnhj5bzl
+2014-10-25 04:46:13,073+0000 INFO  LateBindingScheduler jobs queued: 3
+2014-10-25 04:46:13,073+0000 DEBUG swift CDM: file://localhost/count12.txt : DEFAULT
+2014-10-25 04:46:13,074+0000 INFO  LateBindingScheduler jobs queued: 3
+2014-10-25 04:46:13,074+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count12.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:46:13,075+0000 INFO  LateBindingScheduler jobs queued: 3
+2014-10-25 04:46:13,075+0000 INFO  swift END jobid=java-xnhj5bzl - Staging out finished
+2014-10-25 04:46:13,076+0000 INFO  LateBindingScheduler jobs queued: 3
+2014-10-25 04:46:13,077+0000 DEBUG swift JOB_END jobid=java-xnhj5bzl
+2014-10-25 04:46:13,077+0000 INFO  swift END_SUCCESS thread=R-11 tr=java
+2014-10-25 04:46:13,077+0000 DEBUG swift PROCEDURE_END line=9 thread=R-11 name=wordcount
+2014-10-25 04:46:13,077+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-znhj5bzl thread=R-14 host=local replicationGroup=null
+2014-10-25 04:46:13,078+0000 INFO  swift START jobid=java-znhj5bzl host=local - Initializing directory structure
+2014-10-25 04:46:13,078+0000 INFO  swift END jobid=java-znhj5bzl - Done initializing directory structure
+2014-10-25 04:46:13,078+0000 INFO  swift START jobid=java-znhj5bzl - Staging in files [file://localhost/words15.txt, file://localhost//home/ubuntu/Wordcount.jar]
+2014-10-25 04:46:13,078+0000 INFO  LateBindingScheduler jobs queued: 2
+2014-10-25 04:46:13,078+0000 DEBUG swift CDM: file://localhost/words15.txt : DEFAULT
+2014-10-25 04:46:13,079+0000 DEBUG swift FILE_STAGE_IN_START file=words15.txt srchost=localhost srcdir= srcname=words15.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:46:13,079+0000 INFO  LateBindingScheduler jobs queued: 2
+2014-10-25 04:46:13,079+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:46:13,090+0000 INFO  LateBindingScheduler jobs queued: 2
+2014-10-25 04:46:13,090+0000 DEBUG swift FILE_STAGE_IN_END file=words15.txt srchost=localhost srcdir= srcname=words15.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:46:13,091+0000 INFO  swift END jobid=java-znhj5bzl - Staging in finished
+2014-10-25 04:46:13,091+0000 DEBUG swift JOB_START jobid=java-znhj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words15.txt] tmpdir=wordcount-run002/jobs/z/java-znhj5bzl host=local
+2014-10-25 04:46:13,091+0000 INFO  Execute JOB_TASK jobid=java-znhj5bzl taskid=urn:R-14-1414212345370 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-znhj5bzl -jobdir z -scratch  -e java -out count15.txt -err stderr.txt -i -d __root__/home/ubuntu -if words15.txt|__root__/home/ubuntu/Wordcount.jar -of count15.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words15.txt
+2014-10-25 04:46:13,092+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-14-1414212345370 status=8
+2014-10-25 04:46:13,092+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-14-1414212345370 status=1
+2014-10-25 04:46:13,093+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-14-1414212345370 status=2
+2014-10-25 04:46:13,094+0000 INFO  LateBindingScheduler jobs queued: 2
+2014-10-25 04:46:13,094+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-13-1414212345349 status=7
+2014-10-25 04:46:13,094+0000 DEBUG swift START jobid=java-ynhj5bzl
+2014-10-25 04:46:13,095+0000 INFO  LateBindingScheduler jobs queued: 2
+2014-10-25 04:46:13,095+0000 INFO  swift SUCCESS jobid=java-ynhj5bzl - Success file found
+2014-10-25 04:46:13,095+0000 DEBUG swift STAGING_OUT jobid=java-ynhj5bzl
+2014-10-25 04:46:13,095+0000 INFO  swift START jobid=java-ynhj5bzl - Staging out files
+2014-10-25 04:46:13,095+0000 DEBUG swift stageouts: [file://localhost/count14.txt]
+2014-10-25 04:46:13,095+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count14.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-ynhj5bzl
+2014-10-25 04:46:13,096+0000 INFO  LateBindingScheduler jobs queued: 2
+2014-10-25 04:46:13,096+0000 DEBUG swift CDM: file://localhost/count14.txt : DEFAULT
+2014-10-25 04:46:13,097+0000 INFO  LateBindingScheduler jobs queued: 2
+2014-10-25 04:46:13,097+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count14.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:46:13,098+0000 INFO  LateBindingScheduler jobs queued: 2
+2014-10-25 04:46:13,099+0000 INFO  swift END jobid=java-ynhj5bzl - Staging out finished
+2014-10-25 04:46:13,100+0000 INFO  LateBindingScheduler jobs queued: 2
+2014-10-25 04:46:13,102+0000 DEBUG swift JOB_END jobid=java-ynhj5bzl
+2014-10-25 04:46:13,102+0000 INFO  swift END_SUCCESS thread=R-13 tr=java
+2014-10-25 04:46:13,102+0000 DEBUG swift PROCEDURE_END line=9 thread=R-13 name=wordcount
+2014-10-25 04:46:13,203+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-0ohj5bzl thread=R-2 host=local replicationGroup=null
+2014-10-25 04:46:13,203+0000 INFO  swift START jobid=java-0ohj5bzl host=local - Initializing directory structure
+2014-10-25 04:46:13,203+0000 INFO  swift END jobid=java-0ohj5bzl - Done initializing directory structure
+2014-10-25 04:46:13,204+0000 INFO  swift START jobid=java-0ohj5bzl - Staging in files [file://localhost/words3.txt, file://localhost//home/ubuntu/Wordcount.jar]
+2014-10-25 04:46:13,204+0000 INFO  LateBindingScheduler jobs queued: 1
+2014-10-25 04:46:13,204+0000 INFO  LateBindingScheduler jobs queued: 1
+2014-10-25 04:46:13,204+0000 DEBUG swift CDM: file://localhost/words3.txt : DEFAULT
+2014-10-25 04:46:13,204+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:46:13,205+0000 DEBUG swift FILE_STAGE_IN_START file=words3.txt srchost=localhost srcdir= srcname=words3.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:46:13,218+0000 INFO  LateBindingScheduler jobs queued: 1
+2014-10-25 04:46:13,218+0000 DEBUG swift FILE_STAGE_IN_END file=words3.txt srchost=localhost srcdir= srcname=words3.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:46:13,219+0000 INFO  swift END jobid=java-0ohj5bzl - Staging in finished
+2014-10-25 04:46:13,219+0000 DEBUG swift JOB_START jobid=java-0ohj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words3.txt] tmpdir=wordcount-run002/jobs/0/java-0ohj5bzl host=local
+2014-10-25 04:46:13,219+0000 INFO  Execute JOB_TASK jobid=java-0ohj5bzl taskid=urn:R-2-1414212345391 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-0ohj5bzl -jobdir 0 -scratch  -e java -out count3.txt -err stderr.txt -i -d __root__/home/ubuntu -if words3.txt|__root__/home/ubuntu/Wordcount.jar -of count3.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words3.txt
+2014-10-25 04:46:13,219+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-2-1414212345391 status=8
+2014-10-25 04:46:13,219+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-2-1414212345391 status=1
+2014-10-25 04:46:13,223+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-2-1414212345391 status=2
+2014-10-25 04:46:14,060+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 18796512, JVMThreads: 19
+2014-10-25 04:46:14,061+0000 INFO  RuntimeStats$ProgressTicker   Selecting site:1  Active:2  Finished successfully:12
+2014-10-25 04:46:15,061+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 18796592, JVMThreads: 19
+2014-10-25 04:46:16,061+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 18796672, JVMThreads: 19
+2014-10-25 04:46:17,061+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 18796752, JVMThreads: 19
+2014-10-25 04:46:17,429+0000 INFO  LateBindingScheduler jobs queued: 1
+2014-10-25 04:46:17,429+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-14-1414212345370 status=7
+2014-10-25 04:46:17,429+0000 DEBUG swift START jobid=java-znhj5bzl
+2014-10-25 04:46:17,430+0000 INFO  LateBindingScheduler jobs queued: 1
+2014-10-25 04:46:17,430+0000 INFO  swift SUCCESS jobid=java-znhj5bzl - Success file found
+2014-10-25 04:46:17,430+0000 DEBUG swift STAGING_OUT jobid=java-znhj5bzl
+2014-10-25 04:46:17,430+0000 INFO  swift START jobid=java-znhj5bzl - Staging out files
+2014-10-25 04:46:17,430+0000 DEBUG swift stageouts: [file://localhost/count15.txt]
+2014-10-25 04:46:17,430+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count15.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-znhj5bzl
+2014-10-25 04:46:17,431+0000 INFO  LateBindingScheduler jobs queued: 1
+2014-10-25 04:46:17,431+0000 DEBUG swift CDM: file://localhost/count15.txt : DEFAULT
+2014-10-25 04:46:17,433+0000 INFO  LateBindingScheduler jobs queued: 1
+2014-10-25 04:46:17,433+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count15.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:46:17,433+0000 INFO  LateBindingScheduler jobs queued: 1
+2014-10-25 04:46:17,434+0000 INFO  swift END jobid=java-znhj5bzl - Staging out finished
+2014-10-25 04:46:17,435+0000 INFO  LateBindingScheduler jobs queued: 1
+2014-10-25 04:46:17,436+0000 DEBUG swift JOB_END jobid=java-znhj5bzl
+2014-10-25 04:46:17,436+0000 INFO  swift END_SUCCESS thread=R-14 tr=java
+2014-10-25 04:46:17,436+0000 DEBUG swift PROCEDURE_END line=9 thread=R-14 name=wordcount
+2014-10-25 04:46:17,536+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-1ohj5bzl thread=R-3 host=local replicationGroup=null
+2014-10-25 04:46:17,536+0000 INFO  swift START jobid=java-1ohj5bzl host=local - Initializing directory structure
+2014-10-25 04:46:17,536+0000 INFO  swift END jobid=java-1ohj5bzl - Done initializing directory structure
+2014-10-25 04:46:17,536+0000 INFO  swift START jobid=java-1ohj5bzl - Staging in files [file://localhost/words4.txt, file://localhost//home/ubuntu/Wordcount.jar]
+2014-10-25 04:46:17,537+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:17,537+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:17,538+0000 DEBUG swift CDM: file://localhost/words4.txt : DEFAULT
+2014-10-25 04:46:17,538+0000 DEBUG swift FILE_STAGE_IN_START file=words4.txt srchost=localhost srcdir= srcname=words4.txt desthost=local destdir=wordcount-run002/shared/ provider=file policy=DEFAULT
+2014-10-25 04:46:17,539+0000 DEBUG swift CDM: file://localhost//home/ubuntu/Wordcount.jar : DEFAULT
+2014-10-25 04:46:17,550+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:17,550+0000 DEBUG swift FILE_STAGE_IN_END file=words4.txt srchost=localhost srcdir= srcname=words4.txt desthost=local destdir=wordcount-run002/shared/ provider=file
+2014-10-25 04:46:17,550+0000 INFO  swift END jobid=java-1ohj5bzl - Staging in finished
+2014-10-25 04:46:17,551+0000 DEBUG swift JOB_START jobid=java-1ohj5bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words4.txt] tmpdir=wordcount-run002/jobs/1/java-1ohj5bzl host=local
+2014-10-25 04:46:17,551+0000 INFO  Execute JOB_TASK jobid=java-1ohj5bzl taskid=urn:R-3-1414212345412 exec=/bin/bash dir=wordcount-run002 args=shared/_swiftwrap java-1ohj5bzl -jobdir 1 -scratch  -e java -out count4.txt -err stderr.txt -i -d __root__/home/ubuntu -if words4.txt|__root__/home/ubuntu/Wordcount.jar -of count4.txt -cf  -cdmfile -status files -a -jar __root__/home/ubuntu/Wordcount.jar words4.txt
+2014-10-25 04:46:17,551+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-3-1414212345412 status=8
+2014-10-25 04:46:17,551+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-3-1414212345412 status=1
+2014-10-25 04:46:17,552+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-3-1414212345412 status=2
+2014-10-25 04:46:17,564+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:17,564+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-2-1414212345391 status=7
+2014-10-25 04:46:17,565+0000 DEBUG swift START jobid=java-0ohj5bzl
+2014-10-25 04:46:17,565+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:17,565+0000 INFO  swift SUCCESS jobid=java-0ohj5bzl - Success file found
+2014-10-25 04:46:17,565+0000 DEBUG swift STAGING_OUT jobid=java-0ohj5bzl
+2014-10-25 04:46:17,566+0000 INFO  swift START jobid=java-0ohj5bzl - Staging out files
+2014-10-25 04:46:17,566+0000 DEBUG swift stageouts: [file://localhost/count3.txt]
+2014-10-25 04:46:17,566+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count3.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-0ohj5bzl
+2014-10-25 04:46:17,566+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:17,566+0000 DEBUG swift CDM: file://localhost/count3.txt : DEFAULT
+2014-10-25 04:46:17,567+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:17,568+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count3.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:46:17,568+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:17,569+0000 INFO  swift END jobid=java-0ohj5bzl - Staging out finished
+2014-10-25 04:46:17,569+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:17,570+0000 DEBUG swift JOB_END jobid=java-0ohj5bzl
+2014-10-25 04:46:17,570+0000 INFO  swift END_SUCCESS thread=R-2 tr=java
+2014-10-25 04:46:17,570+0000 DEBUG swift PROCEDURE_END line=9 thread=R-2 name=wordcount
+2014-10-25 04:46:18,062+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 19582168, JVMThreads: 19
+2014-10-25 04:46:18,062+0000 INFO  RuntimeStats$ProgressTicker   Active:1  Finished successfully:14
+2014-10-25 04:46:19,062+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 4722608, JVMThreads: 19
+2014-10-25 04:46:20,062+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 4795648, JVMThreads: 19
+2014-10-25 04:46:20,077+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:20,077+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-3-1414212345412 status=7
+2014-10-25 04:46:20,077+0000 DEBUG swift START jobid=java-1ohj5bzl
+2014-10-25 04:46:20,077+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:20,078+0000 INFO  swift SUCCESS jobid=java-1ohj5bzl - Success file found
+2014-10-25 04:46:20,078+0000 DEBUG swift STAGING_OUT jobid=java-1ohj5bzl
+2014-10-25 04:46:20,078+0000 INFO  swift START jobid=java-1ohj5bzl - Staging out files
+2014-10-25 04:46:20,078+0000 DEBUG swift stageouts: [file://localhost/count4.txt]
+2014-10-25 04:46:20,078+0000 DEBUG swift FILE_STAGE_OUT_START srcname=count4.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file jobid=java-1ohj5bzl
+2014-10-25 04:46:20,078+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:20,078+0000 DEBUG swift CDM: file://localhost/count4.txt : DEFAULT
+2014-10-25 04:46:20,079+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:20,079+0000 DEBUG swift FILE_STAGE_OUT_END srcname=count4.txt srcdir=wordcount-run002/shared/ srchost=local destdir= desthost=localhost provider=file
+2014-10-25 04:46:20,080+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:20,080+0000 INFO  swift END jobid=java-1ohj5bzl - Staging out finished
+2014-10-25 04:46:20,081+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:20,081+0000 DEBUG swift JOB_END jobid=java-1ohj5bzl
+2014-10-25 04:46:20,081+0000 INFO  swift END_SUCCESS thread=R-3 tr=java
+2014-10-25 04:46:20,082+0000 DEBUG swift PROCEDURE_END line=9 thread=R-3 name=wordcount
+2014-10-25 04:46:20,082+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 954728448, CrtHeap: 59244544, UsedHeap: 5389656, JVMThreads: 19
+2014-10-25 04:46:20,082+0000 INFO  RuntimeStats$ProgressTicker   Finished successfully:15
+2014-10-25 04:46:20,091+0000 DEBUG swift Starting cleanups
+2014-10-25 04:46:20,091+0000 INFO  swift START cleanups=[[wordcount-run002, local]]
+2014-10-25 04:46:20,091+0000 INFO  swift START dir=wordcount-run002 host=local
+2014-10-25 04:46:20,091+0000 DEBUG swift cdmfile 
+2014-10-25 04:46:20,092+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 04:46:20,092+0000 INFO  swift END dir=wordcount-run002 host=local
+2014-10-25 04:46:20,092+0000 INFO  swift END cleanups=[[wordcount-run002, local]]
+2014-10-25 04:46:20,092+0000 DEBUG swift Ending cleanups
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning input15:infile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning input14:infile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning input13:infile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of8:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning input12:infile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of7:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning input11:infile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning input10:infile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of9:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of14:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of15:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of12:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of13:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of1:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of10:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of2:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of11:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of5:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of6:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of3:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning of4:outfile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning input3:infile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning input2:infile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning input5:infile = <FILE> - Closed
+2014-10-25 04:46:20,093+0000 INFO  SwiftFunction Cleaning input4:infile = <FILE> - Closed
+2014-10-25 04:46:20,103+0000 INFO  SwiftFunction Cleaning s:script = <FILE> - Closed
+2014-10-25 04:46:20,103+0000 INFO  SwiftFunction Cleaning input7:infile = <FILE> - Closed
+2014-10-25 04:46:20,103+0000 INFO  SwiftFunction Cleaning input6:infile = <FILE> - Closed
+2014-10-25 04:46:20,103+0000 INFO  SwiftFunction Cleaning input9:infile = <FILE> - Closed
+2014-10-25 04:46:20,103+0000 INFO  SwiftFunction Cleaning input8:infile = <FILE> - Closed
+2014-10-25 04:46:20,103+0000 INFO  SwiftFunction Cleaning input1:infile = <FILE> - Closed
+2014-10-25 04:46:20,110+0000 INFO  Loader Swift finished with no errors
