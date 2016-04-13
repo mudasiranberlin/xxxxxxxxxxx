@@ -1,0 +1,880 @@
+2014-10-25 03:17:33,862+0000 INFO  Loader JAVA Oracle Corporation OpenJDK 64-Bit Server VM 1.7.0_65
+2014-10-25 03:17:33,869+0000 INFO  Loader VERSION Swift trunk git-rev: 2d334140f2c288e5aeb3d354de0ecda35b4b3aac heads/master 6130 (modified locally)
+2014-10-25 03:17:33,870+0000 INFO  Loader RUN_ID run001
+2014-10-25 03:17:33,870+0000 INFO  Loader ARGUMENTS [-runid, run001, -logfile, /home/ubuntu/run001/swift.log, wordcount.swift]
+2014-10-25 03:17:33,870+0000 INFO  Loader MAX_HEAP 1037959168
+2014-10-25 03:17:33,870+0000 INFO  Loader GLOBUS_HOSTNAME ip-172-31-16-34
+2014-10-25 03:17:33,870+0000 INFO  Loader CWD /home/ubuntu/.
+2014-10-25 03:17:33,874+0000 DEBUG Loader SWIFT_CONFIGURATION 
+[D] /home/ubuntu/swift-trunk/etc/swift.conf
+[R] swift.conf
+[C] <Command Line>
+{
+    TCPPortRange: "50000, 50100"                            # [D] line 27
+    alwaysTransferWrapperLog: true                          # [R] line 42
+    executionRetries: 0                                     # [R] line 39
+    fileOperationsThrottle: 8                               # [D] line 121
+    fileTransfersThrottle: 4                                # [D] line 107
+    hostJobSubmitThrottle: 2                                # [D] line 95
+    jobSubmitThrottle: 4                                    # [D] line 83
+    keepSiteDir: true                                       # [R] line 40
+    lazyErrors: false                                       # [R] line 38
+    logProvenance: false                                    # [D] line 200
+    maxForeachThreads: 16384                                # [D] line 194
+    providerStagingPinSwiftFiles: false                     # [R] line 41
+    replicationEnabled: false                               # [D] line 146
+    replicationLimit: 3                                     # [D] line 157
+    replicationMinQueueTime: 60                             # [D] line 153
+	site {
+		cloud-static {
+            app.ALL.executable: "*"                         # [R] line 34
+			execution {
+                URL: "http://127.0.0.1:50010"               # [R] line 21
+                jobManager: "local:local"                   # [R] line 22
+				options {
+                    maxJobs: 10                             # [R] line 24
+                    tasksPerNode: 4                         # [R] line 25
+				}
+                type: "coaster-persistent"                  # [R] line 20
+			}
+            filesystem.type: "local"                        # [R] line 31
+            initialParallelTasks: 20                        # [R] line 29
+            maxParallelTasks: 20                            # [R] line 30
+            staging: "local"                                # [R] line 33
+            workDirectory: "/home/ubuntu/"                  # [C]
+		}
+		local {
+            app.ALL.executable: "*"                         # [R] line 15
+			execution {
+                URL: "localhost"                            # [R] line 10
+                type: "local"                               # [R] line 9
+			}
+			filesystem {
+                URL: "localhost"                            # [R] line 6
+                type: "local"                               # [R] line 5
+			}
+            initialParallelTasks: 31                        # [R] line 14
+            maxParallelTasks: 32                            # [R] line 13
+            workDirectory: "/home/ubuntu/"                  # [C]
+		}
+	}
+    sites: [cloud-static]                                   # [R] line 1
+    tracingEnabled: false                                   # [D] line 51
+}
+
+2014-10-25 03:17:33,882+0000 DEBUG textfiles BEGIN SWIFTSCRIPT:
+type file;
+
+type infile;
+
+type outfile;
+
+type script;
+
+app (outfile o) wordcount (script s, infile i) 
+
+{
+ 
+ java "-jar" @filename(s)  @filename(i) stdout=@filename(o);
+
+}
+
+script s <"/home/ubuntu/Wordcount.jar">;
+
+infile input1<"words1.txt">;
+outfile of1<"count1.txt">;
+of1 = wordcount(s,input1);
+
+
+
+infile input2<"words2.txt">;
+outfile of2<"count2.txt">;
+of2 = wordcount(s,input2);
+
+
+infile input3<"words3.txt">;
+outfile of3<"count3.txt">;
+of3 = wordcount(s,input3);
+
+
+
+infile input4<"words4.txt">;
+outfile of4<"count4.txt">;
+of4 = wordcount(s,input4);
+
+
+infile input5<"words5.txt">;
+outfile of5<"count5.txt">;
+of5 = wordcount(s,input5);
+
+
+infile input6<"words6.txt">;
+outfile of6<"count6.txt">;
+of6 = wordcount(s,input6);
+
+
+infile input7<"words7.txt">;
+outfile of7<"count7.txt">;
+of7 = wordcount(s,input7);
+
+
+infile input8<"words8.txt">;
+outfile of8<"count8.txt">;
+of8 = wordcount(s,input8);
+
+
+infile input9<"words9.txt">;
+outfile of9<"count9.txt">;
+of9 = wordcount(s,input9);
+
+
+infile input10<"words10.txt">;
+outfile of10<"count10.txt">;
+of10 = wordcount(s,input10);
+
+
+infile input11<"words11.txt">;
+outfile of11<"count11.txt">;
+of11 = wordcount(s,input11);
+
+
+infile input12<"words12.txt">;
+outfile of12<"count12.txt">;
+of12 = wordcount(s,input12);
+
+
+infile input13<"words13.txt">;
+outfile of13<"count13.txt">;
+of13 = wordcount(s,input13);
+
+
+infile input14<"words14.txt">;
+outfile of14<"count14.txt">;
+of14 = wordcount(s,input14);
+
+
+infile input15<"words15.txt">;
+outfile of15<"count15.txt">;
+of15 = wordcount(s,input15);
+
+
+2014-10-25 03:17:33,883+0000 DEBUG textfiles END SWIFTSCRIPT:
+2014-10-25 03:17:33,883+0000 INFO  Loader wordcount.swift: source file is new. Recompiling.
+2014-10-25 03:17:35,818+0000 INFO  Warnings Warning: The @ syntax for function invocation is deprecated
+2014-10-25 03:17:38,109+0000 INFO  Loader RUN_START
+2014-10-25 03:17:38,124+0000 INFO  SwiftExecutor swift.home = /home/ubuntu/swift-trunk
+2014-10-25 03:17:38,176+0000 INFO  AbstractScheduler Setting resources to: {cloud-static=cloud-static}
+2014-10-25 03:17:38,196+0000 INFO  GlobalSubmitQueue No global submit throttle set. Using default (1024)
+2014-10-25 03:17:38,244+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:38,256+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:38,394+0000 DEBUG swift PROCEDURE line=9 thread=R-0 name=wordcount
+2014-10-25 03:17:38,400+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 1037959168, CrtHeap: 11255808, UsedHeap: 8052616, JVMThreads: 12
+2014-10-25 03:17:38,400+0000 INFO  RuntimeStats$ProgressTicker   Initializing:1
+2014-10-25 03:17:38,401+0000 DEBUG swift PROCEDURE line=9 thread=R-1 name=wordcount
+2014-10-25 03:17:38,413+0000 DEBUG swift PROCEDURE line=9 thread=R-2 name=wordcount
+2014-10-25 03:17:38,414+0000 DEBUG swift PROCEDURE line=9 thread=R-3 name=wordcount
+2014-10-25 03:17:38,415+0000 DEBUG swift PROCEDURE line=9 thread=R-4 name=wordcount
+2014-10-25 03:17:38,418+0000 DEBUG swift PROCEDURE line=9 thread=R-6 name=wordcount
+2014-10-25 03:17:38,418+0000 DEBUG swift PROCEDURE line=9 thread=R-5 name=wordcount
+2014-10-25 03:17:38,420+0000 DEBUG swift PROCEDURE line=9 thread=R-8 name=wordcount
+2014-10-25 03:17:38,421+0000 DEBUG swift PROCEDURE line=9 thread=R-7 name=wordcount
+2014-10-25 03:17:38,422+0000 DEBUG swift PROCEDURE line=9 thread=R-9 name=wordcount
+2014-10-25 03:17:38,423+0000 DEBUG swift PROCEDURE line=9 thread=R-10 name=wordcount
+2014-10-25 03:17:38,424+0000 DEBUG swift PROCEDURE line=9 thread=R-11 name=wordcount
+2014-10-25 03:17:38,425+0000 DEBUG swift PROCEDURE line=9 thread=R-12 name=wordcount
+2014-10-25 03:17:38,425+0000 DEBUG swift PROCEDURE line=9 thread=R-13 name=wordcount
+2014-10-25 03:17:38,428+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-6o512bzl thread=R-0 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,431+0000 DEBUG swift JOB_START jobid=java-6o512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words1.txt] tmpdir=wordcount-run001/jobs/6/java-6o512bzl host=cloud-static
+2014-10-25 03:17:38,431+0000 DEBUG swift PROCEDURE line=9 thread=R-14 name=wordcount
+2014-10-25 03:17:38,434+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-7o512bzl thread=R-1 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,434+0000 DEBUG swift JOB_START jobid=java-7o512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words2.txt] tmpdir=wordcount-run001/jobs/7/java-7o512bzl host=cloud-static
+2014-10-25 03:17:38,446+0000 INFO  Execute JOB_TASK jobid=java-6o512bzl taskid=urn:R-0-1414207053848 exec=/bin/bash dir=wordcount-run001/jobs/6/java-6o512bzl args=_swiftwrap.staging -e java -out count1.txt -err stderr.txt -i -d __root__/home/ubuntu -if __root__/home/ubuntu/Wordcount.jar|words1.txt -of count1.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words1.txt
+2014-10-25 03:17:38,446+0000 INFO  Execute JOB_TASK jobid=java-7o512bzl taskid=urn:R-1-1414207053850 exec=/bin/bash dir=wordcount-run001/jobs/7/java-7o512bzl args=_swiftwrap.staging -e java -out count2.txt -err stderr.txt -i -d __root__/home/ubuntu -if words2.txt|__root__/home/ubuntu/Wordcount.jar -of count2.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words2.txt
+2014-10-25 03:17:38,450+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-8o512bzl thread=R-2 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,458+0000 DEBUG swift JOB_START jobid=java-8o512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words3.txt] tmpdir=wordcount-run001/jobs/8/java-8o512bzl host=cloud-static
+2014-10-25 03:17:38,458+0000 INFO  Execute JOB_TASK jobid=java-8o512bzl taskid=urn:R-2-1414207053852 exec=/bin/bash dir=wordcount-run001/jobs/8/java-8o512bzl args=_swiftwrap.staging -e java -out count3.txt -err stderr.txt -i -d __root__/home/ubuntu -if words3.txt|__root__/home/ubuntu/Wordcount.jar -of count3.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words3.txt
+2014-10-25 03:17:38,459+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-9o512bzl thread=R-3 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,460+0000 DEBUG swift JOB_START jobid=java-9o512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words4.txt] tmpdir=wordcount-run001/jobs/9/java-9o512bzl host=cloud-static
+2014-10-25 03:17:38,460+0000 INFO  Execute JOB_TASK jobid=java-9o512bzl taskid=urn:R-3-1414207053854 exec=/bin/bash dir=wordcount-run001/jobs/9/java-9o512bzl args=_swiftwrap.staging -e java -out count4.txt -err stderr.txt -i -d __root__/home/ubuntu -if words4.txt|__root__/home/ubuntu/Wordcount.jar -of count4.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words4.txt
+2014-10-25 03:17:38,461+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-ao512bzl thread=R-4 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,462+0000 DEBUG swift JOB_START jobid=java-ao512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words5.txt] tmpdir=wordcount-run001/jobs/a/java-ao512bzl host=cloud-static
+2014-10-25 03:17:38,463+0000 INFO  Execute JOB_TASK jobid=java-ao512bzl taskid=urn:R-4-1414207053856 exec=/bin/bash dir=wordcount-run001/jobs/a/java-ao512bzl args=_swiftwrap.staging -e java -out count5.txt -err stderr.txt -i -d __root__/home/ubuntu -if words5.txt|__root__/home/ubuntu/Wordcount.jar -of count5.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words5.txt
+2014-10-25 03:17:38,464+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-bo512bzl thread=R-5 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,464+0000 DEBUG swift JOB_START jobid=java-bo512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words6.txt] tmpdir=wordcount-run001/jobs/b/java-bo512bzl host=cloud-static
+2014-10-25 03:17:38,465+0000 INFO  Execute JOB_TASK jobid=java-bo512bzl taskid=urn:R-5-1414207053858 exec=/bin/bash dir=wordcount-run001/jobs/b/java-bo512bzl args=_swiftwrap.staging -e java -out count6.txt -err stderr.txt -i -d __root__/home/ubuntu -if words6.txt|__root__/home/ubuntu/Wordcount.jar -of count6.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words6.txt
+2014-10-25 03:17:38,464+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-co512bzl thread=R-6 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,465+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-1-1414207053850 status=8
+2014-10-25 03:17:38,466+0000 DEBUG swift JOB_START jobid=java-co512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words7.txt] tmpdir=wordcount-run001/jobs/c/java-co512bzl host=cloud-static
+2014-10-25 03:17:38,471+0000 INFO  Execute JOB_TASK jobid=java-co512bzl taskid=urn:R-6-1414207053860 exec=/bin/bash dir=wordcount-run001/jobs/c/java-co512bzl args=_swiftwrap.staging -e java -out count7.txt -err stderr.txt -i -d __root__/home/ubuntu -if words7.txt|__root__/home/ubuntu/Wordcount.jar -of count7.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words7.txt
+2014-10-25 03:17:38,472+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-eo512bzl thread=R-7 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,471+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-do512bzl thread=R-8 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,472+0000 DEBUG swift JOB_START jobid=java-do512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words9.txt] tmpdir=wordcount-run001/jobs/d/java-do512bzl host=cloud-static
+2014-10-25 03:17:38,474+0000 INFO  Execute JOB_TASK jobid=java-do512bzl taskid=urn:R-8-1414207053862 exec=/bin/bash dir=wordcount-run001/jobs/d/java-do512bzl args=_swiftwrap.staging -e java -out count9.txt -err stderr.txt -i -d __root__/home/ubuntu -if words9.txt|__root__/home/ubuntu/Wordcount.jar -of count9.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words9.txt
+2014-10-25 03:17:38,473+0000 DEBUG swift JOB_START jobid=java-eo512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words8.txt] tmpdir=wordcount-run001/jobs/e/java-eo512bzl host=cloud-static
+2014-10-25 03:17:38,475+0000 INFO  Execute JOB_TASK jobid=java-eo512bzl taskid=urn:R-7-1414207053864 exec=/bin/bash dir=wordcount-run001/jobs/e/java-eo512bzl args=_swiftwrap.staging -e java -out count8.txt -err stderr.txt -i -d __root__/home/ubuntu -if __root__/home/ubuntu/Wordcount.jar|words8.txt -of count8.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words8.txt
+2014-10-25 03:17:38,476+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-fo512bzl thread=R-9 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,477+0000 DEBUG swift JOB_START jobid=java-fo512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words10.txt] tmpdir=wordcount-run001/jobs/f/java-fo512bzl host=cloud-static
+2014-10-25 03:17:38,478+0000 INFO  Execute JOB_TASK jobid=java-fo512bzl taskid=urn:R-9-1414207053866 exec=/bin/bash dir=wordcount-run001/jobs/f/java-fo512bzl args=_swiftwrap.staging -e java -out count10.txt -err stderr.txt -i -d __root__/home/ubuntu -if __root__/home/ubuntu/Wordcount.jar|words10.txt -of count10.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words10.txt
+2014-10-25 03:17:38,477+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-go512bzl thread=R-11 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,482+0000 DEBUG swift JOB_START jobid=java-go512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words12.txt] tmpdir=wordcount-run001/jobs/g/java-go512bzl host=cloud-static
+2014-10-25 03:17:38,483+0000 INFO  Execute JOB_TASK jobid=java-go512bzl taskid=urn:R-11-1414207053868 exec=/bin/bash dir=wordcount-run001/jobs/g/java-go512bzl args=_swiftwrap.staging -e java -out count12.txt -err stderr.txt -i -d __root__/home/ubuntu -if words12.txt|__root__/home/ubuntu/Wordcount.jar -of count12.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words12.txt
+2014-10-25 03:17:38,484+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-ho512bzl thread=R-13 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,485+0000 DEBUG swift JOB_START jobid=java-ho512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words14.txt] tmpdir=wordcount-run001/jobs/h/java-ho512bzl host=cloud-static
+2014-10-25 03:17:38,485+0000 INFO  Execute JOB_TASK jobid=java-ho512bzl taskid=urn:R-13-1414207053870 exec=/bin/bash dir=wordcount-run001/jobs/h/java-ho512bzl args=_swiftwrap.staging -e java -out count14.txt -err stderr.txt -i -d __root__/home/ubuntu -if words14.txt|__root__/home/ubuntu/Wordcount.jar -of count14.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words14.txt
+2014-10-25 03:17:38,487+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-io512bzl thread=R-10 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,487+0000 DEBUG swift JOB_START jobid=java-io512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words11.txt] tmpdir=wordcount-run001/jobs/i/java-io512bzl host=cloud-static
+2014-10-25 03:17:38,487+0000 INFO  Execute JOB_TASK jobid=java-io512bzl taskid=urn:R-10-1414207053872 exec=/bin/bash dir=wordcount-run001/jobs/i/java-io512bzl args=_swiftwrap.staging -e java -out count11.txt -err stderr.txt -i -d __root__/home/ubuntu -if words11.txt|__root__/home/ubuntu/Wordcount.jar -of count11.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words11.txt
+2014-10-25 03:17:38,488+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-jo512bzl thread=R-14 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,489+0000 DEBUG swift JOB_START jobid=java-jo512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words15.txt] tmpdir=wordcount-run001/jobs/j/java-jo512bzl host=cloud-static
+2014-10-25 03:17:38,490+0000 INFO  Execute JOB_TASK jobid=java-jo512bzl taskid=urn:R-14-1414207053874 exec=/bin/bash dir=wordcount-run001/jobs/j/java-jo512bzl args=_swiftwrap.staging -e java -out count15.txt -err stderr.txt -i -d __root__/home/ubuntu -if words15.txt|__root__/home/ubuntu/Wordcount.jar -of count15.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words15.txt
+2014-10-25 03:17:38,489+0000 DEBUG swift THREAD_ASSOCIATION jobid=java-ko512bzl thread=R-12 host=cloud-static replicationGroup=null
+2014-10-25 03:17:38,490+0000 DEBUG swift JOB_START jobid=java-ko512bzl tr=java arguments=[-jar, __root__/home/ubuntu/Wordcount.jar, words13.txt] tmpdir=wordcount-run001/jobs/k/java-ko512bzl host=cloud-static
+2014-10-25 03:17:38,491+0000 INFO  Execute JOB_TASK jobid=java-ko512bzl taskid=urn:R-12-1414207053876 exec=/bin/bash dir=wordcount-run001/jobs/k/java-ko512bzl args=_swiftwrap.staging -e java -out count13.txt -err stderr.txt -i -d __root__/home/ubuntu -if words13.txt|__root__/home/ubuntu/Wordcount.jar -of count13.txt -cf  -cdmfile  -status provider -a -jar __root__/home/ubuntu/Wordcount.jar words13.txt
+2014-10-25 03:17:38,585+0000 INFO  AbstractCoasterChannel TCPChannel[client, http://127.0.0.1:50010] setting name to http://127.0.0.1:50010
+2014-10-25 03:17:38,599+0000 INFO  AbstractTCPChannel http://127.0.0.1:50010: channel started
+2014-10-25 03:17:38,602+0000 INFO  AbstractCoasterChannel Timeout check started for http://127.0.0.1:50010
+2014-10-25 03:17:38,607+0000 INFO  AbstractStreamCoasterChannel Using NIO sender for http://127.0.0.1:50010
+2014-10-25 03:17:38,634+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-0-1414207053848 status=8
+2014-10-25 03:17:38,635+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-2-1414207053852 status=8
+2014-10-25 03:17:38,637+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-3-1414207053854 status=8
+2014-10-25 03:17:38,638+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-4-1414207053856 status=8
+2014-10-25 03:17:38,639+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-5-1414207053858 status=8
+2014-10-25 03:17:38,640+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-6-1414207053860 status=8
+2014-10-25 03:17:38,641+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-8-1414207053862 status=8
+2014-10-25 03:17:38,642+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-7-1414207053864 status=8
+2014-10-25 03:17:38,644+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-9-1414207053866 status=8
+2014-10-25 03:17:38,645+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-11-1414207053868 status=8
+2014-10-25 03:17:38,646+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-13-1414207053870 status=8
+2014-10-25 03:17:38,651+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-10-1414207053872 status=8
+2014-10-25 03:17:38,653+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-14-1414207053874 status=8
+2014-10-25 03:17:38,655+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-12-1414207053876 status=8
+2014-10-25 03:17:38,722+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-1-1414207053850 status=1
+2014-10-25 03:17:38,723+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-0-1414207053848 status=1
+2014-10-25 03:17:38,724+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-2-1414207053852 status=1
+2014-10-25 03:17:38,724+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-3-1414207053854 status=1
+2014-10-25 03:17:38,725+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-4-1414207053856 status=1
+2014-10-25 03:17:38,725+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-5-1414207053858 status=1
+2014-10-25 03:17:38,726+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-6-1414207053860 status=1
+2014-10-25 03:17:38,727+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-8-1414207053862 status=1
+2014-10-25 03:17:38,727+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-7-1414207053864 status=1
+2014-10-25 03:17:38,728+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-9-1414207053866 status=1
+2014-10-25 03:17:38,728+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-11-1414207053868 status=1
+2014-10-25 03:17:38,729+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-13-1414207053870 status=1
+2014-10-25 03:17:38,730+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-10-1414207053872 status=1
+2014-10-25 03:17:38,730+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-14-1414207053874 status=1
+2014-10-25 03:17:38,731+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-12-1414207053876 status=1
+2014-10-25 03:17:38,752+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-1-1414207053850 status=16 workerid=ip-172-31-28-231:000000
+2014-10-25 03:17:38,754+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-0-1414207053848 status=16 workerid=ip-172-31-27-129:000000
+2014-10-25 03:17:38,760+0000 INFO  GetFileHandler Handler(tag: 8, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:38,775+0000 INFO  GetFileHandler Handler(tag: 8, GET) reader: LR-Handler(tag: 8, GET)
+2014-10-25 03:17:38,775+0000 INFO  GetFileHandler Handler(tag: 8, GET) sending length: 1661, 1966437221
+2014-10-25 03:17:38,805+0000 INFO  ReadBuffer RB-LR-Handler(tag: 8, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:38,806+0000 INFO  ReadBuffer RB-LR-Handler(tag: 8, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:38,806+0000 INFO  LocalIOProvider LR-Handler(tag: 8, GET) rbuf: RB-LR-Handler(tag: 8, GET)
+2014-10-25 03:17:38,812+0000 INFO  GetFileHandler Handler(tag: 9, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:38,814+0000 INFO  GetFileHandler Handler(tag: 9, GET) reader: LR-Handler(tag: 9, GET)
+2014-10-25 03:17:38,814+0000 INFO  GetFileHandler Handler(tag: 9, GET) sending length: 1661, 343983163
+2014-10-25 03:17:38,814+0000 INFO  GetFileHandler Handler(tag: 8, GET) unregistering (last)
+2014-10-25 03:17:38,815+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:38,816+0000 INFO  ReadBuffer RB-LR-Handler(tag: 9, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:38,817+0000 INFO  ReadBuffer RB-LR-Handler(tag: 9, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:38,817+0000 INFO  LocalIOProvider LR-Handler(tag: 9, GET) rbuf: RB-LR-Handler(tag: 9, GET)
+2014-10-25 03:17:38,818+0000 INFO  GetFileHandler Handler(tag: 9, GET) unregistering (last)
+2014-10-25 03:17:38,819+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:38,823+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-2-1414207053852 status=16 workerid=ip-172-31-29-34:000000
+2014-10-25 03:17:38,823+0000 INFO  GetFileHandler Handler(tag: 15, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:38,824+0000 INFO  GetFileHandler Handler(tag: 15, GET) reader: LR-Handler(tag: 15, GET)
+2014-10-25 03:17:38,824+0000 INFO  GetFileHandler Handler(tag: 15, GET) sending length: 1661, 1241073453
+2014-10-25 03:17:38,824+0000 INFO  ReadBuffer RB-LR-Handler(tag: 15, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:38,825+0000 INFO  GetFileHandler Handler(tag: 15, GET) unregistering (last)
+2014-10-25 03:17:38,825+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:38,825+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:38,826+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:38,831+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-4-1414207053856 status=16 workerid=ip-172-31-28-27:000000
+2014-10-25 03:17:38,838+0000 INFO  GetFileHandler Handler(tag: 24, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:38,838+0000 INFO  GetFileHandler Handler(tag: 24, GET) reader: LR-Handler(tag: 24, GET)
+2014-10-25 03:17:38,838+0000 INFO  GetFileHandler Handler(tag: 24, GET) sending length: 1661, 16610159
+2014-10-25 03:17:38,839+0000 INFO  ReadBuffer RB-LR-Handler(tag: 24, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:38,839+0000 INFO  GetFileHandler Handler(tag: 24, GET) unregistering (last)
+2014-10-25 03:17:38,840+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:38,840+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:38,840+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:38,843+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-5-1414207053858 status=16 workerid=ip-172-31-19-91:000000
+2014-10-25 03:17:38,846+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-6-1414207053860 status=16 workerid=ip-172-31-23-128:000000
+2014-10-25 03:17:38,847+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-8-1414207053862 status=16 workerid=ip-172-31-24-144:000000
+2014-10-25 03:17:38,849+0000 INFO  GetFileHandler Handler(tag: 30, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:38,849+0000 INFO  GetFileHandler Handler(tag: 30, GET) reader: LR-Handler(tag: 30, GET)
+2014-10-25 03:17:38,849+0000 INFO  GetFileHandler Handler(tag: 30, GET) sending length: 1661, 1132264799
+2014-10-25 03:17:38,850+0000 INFO  ReadBuffer RB-LR-Handler(tag: 30, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:38,850+0000 INFO  GetFileHandler Handler(tag: 30, GET) unregistering (last)
+2014-10-25 03:17:38,851+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:38,851+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:38,851+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:38,852+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-3-1414207053854 status=16 workerid=ip-172-31-27-199:000000
+2014-10-25 03:17:38,853+0000 INFO  GetFileHandler Handler(tag: 32, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:38,853+0000 INFO  GetFileHandler Handler(tag: 32, GET) reader: LR-Handler(tag: 32, GET)
+2014-10-25 03:17:38,853+0000 INFO  GetFileHandler Handler(tag: 32, GET) sending length: 1661, 208260315
+2014-10-25 03:17:38,853+0000 INFO  ReadBuffer RB-LR-Handler(tag: 32, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:38,854+0000 INFO  GetFileHandler Handler(tag: 32, GET) unregistering (last)
+2014-10-25 03:17:38,854+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:38,855+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:38,855+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:38,855+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-7-1414207053864 status=16 workerid=ip-172-31-25-35:000000
+2014-10-25 03:17:38,856+0000 INFO  GetFileHandler Handler(tag: 34, GET) request complete; src=file://localhost//home/ubuntu/words4.txt
+2014-10-25 03:17:38,857+0000 INFO  GetFileHandler Handler(tag: 34, GET) reader: LR-Handler(tag: 34, GET)
+2014-10-25 03:17:38,857+0000 INFO  GetFileHandler Handler(tag: 34, GET) sending length: 5914240, 250894357
+2014-10-25 03:17:38,860+0000 INFO  ReadBuffer RB-LR-Handler(tag: 34, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:38,866+0000 INFO  ReadBuffer RB-LR-Handler(tag: 34, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:38,871+0000 INFO  LocalIOProvider LR-Handler(tag: 34, GET) rbuf: RB-LR-Handler(tag: 34, GET)
+2014-10-25 03:17:38,872+0000 INFO  GetFileHandler Handler(tag: 35, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:38,872+0000 INFO  GetFileHandler Handler(tag: 35, GET) reader: LR-Handler(tag: 35, GET)
+2014-10-25 03:17:38,873+0000 INFO  GetFileHandler Handler(tag: 35, GET) sending length: 1661, 990403439
+2014-10-25 03:17:38,873+0000 INFO  ReadBuffer RB-LR-Handler(tag: 35, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:38,874+0000 INFO  ReadBuffer RB-LR-Handler(tag: 35, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:38,874+0000 INFO  LocalIOProvider LR-Handler(tag: 35, GET) rbuf: RB-LR-Handler(tag: 35, GET)
+2014-10-25 03:17:38,874+0000 INFO  GetFileHandler Handler(tag: 35, GET) unregistering (last)
+2014-10-25 03:17:38,875+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:38,876+0000 INFO  GetFileHandler Handler(tag: 36, GET) request complete; src=file://localhost//home/ubuntu/words7.txt
+2014-10-25 03:17:38,876+0000 INFO  GetFileHandler Handler(tag: 36, GET) reader: LR-Handler(tag: 36, GET)
+2014-10-25 03:17:38,876+0000 INFO  GetFileHandler Handler(tag: 36, GET) sending length: 5914240, 1350045524
+2014-10-25 03:17:38,877+0000 INFO  ReadBuffer RB-LR-Handler(tag: 36, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:38,877+0000 INFO  ReadBuffer RB-LR-Handler(tag: 36, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:38,877+0000 INFO  LocalIOProvider LR-Handler(tag: 36, GET) rbuf: RB-LR-Handler(tag: 36, GET)
+2014-10-25 03:17:38,882+0000 INFO  GetFileHandler Handler(tag: 37, GET) request complete; src=file://localhost//home/ubuntu/words2.txt
+2014-10-25 03:17:38,883+0000 INFO  GetFileHandler Handler(tag: 37, GET) reader: LR-Handler(tag: 37, GET)
+2014-10-25 03:17:38,885+0000 INFO  GetFileHandler Handler(tag: 37, GET) sending length: 5914240, 256714182
+2014-10-25 03:17:38,885+0000 INFO  ReadBuffer RB-LR-Handler(tag: 37, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:38,888+0000 INFO  ReadBuffer RB-LR-Handler(tag: 37, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:38,888+0000 INFO  LocalIOProvider LR-Handler(tag: 37, GET) rbuf: RB-LR-Handler(tag: 37, GET)
+2014-10-25 03:17:38,888+0000 INFO  GetFileHandler Handler(tag: 38, GET) request complete; src=file://localhost//home/ubuntu/words1.txt
+2014-10-25 03:17:38,889+0000 INFO  GetFileHandler Handler(tag: 38, GET) reader: LR-Handler(tag: 38, GET)
+2014-10-25 03:17:38,889+0000 INFO  GetFileHandler Handler(tag: 38, GET) sending length: 5914240, 1471589413
+2014-10-25 03:17:38,889+0000 INFO  ReadBuffer RB-LR-Handler(tag: 38, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:38,889+0000 INFO  ReadBuffer RB-LR-Handler(tag: 38, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:38,890+0000 INFO  LocalIOProvider LR-Handler(tag: 38, GET) rbuf: RB-LR-Handler(tag: 38, GET)
+2014-10-25 03:17:38,891+0000 INFO  GetFileHandler Handler(tag: 39, GET) request complete; src=file://localhost//home/ubuntu/words5.txt
+2014-10-25 03:17:38,896+0000 INFO  GetFileHandler Handler(tag: 39, GET) reader: LR-Handler(tag: 39, GET)
+2014-10-25 03:17:38,896+0000 INFO  GetFileHandler Handler(tag: 39, GET) sending length: 5914240, 1178248725
+2014-10-25 03:17:38,896+0000 INFO  ReadBuffer RB-LR-Handler(tag: 39, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:38,897+0000 INFO  ReadBuffer RB-LR-Handler(tag: 39, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:38,897+0000 INFO  LocalIOProvider LR-Handler(tag: 39, GET) rbuf: RB-LR-Handler(tag: 39, GET)
+2014-10-25 03:17:38,897+0000 INFO  GetFileHandler Handler(tag: 40, GET) request complete; src=file://localhost//home/ubuntu/words3.txt
+2014-10-25 03:17:38,907+0000 INFO  GetFileHandler Handler(tag: 40, GET) reader: LR-Handler(tag: 40, GET)
+2014-10-25 03:17:38,910+0000 INFO  GetFileHandler Handler(tag: 40, GET) sending length: 5914240, 156406827
+2014-10-25 03:17:38,912+0000 INFO  ReadBuffer RB-LR-Handler(tag: 40, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:38,912+0000 INFO  ReadBuffer RB-LR-Handler(tag: 40, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:38,916+0000 INFO  LocalIOProvider LR-Handler(tag: 40, GET) rbuf: RB-LR-Handler(tag: 40, GET)
+2014-10-25 03:17:38,917+0000 INFO  GetFileHandler Handler(tag: 41, GET) request complete; src=file://localhost//home/ubuntu/words6.txt
+2014-10-25 03:17:38,919+0000 INFO  GetFileHandler Handler(tag: 41, GET) reader: LR-Handler(tag: 41, GET)
+2014-10-25 03:17:38,919+0000 INFO  GetFileHandler Handler(tag: 41, GET) sending length: 5914240, 286029959
+2014-10-25 03:17:38,919+0000 INFO  ReadBuffer RB-LR-Handler(tag: 41, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:38,919+0000 INFO  ReadBuffer RB-LR-Handler(tag: 41, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:38,920+0000 INFO  LocalIOProvider LR-Handler(tag: 41, GET) rbuf: RB-LR-Handler(tag: 41, GET)
+2014-10-25 03:17:38,921+0000 INFO  GetFileHandler Handler(tag: 42, GET) request complete; src=file://localhost//home/ubuntu/words9.txt
+2014-10-25 03:17:38,921+0000 INFO  GetFileHandler Handler(tag: 42, GET) reader: LR-Handler(tag: 42, GET)
+2014-10-25 03:17:38,922+0000 INFO  GetFileHandler Handler(tag: 42, GET) sending length: 5914240, 321135835
+2014-10-25 03:17:38,922+0000 INFO  ReadBuffer RB-LR-Handler(tag: 42, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:38,922+0000 INFO  ReadBuffer RB-LR-Handler(tag: 42, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:38,924+0000 INFO  LocalIOProvider LR-Handler(tag: 42, GET) rbuf: RB-LR-Handler(tag: 42, GET)
+2014-10-25 03:17:38,926+0000 INFO  GetFileHandler Handler(tag: 43, GET) request complete; src=file://localhost//home/ubuntu/words8.txt
+2014-10-25 03:17:38,927+0000 INFO  GetFileHandler Handler(tag: 43, GET) reader: LR-Handler(tag: 43, GET)
+2014-10-25 03:17:38,929+0000 INFO  GetFileHandler Handler(tag: 43, GET) sending length: 5914240, 1389422353
+2014-10-25 03:17:38,929+0000 INFO  ReadBuffer RB-LR-Handler(tag: 43, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:38,929+0000 INFO  ReadBuffer RB-LR-Handler(tag: 43, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:38,930+0000 INFO  LocalIOProvider LR-Handler(tag: 43, GET) rbuf: RB-LR-Handler(tag: 43, GET)
+2014-10-25 03:17:39,401+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 1037959168, CrtHeap: 11845632, UsedHeap: 8004552, JVMThreads: 17
+2014-10-25 03:17:39,401+0000 INFO  RuntimeStats$ProgressTicker   Stage in:9  Submitted:6
+2014-10-25 03:17:39,787+0000 INFO  GetFileHandler Handler(tag: 34, GET) unregistering (last)
+2014-10-25 03:17:39,787+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:39,960+0000 INFO  GetFileHandler Handler(tag: 36, GET) unregistering (last)
+2014-10-25 03:17:39,960+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:39,969+0000 INFO  GetFileHandler Handler(tag: 37, GET) unregistering (last)
+2014-10-25 03:17:39,969+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:39,985+0000 INFO  GetFileHandler Handler(tag: 38, GET) unregistering (last)
+2014-10-25 03:17:39,985+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:39,998+0000 INFO  GetFileHandler Handler(tag: 39, GET) unregistering (last)
+2014-10-25 03:17:39,998+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:40,005+0000 INFO  GetFileHandler Handler(tag: 40, GET) unregistering (last)
+2014-10-25 03:17:40,005+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:40,012+0000 INFO  GetFileHandler Handler(tag: 41, GET) unregistering (last)
+2014-10-25 03:17:40,012+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:40,016+0000 INFO  GetFileHandler Handler(tag: 42, GET) unregistering (last)
+2014-10-25 03:17:40,017+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:40,023+0000 INFO  GetFileHandler Handler(tag: 43, GET) unregistering (last)
+2014-10-25 03:17:40,023+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:40,401+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 1037959168, CrtHeap: 11845632, UsedHeap: 8573944, JVMThreads: 17
+2014-10-25 03:17:40,574+0000 INFO  GetFileHandler Handler(tag: 44, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:40,575+0000 INFO  GetFileHandler Handler(tag: 44, GET) reader: LR-Handler(tag: 44, GET)
+2014-10-25 03:17:40,575+0000 INFO  GetFileHandler Handler(tag: 44, GET) sending length: 6253, 600991570
+2014-10-25 03:17:40,575+0000 INFO  ReadBuffer RB-LR-Handler(tag: 44, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:40,576+0000 INFO  GetFileHandler Handler(tag: 44, GET) unregistering (last)
+2014-10-25 03:17:40,577+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:40,577+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:40,578+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:40,578+0000 INFO  GetFileHandler Handler(tag: 45, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:40,579+0000 INFO  GetFileHandler Handler(tag: 45, GET) reader: LR-Handler(tag: 45, GET)
+2014-10-25 03:17:40,579+0000 INFO  GetFileHandler Handler(tag: 45, GET) sending length: 1661, 1903419694
+2014-10-25 03:17:40,579+0000 INFO  ReadBuffer RB-LR-Handler(tag: 45, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:40,580+0000 INFO  GetFileHandler Handler(tag: 45, GET) unregistering (last)
+2014-10-25 03:17:40,580+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:40,580+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:40,581+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:40,582+0000 INFO  GetFileHandler Handler(tag: 46, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:40,582+0000 INFO  GetFileHandler Handler(tag: 46, GET) reader: LR-Handler(tag: 46, GET)
+2014-10-25 03:17:40,582+0000 INFO  GetFileHandler Handler(tag: 46, GET) sending length: 6253, 337673665
+2014-10-25 03:17:40,582+0000 INFO  ReadBuffer RB-LR-Handler(tag: 46, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:40,584+0000 INFO  GetFileHandler Handler(tag: 46, GET) unregistering (last)
+2014-10-25 03:17:40,587+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:40,588+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:40,588+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:40,639+0000 INFO  GetFileHandler Handler(tag: 47, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:40,639+0000 INFO  GetFileHandler Handler(tag: 47, GET) reader: LR-Handler(tag: 47, GET)
+2014-10-25 03:17:40,639+0000 INFO  GetFileHandler Handler(tag: 47, GET) sending length: 6253, 1393485595
+2014-10-25 03:17:40,640+0000 INFO  ReadBuffer RB-LR-Handler(tag: 47, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:40,641+0000 INFO  GetFileHandler Handler(tag: 47, GET) unregistering (last)
+2014-10-25 03:17:40,643+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:40,643+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:40,644+0000 INFO  GetFileHandler Handler(tag: 48, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:40,644+0000 INFO  GetFileHandler Handler(tag: 48, GET) reader: LR-Handler(tag: 48, GET)
+2014-10-25 03:17:40,644+0000 INFO  GetFileHandler Handler(tag: 48, GET) sending length: 6253, 1764808260
+2014-10-25 03:17:40,644+0000 INFO  ReadBuffer RB-LR-Handler(tag: 48, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:40,644+0000 INFO  ReadBuffer RB-LR-Handler(tag: 48, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:40,644+0000 INFO  LocalIOProvider LR-Handler(tag: 48, GET) rbuf: RB-LR-Handler(tag: 48, GET)
+2014-10-25 03:17:40,646+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:40,646+0000 INFO  GetFileHandler Handler(tag: 48, GET) unregistering (last)
+2014-10-25 03:17:40,651+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:40,652+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-0-1414207053848 status=2 workerid=ip-172-31-27-129:000000
+2014-10-25 03:17:40,654+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-1-1414207053850 status=2 workerid=ip-172-31-28-231:000000
+2014-10-25 03:17:40,654+0000 INFO  GetFileHandler Handler(tag: 51, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:40,655+0000 INFO  GetFileHandler Handler(tag: 51, GET) reader: LR-Handler(tag: 51, GET)
+2014-10-25 03:17:40,655+0000 INFO  GetFileHandler Handler(tag: 51, GET) sending length: 6253, 520501213
+2014-10-25 03:17:40,655+0000 INFO  ReadBuffer RB-LR-Handler(tag: 51, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:40,656+0000 INFO  GetFileHandler Handler(tag: 51, GET) unregistering (last)
+2014-10-25 03:17:40,656+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:40,657+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:40,657+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:40,657+0000 INFO  GetFileHandler Handler(tag: 52, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:40,658+0000 INFO  GetFileHandler Handler(tag: 52, GET) reader: LR-Handler(tag: 52, GET)
+2014-10-25 03:17:40,658+0000 INFO  GetFileHandler Handler(tag: 52, GET) sending length: 6253, 686535619
+2014-10-25 03:17:40,658+0000 INFO  ReadBuffer RB-LR-Handler(tag: 52, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:40,659+0000 INFO  GetFileHandler Handler(tag: 52, GET) unregistering (last)
+2014-10-25 03:17:40,659+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:40,664+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:40,664+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:40,665+0000 INFO  GetFileHandler Handler(tag: 53, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:40,665+0000 INFO  GetFileHandler Handler(tag: 53, GET) reader: LR-Handler(tag: 53, GET)
+2014-10-25 03:17:40,665+0000 INFO  GetFileHandler Handler(tag: 53, GET) sending length: 6253, 257018475
+2014-10-25 03:17:40,668+0000 INFO  ReadBuffer RB-LR-Handler(tag: 53, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:40,669+0000 INFO  GetFileHandler Handler(tag: 53, GET) unregistering (last)
+2014-10-25 03:17:40,669+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:40,669+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:40,670+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:40,671+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-2-1414207053852 status=2 workerid=ip-172-31-29-34:000000
+2014-10-25 03:17:40,726+0000 INFO  GetFileHandler Handler(tag: 55, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:40,726+0000 INFO  GetFileHandler Handler(tag: 55, GET) reader: LR-Handler(tag: 55, GET)
+2014-10-25 03:17:40,727+0000 INFO  GetFileHandler Handler(tag: 55, GET) sending length: 1661, 337770468
+2014-10-25 03:17:40,727+0000 INFO  ReadBuffer RB-LR-Handler(tag: 55, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:40,728+0000 INFO  GetFileHandler Handler(tag: 55, GET) unregistering (last)
+2014-10-25 03:17:40,728+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:40,728+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:40,729+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:40,729+0000 INFO  GetFileHandler Handler(tag: 56, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:40,729+0000 INFO  GetFileHandler Handler(tag: 56, GET) reader: LR-Handler(tag: 56, GET)
+2014-10-25 03:17:40,729+0000 INFO  GetFileHandler Handler(tag: 56, GET) sending length: 6253, 248626007
+2014-10-25 03:17:40,730+0000 INFO  ReadBuffer RB-LR-Handler(tag: 56, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:40,730+0000 INFO  GetFileHandler Handler(tag: 56, GET) unregistering (last)
+2014-10-25 03:17:40,731+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:40,731+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:40,731+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:40,732+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-6-1414207053860 status=2 workerid=ip-172-31-23-128:000000
+2014-10-25 03:17:40,733+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-8-1414207053862 status=2 workerid=ip-172-31-24-144:000000
+2014-10-25 03:17:40,734+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-5-1414207053858 status=2 workerid=ip-172-31-19-91:000000
+2014-10-25 03:17:40,735+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-7-1414207053864 status=2 workerid=ip-172-31-25-35:000000
+2014-10-25 03:17:40,814+0000 INFO  GetFileHandler Handler(tag: 61, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:40,815+0000 INFO  GetFileHandler Handler(tag: 61, GET) reader: LR-Handler(tag: 61, GET)
+2014-10-25 03:17:40,819+0000 INFO  GetFileHandler Handler(tag: 61, GET) sending length: 6253, 434883350
+2014-10-25 03:17:40,820+0000 INFO  ReadBuffer RB-LR-Handler(tag: 61, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:40,820+0000 INFO  GetFileHandler Handler(tag: 61, GET) unregistering (last)
+2014-10-25 03:17:40,822+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:40,823+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:40,823+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:40,826+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-4-1414207053856 status=2 workerid=ip-172-31-28-27:000000
+2014-10-25 03:17:40,827+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-1-1414207053850 status=17
+2014-10-25 03:17:40,829+0000 INFO  PutFileHandler Handler(tag: 64, PUT) source: /home/ubuntu//wordcount-run001/jobs/7/java-7o512bzl/count2.txt
+2014-10-25 03:17:40,833+0000 INFO  PutFileHandler Handler(tag: 64, PUT) destination: file://localhost//home/ubuntu/count2.txt
+2014-10-25 03:17:40,835+0000 INFO  PutFileHandler Handler(tag: 64, PUT) Transfer done
+2014-10-25 03:17:40,836+0000 INFO  PutFileHandler Handler(tag: 65, PUT) source: /home/ubuntu//wordcount-run001/jobs/7/java-7o512bzl/wrapper.log
+2014-10-25 03:17:40,837+0000 INFO  PutFileHandler Handler(tag: 65, PUT) destination: file://localhost/run001/wordcount-run001.d/java-7o512bzl.info
+2014-10-25 03:17:40,837+0000 INFO  PutFileHandler Handler(tag: 65, PUT) Transfer done
+2014-10-25 03:17:40,838+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-0-1414207053848 status=17
+2014-10-25 03:17:40,840+0000 INFO  PutFileHandler Handler(tag: 67, PUT) source: /home/ubuntu//wordcount-run001/jobs/6/java-6o512bzl/count1.txt
+2014-10-25 03:17:40,840+0000 INFO  PutFileHandler Handler(tag: 67, PUT) destination: file://localhost//home/ubuntu/count1.txt
+2014-10-25 03:17:40,840+0000 INFO  PutFileHandler Handler(tag: 67, PUT) Transfer done
+2014-10-25 03:17:40,841+0000 INFO  PutFileHandler Handler(tag: 68, PUT) source: /home/ubuntu//wordcount-run001/jobs/6/java-6o512bzl/wrapper.log
+2014-10-25 03:17:40,842+0000 INFO  PutFileHandler Handler(tag: 68, PUT) destination: file://localhost/run001/wordcount-run001.d/java-6o512bzl.info
+2014-10-25 03:17:40,842+0000 INFO  PutFileHandler Handler(tag: 68, PUT) Transfer done
+2014-10-25 03:17:40,894+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-3-1414207053854 status=2 workerid=ip-172-31-27-199:000000
+2014-10-25 03:17:40,895+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-2-1414207053852 status=17
+2014-10-25 03:17:40,896+0000 INFO  PutFileHandler Handler(tag: 71, PUT) source: /home/ubuntu//wordcount-run001/jobs/8/java-8o512bzl/count3.txt
+2014-10-25 03:17:40,896+0000 INFO  PutFileHandler Handler(tag: 71, PUT) destination: file://localhost//home/ubuntu/count3.txt
+2014-10-25 03:17:40,897+0000 INFO  PutFileHandler Handler(tag: 71, PUT) Transfer done
+2014-10-25 03:17:40,900+0000 INFO  PutFileHandler Handler(tag: 72, PUT) source: /home/ubuntu//wordcount-run001/jobs/8/java-8o512bzl/wrapper.log
+2014-10-25 03:17:40,900+0000 INFO  PutFileHandler Handler(tag: 72, PUT) destination: file://localhost/run001/wordcount-run001.d/java-8o512bzl.info
+2014-10-25 03:17:40,901+0000 INFO  PutFileHandler Handler(tag: 72, PUT) Transfer done
+2014-10-25 03:17:40,902+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:40,905+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-1-1414207053850 status=7
+2014-10-25 03:17:40,906+0000 DEBUG swift JOB_END jobid=java-7o512bzl
+2014-10-25 03:17:40,907+0000 INFO  swift END_SUCCESS thread=R-1 tr=java
+2014-10-25 03:17:40,907+0000 DEBUG swift PROCEDURE_END line=9 thread=R-1 name=wordcount
+2014-10-25 03:17:40,916+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:40,917+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-0-1414207053848 status=7
+2014-10-25 03:17:40,917+0000 DEBUG swift JOB_END jobid=java-6o512bzl
+2014-10-25 03:17:40,917+0000 INFO  swift END_SUCCESS thread=R-0 tr=java
+2014-10-25 03:17:40,918+0000 DEBUG swift PROCEDURE_END line=9 thread=R-0 name=wordcount
+2014-10-25 03:17:40,927+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-9-1414207053866 status=16 workerid=ip-172-31-28-231:000000
+2014-10-25 03:17:40,928+0000 INFO  GetFileHandler Handler(tag: 80, GET) request complete; src=file://localhost//home/ubuntu/words10.txt
+2014-10-25 03:17:40,930+0000 INFO  GetFileHandler Handler(tag: 80, GET) reader: LR-Handler(tag: 80, GET)
+2014-10-25 03:17:40,930+0000 INFO  GetFileHandler Handler(tag: 80, GET) sending length: 5914240, 193276645
+2014-10-25 03:17:40,931+0000 INFO  ReadBuffer RB-LR-Handler(tag: 80, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:40,936+0000 INFO  ReadBuffer RB-LR-Handler(tag: 80, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:40,939+0000 INFO  LocalIOProvider LR-Handler(tag: 80, GET) rbuf: RB-LR-Handler(tag: 80, GET)
+2014-10-25 03:17:40,944+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-11-1414207053868 status=16 workerid=ip-172-31-27-129:000000
+2014-10-25 03:17:40,945+0000 INFO  GetFileHandler Handler(tag: 82, GET) request complete; src=file://localhost//home/ubuntu/words12.txt
+2014-10-25 03:17:40,945+0000 INFO  GetFileHandler Handler(tag: 82, GET) reader: LR-Handler(tag: 82, GET)
+2014-10-25 03:17:40,946+0000 INFO  GetFileHandler Handler(tag: 82, GET) sending length: 5914240, 602710225
+2014-10-25 03:17:40,946+0000 INFO  ReadBuffer RB-LR-Handler(tag: 82, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:40,947+0000 INFO  ReadBuffer RB-LR-Handler(tag: 82, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:40,948+0000 INFO  LocalIOProvider LR-Handler(tag: 82, GET) rbuf: RB-LR-Handler(tag: 82, GET)
+2014-10-25 03:17:40,948+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-5-1414207053858 status=17
+2014-10-25 03:17:40,950+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-6-1414207053860 status=17
+2014-10-25 03:17:40,952+0000 INFO  PutFileHandler Handler(tag: 85, PUT) source: /home/ubuntu//wordcount-run001/jobs/b/java-bo512bzl/wrapper.log
+2014-10-25 03:17:40,952+0000 INFO  PutFileHandler Handler(tag: 85, PUT) destination: file://localhost/run001/wordcount-run001.d/java-bo512bzl.info
+2014-10-25 03:17:40,953+0000 INFO  PutFileHandler Handler(tag: 86, PUT) source: /home/ubuntu//wordcount-run001/jobs/c/java-co512bzl/count7.txt
+2014-10-25 03:17:40,954+0000 INFO  PutFileHandler Handler(tag: 86, PUT) destination: file://localhost//home/ubuntu/count7.txt
+2014-10-25 03:17:40,955+0000 INFO  PutFileHandler Handler(tag: 85, PUT) Transfer done
+2014-10-25 03:17:40,956+0000 INFO  PutFileHandler Handler(tag: 86, PUT) Transfer done
+2014-10-25 03:17:40,961+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-8-1414207053862 status=17
+2014-10-25 03:17:40,963+0000 INFO  PutFileHandler Handler(tag: 88, PUT) source: /home/ubuntu//wordcount-run001/jobs/b/java-bo512bzl/count6.txt
+2014-10-25 03:17:40,964+0000 INFO  PutFileHandler Handler(tag: 88, PUT) destination: file://localhost//home/ubuntu/count6.txt
+2014-10-25 03:17:40,966+0000 INFO  PutFileHandler Handler(tag: 89, PUT) source: /home/ubuntu//wordcount-run001/jobs/c/java-co512bzl/wrapper.log
+2014-10-25 03:17:40,967+0000 INFO  PutFileHandler Handler(tag: 89, PUT) destination: file://localhost/run001/wordcount-run001.d/java-co512bzl.info
+2014-10-25 03:17:40,970+0000 INFO  PutFileHandler Handler(tag: 88, PUT) Transfer done
+2014-10-25 03:17:40,971+0000 INFO  PutFileHandler Handler(tag: 89, PUT) Transfer done
+2014-10-25 03:17:40,974+0000 INFO  PutFileHandler Handler(tag: 90, PUT) source: /home/ubuntu//wordcount-run001/jobs/d/java-do512bzl/wrapper.log
+2014-10-25 03:17:40,975+0000 INFO  PutFileHandler Handler(tag: 90, PUT) destination: file://localhost/run001/wordcount-run001.d/java-do512bzl.info
+2014-10-25 03:17:40,978+0000 INFO  PutFileHandler Handler(tag: 90, PUT) Transfer done
+2014-10-25 03:17:40,979+0000 INFO  PutFileHandler Handler(tag: 91, PUT) source: /home/ubuntu//wordcount-run001/jobs/d/java-do512bzl/count9.txt
+2014-10-25 03:17:40,980+0000 INFO  PutFileHandler Handler(tag: 91, PUT) destination: file://localhost//home/ubuntu/count9.txt
+2014-10-25 03:17:40,982+0000 INFO  PutFileHandler Handler(tag: 91, PUT) Transfer done
+2014-10-25 03:17:40,983+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:40,987+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-2-1414207053852 status=7
+2014-10-25 03:17:40,989+0000 DEBUG swift JOB_END jobid=java-8o512bzl
+2014-10-25 03:17:40,990+0000 INFO  swift END_SUCCESS thread=R-2 tr=java
+2014-10-25 03:17:40,990+0000 DEBUG swift PROCEDURE_END line=9 thread=R-2 name=wordcount
+2014-10-25 03:17:40,993+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-13-1414207053870 status=16 workerid=ip-172-31-29-34:000000
+2014-10-25 03:17:40,996+0000 INFO  GetFileHandler Handler(tag: 96, GET) request complete; src=file://localhost//home/ubuntu/words14.txt
+2014-10-25 03:17:40,997+0000 INFO  GetFileHandler Handler(tag: 96, GET) reader: LR-Handler(tag: 96, GET)
+2014-10-25 03:17:40,998+0000 INFO  GetFileHandler Handler(tag: 96, GET) sending length: 5914240, 185872597
+2014-10-25 03:17:40,999+0000 INFO  ReadBuffer RB-LR-Handler(tag: 96, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:40,999+0000 INFO  ReadBuffer RB-LR-Handler(tag: 96, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:40,999+0000 INFO  LocalIOProvider LR-Handler(tag: 96, GET) rbuf: RB-LR-Handler(tag: 96, GET)
+2014-10-25 03:17:41,006+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-7-1414207053864 status=17
+2014-10-25 03:17:41,007+0000 INFO  PutFileHandler Handler(tag: 98, PUT) source: /home/ubuntu//wordcount-run001/jobs/e/java-eo512bzl/wrapper.log
+2014-10-25 03:17:41,008+0000 INFO  PutFileHandler Handler(tag: 98, PUT) destination: file://localhost/run001/wordcount-run001.d/java-eo512bzl.info
+2014-10-25 03:17:41,008+0000 INFO  PutFileHandler Handler(tag: 98, PUT) Transfer done
+2014-10-25 03:17:41,011+0000 INFO  PutFileHandler Handler(tag: 99, PUT) source: /home/ubuntu//wordcount-run001/jobs/e/java-eo512bzl/count8.txt
+2014-10-25 03:17:41,014+0000 INFO  PutFileHandler Handler(tag: 99, PUT) destination: file://localhost//home/ubuntu/count8.txt
+2014-10-25 03:17:41,017+0000 INFO  PutFileHandler Handler(tag: 99, PUT) Transfer done
+2014-10-25 03:17:41,019+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-4-1414207053856 status=17
+2014-10-25 03:17:41,021+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:41,024+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-8-1414207053862 status=7
+2014-10-25 03:17:41,033+0000 DEBUG swift JOB_END jobid=java-do512bzl
+2014-10-25 03:17:41,033+0000 INFO  swift END_SUCCESS thread=R-8 tr=java
+2014-10-25 03:17:41,033+0000 DEBUG swift PROCEDURE_END line=9 thread=R-8 name=wordcount
+2014-10-25 03:17:41,038+0000 INFO  PutFileHandler Handler(tag: 103, PUT) source: /home/ubuntu//wordcount-run001/jobs/a/java-ao512bzl/wrapper.log
+2014-10-25 03:17:41,038+0000 INFO  PutFileHandler Handler(tag: 103, PUT) destination: file://localhost/run001/wordcount-run001.d/java-ao512bzl.info
+2014-10-25 03:17:41,042+0000 INFO  PutFileHandler Handler(tag: 103, PUT) Transfer done
+2014-10-25 03:17:41,046+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:41,047+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-6-1414207053860 status=7
+2014-10-25 03:17:41,050+0000 DEBUG swift JOB_END jobid=java-co512bzl
+2014-10-25 03:17:41,050+0000 INFO  swift END_SUCCESS thread=R-6 tr=java
+2014-10-25 03:17:41,050+0000 DEBUG swift PROCEDURE_END line=9 thread=R-6 name=wordcount
+2014-10-25 03:17:41,056+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:41,058+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-5-1414207053858 status=7
+2014-10-25 03:17:41,059+0000 DEBUG swift JOB_END jobid=java-bo512bzl
+2014-10-25 03:17:41,060+0000 INFO  swift END_SUCCESS thread=R-5 tr=java
+2014-10-25 03:17:41,060+0000 DEBUG swift PROCEDURE_END line=9 thread=R-5 name=wordcount
+2014-10-25 03:17:41,069+0000 INFO  PutFileHandler Handler(tag: 108, PUT) source: /home/ubuntu//wordcount-run001/jobs/a/java-ao512bzl/count5.txt
+2014-10-25 03:17:41,070+0000 INFO  PutFileHandler Handler(tag: 108, PUT) destination: file://localhost//home/ubuntu/count5.txt
+2014-10-25 03:17:41,075+0000 INFO  PutFileHandler Handler(tag: 108, PUT) Transfer done
+2014-10-25 03:17:41,084+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-10-1414207053872 status=16 workerid=ip-172-31-24-144:000000
+2014-10-25 03:17:41,085+0000 INFO  GetFileHandler Handler(tag: 113, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:41,089+0000 INFO  GetFileHandler Handler(tag: 113, GET) reader: LR-Handler(tag: 113, GET)
+2014-10-25 03:17:41,089+0000 INFO  GetFileHandler Handler(tag: 113, GET) sending length: 1661, 2074409908
+2014-10-25 03:17:41,092+0000 INFO  ReadBuffer RB-LR-Handler(tag: 113, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:41,093+0000 INFO  GetFileHandler Handler(tag: 113, GET) unregistering (last)
+2014-10-25 03:17:41,093+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:41,093+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:41,093+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:41,097+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-14-1414207053874 status=16 workerid=ip-172-31-23-128:000000
+2014-10-25 03:17:41,100+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-12-1414207053876 status=16 workerid=ip-172-31-19-91:000000
+2014-10-25 03:17:41,101+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-3-1414207053854 status=17
+2014-10-25 03:17:41,109+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:41,110+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-7-1414207053864 status=7
+2014-10-25 03:17:41,112+0000 DEBUG swift JOB_END jobid=java-eo512bzl
+2014-10-25 03:17:41,112+0000 INFO  swift END_SUCCESS thread=R-7 tr=java
+2014-10-25 03:17:41,112+0000 DEBUG swift PROCEDURE_END line=9 thread=R-7 name=wordcount
+2014-10-25 03:17:41,115+0000 INFO  GetFileHandler Handler(tag: 118, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:41,115+0000 INFO  GetFileHandler Handler(tag: 118, GET) reader: LR-Handler(tag: 118, GET)
+2014-10-25 03:17:41,115+0000 INFO  GetFileHandler Handler(tag: 118, GET) sending length: 1661, 2077712545
+2014-10-25 03:17:41,115+0000 INFO  ReadBuffer RB-LR-Handler(tag: 118, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:41,117+0000 INFO  ReadBuffer RB-LR-Handler(tag: 118, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:41,117+0000 INFO  LocalIOProvider LR-Handler(tag: 118, GET) rbuf: RB-LR-Handler(tag: 118, GET)
+2014-10-25 03:17:41,118+0000 INFO  GetFileHandler Handler(tag: 118, GET) unregistering (last)
+2014-10-25 03:17:41,120+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:41,121+0000 INFO  GetFileHandler Handler(tag: 119, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:41,122+0000 INFO  GetFileHandler Handler(tag: 119, GET) reader: LR-Handler(tag: 119, GET)
+2014-10-25 03:17:41,123+0000 INFO  GetFileHandler Handler(tag: 119, GET) sending length: 1661, 2133283353
+2014-10-25 03:17:41,123+0000 INFO  ReadBuffer RB-LR-Handler(tag: 119, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:41,123+0000 INFO  ReadBuffer RB-LR-Handler(tag: 119, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:41,124+0000 INFO  GetFileHandler Handler(tag: 119, GET) unregistering (last)
+2014-10-25 03:17:41,130+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:41,132+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:41,132+0000 INFO  PutFileHandler Handler(tag: 120, PUT) source: /home/ubuntu//wordcount-run001/jobs/9/java-9o512bzl/count4.txt
+2014-10-25 03:17:41,132+0000 INFO  PutFileHandler Handler(tag: 120, PUT) destination: file://localhost//home/ubuntu/count4.txt
+2014-10-25 03:17:41,133+0000 INFO  PutFileHandler Handler(tag: 120, PUT) Transfer done
+2014-10-25 03:17:41,134+0000 INFO  PutFileHandler Handler(tag: 121, PUT) source: /home/ubuntu//wordcount-run001/jobs/9/java-9o512bzl/wrapper.log
+2014-10-25 03:17:41,135+0000 INFO  PutFileHandler Handler(tag: 121, PUT) destination: file://localhost/run001/wordcount-run001.d/java-9o512bzl.info
+2014-10-25 03:17:41,136+0000 INFO  PutFileHandler Handler(tag: 121, PUT) Transfer done
+2014-10-25 03:17:41,139+0000 INFO  GetFileHandler Handler(tag: 122, GET) request complete; src=file://localhost//home/ubuntu/words11.txt
+2014-10-25 03:17:41,139+0000 INFO  GetFileHandler Handler(tag: 122, GET) reader: LR-Handler(tag: 122, GET)
+2014-10-25 03:17:41,140+0000 INFO  GetFileHandler Handler(tag: 122, GET) sending length: 5914240, 1278138024
+2014-10-25 03:17:41,140+0000 INFO  ReadBuffer RB-LR-Handler(tag: 122, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:41,140+0000 INFO  ReadBuffer RB-LR-Handler(tag: 122, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:41,141+0000 INFO  LocalIOProvider LR-Handler(tag: 122, GET) rbuf: RB-LR-Handler(tag: 122, GET)
+2014-10-25 03:17:41,147+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:41,151+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-4-1414207053856 status=7
+2014-10-25 03:17:41,152+0000 DEBUG swift JOB_END jobid=java-ao512bzl
+2014-10-25 03:17:41,152+0000 INFO  swift END_SUCCESS thread=R-4 tr=java
+2014-10-25 03:17:41,153+0000 DEBUG swift PROCEDURE_END line=9 thread=R-4 name=wordcount
+2014-10-25 03:17:41,190+0000 INFO  GetFileHandler Handler(tag: 124, GET) request complete; src=file://localhost//home/ubuntu/words13.txt
+2014-10-25 03:17:41,190+0000 INFO  GetFileHandler Handler(tag: 124, GET) reader: LR-Handler(tag: 124, GET)
+2014-10-25 03:17:41,190+0000 INFO  GetFileHandler Handler(tag: 124, GET) sending length: 5914240, 695734861
+2014-10-25 03:17:41,190+0000 INFO  ReadBuffer RB-LR-Handler(tag: 124, GET) will ask for 8 buffers for a size of 5914240
+2014-10-25 03:17:41,190+0000 INFO  ReadBuffer RB-LR-Handler(tag: 124, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:41,191+0000 INFO  LocalIOProvider LR-Handler(tag: 124, GET) rbuf: RB-LR-Handler(tag: 124, GET)
+2014-10-25 03:17:41,191+0000 INFO  GetFileHandler Handler(tag: 125, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:41,191+0000 INFO  GetFileHandler Handler(tag: 125, GET) reader: LR-Handler(tag: 125, GET)
+2014-10-25 03:17:41,191+0000 INFO  GetFileHandler Handler(tag: 125, GET) sending length: 6253, 1610684061
+2014-10-25 03:17:41,191+0000 INFO  ReadBuffer RB-LR-Handler(tag: 125, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:41,191+0000 INFO  ReadBuffer RB-LR-Handler(tag: 125, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:41,191+0000 INFO  LocalIOProvider LR-Handler(tag: 125, GET) rbuf: RB-LR-Handler(tag: 125, GET)
+2014-10-25 03:17:41,195+0000 INFO  GetFileHandler Handler(tag: 125, GET) unregistering (last)
+2014-10-25 03:17:41,199+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:41,199+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:41,200+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-3-1414207053854 status=7
+2014-10-25 03:17:41,200+0000 DEBUG swift JOB_END jobid=java-9o512bzl
+2014-10-25 03:17:41,201+0000 INFO  swift END_SUCCESS thread=R-3 tr=java
+2014-10-25 03:17:41,201+0000 DEBUG swift PROCEDURE_END line=9 thread=R-3 name=wordcount
+2014-10-25 03:17:41,263+0000 INFO  GetFileHandler Handler(tag: 127, GET) request complete; src=file://localhost//home/ubuntu/words15.txt
+2014-10-25 03:17:41,263+0000 INFO  GetFileHandler Handler(tag: 127, GET) reader: LR-Handler(tag: 127, GET)
+2014-10-25 03:17:41,263+0000 INFO  GetFileHandler Handler(tag: 127, GET) sending length: 5914241, 1122669771
+2014-10-25 03:17:41,263+0000 INFO  ReadBuffer RB-LR-Handler(tag: 127, GET) will ask for 8 buffers for a size of 5914241
+2014-10-25 03:17:41,264+0000 INFO  ReadBuffer RB-LR-Handler(tag: 127, GET) actual allocated buffers 8(0 queued)
+2014-10-25 03:17:41,264+0000 INFO  LocalIOProvider LR-Handler(tag: 127, GET) rbuf: RB-LR-Handler(tag: 127, GET)
+2014-10-25 03:17:41,406+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 1037959168, CrtHeap: 11845632, UsedHeap: 8423368, JVMThreads: 17
+2014-10-25 03:17:41,406+0000 INFO  RuntimeStats$ProgressTicker   Stage in:6  Finished successfully:9
+2014-10-25 03:17:41,463+0000 INFO  GetFileHandler Handler(tag: 80, GET) unregistering (last)
+2014-10-25 03:17:41,464+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:41,550+0000 INFO  GetFileHandler Handler(tag: 82, GET) unregistering (last)
+2014-10-25 03:17:41,551+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:41,620+0000 INFO  GetFileHandler Handler(tag: 96, GET) unregistering (last)
+2014-10-25 03:17:41,620+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:41,681+0000 INFO  GetFileHandler Handler(tag: 122, GET) unregistering (last)
+2014-10-25 03:17:41,681+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:41,698+0000 INFO  GetFileHandler Handler(tag: 124, GET) unregistering (last)
+2014-10-25 03:17:41,701+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:41,709+0000 INFO  GetFileHandler Handler(tag: 127, GET) unregistering (last)
+2014-10-25 03:17:41,709+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 8 buffers
+2014-10-25 03:17:41,786+0000 INFO  GetFileHandler Handler(tag: 128, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:41,786+0000 INFO  GetFileHandler Handler(tag: 128, GET) reader: LR-Handler(tag: 128, GET)
+2014-10-25 03:17:41,786+0000 INFO  GetFileHandler Handler(tag: 128, GET) sending length: 1661, 75331945
+2014-10-25 03:17:41,787+0000 INFO  ReadBuffer RB-LR-Handler(tag: 128, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:41,787+0000 INFO  GetFileHandler Handler(tag: 128, GET) unregistering (last)
+2014-10-25 03:17:41,788+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:41,788+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:41,788+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:41,882+0000 INFO  GetFileHandler Handler(tag: 129, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:41,882+0000 INFO  GetFileHandler Handler(tag: 129, GET) reader: LR-Handler(tag: 129, GET)
+2014-10-25 03:17:41,882+0000 INFO  GetFileHandler Handler(tag: 129, GET) sending length: 6253, 1100155928
+2014-10-25 03:17:41,883+0000 INFO  ReadBuffer RB-LR-Handler(tag: 129, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:41,883+0000 INFO  GetFileHandler Handler(tag: 129, GET) unregistering (last)
+2014-10-25 03:17:41,884+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:41,884+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:41,884+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:41,946+0000 INFO  GetFileHandler Handler(tag: 130, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:41,946+0000 INFO  GetFileHandler Handler(tag: 130, GET) reader: LR-Handler(tag: 130, GET)
+2014-10-25 03:17:41,946+0000 INFO  GetFileHandler Handler(tag: 130, GET) sending length: 1661, 1037624042
+2014-10-25 03:17:41,947+0000 INFO  ReadBuffer RB-LR-Handler(tag: 130, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:41,950+0000 INFO  ReadBuffer RB-LR-Handler(tag: 130, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:41,950+0000 INFO  LocalIOProvider LR-Handler(tag: 130, GET) rbuf: RB-LR-Handler(tag: 130, GET)
+2014-10-25 03:17:41,950+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-9-1414207053866 status=2 workerid=ip-172-31-28-231:000000
+2014-10-25 03:17:41,951+0000 INFO  GetFileHandler Handler(tag: 130, GET) unregistering (last)
+2014-10-25 03:17:41,951+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:42,042+0000 INFO  GetFileHandler Handler(tag: 132, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:42,043+0000 INFO  GetFileHandler Handler(tag: 132, GET) reader: LR-Handler(tag: 132, GET)
+2014-10-25 03:17:42,043+0000 INFO  GetFileHandler Handler(tag: 132, GET) sending length: 6253, 1728066150
+2014-10-25 03:17:42,043+0000 INFO  ReadBuffer RB-LR-Handler(tag: 132, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:42,044+0000 INFO  GetFileHandler Handler(tag: 132, GET) unregistering (last)
+2014-10-25 03:17:42,044+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:42,044+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:42,045+0000 INFO  GetFileHandler Handler(tag: 133, GET) request complete; src=file://localhost//home/ubuntu/Wordcount.jar
+2014-10-25 03:17:42,045+0000 INFO  GetFileHandler Handler(tag: 133, GET) reader: LR-Handler(tag: 133, GET)
+2014-10-25 03:17:42,045+0000 INFO  GetFileHandler Handler(tag: 133, GET) sending length: 1661, 1438700451
+2014-10-25 03:17:42,045+0000 INFO  ReadBuffer RB-LR-Handler(tag: 133, GET) will ask for 1 buffers for a size of 1661
+2014-10-25 03:17:42,045+0000 INFO  ReadBuffer RB-LR-Handler(tag: 133, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:42,045+0000 INFO  LocalIOProvider LR-Handler(tag: 133, GET) rbuf: RB-LR-Handler(tag: 133, GET)
+2014-10-25 03:17:42,045+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:42,045+0000 INFO  GetFileHandler Handler(tag: 133, GET) unregistering (last)
+2014-10-25 03:17:42,045+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:42,158+0000 INFO  GetFileHandler Handler(tag: 134, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:42,159+0000 INFO  GetFileHandler Handler(tag: 134, GET) reader: LR-Handler(tag: 134, GET)
+2014-10-25 03:17:42,159+0000 INFO  GetFileHandler Handler(tag: 134, GET) sending length: 6253, 268683974
+2014-10-25 03:17:42,160+0000 INFO  ReadBuffer RB-LR-Handler(tag: 134, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:42,160+0000 INFO  GetFileHandler Handler(tag: 134, GET) unregistering (last)
+2014-10-25 03:17:42,160+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:42,161+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:42,161+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:42,162+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-11-1414207053868 status=2 workerid=ip-172-31-27-129:000000
+2014-10-25 03:17:42,163+0000 INFO  GetFileHandler Handler(tag: 136, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:42,163+0000 INFO  GetFileHandler Handler(tag: 136, GET) reader: LR-Handler(tag: 136, GET)
+2014-10-25 03:17:42,164+0000 INFO  GetFileHandler Handler(tag: 136, GET) sending length: 6253, 1213120174
+2014-10-25 03:17:42,164+0000 INFO  ReadBuffer RB-LR-Handler(tag: 136, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:42,165+0000 INFO  GetFileHandler Handler(tag: 136, GET) unregistering (last)
+2014-10-25 03:17:42,165+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:42,165+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:42,165+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:42,222+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-9-1414207053866 status=17
+2014-10-25 03:17:42,223+0000 INFO  PutFileHandler Handler(tag: 138, PUT) source: /home/ubuntu//wordcount-run001/jobs/f/java-fo512bzl/wrapper.log
+2014-10-25 03:17:42,223+0000 INFO  PutFileHandler Handler(tag: 138, PUT) destination: file://localhost/run001/wordcount-run001.d/java-fo512bzl.info
+2014-10-25 03:17:42,224+0000 INFO  PutFileHandler Handler(tag: 138, PUT) Transfer done
+2014-10-25 03:17:42,225+0000 INFO  PutFileHandler Handler(tag: 139, PUT) source: /home/ubuntu//wordcount-run001/jobs/f/java-fo512bzl/count10.txt
+2014-10-25 03:17:42,226+0000 INFO  PutFileHandler Handler(tag: 139, PUT) destination: file://localhost//home/ubuntu/count10.txt
+2014-10-25 03:17:42,233+0000 INFO  PutFileHandler Handler(tag: 139, PUT) Transfer done
+2014-10-25 03:17:42,235+0000 INFO  GetFileHandler Handler(tag: 140, GET) request complete; src=file://localhost//home/ubuntu/swift-trunk/libexec/_swiftwrap.staging
+2014-10-25 03:17:42,238+0000 INFO  GetFileHandler Handler(tag: 140, GET) reader: LR-Handler(tag: 140, GET)
+2014-10-25 03:17:42,238+0000 INFO  GetFileHandler Handler(tag: 140, GET) sending length: 6253, 98968024
+2014-10-25 03:17:42,239+0000 INFO  ReadBuffer RB-LR-Handler(tag: 140, GET) will ask for 1 buffers for a size of 6253
+2014-10-25 03:17:42,239+0000 INFO  GetFileHandler Handler(tag: 140, GET) unregistering (last)
+2014-10-25 03:17:42,239+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) actual allocated buffers 1(0 queued)
+2014-10-25 03:17:42,240+0000 INFO  ReadBuffer RB-LR-Handler(tag: -1, GET) de-allocating 1 buffers
+2014-10-25 03:17:42,240+0000 INFO  LocalIOProvider LR-Handler(tag: -1, GET) rbuf: RB-LR-Handler(tag: -1, GET)
+2014-10-25 03:17:42,242+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-10-1414207053872 status=2 workerid=ip-172-31-24-144:000000
+2014-10-25 03:17:42,243+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-14-1414207053874 status=2 workerid=ip-172-31-23-128:000000
+2014-10-25 03:17:42,244+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-13-1414207053870 status=2 workerid=ip-172-31-29-34:000000
+2014-10-25 03:17:42,318+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:42,318+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-9-1414207053866 status=7
+2014-10-25 03:17:42,319+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-12-1414207053876 status=2 workerid=ip-172-31-19-91:000000
+2014-10-25 03:17:42,319+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-11-1414207053868 status=17
+2014-10-25 03:17:42,320+0000 INFO  PutFileHandler Handler(tag: 147, PUT) source: /home/ubuntu//wordcount-run001/jobs/g/java-go512bzl/count12.txt
+2014-10-25 03:17:42,320+0000 INFO  PutFileHandler Handler(tag: 147, PUT) destination: file://localhost//home/ubuntu/count12.txt
+2014-10-25 03:17:42,321+0000 DEBUG swift JOB_END jobid=java-fo512bzl
+2014-10-25 03:17:42,321+0000 INFO  swift END_SUCCESS thread=R-9 tr=java
+2014-10-25 03:17:42,321+0000 DEBUG swift PROCEDURE_END line=9 thread=R-9 name=wordcount
+2014-10-25 03:17:42,331+0000 INFO  PutFileHandler Handler(tag: 147, PUT) Transfer done
+2014-10-25 03:17:42,333+0000 INFO  PutFileHandler Handler(tag: 148, PUT) source: /home/ubuntu//wordcount-run001/jobs/g/java-go512bzl/wrapper.log
+2014-10-25 03:17:42,333+0000 INFO  PutFileHandler Handler(tag: 148, PUT) destination: file://localhost/run001/wordcount-run001.d/java-go512bzl.info
+2014-10-25 03:17:42,333+0000 INFO  PutFileHandler Handler(tag: 148, PUT) Transfer done
+2014-10-25 03:17:42,407+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 1037959168, CrtHeap: 11845632, UsedHeap: 6123808, JVMThreads: 17
+2014-10-25 03:17:42,407+0000 INFO  RuntimeStats$ProgressTicker   Active:4  Stage out:1  Finished successfully:10
+2014-10-25 03:17:42,418+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:42,419+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-11-1414207053868 status=7
+2014-10-25 03:17:42,419+0000 DEBUG swift JOB_END jobid=java-go512bzl
+2014-10-25 03:17:42,420+0000 INFO  swift END_SUCCESS thread=R-11 tr=java
+2014-10-25 03:17:42,420+0000 DEBUG swift PROCEDURE_END line=9 thread=R-11 name=wordcount
+2014-10-25 03:17:42,421+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-10-1414207053872 status=17
+2014-10-25 03:17:42,422+0000 INFO  PutFileHandler Handler(tag: 151, PUT) source: /home/ubuntu//wordcount-run001/jobs/i/java-io512bzl/wrapper.log
+2014-10-25 03:17:42,422+0000 INFO  PutFileHandler Handler(tag: 151, PUT) destination: file://localhost/run001/wordcount-run001.d/java-io512bzl.info
+2014-10-25 03:17:42,423+0000 INFO  PutFileHandler Handler(tag: 152, PUT) source: /home/ubuntu//wordcount-run001/jobs/i/java-io512bzl/count11.txt
+2014-10-25 03:17:42,423+0000 INFO  PutFileHandler Handler(tag: 152, PUT) destination: file://localhost//home/ubuntu/count11.txt
+2014-10-25 03:17:42,423+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-14-1414207053874 status=17
+2014-10-25 03:17:42,428+0000 INFO  PutFileHandler Handler(tag: 151, PUT) Transfer done
+2014-10-25 03:17:42,429+0000 INFO  PutFileHandler Handler(tag: 152, PUT) Transfer done
+2014-10-25 03:17:42,430+0000 INFO  PutFileHandler Handler(tag: 154, PUT) source: /home/ubuntu//wordcount-run001/jobs/j/java-jo512bzl/count15.txt
+2014-10-25 03:17:42,432+0000 INFO  PutFileHandler Handler(tag: 154, PUT) destination: file://localhost//home/ubuntu/count15.txt
+2014-10-25 03:17:42,432+0000 INFO  PutFileHandler Handler(tag: 154, PUT) Transfer done
+2014-10-25 03:17:42,433+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-13-1414207053870 status=17
+2014-10-25 03:17:42,434+0000 INFO  PutFileHandler Handler(tag: 156, PUT) source: /home/ubuntu//wordcount-run001/jobs/j/java-jo512bzl/wrapper.log
+2014-10-25 03:17:42,436+0000 INFO  PutFileHandler Handler(tag: 156, PUT) destination: file://localhost/run001/wordcount-run001.d/java-jo512bzl.info
+2014-10-25 03:17:42,436+0000 INFO  PutFileHandler Handler(tag: 156, PUT) Transfer done
+2014-10-25 03:17:42,437+0000 INFO  PutFileHandler Handler(tag: 157, PUT) source: /home/ubuntu//wordcount-run001/jobs/h/java-ho512bzl/count14.txt
+2014-10-25 03:17:42,437+0000 INFO  PutFileHandler Handler(tag: 157, PUT) destination: file://localhost//home/ubuntu/count14.txt
+2014-10-25 03:17:42,438+0000 INFO  PutFileHandler Handler(tag: 157, PUT) Transfer done
+2014-10-25 03:17:42,438+0000 INFO  PutFileHandler Handler(tag: 158, PUT) source: /home/ubuntu//wordcount-run001/jobs/h/java-ho512bzl/wrapper.log
+2014-10-25 03:17:42,439+0000 INFO  PutFileHandler Handler(tag: 158, PUT) destination: file://localhost/run001/wordcount-run001.d/java-ho512bzl.info
+2014-10-25 03:17:42,439+0000 INFO  PutFileHandler Handler(tag: 158, PUT) Transfer done
+2014-10-25 03:17:42,486+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:42,487+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-10-1414207053872 status=7
+2014-10-25 03:17:42,487+0000 DEBUG swift JOB_END jobid=java-io512bzl
+2014-10-25 03:17:42,488+0000 INFO  swift END_SUCCESS thread=R-10 tr=java
+2014-10-25 03:17:42,488+0000 DEBUG swift PROCEDURE_END line=9 thread=R-10 name=wordcount
+2014-10-25 03:17:42,489+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:42,489+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-13-1414207053870 status=7
+2014-10-25 03:17:42,490+0000 DEBUG swift JOB_END jobid=java-ho512bzl
+2014-10-25 03:17:42,490+0000 INFO  swift END_SUCCESS thread=R-13 tr=java
+2014-10-25 03:17:42,490+0000 DEBUG swift PROCEDURE_END line=9 thread=R-13 name=wordcount
+2014-10-25 03:17:42,491+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:42,491+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-14-1414207053874 status=7
+2014-10-25 03:17:42,491+0000 DEBUG swift JOB_END jobid=java-jo512bzl
+2014-10-25 03:17:42,491+0000 INFO  swift END_SUCCESS thread=R-14 tr=java
+2014-10-25 03:17:42,502+0000 DEBUG swift PROCEDURE_END line=9 thread=R-14 name=wordcount
+2014-10-25 03:17:42,542+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-12-1414207053876 status=17
+2014-10-25 03:17:42,542+0000 INFO  PutFileHandler Handler(tag: 163, PUT) source: /home/ubuntu//wordcount-run001/jobs/k/java-ko512bzl/count13.txt
+2014-10-25 03:17:42,542+0000 INFO  PutFileHandler Handler(tag: 163, PUT) destination: file://localhost//home/ubuntu/count13.txt
+2014-10-25 03:17:42,543+0000 INFO  PutFileHandler Handler(tag: 164, PUT) source: /home/ubuntu//wordcount-run001/jobs/k/java-ko512bzl/wrapper.log
+2014-10-25 03:17:42,543+0000 INFO  PutFileHandler Handler(tag: 164, PUT) destination: file://localhost/run001/wordcount-run001.d/java-ko512bzl.info
+2014-10-25 03:17:42,544+0000 INFO  PutFileHandler Handler(tag: 163, PUT) Transfer done
+2014-10-25 03:17:42,544+0000 INFO  PutFileHandler Handler(tag: 164, PUT) Transfer done
+2014-10-25 03:17:42,642+0000 INFO  LateBindingScheduler jobs queued: 0
+2014-10-25 03:17:42,643+0000 INFO  Execute TASK_STATUS_CHANGE taskid=urn:R-12-1414207053876 status=7
+2014-10-25 03:17:42,643+0000 DEBUG swift JOB_END jobid=java-ko512bzl
+2014-10-25 03:17:42,643+0000 INFO  swift END_SUCCESS thread=R-12 tr=java
+2014-10-25 03:17:42,643+0000 DEBUG swift PROCEDURE_END line=9 thread=R-12 name=wordcount
+2014-10-25 03:17:42,644+0000 INFO  RuntimeStats$ProgressTicker HeapMax: 1037959168, CrtHeap: 11845632, UsedHeap: 6378552, JVMThreads: 17
+2014-10-25 03:17:42,645+0000 INFO  RuntimeStats$ProgressTicker   Finished successfully:15
+2014-10-25 03:17:42,668+0000 DEBUG swift Starting cleanups
+2014-10-25 03:17:42,669+0000 INFO  swift START cleanups=[]
+2014-10-25 03:17:42,669+0000 INFO  swift END cleanups=[]
+2014-10-25 03:17:42,670+0000 DEBUG swift Ending cleanups
+2014-10-25 03:17:42,670+0000 INFO  SwiftFunction Cleaning input15:infile = <FILE> - Closed
+2014-10-25 03:17:42,671+0000 INFO  SwiftFunction Cleaning input14:infile = <FILE> - Closed
+2014-10-25 03:17:42,671+0000 INFO  SwiftFunction Cleaning input13:infile = <FILE> - Closed
+2014-10-25 03:17:42,671+0000 INFO  SwiftFunction Cleaning of8:outfile = <FILE> - Closed
+2014-10-25 03:17:42,671+0000 INFO  SwiftFunction Cleaning input12:infile = <FILE> - Closed
+2014-10-25 03:17:42,671+0000 INFO  SwiftFunction Cleaning of7:outfile = <FILE> - Closed
+2014-10-25 03:17:42,672+0000 INFO  SwiftFunction Cleaning input11:infile = <FILE> - Closed
+2014-10-25 03:17:42,672+0000 INFO  SwiftFunction Cleaning input10:infile = <FILE> - Closed
+2014-10-25 03:17:42,672+0000 INFO  SwiftFunction Cleaning of9:outfile = <FILE> - Closed
+2014-10-25 03:17:42,672+0000 INFO  SwiftFunction Cleaning of14:outfile = <FILE> - Closed
+2014-10-25 03:17:42,672+0000 INFO  SwiftFunction Cleaning of15:outfile = <FILE> - Closed
+2014-10-25 03:17:42,672+0000 INFO  SwiftFunction Cleaning of12:outfile = <FILE> - Closed
+2014-10-25 03:17:42,673+0000 INFO  SwiftFunction Cleaning of13:outfile = <FILE> - Closed
+2014-10-25 03:17:42,673+0000 INFO  SwiftFunction Cleaning of1:outfile = <FILE> - Closed
+2014-10-25 03:17:42,673+0000 INFO  SwiftFunction Cleaning of10:outfile = <FILE> - Closed
+2014-10-25 03:17:42,673+0000 INFO  SwiftFunction Cleaning of2:outfile = <FILE> - Closed
+2014-10-25 03:17:42,674+0000 INFO  SwiftFunction Cleaning of11:outfile = <FILE> - Closed
+2014-10-25 03:17:42,674+0000 INFO  SwiftFunction Cleaning of5:outfile = <FILE> - Closed
+2014-10-25 03:17:42,674+0000 INFO  SwiftFunction Cleaning of6:outfile = <FILE> - Closed
+2014-10-25 03:17:42,674+0000 INFO  SwiftFunction Cleaning of3:outfile = <FILE> - Closed
+2014-10-25 03:17:42,674+0000 INFO  SwiftFunction Cleaning of4:outfile = <FILE> - Closed
+2014-10-25 03:17:42,674+0000 INFO  SwiftFunction Cleaning input3:infile = <FILE> - Closed
+2014-10-25 03:17:42,675+0000 INFO  SwiftFunction Cleaning input2:infile = <FILE> - Closed
+2014-10-25 03:17:42,675+0000 INFO  SwiftFunction Cleaning input5:infile = <FILE> - Closed
+2014-10-25 03:17:42,675+0000 INFO  SwiftFunction Cleaning input4:infile = <FILE> - Closed
+2014-10-25 03:17:42,675+0000 INFO  SwiftFunction Cleaning s:script = <FILE> - Closed
+2014-10-25 03:17:42,675+0000 INFO  SwiftFunction Cleaning input7:infile = <FILE> - Closed
+2014-10-25 03:17:42,675+0000 INFO  SwiftFunction Cleaning input6:infile = <FILE> - Closed
+2014-10-25 03:17:42,675+0000 INFO  SwiftFunction Cleaning input9:infile = <FILE> - Closed
+2014-10-25 03:17:42,676+0000 INFO  SwiftFunction Cleaning input8:infile = <FILE> - Closed
+2014-10-25 03:17:42,676+0000 INFO  SwiftFunction Cleaning input1:infile = <FILE> - Closed
+2014-10-25 03:17:42,679+0000 INFO  Loader Swift finished with no errors

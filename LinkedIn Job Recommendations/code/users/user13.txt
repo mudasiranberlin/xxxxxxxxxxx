@@ -1,0 +1,79 @@
+Sumana Mohan
+Senior UI Engineer at Netflix
+San Jose, California
+Skills: Javascript, HTML/HTML5, CSS3, Ajax, JSON, Backbone, jQuery, Git
+
+Senior UI Engineer
+Netflix
+
+Senior Front-end engineer
+PayPal
+
+Mukul Vashisht
+View
+
+Front-end engineer
+Medallia, Inc.
+
+Dan Wilson
+View
+
+Jared Hawkins
+View
+1 more recommendation
+
+Front-end engineer
+Yahoo!
+
+Srinivasan Singanallur Venkataraman
+View
+
+Rajbir Singh Kohli
+View
+2 more recommendations
+
+Technical Intern
+Yahoo!
+
+Graduate Research Assistant
+Oregon State University
+Worked with the PayPal Checkout Team to deliver a revamped user experience for US and a new incontext and full page experience for Germany.
+
+Backbone, RequireJS, Dust, Node.js, Jquery, LESS, Git
+Worked with Medallia's mobile team on redesign of their current native app to an HTML5 hybrid app supporting IOS and Android.
+
+- Implemented the base framework for front-end through the use of require js to load backbone js modules, loading templates through require js text plugin. 
+- Implemented infinite scrolling to load a list of responses and experimented the use of pinch to zoom and iscroll's pull to refresh features. Developed the detail page for each response. 
+- Enabled faster clicks through the use of Google's Fast button on mobile devices.
+- Worked with the Highcharts library and fixed issues to support complex charts on android devices.
+
+Tools : Backbone, Require js, Underscore, SASS, HTML5/CSS3, Zepto
+2012 
+Yahoo Sports Mobile (2012 Olympics App)
+Working with Yahoo! Sports team on building an HTML5 iPhone/iPad app. Using mojito prototyped iPad designs for the main coverage feed which would showcase latest videos, news articles, blogs, expert commentary, twitter updates etc. for the games currently in schedule.
+
+2011 
+Yahoo! Local Mobile - Along with the Yahoo! Local team built an HTML5 iphone app. The app allows users to browse and filter through local news, deals and events.
+Case study video at Yahoo for the Local Mobile app - http://www.youtube.com/watch?v=GFpgapmKrEM&feature=youtube_gdata_player
+
+Yahoo Local Homepage Redesign - Worked with the Yahoo! Local team on the complete re-design of Yahoo! Local website. Unfortunately as of 2013 the new redesign is no longer supported. Was previously available on beta.local.yahoo.com
+
+2010
+Worked with one of the Yahoo! Open Social teams to create the Yahoo Updates Widget. The widget allowed users to use third party networks (Facebook, twitter) without leaving Yahoo. The widget was also built to be seamlessly integrated into other Yahoo! properties such as Yahoo! Homepage, Yahoo! Mail and Yahoo! Pulse.
+http://techcrunch.com/2010/06/06/yahoo-goes-all-in-with-facebook-here-are-the-screenshots/
+
+GitHub/Open source Projects 
+Contributed two YUI modules to the Gallery. 
+Circular Carousel
+http://yuilibrary.com/gallery/show/carousel-circular
+Pull down refresh
+http://yuilibrary.com/gallery/show/pulldown-refresh
+Worked with Yahoo! Analytics Webservices Team to prototype and build adhoc internal reporting tools using YUI for data gathered for different metrics (clicks, views, click through rate etc).
+Develop features for their existing web application used to manage student and faculty information. Features included being able to create/delete/edit existing student and faculty data, export to spreadsheets, maintain and improve database schema, manage permissions on user access to the website.
+
+Also worked with professors and operations managers to create an ajax application to be able to allow professors to schedule classes/rooms for each term.
+
+This led to working on a project titled "Indexing Ajax Applications" which was implemented towards my Masters defense. 
+Although my work listed above is not publicly accessible, my Masters project report contains some screen shots of the website I created for this project: http://ir.library.oregonstate.edu/jspui/handle/1957/12426.
+
+Languages/tools - PHP, Javascript, HTML,CSS, MySQL

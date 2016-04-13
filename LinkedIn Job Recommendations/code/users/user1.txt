@@ -1,0 +1,85 @@
+Sudha Kokala
+Front End/UI Developer at Controlco
+San Francisco Bay Area
+Seeking a position as a Front End Engineer in a challenging environment where my education and 2 years of Application Development can be utilized. I am a dedicated and innovative individual, and am certain that I will prove an immediate asset any company where technical competence and perseverance are in demand
+
+•	Over 2 years of Experience in Application Development Projects.
+•	Experience with unit testing, functional testing, and automation
+•	Excellent debugging and problem solving skills.
+•	Excellent verbal and written communication skills..
+•	Experience with continuous integration, development and testing using Jenkins.
+•	Good understanding of server side technologies like JSP, PHP, Java J2EE Servlets.
+•	Good understanding of client side web technologies like Java Script, HTML, CSS and AJAX.
+•	Client-side MVC Frameworks and templating engines like AngularJS, Bootstrap JS, RaptorJS.
+•	Created and designed websites for high end clients using PHP, JavaScript, HTML and CSS.
+•	Experience using RESTful APIs to build functioning UIs
+•	Used Highcharts for Data Visualization.
+•	Worked closely with engineering team to integrate front end 
+•	Worked on IDEs: Eclipse, Net Beans and Xcode.
+•	Have experience working in databases: MySQL and Oracle.
+•	Worked on Cloud technologies: Google App Engine.
+•	Worked on web servers: Glassfish and Apache.
+
+Specialties
+Java,JSP, Servlets, HTML, Java Script, AJAX, AngularJS, jQuery, CSS, SQL, Oracle, My SQL, Android, iOS, PHP, Apache, Glassfish Server
+
+Front End/UI Developer
+Controlco
+
+Software Engineer (UI Developer)
+eBay Inc
+
+Graduate Student
+California State University, East Bay
+View
+View
+View
+View
+View
+View
+See more
+Create and design responsive web layouts for energy management applications for commercial 
+buildings such as building power, HVAC, air and alarms. 
+
+Designed and implemented a reporting tool with drag and drop features using HTML5 and 
+highcharts.
+
+Coordinated with UX engineers and back-end developers to develop highly responsive and 
+optimized applications for mobile devices.
+
+Used BackboneJS, Handlebars, RequireJS, Grunt and UnderscoreJS extensively to develop web 
+interfaces for ControlCo's industrial automation products.
+
+Developed a mobile website for a gun range company. This mobile site was optimized for iPad 
+and it can be used to control various units at their gun range store.
+
+Design, develop and maintain ControlCo website.
+
+Used Netsuite to design and develop ControlCo's product purchasing web store.
+
+Resolve complex technical issues (bugs) and drive innovation that improves user engagement 
+and performance.
+
+Maintain, standardize and refactor existing products, API's and web-based sites.
+Worked with eBay Inc. sellers team project www.ebayinsights.com 
+eBay Insights is an e-commerce analytics app that allows merchants to analyze and optimize their inventory’s performance and identify new business opportunities.
+
+Used data visualization framework HighCharts for displaying charts that analyze inventory and 
+identify new opportunities.
+
+Front End was implemented in MVC design pattern using AngularJS framework, 
+BootstrapJS, JQuery animations.
+
+Created account pages from scratch using HTML5, CSS3, JS, jQuery and jQuery UI where 
+the end users can create, delete or update their account information.
+
+Performed extensive manual unit testing (end-to-end) and preparing detailed unit test cases as 
+part of it.
+
+Followed Agile/SCRUM methodology to meet the goals in a timely manner.
+
+Used Jenkins for continuous integration, testing and deployment.
+
+Integrated API calls for various modules of the application using open AJAX calls and handled 
+the JSON response objects received and to render the UI.
+Currently pursuing MS in Computer Networks. Focusing on Application Development, Network Security, Application Testing, Network Administration

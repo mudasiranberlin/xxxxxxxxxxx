@@ -1,0 +1,65 @@
+Hans Brough
+Likes to build useful stuff
+San Francisco Bay Area
+Hans started out thinking he wanted to be a Landscape Architect. After attending CAL POLY San Luis Obispo and attaining his degree in the mid- 90's he was wooed to the dark side by the promise of the internet.
+
+Luckily many of the problem solving skills they teach in design school translate well to planning and implementing web projects. The tool set is a little different...
+
+His career to date has been spent learning and putting to practical use these new tool sets while always trying to keep the end user in mind. He now enjoys participating in web projects using a variety of tools. 
+
+Specialties: Speed, Object Based JavaScript, Design Patterns, Server Side Javascript, DOM Scripting, YUI, jQuery, Mootools, Dust, HandleBars, MV* Frameworks, PHP, JSP, MySQL, DHTML, CSS, HTML, XHTML, XML, XSLT, CVS, Bug Tracking Systems, Grunt, UI testing with Jasmine, XFN, SEO, XSS, Grunt, Hapi, Node
+Senior Web Developer
+Brightsky Labs
+Web Developer
+On Sabbatical
+
+Senior Web Developer
+LinkedIn
+Edit
+Hack
+Familytales.org
+See more
+Edit
+Senior UI Developer
+Threadsy
+
+Senior UI Developer
+SimplyHired
+
+Craig B. Rader
+View
+Edit
+
+Web Developer
+Simply Hired
+Web Developer, Client Services
+eMotion Inc
+
+Jeff Paul, PMP, CSM ☁
+View
+Web Developer
+Artmachine.com
+Production Engineer and Client Side Web Developer
+Eloquent
+Share the best parts of your GoPro videos.
+Right in the moment. Right from your iPhone.
+
+http://brightsky.co
+Taking some time to do things like pound nails, play with code, volunteer in the classroom, make dinner and generally hang out with family / friends.
+
+More specifically I'm working on an EdTech project that could be described as 'Magic'​ meets 'Settlers' meets U.S. History in an extensible format for Teachers, Players or even Alternate History Buffs. Gaming is Learning.
+Of note while building the Linkedin 'Groups' product: The 2010 product overhaul, addition of public groups, submission and moderation workflows and the 2013 'Katy' redesign. Late 2013 - Began migrating the product to a different platform (Play with Dust templating).
+
+Assisting in the 2012 launch of the 'Influencers' product.
+LinkedIn Groups page w/new "Katy" design
+A now defunct project with the goal to provide free access to a unified, well organized, searchable archive of historic, primary documents and social relationships.
+
+Designed and implemented methodology that automates the addition of XFN and other semantic markup to primary documents.
+
+Designed and implemented a system to determine and quantify strength of relationships among writers of historic letters based in part on harvesting XFN data.
+
+Designed and implemented a searcher class to handle user searches along several axis such as person, recipient, year, city, relationship proximity and others.
+
+Ongoing work around displaying data model of historic relationships via multiple views. This includes a javascript/json driven 'social map' using relationship proximity values to determine placement and styling of persons within an egocentric network.
+From the American Revolution to the Civil War
+Job-a-matic by SimplyHired

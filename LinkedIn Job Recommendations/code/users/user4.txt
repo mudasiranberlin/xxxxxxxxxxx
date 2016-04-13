@@ -1,0 +1,44 @@
+Suveena Vengeduswamy
+Senior UI Web Developer
+San Francisco Bay Area
+6 years of extensive work experience in writing web application programs covering front-end/UI using the web technologies like HTML4/5, XHTML, CSS2/3, JAVASCRIPT, JQUERY,JQUERY UI, JSON, AngularJS, XML and AJAX.
+
+Demonstrated expertise in developing web pages with HTML5, CSS3, Twitter Bootstrap and JQuery UI more effectively.
+
+Experience and knowledge in CSS framework like LESS and SASS
+
+Ability to apply W3C web standards with great skill in achieving the best cross-browser user experience for the sake of long-term user retention and engagement.
+
+Strong knowledge of Responsive Web Design(RWD). 
+
+Strong understanding of Object Oriented Programming and OOP JS.
+
+Experience and knowledge in AngularJS framework.
+
+Great ability to write clear, maintainable, well-documented, well-commented and efficient code for web development. 
+
+Professional understanding of Software development life cycle (SDLC) as well as various phases such as Analysis, Design, Development and Testing. 
+
+Efficient in working as an individual but just as outstanding with a team.
+
+Proven track record of immediate productivity, successfully handled multiple projects simultaneously within tight schedules.
+
+Senior UI Web Developer
+FICO
+
+Web Developer
+Tria Beauty
+
+Web Developer
+WebMD
+
+Web Developer
+Zoovy, Inc.
+
+Software Engineer
+HCL Technologies
+Design & development of applications using browser based web technologies - HTML4/5, XHTML, CSS2/3, JAVASCRIPT, JQUERY,JQUERY UI, JSON, XML and AJAX.
+Design & development of internal application using browser based web technologies - HTML4/5, XHTML, CSS2/3, JAVASCRIPT, JQUERY,JQUERY UI, JSON, AngularJS, XML and AJAX.
+Redesigned the website layout with user friendly interface by utilizing HTML, CSS, JavaScript & AJAX.
+Design & development of web application with HTML, CSS ,XML and JavaScript.
+Done UI testing & providing support for integration testing of the web application.

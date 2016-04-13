@@ -1,0 +1,52 @@
+Laxmi Gudipati
+UI Developer at Cisco
+San Jose, California
+Passionate Front end UI engineer in HTML5 , CSS3 projects ranging from native JavaScript to the newer frameworks such as AngularJS for desktops and mobile devices . 
+
+UI Developer
+Cisco
+
+UI Developer
+Equinix
+
+UI Developer
+AXA
+
+ACE
+Tata Consultancy Services
+
+Ui Developer
+Toyota USA
+Responsible for developing the UI pages using HTML5, CSS3, JavaScript, Bootstrap, JSON, and jQuery,
+Ajax.
+• Developed Page layouts, Navigations and presented designs and concepts to the clients and the
+management to review.
+• Used firebug, IE developer toolbar and chrome canary tool for debugging java script and fixing issues.
+• Implemented responsive web design using media queries and bootstrap.
+• Used JQuery plug-ins to implement features as a light box, galleria, sliders and other intuitive features.
+
+• Involved in Agile/ full software development life cycle-Designing, coding, testing, debugging and support.
+• Worked with the team of architects and back-end Developers to gather requirements and enhance the
+application functionality and add new features.
+• Worked in a team involved in developing the UI, layout and front-end programming for the web applications
+that matches requirements of sprint.
+• Created design mock-ups and wire frames using MS PowerPoint, Adobe Photoshop CS4, Balsamiq, InVision
+and Dreamweaver CS3.
+• Used JQuery to make the HTML5, CSS interact with JavaScript functions to add dynamism to the web page.
+
+Involved in Agile/ full software development life cycle-Designing, coding, testing, debugging and support.
+• Worked with the team of architects and back-end Developers to gather requirements and enhance the
+application functionality and add new features.
+• Worked in a team involved in developing the UI, layout and front-end programming for the web applications
+that matches requirements of sprint.
+• Used JQuery to make the HTML5, CSS interact with JavaScript functions to add dynamism to the web page.
+• Improved user experience by designing front-end interface mock-ups and adjusting UX flows/ wireframes.
+• Developed table less HTML (DIV and SPAN) in a DOM based architecture. Responsible for the overall layout
+design, color scheme of the web site using HTML, XHTML, and CSS3.
+• Developed and administered usability testing and user research initiatives.
+• Validated all the HTML/XHTML and CSS code according to W3C and made it complaint.
+• Used AJAX frameworks like JQuery, JSON to develop rich GUIs and also involved in performance tuning
+the website.
+• Extensively involved design discussions and user experience sessions to provide inputs on the layout.
+• Provided graphic and artistic support for web enhancement and new creative initiatives.
+

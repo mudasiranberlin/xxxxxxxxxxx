@@ -1,0 +1,21 @@
+Lalitha V
+web Developer at Asurion
+San Francisco Bay Area
+Web application development experience in WEB 2.0 Technologies using XHTML, PHP, AJAX, JavaScript,Jquery, Regular Expressions, MYSQL and CSS in developing web culture communities like E-Commerce sites. Always interested in attending conferences and brainstorming involving WEB 3.0 Technologies.
+
+Web Developer
+Asurion
+
+Front-End Developer
+Upwardly Mobile Inc
+
+Web Application Developer
+VSSOD Corporation
+Web Developer
+Brite Credit 123
+Asurion is the global leader in providing consumer technology protection services across three continents and has long established its leadership in the mobile protection space with its successful handset insurance business. Working on Mobile Applications for data protection, backup and recovery involving technologies like HTML, CSS, JAVASCRIPT,JQUERY, JSON, JSP and JAVA.
+UpMo fosters enterprise professional networking and 
+internal mobility to increase employee loyalty, drive down retention costs and 
+reinvigorate the enterprise. Working as a FrontEnd Developer involved in developing and debugging the SaaS product using javascript,Jquery,PHP and MYSQL in MVC architecture with git as Version Control.
+VSSOD is an Enterprise Applications Company focused on large enterprise SAP customers. VSSOD provides real time Optimization applications enabled on enterprise web portals and new age mobile devices. Involved in developing a product from SAP portal into web portal using HTML,CSS, javascript, jQuery and .NET
+Web application development experience in WEB 2.0 Technologies using XHTML, PHP, AJAX, JavaScript,Jquery, Regular Expressions, MYSQL and CSS in developing websites and involved in developing custom CRM application using .NET technology in Windows Azure environment.

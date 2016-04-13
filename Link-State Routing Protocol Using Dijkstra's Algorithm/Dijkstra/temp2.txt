@@ -1,0 +1,5 @@
+
+	The shortest path from 
+	the router 1 to router 2 is : 1-2
+
+	The total cost is: 3

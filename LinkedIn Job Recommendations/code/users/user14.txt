@@ -1,0 +1,103 @@
+Estelle Weyl
+Developer Evangelist, Sr. UI Engineer
+San Francisco Bay Area
+Front End developer and Web Evangelist with over 14 years of experience coding valid, cross-browser, semantic, standards compliant, search engine friendly, accessible JavaScript, HTML, CSS. Internationally published technical author and trainer. Blogging about JavaScript, CSS3, HTML5 and Mobile web application development at www.Standardista.com. Founder and organizer of Confident Coding conferences and workshops. Decent chef, carpenter, marketer and sit down comic.
+
+Specialties: 
+JavaScript
+HTML5
+CSS3
+UI development
+Technical Writer and Author
+Technical Training
+Conference presenter (and organizer)
+Developer Evangelist
+Cat herder
+
+If you're contacting me with "I read your profile and it seems like a perfect fit", prove to me that you've read this far by including "banana"​ in your subject line. All other fruits are welcome too. I don't discriminate.
+Open Web Developer Evangelist, Senior UI Engineer
+Standardista
+
+Andi Galpern
+View
+
+Sr. UI Engineer, Contractor, Browser Vodouisant
+SurveyMonkey
+
+Kate Brennan
+View
+
+Sr. UI Prototyper, Contractor
+Samsung
+
+Senior Technologist Consultant to iAd Team / UniversalMind, Contractor
+Apple Inc.
+Front End Engineer, Contractor
+Topspin
+
+Tim Read
+View
+
+ian rogers
+View
+Sr. UI Engineer
+Uptake
+Sr. Front End Engineer
+Engage Corporation
+
+Alicia Dougherty-Wold
+View
+
+William Hall
+View
+5 more recommendations
+
+Web Developer/Front End Engineer
+Yahoo!
+
+Gina Scoralle
+View
+
+Laurie Voss
+View
+
+Web Administrator
+Olivia
+
+Shannon Wentworth
+View
+Web Developer (Contractor)
+Ofoto/Kodak Gallery
+Programmer, speaker, consultant, internationally published author and corporate and international technical trainer. HTML5, CSS3, JavaScript, performance, accessibility, mobile web development. Organizes and leads the Confident Coding workshops and conference series. Contributor to standards bodies (W3C). Selected contract jobs are listed separately below.
+
+Blogs, Workshops, Tutorials and Code:
+Blog: http://www.standardista.com 
+Presentation Content: http://estelle.github.com
+Presentation Schedule: http://lanyrd.com/estellevw
+Code / Projects: https://github.com/estelle 
+
+Books:
+HTML5: The Definitive Guide (Dec 2015)
+CSS: The Definitive Guide (Dec 2015, with Eric Meyer)
+HTML5 & CSS3 for the Real World (1st Edition 2011, 2nd Edition 2015)
+Responsive Web Design: Solutions For Responsive Images (Jul 2014)
+Mobile HTML (Nov 2013) (along with CubeeDoo, a JS/CSS mobile memory game)
+Taming CSS3 Complexity (Oct 2013)
+What's New in CSS3? (Sep 2012)
+Web Performance Daybook Vol 2 (Jul 2012)
+Senior UI Engineer on the following projects:
+JavaScript, HTML, CSS and UI for Signed in Home Page, Addressbook, Email Collect and Upgrade pages: addressbook and email collect being SPAs within a larger Python web site / application.
+Browser testing and technical writing of HTML5 Webform pages for Wufoo, a PHP-based website.
+UI Prototyper for User Experience team for mobile and television operating systems. Prototyped Television OS, a mobile OS experience and a multiuser mobile to television fantasy football single page application using Node/Socket.io.
+CSS3, HTML5 and JavaScript coding iAds, which are mini mobile applications, as advertisments served to iPhones and iPads.
+CSS, XHTML, JavaScript for a Ruby on Rails site
+CSS, XHTML, JavaScript, SEO, UI, for a Ruby on Rails based site.
+Lone front end developer responsible for XHTML, CSS, JavaScript, product development, user experience. Integration with java, python and django. Facebook application development.
+Engineer for Yahoo! Broadband marketing sites. 
+Lead Front End Developer for http://mobile.yahooo.com, including complete property overhaul.
+CSS / XHTML guru for a never released social networking platform.
+Web development: tableless front-end, coldfusion backend.
+HTML marketing emails, including CAN-SPAM compliance
+HTML email development 
+Conversion from tables site to tableless
+Front end DHTML / Dynamic marketing widget development

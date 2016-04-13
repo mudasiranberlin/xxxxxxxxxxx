@@ -1,0 +1,26 @@
+a, a:hover
+{ color: #000;
+  background: transparent;
+  outline: none;
+  text-decoration: underline;}
+
+a:hover
+{ text-decoration: none;}
+
+footer
+{ padding: 30px 0px;
+  font-weight: bold;
+  text-align: center; 
+  text-shadow: 1px 1px #000;
+  color: #FFF;
+  background: #323232;}
+
+footer a
+{ color: #FFF;
+  text-decoration: none;
+  padding-bottom: 20px;}
+
+footer a:hover
+{ text-decoration: underline;
+  color: #FFF;}
+ 

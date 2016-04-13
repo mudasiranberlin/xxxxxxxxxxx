@@ -1,0 +1,38 @@
+Chris Rubio
+Senior Associate Creative Engineer at LEVEL Studios
+San Francisco Bay Area
+I am an end to end web developer specializing in PHP, equally comfortable with front-end and back-end design and coding.
+
+Specialties: PHP, JavaScript, jQuery, SQL, HTML, CSS, Git, PostgreSQL, MySQL.
+
+Senior Associate Creative Engineer
+LEVEL Studios
+
+UI Developer
+LEVEL Studios
+
+Web Developer
+AncientFaces.com
+View
+View
+
+C. Filipe Medeiros
+View
+
+Daniel Pinna
+View
+
+Production System Administrator
+Intermedia Inc.
+
+Craig Chirolo
+View
+
+Jake Skipper
+View
+
+IT consultant
+Jump Start Technology
+Application development in PHP. Front end app development in HTML, CSS, JavaScript, jQuery, LESS and Twitter Bootstrap. I design and build projects across the full stack. This includes database design and query optimization, model/controller/API service layer build outs, front end template and page design, and JS/jQuery/AJAX modules.
+Management of Microsoft Exchange infrastructure (E2003 to E2010) and web hosting infrastructure (IIS6 & IIS7). Worked with MS engineers on bug testing for hotfixes. PowerShell scripting for administrative tasks. Disaster recover for Exchange databases and hosted web infrastructure.
+Server/desktop support and builds for a variety of small/medium businesses around the bay area.
