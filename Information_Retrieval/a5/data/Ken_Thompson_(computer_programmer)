@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Ken Thompson - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ken_Thompson","wgTitle":"Ken Thompson","wgCurRevisionId":695894937,"wgRevisionId":695894937,"wgArticleId":23370128,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with page title same as on Wikidata","Spoken articles","Articles with hAudio microformats","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Members of the United States National Academy of Sciences","American computer scientists","American computer programmers","American technology writers","Turing Award laureates","Unix people","Plan 9 people","Inferno (operating system) people","Scientists at Bell Labs","National Medal of Technology recipients","University of California, Berkeley College of Engineering alumni","Programming language designers","Google employees","1943 births","Living people","Japan Prize laureates","Members of the United States National Academy of Engineering","Innovators"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ken_Thompson","wgRelevantArticleId":23370128,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Ken_Thompson_(computer_programmer)","wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ken_n_dennis.jpg/100px-Ken_n_dennis.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Ken_Thompson","wgWikibaseItemId":"Q1107006","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ken_Thompson" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ken_Thompson&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ken_Thompson&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ken_Thompson" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ken_Thompson skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-spoken-icon" class="mw-indicator"><a href="/wiki/File:Ken_Thompson_(computer_programmer).ogg" title="Listen to this article"><img alt="Listen to this article" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/20px-Sound-icon.svg.png" width="20" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/30px-Sound-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/40px-Sound-icon.svg.png 2x" data-file-width="128" data-file-height="96" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ken Thompson</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Ken_Thompson_(computer_programmer)&amp;redirect=no" title="Ken Thompson (computer programmer)">Ken Thompson (computer programmer)</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other people named Ken Thompson, see <a href="/wiki/Ken_Thompson_(disambiguation)" title="Ken Thompson (disambiguation)" class="mw-redirect">Ken Thompson (disambiguation)</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Kenneth Thompson</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Ken_n_dennis.jpg" class="image"><img alt="Ken n dennis.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ken_n_dennis.jpg/220px-Ken_n_dennis.jpg" width="220" height="143" srcset="//upload.wikimedia.org/wikipedia/commons/3/36/Ken_n_dennis.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/3/36/Ken_n_dennis.jpg 2x" data-file-width="310" data-file-height="201" /></a>
+<div>Thompson (left) with <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a>.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1943-02-04</span>)</span> February 4, 1943 <span class="noprint ForceAgeToShow">(age&#160;72)</span><br />
+<a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a>, <a href="/wiki/Louisiana" title="Louisiana">Louisiana</a>, U.S.</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td>American</td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_science" title="Computer science">Computer science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a><br />
+Entrisphere, Inc<br />
+<a href="/wiki/Google_Inc." title="Google Inc." class="mw-redirect">Google Inc.</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> (B.S., 1965; M.S., 1966)</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Unix" title="Unix">Unix</a><br />
+<a href="/wiki/B_(programming_language)" title="B (programming language)">B (programming language)</a><br />
+<a href="/wiki/Belle_(chess_machine)" title="Belle (chess machine)">Belle (chess machine)</a><br />
+<a href="/wiki/UTF-8" title="UTF-8">UTF-8</a><br />
+<a href="/wiki/Endgame_tablebase" title="Endgame tablebase">Endgame tablebase</a><br />
+<a href="/wiki/Golang" title="Golang" class="mw-redirect">Go</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/IEEE_Emanuel_R._Piore_Award" title="IEEE Emanuel R. Piore Award">IEEE Emanuel R. Piore Award</a> <small>(1982)</small><br />
+<a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> <small>(1983)</small><br />
+<a href="/wiki/Computer_Pioneer_Award" title="Computer Pioneer Award">Computer Pioneer Award</a> <small>(1994)</small><br />
+<a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> Fellow <small>(1997)</small><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><br />
+<a href="/wiki/National_Medal_of_Technology" title="National Medal of Technology" class="mw-redirect">National Medal of Technology</a> <small>(1998)</small><br />
+<a href="/wiki/Tsutomu_Kanai_Award" title="Tsutomu Kanai Award">Tsutomu Kanai Award</a> <small>(1999)</small><br />
+<a href="/wiki/Japan_Prize" title="Japan Prize">Japan Prize</a> <small>(2011)</small></td>
+</tr>
+</table>
+<p><b>Kenneth Lane</b> "<b>Ken</b>" <b>Thompson</b> (born February 4, 1943), commonly referred to as <b>ken</b> in <a href="/wiki/Hacker_(programmer_subculture)" title="Hacker (programmer subculture)" class="mw-redirect">hacker</a> circles,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> is an American pioneer of <a href="/wiki/Computer_science" title="Computer science">computer science</a>. Having worked at <a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a> for most of his career, Thompson designed and implemented the original <a href="/wiki/Unix" title="Unix">Unix</a> operating system. He also invented the <a href="/wiki/B_(programming_language)" title="B (programming language)">B programming language</a>, the direct predecessor to the <a href="/wiki/C_(programming_language)" title="C (programming language)">C programming language</a>, and was one of the creators and early developers of the <a href="/wiki/Plan_9_from_Bell_Labs" title="Plan 9 from Bell Labs">Plan 9</a> operating systems. Since 2006, Thompson has worked at <a href="/wiki/Google" title="Google">Google</a>, where he co-invented the <a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go programming language</a>.</p>
+<p>Other notable contributions included his work on <a href="/wiki/Regular_expression" title="Regular expression">regular expressions</a> and early computer text editors <a href="/wiki/QED_(text_editor)" title="QED (text editor)">QED</a> and <a href="/wiki/Ed_(text_editor)" title="Ed (text editor)">ed</a>, the definition of the <a href="/wiki/UTF-8" title="UTF-8">UTF-8</a> encoding, his work on computer chess that included creation of <a href="/wiki/Endgame_tablebase" title="Endgame tablebase">endgame tablebases</a> and the chess machine <a href="/wiki/Belle_(chess_machine)" title="Belle (chess machine)">Belle</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_life"><span class="tocnumber">1.1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1960s"><span class="tocnumber">1.2</span> <span class="toctext">1960s</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1970s"><span class="tocnumber">1.3</span> <span class="toctext">1970s</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#1980s"><span class="tocnumber">1.4</span> <span class="toctext">1980s</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#1990s"><span class="tocnumber">1.5</span> <span class="toctext">1990s</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#2000s"><span class="tocnumber">1.6</span> <span class="toctext">2000s</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Awards"><span class="tocnumber">2</span> <span class="toctext">Awards</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#National_Academy_of_Engineering"><span class="tocnumber">2.1</span> <span class="toctext">National Academy of Engineering</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Turing_Award"><span class="tocnumber">2.2</span> <span class="toctext">Turing Award</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#IEEE_Richard_W._Hamming_Medal"><span class="tocnumber">2.3</span> <span class="toctext">IEEE Richard W. Hamming Medal</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Fellow_of_the_Computer_History_Museum"><span class="tocnumber">2.4</span> <span class="toctext">Fellow of the Computer History Museum</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#National_Medal_of_Technology"><span class="tocnumber">2.5</span> <span class="toctext">National Medal of Technology</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Tsutomu_Kanai_Award"><span class="tocnumber">2.6</span> <span class="toctext">Tsutomu Kanai Award</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Japan_Prize"><span class="tocnumber">2.7</span> <span class="toctext">Japan Prize</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=2" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Thompson was born in <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a>. When asked how he learned to program, Thompson stated, "I was always fascinated with logic and even in grade school I'd work on arithmetic problems in binary, stuff like that. Just because I was fascinated."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="1960s">1960s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=3" title="Edit section: 1960s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pdp7-oslo-2005.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pdp7-oslo-2005.jpeg/220px-Pdp7-oslo-2005.jpeg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pdp7-oslo-2005.jpeg/330px-Pdp7-oslo-2005.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Pdp7-oslo-2005.jpeg/440px-Pdp7-oslo-2005.jpeg 2x" data-file-width="1600" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pdp7-oslo-2005.jpeg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">DEC</a> <a href="/wiki/PDP-7" title="PDP-7">PDP-7</a>, as used for initial work on <a href="/wiki/Unix" title="Unix">Unix</a></div>
+</div>
+</div>
+<p>Thompson received a <a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">Bachelor of Science</a> in 1965 and a <a href="/wiki/Master%27s_degree" title="Master's degree">Master's degree</a> in 1966, both in <a href="/wiki/Computer_Engineering" title="Computer Engineering" class="mw-redirect">Electrical Engineering and Computer Science</a>, from the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a>, where his master's thesis advisor was <a href="/wiki/Elwyn_Berlekamp" title="Elwyn Berlekamp">Elwyn Berlekamp</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>In the 1960s at Bell Labs, Thompson and <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> worked on the <a href="/wiki/Multics" title="Multics">Multics</a> operating system. While writing Multics, Thompson created the <a href="/w/index.php?title=Bon_programming_language&amp;action=edit&amp;redlink=1" class="new" title="Bon programming language (page does not exist)">Bon programming language</a>. The two left the Multics project when <a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a> withdrew from it, but they used the experience from the project.</p>
+<p>In 1969, Thompson and Ritchie became the principal creators of the <a href="/wiki/Unix" title="Unix">Unix</a> <a href="/wiki/Operating_system" title="Operating system">operating system</a>. Working on a <a href="/wiki/PDP-7" title="PDP-7">PDP-7</a>, a team of Bell Labs researchers led by Thompson and Ritchie, and including Rudd Canaday, developed a <a href="/wiki/File_system#Aspects_of_file_systems" title="File system">hierarchical file system</a>, the concepts of <a href="/wiki/Process_(computing)" title="Process (computing)">computer processes</a> and <a href="/wiki/Device_file" title="Device file">device files</a>, a <a href="/wiki/Command-line_interpreter" title="Command-line interpreter" class="mw-redirect">command-line interpreter</a>, and some small utility programs.<sup id="cite_ref-Evolution_5-0" class="reference"><a href="#cite_note-Evolution-5"><span>[</span>5<span>]</span></a></sup> After initial work on Unix, Thompson decided that Unix needed a system programming language and created <a href="/wiki/B_(programming_language)" title="B (programming language)">B</a>, a precursor to Ritchie's <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>In the 1960s, Thompson also began work on <a href="/wiki/Regular_expression" title="Regular expression">regular expressions</a>. Thompson had developed the <a href="/wiki/Compatible_Time-Sharing_System" title="Compatible Time-Sharing System">CTSS</a> version of the editor <a href="/wiki/QED_(text_editor)" title="QED (text editor)">QED</a>, which included regular expressions for searching text. QED and Thompson's later editor <a href="/wiki/Ed_(text_editor)" title="Ed (text editor)">ed</a> (the standard text editor on Unix) contributed greatly to the eventual popularity of regular expressions, and regular expressions became pervasive in Unix text processing programs. Almost all programs that work with regular expressions today use some variant of Thompson's notation. He also invented <a href="/wiki/Thompson%27s_construction_algorithm" title="Thompson's construction algorithm" class="mw-redirect">Thompson's construction algorithm</a> used for converting regular expression into <a href="/wiki/Nondeterministic_finite_automaton" title="Nondeterministic finite automaton">nondeterministic finite automaton</a> in order to make expression matching faster.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="1970s">1970s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=4" title="Edit section: 1970s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ken_Thompson_(sitting)_and_Dennis_Ritchie_at_PDP-11_(2876612463).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg/220px-Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg" width="220" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg/330px-Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg/440px-Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg 2x" data-file-width="2606" data-file-height="2087" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ken_Thompson_(sitting)_and_Dennis_Ritchie_at_PDP-11_(2876612463).jpg" class="internal" title="Enlarge"></a></div>
+Ken Thompson (sitting) and <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> working together at a <a href="/wiki/PDP-11" title="PDP-11">PDP-11</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Version_6_Unix_SIMH_PDP11_Emulation_KEN.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Version_6_Unix_SIMH_PDP11_Emulation_KEN.png/220px-Version_6_Unix_SIMH_PDP11_Emulation_KEN.png" width="220" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Version_6_Unix_SIMH_PDP11_Emulation_KEN.png/330px-Version_6_Unix_SIMH_PDP11_Emulation_KEN.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Version_6_Unix_SIMH_PDP11_Emulation_KEN.png/440px-Version_6_Unix_SIMH_PDP11_Emulation_KEN.png 2x" data-file-width="652" data-file-height="416" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Version_6_Unix_SIMH_PDP11_Emulation_KEN.png" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Version_6_Unix" title="Version 6 Unix">Version 6 Unix</a> running on the <a href="/wiki/SIMH" title="SIMH">SIMH</a> <a href="/wiki/PDP-11" title="PDP-11">PDP-11</a> simulator, with "/usr/ken" still present</div>
+</div>
+</div>
+<p>Throughout the 1970s, Thompson and Ritchie collaborated on the Unix operating system; they were so influential on <a href="/wiki/Research_Unix" title="Research Unix">Research Unix</a> that <a href="/wiki/Doug_McIlroy" title="Doug McIlroy" class="mw-redirect">Doug McIlroy</a> later wrote, "The names of Ritchie and Thompson may safely be assumed to be attached to almost everything not otherwise attributed."<sup id="cite_ref-reader_8-0" class="reference"><a href="#cite_note-reader-8"><span>[</span>8<span>]</span></a></sup> In a 2011 interview, Thompson stated that the first versions of Unix were written by him, and that Ritchie began to advocate for the system and helped to develop it:<sup id="cite_ref-dr_dobbs_2011_9-0" class="reference"><a href="#cite_note-dr_dobbs_2011-9"><span>[</span>9<span>]</span></a></sup></p>
+<blockquote class="templatequote">
+<p>I did the first of two or three versions of UNIX all alone. And Dennis became an evangelist. Then there was a rewrite in a higher-level language that would come to be called C. He worked mostly on the language and on the I/O system, and I worked on all the rest of the operating system. That was for the <a href="/wiki/PDP-11" title="PDP-11">PDP-11</a>, which was serendipitous, because that was the computer that took over the academic community.</p>
+</blockquote>
+<p>Feedback from Thompson's Unix development was also instrumental in the development of the C programming language. Thompson would later say that the C language "grew up with one of the rewritings of the system and, as such, it became perfect for <a href="/wiki/System_programming" title="System programming">writing systems</a>."<sup id="cite_ref-dr_dobbs_2011_9-1" class="reference"><a href="#cite_note-dr_dobbs_2011-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>In 1975, Thompson took a <a href="/wiki/Sabbatical" title="Sabbatical">sabbatical</a> from Bell Labs and went to his alma mater, UC Berkeley. There, he helped to install <a href="/wiki/Version_6_Unix" title="Version 6 Unix">Version 6 Unix</a> on a <a href="/wiki/PDP-11/70" title="PDP-11/70" class="mw-redirect">PDP-11/70</a>. Unix at Berkeley would later become maintained as its own system, known as the <a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">Berkeley Software Distribution</a> (BSD).</p>
+<p>Along with Joseph Condon, Thompson created the hardware and software for <a href="/wiki/Belle_(chess_machine)" title="Belle (chess machine)">Belle</a>, a world champion <a href="/wiki/Chess_computer" title="Chess computer" class="mw-redirect">chess computer</a>. He also wrote programs for generating the complete enumeration of <a href="/wiki/Chess" title="Chess">chess</a> endings, known as <a href="/wiki/Endgame_tablebase" title="Endgame tablebase">endgame tablebases</a>, for all 4, 5, and 6-piece endings, allowing chess-playing computer programs to make "perfect" moves once a position stored in them is reached. Later, with the help of chess endgame expert <a href="/wiki/John_Roycroft" title="John Roycroft">John Roycroft</a>, Thompson distributed his first results on <a href="/wiki/CD-ROM" title="CD-ROM">CD-ROM</a>.</p>
+<h3><span class="mw-headline" id="1980s">1980s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=5" title="Edit section: 1980s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Plan_9_from_Bell_Labs_(with_acme).png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Plan_9_from_Bell_Labs_%28with_acme%29.png/220px-Plan_9_from_Bell_Labs_%28with_acme%29.png" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Plan_9_from_Bell_Labs_%28with_acme%29.png/330px-Plan_9_from_Bell_Labs_%28with_acme%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Plan_9_from_Bell_Labs_%28with_acme%29.png/440px-Plan_9_from_Bell_Labs_%28with_acme%29.png 2x" data-file-width="640" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Plan_9_from_Bell_Labs_(with_acme).png" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Plan_9_from_Bell_Labs" title="Plan 9 from Bell Labs">Plan 9 from Bell Labs</a>, running the <a href="/wiki/Acme_(text_editor)" title="Acme (text editor)">acme</a> text editor, and the <a href="/wiki/Rc" title="Rc">rc</a> shell</div>
+</div>
+</div>
+<p>Throughout the 1980s, Thompson and Ritchie continued revising Research Unix, which adopted a BSD codebase for the 8th, 9th, and 10th editions. In the mid-1980s, work began at Bell Labs on a new operating system as a replacement for Unix. Thompson was instrumental in the design and implementation of the <a href="/wiki/Plan_9_from_Bell_Labs" title="Plan 9 from Bell Labs">Plan 9 from Bell Labs</a>, a new operating system utilizing principles of Unix, but applying them more broadly to all major system facilities. Some programs that were part of later versions of Research Unix, such as <a href="/wiki/Mk_(software)" title="Mk (software)" class="mw-redirect">mk</a> and <a href="/wiki/Rc" title="Rc">rc</a>, were also incorporated into Plan 9.</p>
+<p>Thompson tested early versions of the <a href="/wiki/C%2B%2B" title="C++">C++</a> programming language for <a href="/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup">Bjarne Stroustrup</a> by writing programs in it, but later refused to work in C++ due to frequent incompatibilities between versions. In a 2009 interview, Thompson expressed a negative view of C++, stating, "It does a lot of things half well and it's just a garbage heap of ideas that are mutually exclusive."<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="1990s">1990s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=6" title="Edit section: 1990s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1992, Thompson developed the <a href="/wiki/UTF-8" title="UTF-8">UTF-8</a> encoding scheme together with <a href="/wiki/Rob_Pike" title="Rob Pike">Rob Pike</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> The UTF-8 encoding has become the dominant character encoding for the <a href="/wiki/World-Wide_Web" title="World-Wide Web" class="mw-redirect">World Wide Web</a>, accounting for more than half of all web pages.<sup id="cite_ref-MarkDavis2010_12-0" class="reference"><a href="#cite_note-MarkDavis2010-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>In the 1990s, work began on the <a href="/wiki/Inferno_(operating_system)" title="Inferno (operating system)">Inferno</a> operating system, another research operating system that was based around a portable <a href="/wiki/Virtual_machine" title="Virtual machine">virtual machine</a>. Thompson and Ritchie continued their collaboration with Inferno, along with other researchers at Bell Labs.</p>
+<h3><span class="mw-headline" id="2000s">2000s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=7" title="Edit section: 2000s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In late 2000, Thompson retired from Bell Labs. He worked at Entrisphere, Inc as a <a href="/wiki/Fellow" title="Fellow">fellow</a> until 2006 and now works at <a href="/wiki/Google" title="Google">Google</a> as a Distinguished Engineer. Recent work has included the co-design of the <a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a> programming language. Referring to himself along with the other original authors of Go, he states:<sup id="cite_ref-dr_dobbs_2011_9-2" class="reference"><a href="#cite_note-dr_dobbs_2011-9"><span>[</span>9<span>]</span></a></sup></p>
+<blockquote class="templatequote">
+<p>When the three of us [Thompson, Rob Pike, and <a href="/wiki/Robert_Griesemer" title="Robert Griesemer">Robert Griesemer</a>] got started, it was pure research. The three of us got together and decided that we hated C++. [laughter] ... [Returning to Go,] we started off with the idea that all three of us had to be talked into every feature in the language, so there was no extraneous garbage put into the language for any reason.</p>
+</blockquote>
+<p>According to a 2009 interview, Thompson now uses a <a href="/wiki/Linux" title="Linux">Linux</a>-based operating system.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=8" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="National_Academy_of_Engineering">National Academy of Engineering</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=9" title="Edit section: National Academy of Engineering">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1980, Thompson was elected to the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> for "designing UNIX, an operating system whose efficiency, breadth, power, and style have guided a generation's exploitation of <a href="/wiki/Minicomputer" title="Minicomputer">minicomputers</a>."<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Turing_Award">Turing Award</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=10" title="Edit section: Turing Award">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1983, Thompson and Ritchie jointly received the <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> "for their development of generic operating systems theory and specifically for the implementation of the UNIX operating system." His acceptance speech, "Reflections on Trusting Trust"<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> presented the <a href="/wiki/Backdoor_(computing)#Reflections_on_Trusting_Trust" title="Backdoor (computing)">backdoor</a> attack now known as the <i>Thompson hack</i> or trusting trust attack, and is widely considered a seminal <a href="/wiki/Computer_security" title="Computer security">computer security</a> work in its own right.</p>
+<h3><span class="mw-headline" id="IEEE_Richard_W._Hamming_Medal">IEEE Richard W. Hamming Medal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=11" title="Edit section: IEEE Richard W. Hamming Medal">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1990, both Thompson and Dennis Ritchie received the <a href="/wiki/IEEE_Richard_W._Hamming_Medal" title="IEEE Richard W. Hamming Medal">IEEE Richard W. Hamming Medal</a> from the <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">Institute of Electrical and Electronics Engineers</a> (IEEE), "for the origination of the UNIX operating system and the C programming language".<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Fellow_of_the_Computer_History_Museum">Fellow of the Computer History Museum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=12" title="Edit section: Fellow of the Computer History Museum">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1997, both Thompson and Ritchie were inducted as Fellows of the <a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> for "the co-creation of the UNIX operating system, and for development of the C programming language."<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="National_Medal_of_Technology">National Medal of Technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=13" title="Edit section: National Medal of Technology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On April 27, 1999, Thompson and Ritchie jointly received the 1998 <a href="/wiki/National_Medal_of_Technology" title="National Medal of Technology" class="mw-redirect">National Medal of Technology</a> from President <a href="/wiki/Bill_Clinton" title="Bill Clinton">Bill Clinton</a> for co-inventing the UNIX operating system and the C programming language which together have <cite>led to enormous advances in computer hardware, software, and networking systems and stimulated growth of an entire industry, thereby enhancing American leadership in the Information Age</cite>.<sup id="cite_ref-NationalMedalAnnouncement_19-0" class="reference"><a href="#cite_note-NationalMedalAnnouncement-19"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-NationalMedalPressRelease_20-0" class="reference"><a href="#cite_note-NationalMedalPressRelease-20"><span>[</span>20<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Tsutomu_Kanai_Award">Tsutomu Kanai Award</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=14" title="Edit section: Tsutomu Kanai Award">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1999, the <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">Institute of Electrical and Electronics Engineers</a> chose Thompson to receive the first <a href="/wiki/Tsutomu_Kanai_Award" title="Tsutomu Kanai Award">Tsutomu Kanai Award</a> "for his role in creating the UNIX operating system, which for decades has been a key platform for distributed systems work."<sup id="cite_ref-Kanai_21-0" class="reference"><a href="#cite_note-Kanai-21"><span>[</span>21<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Japan_Prize">Japan Prize</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=15" title="Edit section: Japan Prize">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2011 Ken Thompson, along with <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a>, was awarded the <a href="/wiki/Japan_Prize" title="Japan Prize">Japan Prize for Information and Communications</a> for the pioneering work in the development of the Unix operating system.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Unix_philosophy" title="Unix philosophy">Unix philosophy</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/bios/Ken,Thompson/">Ken Thompson 1997 Fellow</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.catb.org/jargon/html/K/ken.html">"ken"</a>. The <a href="/wiki/Jargon_File" title="Jargon File">Jargon File</a> (version 4.4.7).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.btitle=ken&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.catb.org%2Fjargon%2Fhtml%2FK%2Fken.html&amp;rft.pub=The+Jargon+File+%28version+4.4.7%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Seibel, Peter (2009). <i>Coders At Work</i>. p.&#160;450.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.aufirst=Peter&amp;rft.aulast=Seibel&amp;rft.btitle=Coders+At+Work&amp;rft.date=2009&amp;rft.genre=book&amp;rft.pages=450&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://math.berkeley.edu/~berlek/students.html">"Thesis Students"</a>. <i>Elwyn Berlekamp's Home Page</i>. University of California, Berkeley Department of Mathematics.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.atitle=Thesis+Students&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmath.berkeley.edu%2F~berlek%2Fstudents.html&amp;rft.jtitle=Elwyn+Berlekamp%27s+Home+Page&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Evolution-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Evolution_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Ritchie, Dennis M. <a rel="nofollow" class="external text" href="http://cm.bell-labs.com/cm/cs/who/dmr/hist.html">"The Evolution of the Unix Time-sharing System"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.aufirst=Dennis+M.&amp;rft.aulast=Ritchie&amp;rft.btitle=The+Evolution+of+the+Unix+Time-sharing+System&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcm.bell-labs.com%2Fcm%2Fcs%2Fwho%2Fdmr%2Fhist.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Dennis M. Ritchie. <a rel="nofollow" class="external text" href="http://cm.bell-labs.com/cm/cs/who/dmr/chist.html">"The Development of the C Language"</a>. Bell Labs/Lucent Technologies.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.au=Dennis+M.+Ritchie&amp;rft.btitle=The+Development+of+the+C+Language&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcm.bell-labs.com%2Fcm%2Fcs%2Fwho%2Fdmr%2Fchist.html&amp;rft.pub=Bell+Labs%2FLucent+Technologies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://swtch.com/~rsc/regexp/regexp1.html">http://swtch.com/~rsc/regexp/regexp1.html</a></span></li>
+<li id="cite_note-reader-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-reader_8-0">^</a></b></span> <span class="reference-text"><cite class="citation techreport"><a href="/wiki/Doug_McIlroy" title="Doug McIlroy" class="mw-redirect">McIlroy, M. D.</a> (1987). <a rel="nofollow" class="external text" href="http://www.cs.dartmouth.edu/~doug/reader.pdf"><i>A Research Unix reader: annotated excerpts from the Programmer's Manual, 1971–1986</i></a> <span style="font-size:85%;">(PDF)</span> (Technical report). CSTR. Bell Labs. 139.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.aufirst=M.+D.&amp;rft.aulast=McIlroy&amp;rft.btitle=A+Research+Unix+reader%3A+annotated+excerpts+from+the+Programmer%27s+Manual%2C+1971%931986&amp;rft.date=1987&amp;rft.genre=report&amp;rft_id=http%3A%2F%2Fwww.cs.dartmouth.edu%2F~doug%2Freader.pdf&amp;rft.pub=Bell+Labs&amp;rft.series=CSTR&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dr_dobbs_2011-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-dr_dobbs_2011_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dr_dobbs_2011_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-dr_dobbs_2011_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.drdobbs.com/open-source/interview-with-ken-thompson/229502480">"Dr. Dobb's: Interview with Ken Thompson"</a>. 2011-05-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-11-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.btitle=Dr.+Dobb%27s%3A+Interview+with+Ken+Thompson&amp;rft.date=2011-05-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.drdobbs.com%2Fopen-source%2Finterview-with-ken-thompson%2F229502480&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Seibel, Peter (2009). <i>Coders At Work</i>. p.&#160;475.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.aufirst=Peter&amp;rft.aulast=Seibel&amp;rft.btitle=Coders+At+Work&amp;rft.date=2009&amp;rft.genre=book&amp;rft.pages=475&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Pike, Rob (April 30, 2003). <a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt">"UTF-8 history"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.aufirst=Rob&amp;rft.aulast=Pike&amp;rft.btitle=UTF-8+history&amp;rft.date=2003-04-30&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cl.cam.ac.uk%2F~mgk25%2Fucs%2Futf-8-history.txt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MarkDavis2010-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-MarkDavis2010_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Mark_Davis_(Unicode)" title="Mark Davis (Unicode)">Davis, Mark</a> (28 January 2010). <a rel="nofollow" class="external text" href="http://googleblog.blogspot.com/2010/01/unicode-nearing-50-of-web.html">"Unicode nearing 50% of the web"</a>. <i>Official Google Blog</i>. <a href="/wiki/Google" title="Google">Google</a><span class="reference-accessdate">. Retrieved <span class="nowrap">5 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.atitle=Unicode+nearing+50%25+of+the+web&amp;rft.aufirst=Mark&amp;rft.aulast=Davis&amp;rft.date=2010-01-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgoogleblog.blogspot.com%2F2010%2F01%2Funicode-nearing-50-of-web.html&amp;rft.jtitle=Official+Google+Blog&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Seibel, Peter (2009). <i>Coders At Work</i>. p.&#160;479.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.aufirst=Peter&amp;rft.aulast=Seibel&amp;rft.btitle=Coders+At+Work&amp;rft.date=2009&amp;rft.genre=book&amp;rft.pages=479&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nae.edu/MembersSection/Directory20412/28454.aspx">"Dr. Ken Thompson"</a>. National Academy of Engineering.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.btitle=Dr.+Ken+Thompson&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nae.edu%2FMembersSection%2FDirectory20412%2F28454.aspx&amp;rft.pub=National+Academy+of+Engineering&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Thompson, Ken. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20150309043401/http://cm.bell-labs.com/who/ken/trust.html">"Reflections on Trusting Trust"</a>. Archived from <a rel="nofollow" class="external text" href="http://cm.bell-labs.com/who/ken/trust.html">the original</a> on 2015-03-09.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.aufirst=Ken&amp;rft.aulast=Thompson&amp;rft.btitle=Reflections+on+Trusting+Trust&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcm.bell-labs.com%2Fwho%2Fken%2Ftrust.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Thompson, Ken (1984). "Reflections on trusting trust". <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a></i> <b>27</b> (8): 761–763. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F358198.358210">10.1145/358198.358210</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.atitle=Reflections+on+trusting+trust&amp;rft.aufirst=Ken&amp;rft.aulast=Thompson&amp;rft.date=1984&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F358198.358210&amp;rft.issue=8&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=761-763&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=27" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ieee.org/documents/hamming_rl.pdf">"IEEE Richard W. Hamming Medal Recipients"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a><span class="reference-accessdate">. Retrieved <span class="nowrap">May 29,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.btitle=IEEE+Richard+W.+Hamming+Medal+Recipients&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ieee.org%2Fdocuments%2Fhamming_rl.pdf&amp;rft.pub=IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">CHM. <a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/bios/Ken,Thompson/">"Ken Thompson — CHM Fellow Award Winner"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.au=CHM&amp;rft.btitle=Ken+Thompson+%94+CHM+Fellow+Award+Winner&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Ffellowawards%2Fhall%2Fbios%2FKen%2CThompson%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NationalMedalAnnouncement-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-NationalMedalAnnouncement_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bell-labs.com/news/1998/december/9/1.html">"Ritchie and Thompson Get National Medal of Technology"</a>. Bell Labs. December 8, 1998.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.btitle=Ritchie+and+Thompson+Get+National+Medal+of+Technology&amp;rft.date=1998-12-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bell-labs.com%2Fnews%2F1998%2Fdecember%2F9%2F1.html&amp;rft.pub=Bell+Labs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NationalMedalPressRelease-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-NationalMedalPressRelease_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bell-labs.com/news/1999/april/28/1.html">"Ritchie and Thompson Receive National Medal of Technology from President Clinton"</a>. Bell Labs. April 27, 1999.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.btitle=Ritchie+and+Thompson+Receive+National+Medal+of+Technology+from+President+Clinton&amp;rft.date=1999-04-27&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bell-labs.com%2Fnews%2F1999%2Fapril%2F28%2F1.html&amp;rft.pub=Bell+Labs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kanai-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kanai_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130326045523/http://www.bell-labs.com/news/1999/march/25/1.html">"Ken Thompson Receives Kanai Award for Impact of UNIX System"</a>. Bell Labs. March 25, 1999.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.btitle=Ken+Thompson+Receives+Kanai+Award+for+Impact+of+UNIX+System&amp;rft.date=1999-03-25&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130326045523%2Fhttp%3A%2F%2Fwww.bell-labs.com%2Fnews%2F1999%2Fmarch%2F25%2F1.html&amp;rft.pub=Bell+Labs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news">Evangelista, Benny (January 25, 2011). <a rel="nofollow" class="external text" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/01/24/BUTI1HDJSA.DTL#ixzz1C5LtXdf3">"Ken Thompson, Dennis Ritchie win Japan Prize"</a>. <i>The San Francisco Chronicle</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKen+Thompson&amp;rft.atitle=Ken+Thompson%2C+Dennis+Ritchie+win+Japan+Prize&amp;rft.aufirst=Benny&amp;rft.aulast=Evangelista&amp;rft.date=2011-01-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sfgate.com%2Fcgi-bin%2Farticle.cgi%3Ff%3D%2Fc%2Fa%2F2011%2F01%2F24%2FBUTI1HDJSA.DTL%23ixzz1C5LtXdf3&amp;rft.jtitle=The+San+Francisco+Chronicle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Ken_Thompson" class="extiw" title="commons:Category:Ken Thompson">Ken Thompson</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Kenneth_Thompson" class="extiw" title="q:Kenneth Thompson">Kenneth Thompson</a></b></i></td>
+</tr>
+</table>
+<div id="section_SpokenWikipedia" class="infobox sisterproject plainlinks haudio">
+<div style="text-align: center; white-space:nowrap"><b>Listen to this article</b> (<a href="/wiki/File:Ken_Thompson_(computer_programmer).ogg" title="File:Ken Thompson (computer programmer).ogg">info/dl</a>)
+<div class="center">
+<div class="floatnone">
+<div class="mediaContainer" style="width:200px"><audio id="mwe_player_0" poster="/static/1.27.0-wmf.9/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" style="width:200px" class="kskin" data-durationhint="258.8589569161" data-startoffset="0" data-mwtitle="Ken_Thompson_(computer_programmer).ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/e/e2/Ken_Thompson_%28computer_programmer%29.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (66 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="65716"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/e/e2/Ken_Thompson_%28computer_programmer%29.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+</div>
+</div>
+<p><br /></p>
+<div style="float: left; margin-left: 5px;">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/45px-Sound-icon.svg.png" title="Spoken Wikipedia" width="45" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/68px-Sound-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/90px-Sound-icon.svg.png 2x" data-file-width="128" data-file-height="96" /></div>
+</div>
+<div style="font-size: xx-small; line-height: 1.6em; margin-left: 60px;">This audio file was created from a revision of the "<span class="fn">Ken Thompson</span>" article dated 2006-06-17, and does not reflect subsequent edits to the article. (<a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">Audio help</a>)</div>
+<div style="text-align: center; clear: both"><b><a href="/wiki/Wikipedia:Spoken_articles" title="Wikipedia:Spoken articles">More spoken articles</a></b></div>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://cs.bell-labs.co/who/ken/">Ken Thompson Bell Labs page</a></li>
+<li><a rel="nofollow" class="external text" href="http://dl.acm.org/citation.cfm?doid=358198.358210">Reflections on Trusting Trust</a> 1983 <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> Lecture</li>
+<li><a rel="nofollow" class="external text" href="http://boole.computer.org/portal/site/computer/menuitem.eb7d70008ce52e4b0ef1bd108bcd45f3/index.jsp?&amp;pName=computer_level1&amp;path=computer/homepage/0599/thompson&amp;file=thompson.xml&amp;xsl=article.xsl&amp;">Unix and Beyond: An Interview with Ken Thompson</a> <a rel="nofollow" class="external text" href="http://www.computer.org/">IEEE Computer Society</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.linfo.org/thompson.html">Ken Thompson: A Brief Introduction</a> The Linux Information Project (LINFO)</li>
+<li>Computer Chess Comes of Age: <a rel="nofollow" class="external text" href="http://www.computerhistory.org/chess/viewAll.php?sec=thm-42eeabf470432&amp;sel=thm-42f15c52333a3&amp;table=item_still_image#">Photos</a> <a rel="nofollow" class="external text" href="http://www.computerhistory.org">Computer History Museum</a></li>
+<li>Computer Chess Comes of Age: <a rel="nofollow" class="external text" href="http://www.computerhistory.org/chess/viewAll.php?sec=thm-42eeabf470432&amp;sel=thm-42f15c52333a3&amp;table=item_oral_history">Video of Interview with Ken Thompson</a> <a rel="nofollow" class="external text" href="http://www.computerhistory.org">Computer History Museum</a></li>
+<li><a rel="nofollow" class="external text" href="http://doc.cat-v.org/bell_labs/reading_chess/">Reading Chess paper by HS Baird and Ken Thompson</a> on <a href="/wiki/Optical_character_recognition" title="Optical character recognition">optical character recognition</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ken_Thompson_navbox" title="Template:Ken Thompson navbox"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ken_Thompson_navbox" title="Template talk:Ken Thompson navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ken_Thompson_navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><strong class="selflink">Ken Thompson</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Operating systems</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Unix" title="Unix">Unix</a></li>
+<li><a href="/wiki/Plan_9_from_Bell_Labs" title="Plan 9 from Bell Labs">Plan 9 from Bell Labs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Programming languages</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/B_(programming_language)" title="B (programming language)">B</a></li>
+<li><a href="/w/index.php?title=Bon_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Bon (programming language) (page does not exist)">Bon</a></li>
+<li><a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Software</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Belle_(chess_machine)" title="Belle (chess machine)">Belle</a></li>
+<li><a href="/wiki/Ed_(text_editor)" title="Ed (text editor)">ed</a></li>
+<li><a href="/wiki/Grep" title="Grep">grep</a></li>
+<li><a href="/wiki/Sam_(text_editor)" title="Sam (text editor)">sam</a></li>
+<li><i><a href="/wiki/Space_Travel_(video_game)" title="Space Travel (video game)">Space Travel</a></i></li>
+<li><a href="/wiki/Thompson_shell" title="Thompson shell">Thompson shell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/UTF-8" title="UTF-8">UTF-8</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Richard_W._Hamming_Medal_recipients" title="Template:Richard W. Hamming Medal recipients"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Richard_W._Hamming_Medal_recipients" title="Template talk:Richard W. Hamming Medal recipients"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Richard_W._Hamming_Medal_recipients&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/IEEE_Richard_W._Hamming_Medal" title="IEEE Richard W. Hamming Medal">IEEE Richard W. Hamming Medal</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1988–2000</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1988)</small></li>
+<li><a href="/wiki/Irving_S._Reed" title="Irving S. Reed">Irving S. Reed</a> <small>(1989)</small></li>
+<li><a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> / <strong class="selflink">Ken Thompson</strong> <small>(1990)</small></li>
+<li><a href="/wiki/Elwyn_Berlekamp" title="Elwyn Berlekamp">Elwyn Berlekamp</a> <small>(1991)</small></li>
+<li><a href="/wiki/Lotfi_A._Zadeh" title="Lotfi A. Zadeh">Lotfi A. Zadeh</a> <small>(1992)</small></li>
+<li><a href="/wiki/Jorma_Rissanen" title="Jorma Rissanen">Jorma Rissanen</a> <small>(1993)</small></li>
+<li><a href="/wiki/Gottfried_Ungerboeck" title="Gottfried Ungerboeck">Gottfried Ungerboeck</a> <small>(1994)</small></li>
+<li><a href="/wiki/Jacob_Ziv" title="Jacob Ziv">Jacob Ziv</a> <small>(1995)</small></li>
+<li><a href="/wiki/Mark_Semenovich_Pinsker" title="Mark Semenovich Pinsker">Mark Semenovich Pinsker</a> <small>(1996)</small></li>
+<li><a href="/wiki/Thomas_M._Cover" title="Thomas M. Cover">Thomas M. Cover</a> <small>(1997)</small></li>
+<li><a href="/wiki/David_D._Clark" title="David D. Clark">David D. Clark</a> <small>(1998)</small></li>
+<li><a href="/wiki/David_A._Huffman" title="David A. Huffman">David A. Huffman</a> <small>(1999)</small></li>
+<li><a href="/wiki/Solomon_W._Golomb" title="Solomon W. Golomb">Solomon W. Golomb</a> <small>(2000)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2001–present</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alexander_G._Fraser" title="Alexander G. Fraser">Alexander G. Fraser</a> <small>(2001)</small></li>
+<li><a href="/wiki/Peter_Elias" title="Peter Elias">Peter Elias</a> <small>(2002)</small></li>
+<li><a href="/wiki/Claude_Berrou" title="Claude Berrou">Claude Berrou</a> / <a href="/wiki/Alain_Glavieux" title="Alain Glavieux">Alain Glavieux</a> <small>(2003)</small></li>
+<li><a href="/wiki/Jack_Wolf" title="Jack Wolf">Jack K. Wolf</a> <small>(2004)</small></li>
+<li><a href="/wiki/Neil_Sloane" title="Neil Sloane">Neil Sloane</a> <small>(2005)</small></li>
+<li><a href="/wiki/Vladimir_Levenshtein" title="Vladimir Levenshtein">Vladimir Levenshtein</a> <small>(2006)</small></li>
+<li><a href="/wiki/Abraham_Lempel" title="Abraham Lempel">Abraham Lempel</a> <small>(2007)</small></li>
+<li><a href="/wiki/Sergio_Verd%C3%BA" title="Sergio Verdú">Sergio Verdú</a> <small>(2008)</small></li>
+<li><a href="/wiki/Peter_Franaszek" title="Peter Franaszek">Peter Franaszek</a> <small>(2009)</small></li>
+<li><a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Whitfield Diffie</a> / <a href="/wiki/Martin_Hellman" title="Martin Hellman">Martin Hellman</a> / <a href="/wiki/Ralph_Merkle" title="Ralph Merkle">Ralph Merkle</a> <small>(2010)</small></li>
+<li><a href="/wiki/Toby_Berger" title="Toby Berger">Toby Berger</a> <small>(2011)</small></li>
+<li><a href="/wiki/Michael_Luby" title="Michael Luby">Michael Luby</a> / <a href="/wiki/Amin_Shokrollahi" title="Amin Shokrollahi">Amin Shokrollahi</a> <small>(2012)</small></li>
+<li><a href="/wiki/Robert_Calderbank" title="Robert Calderbank">Robert Calderbank</a> <small>(2013)</small></li>
+<li>Thomas Richardson / <a href="/w/index.php?title=R%C3%BCdiger_L._Urbanke&amp;action=edit&amp;redlink=1" class="new" title="Rüdiger L. Urbanke (page does not exist)">Rüdiger L. Urbanke</a> <small>(2014)</small></li>
+<li><a href="/wiki/Imre_Csisz%C3%A1r" title="Imre Csiszár">Imre Csiszár</a> <small>(2015)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Turing_Award_laureates" title="Template:Turing Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Turing_Award_laureates" title="Template talk:Turing Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Turing_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a> <small>(1966)</small></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Vincent Wilkes</a> <small>(1967)</small></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1968)</small></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> <small>(1969)</small></li>
+<li><a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a> <small>(1970)</small></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a> <small>(1971)</small></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a> <small>(1972)</small></li>
+<li><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a> <small>(1973)</small></li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> <small>(1974)</small></li>
+<li><a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a> / <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a> <small>(1975)</small></li>
+<li><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a> / <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> <small>(1976)</small></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> <small>(1977)</small></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a> <small>(1978)</small></li>
+<li><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a> <small>(1979)</small></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> <small>(1980)</small></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> <small>(1981)</small></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> <small>(1982)</small></li>
+<li><strong class="selflink">Ken Thompson</strong> / <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> <small>(1983)</small></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> <small>(1984)</small></li>
+<li><a href="/wiki/Richard_Karp" title="Richard Karp" class="mw-redirect">Richard Karp</a> <small>(1985)</small></li>
+<li><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a> / <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a> <small>(1986)</small></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a> <small>(1987)</small></li>
+<li><a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a> <small>(1988)</small></li>
+<li><a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a> <small>(1989)</small></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a> <small>(1990)</small></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> <small>(1991)</small></li>
+<li><a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a> <small>(1992)</small></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a> / <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a> <small>(1993)</small></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a> / <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a> <small>(1994)</small></li>
+<li><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a> <small>(1995)</small></li>
+<li><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a> <small>(1996)</small></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> <small>(1997)</small></li>
+<li><a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> <small>(1998)</small></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a> <small>(1999)</small></li>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Yao</a> <small>(2000)</small></li>
+<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a> / <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a> <small>(2001)</small></li>
+<li><a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a> / <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a> / <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a> <small>(2002)</small></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> <small>(2003)</small></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a> / <a href="/wiki/Bob_Kahn" title="Bob Kahn">Bob Kahn</a> <small>(2004)</small></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a> <small>(2005)</small></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a> <small>(2006)</small></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a> / <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a> / <a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a> <small>(2007)</small></li>
+<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> <small>(2008)</small></li>
+<li><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> <small>(2009)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie G. Valiant</a> <small>(2010)</small></li>
+<li><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a> <small>(2011)</small></li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a> / <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a> <small>(2012)</small></li>
+<li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> <small>(2013)</small></li>
+<li><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-no2009-189713">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/103083869">103083869</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/no2009189713">no2009189713</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000072769119">0000 0000 7276 9119</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20160107011832
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.367 seconds
+Real time usage: 0.450 seconds
+Preprocessor visited node count: 2107/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 66617/2097152 bytes
+Template argument size: 2466/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.162/10.000 seconds
+Lua memory usage: 3.48 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  373.033      1 - -total
+ 43.00%  160.421      1 - Template:Reflist
+ 24.05%   89.710     14 - Template:Cite_web
+ 15.41%   57.492      1 - Template:Infobox_scientist
+ 13.66%   50.941      1 - Template:Infobox
+  8.72%   32.513      1 - Template:Spoken_Wikipedia
+  7.52%   28.037      1 - Template:Spoken_Wikipedia_boilerplate
+  6.85%   25.550      1 - Template:Commons_category
+  6.82%   25.454      1 - Template:Top_icon
+  5.97%   22.271      2 - Template:Sister_project
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23370128-0!*!0!!en!4!* and timestamp 20160107011831 and revision id 695894937
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ken_Thompson&amp;oldid=695894937">https://en.wikipedia.org/w/index.php?title=Ken_Thompson&amp;oldid=695894937</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Sciences" title="Category:Members of the United States National Academy of Sciences">Members of the United States National Academy of Sciences</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:American_computer_programmers" title="Category:American computer programmers">American computer programmers</a></li><li><a href="/wiki/Category:American_technology_writers" title="Category:American technology writers">American technology writers</a></li><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li><li><a href="/wiki/Category:Unix_people" title="Category:Unix people">Unix people</a></li><li><a href="/wiki/Category:Plan_9_people" title="Category:Plan 9 people">Plan 9 people</a></li><li><a href="/wiki/Category:Inferno_(operating_system)_people" title="Category:Inferno (operating system) people">Inferno (operating system) people</a></li><li><a href="/wiki/Category:Scientists_at_Bell_Labs" title="Category:Scientists at Bell Labs">Scientists at Bell Labs</a></li><li><a href="/wiki/Category:National_Medal_of_Technology_recipients" title="Category:National Medal of Technology recipients">National Medal of Technology recipients</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_College_of_Engineering_alumni" title="Category:University of California, Berkeley College of Engineering alumni">University of California, Berkeley College of Engineering alumni</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:Google_employees" title="Category:Google employees">Google employees</a></li><li><a href="/wiki/Category:1943_births" title="Category:1943 births">1943 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Japan_Prize_laureates" title="Category:Japan Prize laureates">Japan Prize laureates</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Innovators" title="Category:Innovators">Innovators</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Spoken_articles" title="Category:Spoken articles">Spoken articles</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ken+Thompson&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ken+Thompson" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ken_Thompson"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ken_Thompson"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ken_Thompson" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ken_Thompson&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ken_Thompson&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ken_Thompson" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ken_Thompson" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ken_Thompson&amp;oldid=695894937" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ken_Thompson&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1107006" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ken_Thompson&amp;id=695894937" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ken+Thompson">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ken+Thompson&amp;returnto=Ken+Thompson&amp;oldid=695894937&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ken_Thompson&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%83%D9%8A%D9%86_%D8%AA%D9%88%D9%85%D8%B3%D9%86" title="كين تومسن – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Ken_Tompson" title="Ken Tompson – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%87%E0%A6%A8_%E0%A6%9F%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B8%E0%A6%A8" title="কেন টম্পসন – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD_%D0%A2%D0%BE%D0%BC%D0%BF%D1%81%D1%8A%D0%BD" title="Кен Томпсън – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Kenneth_Thompson" title="Kenneth Thompson – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%A9%D9%86_%D8%AA%D8%A7%D9%85%D8%B3%D9%88%D9%86" title="کن تامسون – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="//ga.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Irish" lang="ga" hreflang="ga">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%BC%84_%ED%86%B0%ED%94%84%EC%8A%A8" title="켄 톰프슨 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A7%D7%9F_%D7%AA%D7%95%D7%9E%D7%A4%D7%A1%D7%95%D7%9F" title="קן תומפסון – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kenneth_Lane_Thompson" title="Kenneth Lane Thompson – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%95%E0%B5%86%E0%B5%BB_%E0%B4%A4%E0%B5%8B%E0%B4%82%E0%B4%AA%E0%B5%8D%E0%B4%B8%E0%B5%BA" title="കെൻ തോംപ്സൺ – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%95%E0%A5%87%E0%A4%A8_%E0%A4%A5%E0%A5%89%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%B8%E0%A4%A8" title="केन थॉम्प्सन – Marathi" lang="mr" hreflang="mr">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%BB%E3%83%88%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3" title="ケン・トンプソン – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D0%BF%D1%81%D0%BE%D0%BD,_%D0%9A%D0%B5%D0%BD" title="Томпсон, Кен – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Kenneth_Thompson" title="Kenneth Thompson – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD_%D0%A2%D0%BE%D0%BC%D0%BF%D1%81%D0%BE%D0%BD" title="Кен Томпсон – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%86%E0%AE%A9%E0%AF%8D_%E0%AE%A4%E0%AE%BE%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%9A%E0%AE%A9%E0%AF%8D" title="கென் தாம்ப்சன் – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD_%D0%A2%D0%BE%D0%BC%D0%BF%D1%81%D0%BE%D0%BD" title="Кен Томпсон – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Ken_Thompson" title="Ken Thompson – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%82%AF%C2%B7%E6%B1%A4%E6%99%AE%E9%80%8A" title="肯·汤普逊 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1107006#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 December 2015, at 12:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ken_Thompson&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":551,"wgHostname":"mw1257"}); /* @nomin */
+} );</script>
+	</body>
+</html>

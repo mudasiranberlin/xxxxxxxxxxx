@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Michael Dertouzos - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Michael_Dertouzos","wgTitle":"Michael Dertouzos","wgCurRevisionId":660456001,"wgRevisionId":660456001,"wgArticleId":1859085,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hCards","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with BNF identifiers","Computer systems researchers","Greek computer scientists","American computer scientists","Greek technology writers","American technology writers","University of Arkansas alumni","Massachusetts Institute of Technology alumni","Massachusetts Institute of Technology faculty","Greek emigrants to the United States","1936 births","2001 deaths","Greek academics","People from Athens","American writers of Greek descent"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Michael_Dertouzos","wgRelevantArticleId":1859085,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92994","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Michael_Dertouzos" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Michael_Dertouzos&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Michael_Dertouzos&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Michael_Dertouzos" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Michael_Dertouzos skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Michael Dertouzos</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Michael Leonidas Dertouzos<br />
+Μιχαήλ Λεωνίδας Δερτούζος</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>November 5, 1936<br />
+<span class="birthplace"><a href="/wiki/Athens" title="Athens">Athens</a>, <a href="/wiki/Greece" title="Greece">Greece</a><sup id="cite_ref-mit_obit_1-0" class="reference"><a href="#cite_note-mit_obit-1"><span>[</span>1<span>]</span></a></sup></span></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>August 27, 2001<sup id="cite_ref-mit_obit_1-1" class="reference"><a href="#cite_note-mit_obit-1"><span>[</span>1<span>]</span></a></sup><br />
+<span class="deathplace"><a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/USA" title="USA" class="mw-redirect">USA</a><sup id="cite_ref-mit_obit_1-2" class="reference"><a href="#cite_note-mit_obit-1"><span>[</span>1<span>]</span></a></sup></span></td>
+</tr>
+<tr>
+<th scope="row">Occupation</th>
+<td class="role">Academic</td>
+</tr>
+</table>
+<p><b>Michael Leonidas Dertouzos</b> (<a href="/wiki/Greek_alphabet" title="Greek alphabet">Greek</a>: Μιχαήλ Λεωνίδας Δερτούζος) (November 5, 1936 - August 27, 2001) was a Professor at the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> and Director of the M.I.T. <a href="/wiki/Laboratory_for_Computer_Science" title="Laboratory for Computer Science" class="mw-redirect">Laboratory for Computer Science</a> (LCS) from 1974 to 2001.</p>
+<p>During Dertouzos's term, LCS innovated in a variety of areas, including <a href="/wiki/RSA_(algorithm)" title="RSA (algorithm)" class="mw-redirect">RSA</a> <a href="/wiki/Encryption" title="Encryption">encryption</a>, the <a href="/wiki/Spreadsheet" title="Spreadsheet">spreadsheet</a>, the <a href="/wiki/NuBus" title="NuBus">NuBus</a>, the <a href="/wiki/X_Window_System" title="X Window System">X Window System</a>, and the <a href="/wiki/Internet" title="Internet">Internet</a>. Dertouzos was instrumental in defining the <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a> and bringing it to MIT. He was a firm supporter of the <a href="/wiki/GNU_Project" title="GNU Project">GNU Project</a>, <a href="/wiki/Richard_Stallman" title="Richard Stallman">Richard Stallman</a>, and the <a href="/wiki/Free_Software_Foundation" title="Free Software Foundation">FSF</a>, and their continued presence at MIT.</p>
+<p>In 1968, he co-founded Computek, Inc., a manufacturer of <a href="/wiki/Storage_tube" title="Storage tube">graphics</a> and intelligent terminals with Marvin C. Lewis and Dr. Huber Graham.</p>
+<p>Dertouzos was a graduate of <a href="/wiki/Athens_College" title="Athens College">Athens College</a> and attended the <a href="/wiki/University_of_Arkansas" title="University of Arkansas">University of Arkansas</a> on a <a href="/wiki/Fulbright_Scholarship" title="Fulbright Scholarship" class="mw-redirect">Fulbright Scholarship</a>. He received his Ph.D. from M.I.T. in 1964 and joined the M.I.T. faculty. He was buried at the <a href="/wiki/First_Cemetery_of_Athens" title="First Cemetery of Athens">First Cemetery of Athens</a>.<sup id="cite_ref-mit_obit_1-3" class="reference"><a href="#cite_note-mit_obit-1"><span>[</span>1<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Quotes"><span class="tocnumber">1</span> <span class="toctext">Quotes</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Bibliography"><span class="tocnumber">2</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Further_reading"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Quotes">Quotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Michael_Dertouzos&amp;action=edit&amp;section=1" title="Edit section: Quotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<blockquote class="templatequote">
+<p>We made a big mistake 300 years ago when we separated technology and humanism. ... It's time to put the two back together.</p>
+<div class="templatequotecite"><cite>— Michael Dertouzos, <a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a>, July 1997</cite></div>
+</blockquote>
+<p><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<blockquote class="templatequote">
+<p>The potential of the modern information age seems overshadowed at every turn by the ancient forces that separate the rich from the poor.</p>
+<div class="templatequotecite"><cite>— Michael Dertouzos, 1999</cite></div>
+</blockquote>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Michael_Dertouzos&amp;action=edit&amp;section=2" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Dertouzos, <i>The Unfinished Revolution: Human-Centered Computers and What They Can Do For Us</i>, 2001, <a href="/wiki/Special:BookSources/0066620678" class="internal mw-magiclink-isbn">ISBN 0-06-662067-8</a>.</li>
+<li>Dertouzos, <i>What Will Be: How the New World of Information Will Change Our Lives</i>, 1997, <a href="/wiki/Special:BookSources/0062514792" class="internal mw-magiclink-isbn">ISBN 0-06-251479-2</a>.</li>
+<li>"Communications, Computers and Networks", in <i><a href="/wiki/Scientific_American_Special_Issue_on_Communications,_Computers,_and_Networks" title="Scientific American Special Issue on Communications, Computers, and Networks" class="mw-redirect">Scientific American Special Issue on Communications, Computers, and Networks</a></i>, September, 1991</li>
+<li>(co-author), <i>Made in America: Regaining the Productive Edge</i>, 1989, <a href="/wiki/Special:BookSources/0262041006" class="internal mw-magiclink-isbn">ISBN 0-262-04100-6</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Michael_Dertouzos&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-mit_obit-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-mit_obit_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mit_obit_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mit_obit_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-mit_obit_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.mit.edu/newsoffice/2001/dertouzos.html">MIT colleagues attend Dertouzos funeral in Hellas(Greece) - MIT News Office</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Leutwyler, K. (1997) <i>Profile: Michael L. Dertouzos – What Will Really Be</i>, <a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a> <b>277</b>(1), 28-29.</span></li>
+</ol>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Michael_Dertouzos&amp;action=edit&amp;section=4" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Kevin_Warwick" title="Kevin Warwick">K. Warwick</a> "Scrubbing the future clean", Review of 'What will be' by Michael Dertouzos, New Scientist, p.&#160;44, 9 August 1997.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Michael_Dertouzos&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://purl.umn.edu/107245">Oral history interview with Michael L. Dertouzos</a>. <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a> <a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a>. Dertouzos discusses his research in computer science at the Massachusetts Institute of Technology and Project MAC's change under his direction to the Laboratory for Computer Science. The bulk of the interview concerns MIT's relationship with the <a href="/wiki/Defense_Advanced_Research_Projects_Agency" title="Defense Advanced Research Projects Agency" class="mw-redirect">Defense Advanced Research Projects Agency</a> (DARPA) and its <a href="/wiki/Information_Processing_Techniques_Office" title="Information Processing Techniques Office">Information Processing Techniques Office</a> (IPTO). Topics include: <a href="/wiki/Time-sharing" title="Time-sharing">time-sharing</a>, distributive systems, networking, <a href="/wiki/Multiprocessing" title="Multiprocessing">multiprocessing</a>, the <a href="/wiki/ARPANET" title="ARPANET">ARPANET</a>, and <a href="/wiki/Bob_Kahn" title="Bob Kahn">Robert Kahn</a>'s directorship of IPTO.</li>
+<li><a rel="nofollow" class="external text" href="http://www.kurzweilai.net/bios/frame.html?main=/bios/bio0018.html">Biography on KurzweilAI.net</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n79-032299">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/24732677">24732677</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n79032299">n79032299</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000081035782">0000 0000 8103 5782</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/050638785">050638785</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb129371206">cb129371206</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb129371206">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=83083">83083</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00465539">00465539</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20160103195818
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.141 seconds
+Real time usage: 0.167 seconds
+Preprocessor visited node count: 886/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7790/2097152 bytes
+Template argument size: 1023/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.053/10.000 seconds
+Lua memory usage: 1.5 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  146.536      1 - -total
+ 59.67%   87.433      1 - Template:Infobox_person
+ 42.75%   62.648      1 - Template:Infobox
+ 17.43%   25.541      2 - Template:Quote
+ 17.03%   24.953      1 - Template:Authority_control
+ 14.72%   21.574      5 - Template:Br_separated_entries
+ 10.95%   16.043      6 - Template:If_empty
+  8.47%   12.417      2 - Template:Comma_separated_entries
+  7.27%   10.655      1 - Template:Wikidata_image
+  2.49%    3.653      1 - Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1859085-0!*!0!!en!*!* and timestamp 20160103195818 and revision id 660456001
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Michael_Dertouzos&amp;oldid=660456001">https://en.wikipedia.org/w/index.php?title=Michael_Dertouzos&amp;oldid=660456001</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_systems_researchers" title="Category:Computer systems researchers">Computer systems researchers</a></li><li><a href="/wiki/Category:Greek_computer_scientists" title="Category:Greek computer scientists">Greek computer scientists</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Greek_technology_writers" title="Category:Greek technology writers">Greek technology writers</a></li><li><a href="/wiki/Category:American_technology_writers" title="Category:American technology writers">American technology writers</a></li><li><a href="/wiki/Category:University_of_Arkansas_alumni" title="Category:University of Arkansas alumni">University of Arkansas alumni</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_alumni" title="Category:Massachusetts Institute of Technology alumni">Massachusetts Institute of Technology alumni</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_faculty" title="Category:Massachusetts Institute of Technology faculty">Massachusetts Institute of Technology faculty</a></li><li><a href="/wiki/Category:Greek_emigrants_to_the_United_States" title="Category:Greek emigrants to the United States">Greek emigrants to the United States</a></li><li><a href="/wiki/Category:1936_births" title="Category:1936 births">1936 births</a></li><li><a href="/wiki/Category:2001_deaths" title="Category:2001 deaths">2001 deaths</a></li><li><a href="/wiki/Category:Greek_academics" title="Category:Greek academics">Greek academics</a></li><li><a href="/wiki/Category:People_from_Athens" title="Category:People from Athens">People from Athens</a></li><li><a href="/wiki/Category:American_writers_of_Greek_descent" title="Category:American writers of Greek descent">American writers of Greek descent</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Michael+Dertouzos&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Michael+Dertouzos" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Michael_Dertouzos"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Michael_Dertouzos"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Michael_Dertouzos" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Michael_Dertouzos&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Michael_Dertouzos&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Michael_Dertouzos" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Michael_Dertouzos" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Michael_Dertouzos&amp;oldid=660456001" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Michael_Dertouzos&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92994" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Michael_Dertouzos&amp;id=660456001" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Michael+Dertouzos">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Michael+Dertouzos&amp;returnto=Michael+Dertouzos&amp;oldid=660456001&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Michael_Dertouzos&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-zh-min-nan"><a href="//zh-min-nan.wikipedia.org/wiki/Michael_Dertouzos" title="Michael Dertouzos – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Michael_Dertouzos" title="Michael Dertouzos – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%9C%CE%B9%CF%87%CE%AC%CE%BB%CE%B7%CF%82_%CE%94%CE%B5%CF%81%CF%84%CE%BF%CF%8D%CE%B6%CE%BF%CF%82" title="Μιχάλης Δερτούζος – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9E%D7%99%D7%9B%D7%90%D7%9C_%D7%9C%D7%90%D7%95%D7%A0%D7%99%D7%93%D7%90%D7%A1_%D7%93%D7%A8%D7%98%D7%90%D7%95%D7%96%D7%95%D7%A1" title="מיכאל לאונידאס דרטאוזוס – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%83%80%E3%83%BC%E3%83%88%E3%82%A6%E3%82%BE%E3%82%B9" title="マイケル・ダートウゾス – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Michael_Dertouzos" title="Michael Dertouzos – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D1%82%D1%83%D0%B7%D0%BE%D1%81,_%D0%9C%D0%B8%D1%85%D0%B0%D0%BB%D0%B8%D1%81" title="Дертузос, Михалис – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9C%D1%96%D1%85%D0%B0%D0%BB%D1%96%D1%81_%D0%94%D0%B5%D1%80%D1%82%D1%83%D0%B7%D0%BE%D1%81" title="Міхаліс Дертузос – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92994#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 May 2015, at 16:58.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Michael_Dertouzos&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1150"}); /* @nomin */
+} );</script>
+	</body>
+</html>

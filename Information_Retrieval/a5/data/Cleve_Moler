@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Cleve Moler - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cleve_Moler","wgTitle":"Cleve Moler","wgCurRevisionId":694175207,"wgRevisionId":694175207,"wgArticleId":562706,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["BLP articles lacking sources from February 2013","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","1939 births","20th-century American mathematicians","21st-century American mathematicians","Computer programmers","University of Michigan faculty","Stanford University Department of Mathematics faculty","University of New Mexico faculty","California Institute of Technology alumni","Stanford University alumni","Living people","Numerical analysts","Fellows of the Society for Industrial and Applied Mathematics","Members of the United States National Academy of Engineering","Presidents of the Society for Industrial and Applied Mathematics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cleve_Moler","wgRelevantArticleId":562706,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92871","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cleve_Moler" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cleve_Moler&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cleve_Moler&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cleve_Moler" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Cleve_Moler skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Cleve Moler</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-BLP_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biographical article</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help by adding <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Defamation" title="Defamation">libelous</a> or harmful.</span> <small><i>(February 2013)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Cleve Barry Moler</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1939-08-17</span>)</span> August 17, 1939 <span class="noprint ForceAgeToShow">(age&#160;76)</span></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Mathematics" title="Mathematics">Mathematics</a>, <a href="/wiki/Computer_science" title="Computer science">Computer science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a><br />
+<a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a><br />
+<a href="/wiki/University_of_Waterloo" title="University of Waterloo">University of Waterloo</a><br />
+<a href="/wiki/University_of_New_Mexico" title="University of New Mexico">University of New Mexico</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a><br />
+<a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/George_Forsythe" title="George Forsythe">George Forsythe</a></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a href="/wiki/Jack_Dongarra" title="Jack Dongarra">Jack Dongarra</a><br />
+Stanley Eisenstat<br />
+<a href="/wiki/Charles_F._Van_Loan" title="Charles F. Van Loan">Charles F. Van Loan</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/MATLAB" title="MATLAB">MATLAB</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/Computer_Pioneer_Award" title="Computer Pioneer Award">Computer Pioneer Award</a> <small>(2012)</small></td>
+</tr>
+</table>
+<p><b>Cleve Barry Moler</b> is an American <a href="/wiki/Mathematics" title="Mathematics">mathematician</a> and <a href="/wiki/Computer_programming" title="Computer programming">computer programmer</a> specializing in <a href="/wiki/Numerical_analysis" title="Numerical analysis">numerical analysis</a>. In the mid to late 1970s, he was one of the authors of <a href="/wiki/LINPACK" title="LINPACK">LINPACK</a> and <a href="/wiki/EISPACK" title="EISPACK">EISPACK</a>, <a href="/wiki/Fortran" title="Fortran">Fortran</a> libraries for numerical computing. He invented <a href="/wiki/MATLAB" title="MATLAB">MATLAB</a>, a numerical computing package, to give his students at the <a href="/wiki/University_of_New_Mexico" title="University of New Mexico">University of New Mexico</a> easy access to these libraries without writing Fortran. In 1984, he co-founded <a href="/wiki/MathWorks" title="MathWorks">MathWorks</a> with <a href="/wiki/John_N._Little" title="John N. Little">Jack Little</a> to commercialize this program.</p>
+<p>He received his <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">bachelor's degree</a> from <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a> in 1961, and a <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Ph.D.</a> from <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>, all in mathematics.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>He was a professor of mathematics and computer science for almost 20 years at the <a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a>, <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>, and the <a href="/wiki/University_of_New_Mexico" title="University of New Mexico">University of New Mexico</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> Before joining <a href="/wiki/MathWorks" title="MathWorks">MathWorks</a> full-time in 1989, he also worked for <a href="/wiki/Intel" title="Intel">Intel</a> Hypercube, where he coined the term "<a href="/wiki/Embarrassingly_parallel" title="Embarrassingly parallel">embarrassingly parallel</a>", and <a href="/wiki/Ardent_Computer_Corporation" title="Ardent Computer Corporation" class="mw-redirect">Ardent Computer Corporation</a>. He is also co-author of four textbooks on numerical methods and is a member of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>. He was president of the <a href="/wiki/Society_for_Industrial_and_Applied_Mathematics" title="Society for Industrial and Applied Mathematics">Society for Industrial and Applied Mathematics</a> 2007-2008.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>He was elected to the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> on February 14, 1997. He received an honorary degree from <a href="/wiki/Link%C3%B6ping_University" title="Linköping University">Linköping University</a>, Sweden. He received an honorary degree of Doctor of Mathematics from the <a href="/wiki/University_of_Waterloo" title="University of Waterloo">University of Waterloo</a> on June 16, 2001. On April 30, 2004, he was appointed Honorary Doctor (doctor technices, honoris causa) at the <a href="/wiki/Technical_University_of_Denmark" title="Technical University of Denmark">Technical University of Denmark</a>. In April 2012, the <a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a> named Cleve the recipient of the 2012 Computer Pioneer Award.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> In February 2014, IEEE named Cleve the recipient of the 2014 <a href="/wiki/IEEE_John_von_Neumann_Medal" title="IEEE John von Neumann Medal">IEEE John von Neumann Medal</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cleve_Moler&amp;action=edit&amp;section=1" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Forsythe, George E., Malcolm, Michael A., Moler, Cleve B., "Computer methods for mathematical computations", Prentice-Hall Series in Automatic Computation, <a href="/wiki/Prentice-Hall" title="Prentice-Hall" class="mw-redirect">Prentice-Hall</a>., Englewood Cliffs, N.J., 1977. <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="http://www.ams.org/mathscinet-getitem?mr=0458783">0458783</a> <a href="/wiki/Special:BookSources/0131653326" class="internal mw-magiclink-isbn">ISBN 0-13-165332-6</a></li>
+<li>Moler, Cleve B., <a rel="nofollow" class="external text" href="http://www.mathworks.com/moler">"Numerical Computing with MATLAB"</a>, <a href="/wiki/Society_for_Industrial_and_Applied_Mathematics" title="Society for Industrial and Applied Mathematics">Society for Industrial and Applied Mathematics</a>, 2004, <a href="/wiki/Special:BookSources/9780898715606" class="internal mw-magiclink-isbn">ISBN 978-0-89871-560-6</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cleve_Moler&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.siam.org/about/news-siam.php?id=171">Cleve Moler Elected Next SIAM President</a>, News of SIAM, December 16, 2005</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://albuquerque.bizjournals.com/albuquerque/stories/2009/02/02/story9.html">Math whiz stamps profound imprint on computing world</a>, New Mexico Business Weekly, January 30, 2009</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">SIAM Presidents <a rel="nofollow" class="external free" href="http://www.siam.org/about/more/presidents.php">http://www.siam.org/about/more/presidents.php</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.computer.org/portal/web/pressroom/MATLAB-Creator-Cleve-Moler-to-Receive-IEEE-Computer-Society-Pioneer-Award">MATLAB Creator Cleve Moler Wins Computer Pioneer Award</a>, IEEE Computer Press Release, April 11, 2012</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://theinstitute.ieee.org/people/achievements/recipients-of-the-2014-medals-and-awards">Recipients of the 2014 Medals and Awards</a>, IEEE Computer Press Release, February 14, 2014</span></li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cleve_Moler&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.mathworks.com/company/aboutus/founders/clevemoler.html">MathWorks biography of Moler</a></li>
+<li><a rel="nofollow" class="external text" href="http://history.siam.org/oralhistories/moler.htm">Cleve Moler, Oral history interview by Thomas Haigh, 8 and 9 March, 2004, Santa Barbara, California. Society for Industrial and Applied Mathematics, Philadelphia, PA</a> Lengthy interview transcript covering Moler's entire career. Full text available online.</li>
+<li><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=7743">Cleve Moler</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n87-841287">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/17752975">17752975</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n87841287">n87841287</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000110418679">0000 0001 1041 8679</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/107887975">107887975</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/087540290">087540290</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=7743">7743</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20160107123005
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.133 seconds
+Real time usage: 0.180 seconds
+Preprocessor visited node count: 748/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11053/2097152 bytes
+Template argument size: 747/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.051/10.000 seconds
+Lua memory usage: 1.63 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  155.945      1 - -total
+ 36.75%   57.313      1 - Template:Infobox_scientist
+ 32.16%   50.154      1 - Template:Infobox
+ 29.06%   45.313      1 - Template:BLP_sources
+ 18.07%   28.185      1 - Template:Ambox
+ 15.86%   24.728      1 - Template:Authority_control
+ 13.03%   20.316      4 - Template:Br_separated_entries
+  6.75%   10.533      1 - Template:Birth_date_and_age
+  4.74%    7.394      1 - Template:MathSciNet
+  4.15%    6.477      1 - Template:MathGenealogy
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:562706-0!*!0!!*!4!* and timestamp 20160107123004 and revision id 694175207
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cleve_Moler&amp;oldid=694175207">https://en.wikipedia.org/w/index.php?title=Cleve_Moler&amp;oldid=694175207</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1939_births" title="Category:1939 births">1939 births</a></li><li><a href="/wiki/Category:20th-century_American_mathematicians" title="Category:20th-century American mathematicians">20th-century American mathematicians</a></li><li><a href="/wiki/Category:21st-century_American_mathematicians" title="Category:21st-century American mathematicians">21st-century American mathematicians</a></li><li><a href="/wiki/Category:Computer_programmers" title="Category:Computer programmers">Computer programmers</a></li><li><a href="/wiki/Category:University_of_Michigan_faculty" title="Category:University of Michigan faculty">University of Michigan faculty</a></li><li><a href="/wiki/Category:Stanford_University_Department_of_Mathematics_faculty" title="Category:Stanford University Department of Mathematics faculty">Stanford University Department of Mathematics faculty</a></li><li><a href="/wiki/Category:University_of_New_Mexico_faculty" title="Category:University of New Mexico faculty">University of New Mexico faculty</a></li><li><a href="/wiki/Category:California_Institute_of_Technology_alumni" title="Category:California Institute of Technology alumni">California Institute of Technology alumni</a></li><li><a href="/wiki/Category:Stanford_University_alumni" title="Category:Stanford University alumni">Stanford University alumni</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Numerical_analysts" title="Category:Numerical analysts">Numerical analysts</a></li><li><a href="/wiki/Category:Fellows_of_the_Society_for_Industrial_and_Applied_Mathematics" title="Category:Fellows of the Society for Industrial and Applied Mathematics">Fellows of the Society for Industrial and Applied Mathematics</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Presidents_of_the_Society_for_Industrial_and_Applied_Mathematics" title="Category:Presidents of the Society for Industrial and Applied Mathematics">Presidents of the Society for Industrial and Applied Mathematics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_February_2013" title="Category:BLP articles lacking sources from February 2013">BLP articles lacking sources from February 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cleve+Moler&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cleve+Moler" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Cleve_Moler"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Cleve_Moler"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Cleve_Moler" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Cleve_Moler&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cleve_Moler&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cleve_Moler" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cleve_Moler" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cleve_Moler&amp;oldid=694175207" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cleve_Moler&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92871" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cleve_Moler&amp;id=694175207" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cleve+Moler">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Cleve+Moler&amp;returnto=Cleve+Moler&amp;oldid=694175207&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cleve_Moler&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%83%D9%84%D9%8A%D9%81_%D9%85%D9%88%D9%84%D9%8A%D8%B1" title="كليف مولير – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Cleve_Moler" title="Cleve Moler – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Cleve_Moler" title="Cleve Moler – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%A9%D9%84%DB%8C%D9%88_%D9%85%D9%88%D9%84%D8%B1" title="کلیو مولر – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-ht"><a href="//ht.wikipedia.org/wiki/Cleve_Moler" title="Cleve Moler – Haitian Creole" lang="ht" hreflang="ht">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Cleve_Moler" title="Cleve Moler – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Cleve_Moler" title="Cleve Moler – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%85%8B%E9%87%8C%E5%A4%AB%C2%B7%E8%8E%AB%E5%8B%92%E5%B0%94" title="克里夫·莫勒尔 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92871#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 December 2015, at 15:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cleve_Moler&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":250,"wgHostname":"mw1241"}); /* @nomin */
+} );</script>
+	</body>
+</html>

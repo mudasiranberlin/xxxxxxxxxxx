@@ -1,0 +1,730 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>J. C. R. Licklider - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"J._C._R._Licklider","wgTitle":"J. C. R. Licklider","wgCurRevisionId":690239393,"wgRevisionId":690239393,"wgArticleId":254150,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: invisible characters","Articles with hCards","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","1915 births","1990 deaths","People from St. Louis, Missouri","University of Rochester alumni","Washington University in St. Louis alumni","Massachusetts Institute of Technology faculty","Artificial intelligence researchers","American psychologists","Cyberneticists","American computer scientists","Internet pioneers","People from Arlington, Massachusetts","Deaths from asthma"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"J._C._R._Licklider","wgRelevantArticleId":254150,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"J.C.R._Licklider","wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/6/66/J._C._R._Licklider.jpg/71px-J._C._R._Licklider.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/J._C._R._Licklider","wgWikibaseItemId":"Q92778","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/J._C._R._Licklider" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=J._C._R._Licklider&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=J._C._R._Licklider&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/J._C._R._Licklider" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-J_C_R_Licklider skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">J. C. R. Licklider</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=J.C.R._Licklider&amp;redirect=no" title="J.C.R. Licklider">J.C.R. Licklider</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Joseph Carl Robnett Licklider</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:J._C._R._Licklider.jpg" class="image"><img alt="J. C. R. Licklider.jpg" src="//upload.wikimedia.org/wikipedia/commons/6/66/J._C._R._Licklider.jpg" width="194" height="272" data-file-width="194" data-file-height="272" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1915-03-11</span>)</span>March 11, 1915<br />
+<span class="birthplace"><a href="/wiki/St._Louis,_Missouri" title="St. Louis, Missouri" class="mw-redirect">St. Louis, Missouri</a></span></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>June 26, 1990<span style="display:none">(<span class="dday deathdate">1990-06-26</span>)</span> (aged&#160;75)<br />
+<span class="deathplace">Symmes Hospital, <a href="/wiki/Arlington,_Massachusetts" title="Arlington, Massachusetts">Arlington, Massachusetts</a></span></td>
+</tr>
+<tr>
+<th scope="row">Other&#160;names</th>
+<td class="nickname">J. C. R<br />
+Lick<br />
+"Computing's Johnny Appleseed"</td>
+</tr>
+<tr>
+<th scope="row">Education</th>
+<td>Washington University in St. Louis<br />
+University of Rochester</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Cybernetics" title="Cybernetics">Cybernetics</a>/<a href="/wiki/Interactive_computing" title="Interactive computing">Interactive computing</a><br />
+"<a href="/wiki/Intergalactic_Computer_Network" title="Intergalactic Computer Network">Intergalactic Computer Network</a>" (Internet)<br />
+<a href="/wiki/Artificial_Intelligence" title="Artificial Intelligence" class="mw-redirect">Artificial Intelligence</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td>Louise Carpenter</td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td>2</td>
+</tr>
+</table>
+<p><b>Joseph Carl Robnett Licklider</b> (<span class="nowrap"><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="/ˈ/ primary stress follows">ˈ</span><span title="'l' in 'lie'">l</span><span title="/ɪ/ short 'i' in 'bid'">ɪ</span><span title="'k' in 'kind'">k</span><span title="'l' in 'lie'">l</span><span title="/aɪ/ long 'i' in 'tide'">aɪ</span><span title="'d' in 'dye'">d</span><span title="/ər/ 'er' in 'finger'">ər</span></span>/</a></span></span>; March 11, 1915 – June 26, 1990), known simply as J. C. R. or "Lick", was an American <a href="/wiki/Psychologist" title="Psychologist">psychologist</a><sup id="cite_ref-Miller_1-0" class="reference"><a href="#cite_note-Miller-1"><span>[</span>1<span>]</span></a></sup> and <a href="/wiki/Computer_science" title="Computer science">computer scientist</a> who is considered one of the most important figures in <a href="/wiki/History_of_computer_science" title="History of computer science">computer science</a> and general <a href="/wiki/History_of_computer_hardware" title="History of computer hardware" class="mw-redirect">computing history</a>.</p>
+<p>He is particularly remembered for being one of the first to foresee modern-style <a href="/wiki/Interactive_computing" title="Interactive computing">interactive computing</a> and its application to all manner of activities; and also as an <a href="/wiki/Internet_pioneer" title="Internet pioneer" class="mw-redirect">Internet pioneer</a> with an early vision of a worldwide computer network long before it was built. He did much to actually initiate this by funding research which led to much of it, including today's canonical <a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphical user interface</a>, and the <a href="/wiki/ARPANET" title="ARPANET">ARPANET</a>, the direct predecessor to the <a href="/wiki/Internet" title="Internet">Internet</a>.</p>
+<p>He has been called "computing's <a href="/wiki/Johnny_Appleseed" title="Johnny Appleseed">Johnny Appleseed</a>", for planting the seeds of computing in the digital age; <a href="/wiki/Robert_Taylor_(computer_scientist)" title="Robert Taylor (computer scientist)">Robert Taylor</a>, founder of <a href="/wiki/Xerox_PARC" title="Xerox PARC" class="mw-redirect">Xerox PARC</a>'s Computer Science Laboratory and <a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">Digital Equipment Corporation</a>'s <a href="/wiki/DEC_Systems_Research_Center" title="DEC Systems Research Center">Systems Research Center</a>, noted that "most of the significant advances in computer technology—including the work that my group did at Xerox PARC—were simply extrapolations of Lick's vision. They were not really new visions of their own. So he was really the father of it all".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>For people who only know today's computerized, information-rich world, the change from what came before, and thus his impact on the world (since his ideas and the work of people he sponsored led, directly and indirectly, to much of it), is probably hard to truly fathom. This quotation from the full-length <a href="/wiki/Biography" title="Biography">biography</a> of him called <i>The Dream Machine</i>, gives some sense of it:</p>
+<dl>
+<dd>"More than a decade will pass before <a href="/wiki/Personal_computer" title="Personal computer">personal computers</a> emerge from the garages of <a href="/wiki/Silicon_Valley" title="Silicon Valley">Silicon Valley</a>, and a full thirty years before the Internet explosion of the 1990s. The word <i>computer</i> still has an ominous tone, conjuring up the image of a huge, intimidating device hidden away in an overlit, air-conditioned basement, relentlessly processing <a href="/wiki/Punched_card" title="Punched card">punch cards</a> for some large institution: <i>them</i>.</dd>
+</dl>
+<dl>
+<dd>"Yet, sitting in a nondescript office in <a href="/wiki/Robert_McNamara" title="Robert McNamara">McNamara</a>'s <a href="/wiki/The_Pentagon" title="The Pentagon">Pentagon</a>, a quiet...civilian is already planning the revolution that will change forever the way computers are perceived. Somehow, the occupant of that office...has seen a future in which computers will empower individuals, instead of forcing them into rigid conformity. He is almost alone in his conviction that computers can become not just superfast calculating machines, but joyful machines: tools that will serve as new media of expression, inspirations to creativity, and gateways to a vast world of online information."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></dd>
+</dl>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Work"><span class="tocnumber">2</span> <span class="toctext">Work</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Psychoacoustics"><span class="tocnumber">2.1</span> <span class="toctext">Psychoacoustics</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Semi-Automatic_Ground_Environment"><span class="tocnumber">2.2</span> <span class="toctext">Semi-Automatic Ground Environment</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Information_technology"><span class="tocnumber">2.3</span> <span class="toctext">Information technology</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Man.E2.80.93computer_symbiosis"><span class="tocnumber">2.3.1</span> <span class="toctext">Man–computer symbiosis</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Project_MAC"><span class="tocnumber">2.3.2</span> <span class="toctext">Project MAC</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Global_computer_network"><span class="tocnumber">2.3.3</span> <span class="toctext">Global computer network</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Publications"><span class="tocnumber">3</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Licklider was born on March 11, 1915, in <a href="/wiki/St._Louis,_Missouri" title="St. Louis, Missouri" class="mw-redirect">St. Louis, Missouri</a>, US.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> He was the <a href="/wiki/Only_child" title="Only child">only child</a> of Joseph Parron Licklider, a Baptist minister, and Margaret Robnett Licklider.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Despite his father's religious background, he was not religious in later life.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>He studied at <a href="/wiki/Washington_University_in_St._Louis" title="Washington University in St. Louis">Washington University in St. Louis</a>, where he received a triple bachelor of arts degree in 1937, in <a href="/wiki/Physics" title="Physics">physics</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Psychology" title="Psychology">psychology</a>, <sup id="cite_ref-Raychel_Rappold_7-0" class="reference"><a href="#cite_note-Raychel_Rappold-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-H._Peter_Alesso.2C_Craig_F._Smith_8-0" class="reference"><a href="#cite_note-H._Peter_Alesso.2C_Craig_F._Smith-8"><span>[</span>8<span>]</span></a></sup> and a master of arts degree in psychology in 1938. He received a <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">PhD</a> in <a href="/wiki/Psychoacoustics" title="Psychoacoustics">psychoacoustics</a> from the <a href="/wiki/University_of_Rochester" title="University of Rochester">University of Rochester</a> in 1942, and worked at the Psycho-Acoustic Laboratory at <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> from 1943 to 1950.</p>
+<p>He became interested in <a href="/wiki/Information_technology" title="Information technology">information technology</a>, and moved to <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a> in 1950 as an associate professor, where he served on a committee that established <a href="/wiki/Lincoln_Laboratory" title="Lincoln Laboratory" class="mw-redirect">MIT Lincoln Laboratory</a> and a psychology program for engineering students.</p>
+<p>While at MIT Licklider was involved in the <a href="/wiki/Semi-Automatic_Ground_Environment" title="Semi-Automatic Ground Environment">SAGE project</a>, in the capacity of head of the team concerned with <a href="/wiki/Human_factors" title="Human factors" class="mw-redirect">human factors</a>. <sup id="cite_ref-J._CHAMBERLIN_9-0" class="reference"><a href="#cite_note-J._CHAMBERLIN-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>In 1957 he received the Franklin V. Taylor Award from the Society of Engineering Psychologists. In 1958 he was elected President of the <a href="/wiki/Acoustical_Society_of_America" title="Acoustical Society of America">Acoustical Society of America</a>, and in 1990 he received the Commonwealth Award for Distinguished Service.<sup id="cite_ref-Columbia_10-0" class="reference"><a href="#cite_note-Columbia-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>In 1957 he became a Vice President at <a href="/wiki/BBN_Technologies" title="BBN Technologies">Bolt Beranek and Newman, Inc.</a>, where he bought the first production <a href="/wiki/PDP-1" title="PDP-1">PDP-1</a> computer and conducted the first public demonstration of <a href="/wiki/Time-sharing" title="Time-sharing">time-sharing</a>.</p>
+<p>In October 1962, Licklider was appointed head of the <a href="/wiki/Information_Processing_Techniques_Office" title="Information Processing Techniques Office">Information Processing Techniques Office</a> (IPTO) at <a href="/wiki/Defense_Advanced_Research_Projects_Agency" title="Defense Advanced Research Projects Agency" class="mw-redirect">DARPA</a>, the <a href="/wiki/United_States_Department_of_Defense" title="United States Department of Defense">United States Department of Defense</a> Advanced Research Projects Agency, <sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> an appointment he kept until sometime during 1964. <sup id="cite_ref-Ali_Mazalek_12-0" class="reference"><a href="#cite_note-Ali_Mazalek-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>In 1963 he was named Director of Behavioral Sciences Command &amp; Control Research at ARPA. In April of that year, he sent a memo to his colleagues in outlining the early challenges presented in establishing a time-sharing network of computers with the software of the era.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> Ultimately, his vision led to <a href="/wiki/ARPANET" title="ARPANET">ARPANet</a>, the precursor of today's <a href="/wiki/Internet" title="Internet">Internet</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>In 1968 J.&#160;C.&#160;R. Licklider became director of <a href="/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory" title="MIT Computer Science and Artificial Intelligence Laboratory">Project MAC</a> at <a href="/wiki/MIT" title="MIT" class="mw-redirect">MIT</a>, and a professor in the Department of Electrical Engineering. Project MAC had produced the first computer time-sharing system, <a href="/wiki/Compatible_Time-Sharing_System" title="Compatible Time-Sharing System">CTSS</a>, and one of the first <a href="/wiki/Computer_network" title="Computer network">online</a> setups with the development of <a href="/wiki/Multics" title="Multics">Multics</a> (work on which commenced in 1964). Multics provided inspiration for some elements of the <a href="/wiki/Unix" title="Unix">Unix</a> <a href="/wiki/Operating_system" title="Operating system">operating system</a> developed at <a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a> by <a href="/wiki/Ken_Thompson_(computer_programmer)" title="Ken Thompson (computer programmer)" class="mw-redirect">Ken Thompson</a> and <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> in 1970.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>He retired and became Professor <a href="/wiki/Emeritus" title="Emeritus">Emeritus</a> in 1985. He died in 1990 in <a href="/wiki/Arlington,_Massachusetts" title="Arlington, Massachusetts">Arlington</a>, Massachusetts.<sup id="cite_ref-Columbia_10-1" class="reference"><a href="#cite_note-Columbia-10"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Work">Work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit&amp;section=2" title="Edit section: Work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Psychoacoustics">Psychoacoustics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit&amp;section=3" title="Edit section: Psychoacoustics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the <a href="/wiki/Psychoacoustics" title="Psychoacoustics">psychoacoustics</a> field, Licklider is most remembered for his 1951 "<a href="/wiki/A_duplex_theory_of_pitch_perception" title="A duplex theory of pitch perception">Duplex Theory of Pitch Perception</a>", presented in a paper<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> that has been cited hundreds of times,<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> was reprinted in a 1979 book,<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> and formed the basis for modern models of <a href="/wiki/Pitch_(psychophysics)" title="Pitch (psychophysics)" class="mw-redirect">pitch</a> perception.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Semi-Automatic_Ground_Environment">Semi-Automatic Ground Environment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit&amp;section=4" title="Edit section: Semi-Automatic Ground Environment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:SAGE_console.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/SAGE_console.jpeg/220px-SAGE_console.jpeg" width="220" height="160" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/SAGE_console.jpeg/330px-SAGE_console.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/SAGE_console.jpeg/440px-SAGE_console.jpeg 2x" data-file-width="3430" data-file-height="2498" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:SAGE_console.jpeg" class="internal" title="Enlarge"></a></div>
+A SAGE operator's terminal</div>
+</div>
+</div>
+<p>While at MIT in the 1950s, Licklider worked on "<a href="/wiki/Semi-Automatic_Ground_Environment" title="Semi-Automatic Ground Environment">SAGE</a>" (Semi-Automatic Ground Environment), a <a href="/wiki/Cold_War" title="Cold War">Cold War</a> project to create a computer-aided air defense system. The SAGE system included computers that collected and presented data to a human operator, who then chose the appropriate response. Licklider worked as a human factors expert, which helped convince him of the great potential for human/computer interfaces.<sup id="cite_ref-LivingInternet-Licklider_20-0" class="reference"><a href="#cite_note-LivingInternet-Licklider-20"><span>[</span>20<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Information_technology">Information technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit&amp;section=5" title="Edit section: Information technology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Licklider became interested in <a href="/wiki/Information_technology" title="Information technology">information technology</a> early in his career. His ideas foretold of graphical computing, point-and-click interfaces, digital libraries, e-commerce, online banking, and software that would exist on a network and migrate wherever it was needed. Much like <a href="/wiki/Vannevar_Bush" title="Vannevar Bush">Vannevar Bush</a>'s, Licklider's contribution to the development of the <a href="/wiki/Internet" title="Internet">Internet</a> consists of ideas, not inventions. He foresaw the need for networked <a href="/wiki/Computers" title="Computers" class="mw-redirect">computers</a> with easy user interfaces.</p>
+<p>Licklider was instrumental in conceiving, funding and managing the research that led to modern personal computers and the Internet. In 1960 his seminal paper on <a href="/wiki/Man-Computer_Symbiosis#J._C._R._Licklider:_Man-Computer_Symbiosis" title="Man-Computer Symbiosis"><i>Man-Computer Symbiosis</i></a><sup id="cite_ref-Licklider60Symbiosis_21-0" class="reference"><a href="#cite_note-Licklider60Symbiosis-21"><span>[</span>21<span>]</span></a></sup> foreshadowed interactive computing, and he went on to fund early efforts in time-sharing and application development, most notably the work of <a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a>, who founded the <a href="/wiki/Augmentation_Research_Center" title="Augmentation Research Center">Augmentation Research Center</a> at <a href="/wiki/SRI_International" title="SRI International">Stanford Research Institute</a> and created the famous <a href="/wiki/NLS_(computer_system)" title="NLS (computer system)">On-Line System</a> where the <a href="/wiki/Computer_mouse" title="Computer mouse">computer mouse</a> was invented.</p>
+<p>He also did some seminal early work for the Council on Library Resources, imagining what libraries of the future might look like,<sup id="cite_ref-libraries-of-the-future_22-0" class="reference"><a href="#cite_note-libraries-of-the-future-22"><span>[</span>22<span>]</span></a></sup> which he had described as "thinking centers" in his 1960 paper.<sup id="cite_ref-Licklider60Symbiosis_21-1" class="reference"><a href="#cite_note-Licklider60Symbiosis-21"><span>[</span>21<span>]</span></a></sup></p>
+<h4><span class="mw-headline" id="Man.E2.80.93computer_symbiosis">Man–computer symbiosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit&amp;section=6" title="Edit section: Man–computer symbiosis">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In <i><a href="/wiki/Man-Computer_Symbiosis" title="Man-Computer Symbiosis">Man–Computer Symbiosis</a></i>, Licklider outlined the need for simpler interaction between computers and computer users.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup> Licklider has been credited as an early pioneer of <a href="/wiki/Cybernetics" title="Cybernetics">cybernetics</a> and <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a> (AI),<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup> but unlike many AI practitioners, Licklider never felt that men would be replaced by computer-based beings. As he wrote in that article: "Men will set the goals, formulate the hypotheses, determine the criteria, and perform the evaluations. Computing machines will do the routinizable work that must be done to prepare the way for insights and decisions in technical and scientific thinking".<sup id="cite_ref-Licklider60Symbiosis_21-2" class="reference"><a href="#cite_note-Licklider60Symbiosis-21"><span>[</span>21<span>]</span></a></sup> This approach, focusing on effective use of information technology in augmenting human intelligence, is sometimes called <a href="/wiki/Intelligence_amplification" title="Intelligence amplification">Intelligence amplification</a> (IA).</p>
+<h4><span class="mw-headline" id="Project_MAC">Project MAC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit&amp;section=7" title="Edit section: Project MAC">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During his time as director of ARPA's <a href="/wiki/Information_Processing_Techniques_Office" title="Information Processing Techniques Office">Information Processing Techniques Office</a> (IPTO) from 1962 to 1964, he funded <a href="/wiki/Project_MAC" title="Project MAC" class="mw-redirect">Project MAC</a> at MIT where a large <a href="/wiki/Mainframe_computer" title="Mainframe computer">mainframe computer</a> was designed to be shared by up to 30 simultaneous users, each sitting at a separate <a href="/wiki/Dumb_terminal" title="Dumb terminal" class="mw-redirect">"typewriter terminal"</a>. He also funded similar projects at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>, <a href="/wiki/UCLA" title="UCLA" class="mw-redirect">UCLA</a>, <a href="/wiki/UC_Berkeley" title="UC Berkeley" class="mw-redirect">UC Berkeley</a>, and the <a href="/wiki/AN/FSQ-32" title="AN/FSQ-32">AN/FSQ-32</a> at <a href="/wiki/System_Development_Corporation" title="System Development Corporation">System Development Corporation</a>. In 1964, Licklider left IPTO and went to work at <a href="/wiki/IBM" title="IBM">IBM</a>. In 1968, he went back to MIT to lead Project MAC.<sup id="cite_ref-LivingInternet-Licklider_20-1" class="reference"><a href="#cite_note-LivingInternet-Licklider-20"><span>[</span>20<span>]</span></a></sup></p>
+<h4><span class="mw-headline" id="Global_computer_network">Global computer network</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit&amp;section=8" title="Edit section: Global computer network">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Licklider played a similar role in conceiving of and funding early networking research, most notably the <a href="/wiki/ARPAnet" title="ARPAnet" class="mw-redirect">ARPAnet</a>. He formulated the earliest ideas of a global computer network in August 1962 at BBN, in a series of memos discussing the "<a href="/wiki/Intergalactic_Computer_Network" title="Intergalactic Computer Network">Intergalactic Computer Network</a>" concept. These ideas contained almost everything that the Internet is today, including <a href="/wiki/Cloud_computing" title="Cloud computing">cloud computing</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></p>
+<p>While at IPTO, he convinced <a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a>, <a href="/wiki/Robert_Taylor_(computer_scientist)" title="Robert Taylor (computer scientist)">Bob Taylor</a>, and <a href="/wiki/Lawrence_G._Roberts" title="Lawrence G. Roberts" class="mw-redirect">Lawrence G. Roberts</a> that an all-encompassing computer network was a very important concept.</p>
+<p>In 1967 Licklider submitted the paper "Televistas: Looking ahead through side windows" to the <a href="/wiki/Carnegie_Commission_on_Educational_Television" title="Carnegie Commission on Educational Television">Carnegie Commission on Educational Television</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup> This paper describes a radical departure from the "broadcast" model of television. Instead, Licklider advocates a two-way communications network. The Carnegie Commission led to the creation of the <a href="/wiki/Corporation_for_Public_Broadcasting" title="Corporation for Public Broadcasting">Corporation for Public Broadcasting</a>. Although the Commission's report explains that "Dr.&#160;Licklider's paper was completed after the Commission had formulated its own conclusions," President Johnson said at the signing of the <a href="/wiki/Public_Broadcasting_Act_of_1967" title="Public Broadcasting Act of 1967">Public Broadcasting Act of 1967</a>, "So I think we must consider new ways to build a great network for knowledge-not just a broadcast system, but one that employs every means of sending and of storing information that the individual can use".<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup></p>
+<p>His 1968 paper <i>The Computer as a Communication Device</i> illustrates his vision of network applications and predicts the use of computer networks to support communities of common interest and collaboration without regard to location.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit&amp;section=9" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Licklider has written several articles and books:</p>
+<ul>
+<li>1942. <i>An Electrical Investigation of Frequency-Localization in the Auditory Cortex of the Cat</i>. Ph.D. Thesis University of Rochester</li>
+<li>1965. <a rel="nofollow" class="external text" href="https://archive.org/details/librariesoffutur00lickuoft"><i>Libraries of the future</i></a>. Cambridge, Mass., M.I.T. Press (<a rel="nofollow" class="external text" href="http://comminfo.rutgers.edu/~tefko/Courses/e553/Readings/Licklider%20Libraries%20of%20the%20future%201965.pdf">alternative online source</a>)</li>
+</ul>
+<p>Articles, a selection:</p>
+<ul>
+<li>1960. <a rel="nofollow" class="external text" href="http://memex.org/licklider.pdf">"Man-Computer Symbiosis"</a>. In: <i>Transactions on Human Factors in Electronics</i>, volume HFE-1, pages 4–11, March 1960.</li>
+<li>1965. "Man-Computer Partnership". In: <i>International Science and Technology</i> May 1965.</li>
+<li>1967. <a rel="nofollow" class="external text" href="http://creativecadio.weebly.com/uploads/1/0/2/2/10226800/licklider-televistas-carnegie-1967.pdf">"Televistas: Looking ahead through side windows"</a></li>
+<li>1968. <a rel="nofollow" class="external text" href="http://memex.org/licklider.pdf">"The Computer as a Communication Device"</a>. In: <i>Science and Technology</i>. April 1968.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Miller-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Miller_1-0">^</a></b></span> <span class="reference-text">Miller, G.&#160;A. (1991), "J.&#160;C.&#160;R. Licklider, psychologist", <i>Journal of the Acoustic Society of America</i> 89, no.&#160;4B, pp. 1887–1887</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Waldrop, M.&#160;Mitchell (2001). <i>The Dream Machine: J.&#160;C.&#160;R. Licklider and the Revolution That Made Computing Personal</i>. New York: Viking Penguin. p.&#160;470. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-670-89976-3" title="Special:BookSources/0-670-89976-3">0-670-89976-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.aufirst=M.+Mitchell&amp;rft.aulast=Waldrop&amp;rft.btitle=The+Dream+Machine%3A+J.+C.+R.+Licklider+and+the+Revolution+That+Made+Computing+Personal&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-670-89976-3&amp;rft.pages=470&amp;rft.place=New+York&amp;rft.pub=Viking+Penguin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Waldrop, <i>op. cit.</i>, dust jacket</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ibiblio.org/pioneers/licklider.html">Internet Pioneers: J.C.R. Licklider</a>, retrieved online: 2009-05-19</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nap.edu/html/biomems/jlicklider.pdf"><i>Joseph Carl Robnett Licklider 1915—1990</i></a>, A Biographical Memoir by Robert M. Fano, National Academies Press, Washington D.C., 1998</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">M. Mitchell Waldrop (2002). <i>The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal</i>. Penguin Books. p.&#160;471. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780142001356" title="Special:BookSources/9780142001356">9780142001356</a>. <q>Al Vezza was insistent, remembers Louise Licklider. "Lick had said that he didn't want any kind of to-do when he died", she says. "He wasn't religious himself, even though his father had been a Southern Baptist minister, so it would seem totally phony if he'd had a big religious service."</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.au=M.+Mitchell+Waldrop&amp;rft.btitle=The+Dream+Machine%3A+J.C.R.+Licklider+and+the+Revolution+That+Made+Computing+Personal&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=9780142001356&amp;rft.pages=471&amp;rft.pub=Penguin+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Raychel_Rappold-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Raychel_Rappold_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Raychel Rappold. <a rel="nofollow" class="external text" href="http://www.cs.rit.edu/~rpretc/imm/project1/biography.html"><i>Biography</i></a>. Rochester University<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.au=Raychel+Rappold&amp;rft.btitle=Biography&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cs.rit.edu%2F~rpretc%2Fimm%2Fproject1%2Fbiography.html&amp;rft.pub=Rochester+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-H._Peter_Alesso.2C_Craig_F._Smith-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-H._Peter_Alesso.2C_Craig_F._Smith_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">H. Peter Alesso, Craig F. Smith. <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=DxGyOaAyd6gC&amp;pg=PA60&amp;dq=J.C.R.+Licklider+degrees&amp;hl=en&amp;sa=X&amp;ved=0CDQQ6AEwAWoVChMI_JaIm5KZxwIVy7IUCh2xHQBd#v=onepage&amp;q=J.C.R.%20Licklider%20degrees&amp;f=false"><i>Connections: Patterns of Discovery</i></a>. John Wiley &amp; Sons 18 Jan 2008, 200 pages, <a href="/wiki/Special:BookSources/047019152X" class="internal mw-magiclink-isbn">ISBN 047019152X</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.au=H.+Peter+Alesso%2C+Craig+F.+Smith&amp;rft.btitle=Connections%3A+Patterns+of+Discovery&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DDxGyOaAyd6gC%26pg%3DPA60%26dq%3DJ.C.R.%2BLicklider%2Bdegrees%26hl%3Den%26sa%3DX%26ved%3D0CDQQ6AEwAWoVChMI_JaIm5KZxwIVy7IUCh2xHQBd%23v%3Donepage%26q%3DJ.C.R.%2520Licklider%2520degrees%26f%3Dfalse&amp;rft.pub=John+Wiley+%26+Sons+18+Jan+2008%2C+200+pages%2C+ISBN+047019152X&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">horizontal tab character in <code style="color:inherit; border:inherit; padding:inherit;">|publisher=</code> at position 47 (<a href="/wiki/Help:CS1_errors#invisible_char" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-J._CHAMBERLIN-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-J._CHAMBERLIN_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">J. CHAMBERLIN. <a rel="nofollow" class="external text" href="http://www.apa.org/monitor/apr00/licklider.aspx"><i>Psychologists's work and dreams led to the rise of the Internet</i></a>. published by the <a href="/wiki/American_Psychological_Association" title="American Psychological Association">American Psychological Association</a>, April 2000, Vol 31, No. 4<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.au=J.+CHAMBERLIN&amp;rft.btitle=Psychologists%27s+work+and+dreams+led+to+the+rise+of+the+Internet&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.apa.org%2Fmonitor%2Fapr00%2Flicklider.aspx&amp;rft.pub=published+by+the+American+Psychological+Association%2C+April+2000%2C+Vol+31%2C+No.+4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Columbia-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Columbia_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Columbia_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Jay R. Hauben. <a rel="nofollow" class="external text" href="http://www.columbia.edu/~jrh29/years.html">"J.&#160;C.&#160;R. Licklider (1915-1990)"</a>. Columbia University<span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.au=Jay+R.+Hauben&amp;rft.btitle=J.+C.+R.+Licklider+%281915-1990%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.columbia.edu%2F~jrh29%2Fyears.html&amp;rft.pub=Columbia+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Paul E. Ceruzzi (2012). <i>Computing: A Concise History</i>. The MIT Press. p.&#160;75. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780262517676" title="Special:BookSources/9780262517676">9780262517676</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.au=Paul+E.+Ceruzzi&amp;rft.btitle=Computing%3A+A+Concise+History&amp;rft.date=2012&amp;rft.genre=book&amp;rft.isbn=9780262517676&amp;rft.pages=75&amp;rft.pub=The+MIT+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ali_Mazalek-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ali_Mazalek_12-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://dm.gatech.edu/~mazalek/">Ali Mazalek</a>. <a rel="nofollow" class="external text" href="http://dm.lcc.gatech.edu/~mazalek/courses/fall10/lcc6310/student_slides/2010-09-09_doris-down_licklider.pdf"><i>"Man-Computer Symbiosis" Or How I learned to Stop Worrying and Love the Borg</i></a> <span style="font-size:85%;">(PDF)</span>. published by <a href="/wiki/Georgia_Institute_of_Technology" title="Georgia Institute of Technology">Georgia Institute of Technology</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.au=%5Bhttp%3A%2F%2Fdm.gatech.edu%2F~mazalek%2F+Ali+Mazalek%5D&amp;rft.btitle=%22Man-Computer+Symbiosis%22+Or+How+I+learned+to+Stop+Worrying+and+Love+the+Borg&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fdm.lcc.gatech.edu%2F~mazalek%2Fcourses%2Ffall10%2Flcc6310%2Fstudent_slides%2F2010-09-09_doris-down_licklider.pdf&amp;rft.pub=published+by++Georgia+Institute+of+Technology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">J.&#160;C.&#160;R. Licklider (April 23, 1963). <a rel="nofollow" class="external text" href="http://www.kurzweilai.net/memorandum-for-members-and-affiliates-of-the-intergalactic-computer-network">"Memorandum For Members and Affiliates of the Intergalactic Computer Network"</a>. Washington, D.C.: Advanced Research Projects Agency<span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.au=J.+C.+R.+Licklider&amp;rft.btitle=Memorandum+For+Members+and+Affiliates+of+the+Intergalactic+Computer+Network&amp;rft.date=1963-04-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.kurzweilai.net%2Fmemorandum-for-members-and-affiliates-of-the-intergalactic-computer-network&amp;rft.place=Washington%2C+D.C.&amp;rft.pub=Advanced+Research+Projects+Agency&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://museum.mit.edu/150/30">"<span style="padding-left:0.2em;">"</span>Man-Computer Symbiosis" In MIT 150 Exhibition"</a>. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">April 20,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.btitle=%22Man-Computer+Symbiosis%22+In+MIT+150+Exhibition&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmuseum.mit.edu%2F150%2F30&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Raymond, Eric S. (2003). <a rel="nofollow" class="external text" href="//books.google.com/books?id=H4q1t-jAcBIC&amp;pg=PA30"><i>The Art of Unix Programming</i></a>. p.&#160;30.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.aufirst=Eric+S.&amp;rft.aulast=Raymond&amp;rft.btitle=The+Art+of+Unix+Programming&amp;rft.date=2003&amp;rft.genre=book&amp;rft_id=%2F%2Fbooks.google.com%2Fbooks%3Fid%3DH4q1t-jAcBIC%26pg%3DPA30&amp;rft.pages=30&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Licklider, J.&#160;C.&#160;R. (1951). "A duplex theory of pitch perception". <i>Experientia</i> (Basel) 7, 4, 128–134.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://scholar.google.com/scholar?hl=en&amp;lr=&amp;safe=off&amp;q=%22duplex+theory+of+pitch+perception%22++licklider+1951&amp;btnG=Search">"Google Scholar"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.btitle=Google+Scholar&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fscholar.google.com%2Fscholar%3Fhl%3Den%26lr%3D%26safe%3Doff%26q%3D%2522duplex%2Btheory%2Bof%2Bpitch%2Bperception%2522%2B%2Blicklider%2B1951%26btnG%3DSearch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book">Earl D. Schubert (1979). <i>Physiological Acoustics</i>. Stroudsburg PA: Dowden, Hutchinson, and Ross, Inc.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.au=Earl+D.+Schubert&amp;rft.btitle=Physiological+Acoustics&amp;rft.date=1979&amp;rft.genre=book&amp;rft.place=Stroudsburg+PA&amp;rft.pub=Dowden%2C+Hutchinson%2C+and+Ross%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation book">R. D. Patterson, J. Holdsworth, and M. Allerhand (1992). "Auditory Models as Preprocessors for Speech Recognition". In Marten Egbertus Hendrik Schouten. <a rel="nofollow" class="external text" href="http://books.google.com/books?id=X5f-VgTo0fAC&amp;pg=PA73&amp;dq=%22Duplex+Theory%22+%22Pitch+Perception%22++models#PPA67,M1"><i>The Auditory Processing of Speech: From Sounds to Words</i></a>. Walter de Gruyter. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-11-013589-2" title="Special:BookSources/3-11-013589-2">3-11-013589-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.atitle=Auditory+Models+as+Preprocessors+for+Speech+Recognition&amp;rft.au=R.+D.+Patterson%2C+J.+Holdsworth%2C+and+M.+Allerhand&amp;rft.btitle=The+Auditory+Processing+of+Speech%3A+From+Sounds+to+Words&amp;rft.date=1992&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DX5f-VgTo0fAC%26pg%3DPA73%26dq%3D%2522Duplex%2BTheory%2522%2B%2522Pitch%2BPerception%2522%2B%2Bmodels%23PPA67%2CM1&amp;rft.isbn=3-11-013589-2&amp;rft.pub=Walter+de+Gruyter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-LivingInternet-Licklider-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-LivingInternet-Licklider_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LivingInternet-Licklider_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.livinginternet.com/i/ii_licklider.htm">"J.&#160;C.&#160;R. Licklider And The Universal Network"</a>, <i>Living Internet</i>, accessed 18 September 2012</span></li>
+<li id="cite_note-Licklider60Symbiosis-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Licklider60Symbiosis_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Licklider60Symbiosis_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Licklider60Symbiosis_21-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Licklider, J.&#160;C.&#160;R., <a rel="nofollow" class="external text" href="http://medg.lcs.mit.edu/people/psz/Licklider.html">"Man-Computer Symbiosis"</a>, <i>IRE Transactions on Human Factors in Electronics</i>, vol. HFE-1, 4-11, March 1960.</span></li>
+<li id="cite_note-libraries-of-the-future-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-libraries-of-the-future_22-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Licklider, J.&#160;C.&#160;R. (1965). <a rel="nofollow" class="external text" href="http://comminfo.rutgers.edu/~tefko/Courses/e553/Readings/Licklider%20Libraries%20of%20the%20future%201965.pdf"><i>Libraries of the Future</i></a> <span style="font-size:85%;">(PDF)</span>. Cambridge, MA: Massachusetts Institute of Technology. p.&#160;1965.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.aufirst=J.+C.+R.&amp;rft.aulast=Licklider&amp;rft.btitle=Libraries+of+the+Future&amp;rft.date=1965&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcomminfo.rutgers.edu%2F~tefko%2FCourses%2Fe553%2FReadings%2FLicklider%2520Libraries%2520of%2520the%2520future%25201965.pdf&amp;rft.pages=1965&amp;rft.place=Cambridge%2C+MA&amp;rft.pub=Massachusetts+Institute+of+Technology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite id="CITEREFGuice1998" class="citation">Guice, Jon (1998), "Controversy and the State: Lord ARPA and Intelligence Computing", <i><a href="/wiki/Social_Studies_of_Science" title="Social Studies of Science">Social Studies of Science</a></i> <b>28</b> (1): 103–138, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1177%2F030631298028001004">10.1177/030631298028001004</a>, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/285752">285752</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.atitle=Controversy+and+the+State%3A+Lord+ARPA+and+Intelligence+Computing&amp;rft.aufirst=Jon&amp;rft.aulast=Guice&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F285752&amp;rft_id=info%3Adoi%2F10.1177%2F030631298028001004&amp;rft.issue=1&amp;rft.jtitle=Social+Studies+of+Science&amp;rft.pages=103-138&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=28" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thocp.net/biographies/licklidder_jcr.html">"J.&#160;C.&#160;R. Licklider"</a>. <i>The History of Computing Project</i>. thocp.net. July 8, 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.atitle=J.+C.+R.+Licklider&amp;rft.date=2001-07-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thocp.net%2Fbiographies%2Flicklidder_jcr.html&amp;rft.jtitle=The+History+of+Computing+Project&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">Mohamed, Arif (March 2009). <a rel="nofollow" class="external text" href="http://www.computerweekly.com/Articles/2009/06/10/235429/A-history-of-cloud-computing.htm">"A History of Cloud Computing"</a>. ComputerWeekly<span class="reference-accessdate">. Retrieved <span class="nowrap">May 1,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.aufirst=Arif&amp;rft.aulast=Mohamed&amp;rft.btitle=A+History+of+Cloud+Computing&amp;rft.date=2009-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computerweekly.com%2FArticles%2F2009%2F06%2F10%2F235429%2FA-history-of-cloud-computing.htm&amp;rft.pub=ComputerWeekly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://creativecadio.weebly.com/uploads/1/0/2/2/10226800/licklider-televistas-carnegie-1967.pdf">"Televistas: Looking ahead through side windows"</a>, J.&#160;C.&#160;R. Licklider, Supplementary Papers submitted to the Carnegie Commission on Educational Television, 1967</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web">Johnson, Lyndon B. (November 7, 1967). <a rel="nofollow" class="external text" href="http://www.cpb.org/aboutpb/act/remarks.html">"Remarks of President Lyndon B. Johnson Upon Signing the Public Broadcasting Act of 1967"</a>. cpb.org<span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.aufirst=Lyndon+B.&amp;rft.aulast=Johnson&amp;rft.btitle=Remarks+of+President+Lyndon+B.+Johnson+Upon+Signing+the+Public+Broadcasting+Act+of+1967&amp;rft.date=1967-11-07&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cpb.org%2Faboutpb%2Fact%2Fremarks.html&amp;rft.pub=cpb.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://memex.org/licklider.pdf">"The Computer as a Communication Device"</a>, J.C.R. Licklider and Robert W. Taylor, <i>Science and Technology</i>, April 1968</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit&amp;section=11" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>M. Mitchell Waldrop (2001) <i>The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal</i> <a href="/wiki/Special:BookSources/0670899763" class="internal mw-magiclink-isbn">ISBN 0-670-89976-3</a> - An extensive and very thoroughly researched biography of J.C.R. Licklider.</li>
+<li>Katie Hafner &amp; Matthew Lyon (1998) <i>Where Wizards Stay Up Late: The Origins Of The Internet</i>, <a href="/wiki/Simon_%26_Schuster" title="Simon &amp; Schuster">Simon &amp; Schuster</a>. <a href="/wiki/Special:BookSources/0684832674" class="internal mw-magiclink-isbn">ISBN 0-684-83267-4</a> - Describes the creation of the ARPANET.</li>
+<li><i><a rel="nofollow" class="external text" href="http://www.dougengelbart.org/pubs/augment-3906.html">Augmenting Human Intellect</a></i> paper, Douglas Engelbart, October 1962.</li>
+<li>Joseph Carl Robnett Licklider, <i>Libraries of the Future.</i> Cambridge, MA, 1965.</li>
+<li><a href="/wiki/Computer_Networks:_The_Heralds_of_Resource_Sharing" title="Computer Networks: The Heralds of Resource Sharing">Computer Networks: The Heralds of Resource Sharing</a> <a rel="nofollow" class="external autonumber" href="http://video.google.com/videoplay?docid=4989933629762859961">[1]</a> video documentary, 1972. Licklider explains online resource sharing, about 10 minutes into the documentary, and reappears throughout.</li>
+<li><a rel="nofollow" class="external text" href="http://www.gresham.ac.uk/event.asp?PageId=39&amp;EventId=486">From World Brain to the World Wide Web</a>, Lecture by <a href="/wiki/Martin_Campbell-Kelly" title="Martin Campbell-Kelly">Martin Campbell-Kelly</a> at <a href="/wiki/Gresham_College" title="Gresham College">Gresham College</a>, 9 November 2006.</li>
+<li><i><a rel="nofollow" class="external text" href="http://bpastudio.csudh.edu/fac/lpress/articles/govt.htm">Seeding Networks: the Federal Role</a></i>, Larry Press, <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a></i>, pp.&#160;11–18, Vol 39., No 10, October, 1996. A survey of US government-funded research and development preceding and including the <a href="/wiki/National_Science_Foundation" title="National Science Foundation">National Science Foundation</a> backbone and international connections programs.</li>
+<li><i><a rel="nofollow" class="external text" href="http://bpastudio.csudh.edu/fac/lpress/articles/hist.htm">Before the Altair – The History of Personal Computing</a></i>, Larry Press, <i>Communications of the ACM</i>, September, 1993, Vol 36, No 9, pp 27–33. A survey of research and development leading to the personal computer including Licklider's contributions.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Special:Search/J._C._R._Licklider" class="extiw" title="q:Special:Search/J. C. R. Licklider">J. C. R. Licklider</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=68362113">J. C. R. Licklider</a> at <i><a href="/wiki/Find_a_Grave" title="Find a Grave">Find a Grave</a></i></li>
+<li><a rel="nofollow" class="external text" href="http://www.livinginternet.com/i/ii_licklider.htm">J.&#160;C.&#160;R. Licklider And The Universal Network</a> — Living Internet</li>
+<li><a rel="nofollow" class="external text" href="http://purl.umn.edu/107436">Oral history interview with J.&#160;C.&#160;R. Licklider</a> at <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a>, University of Minnesota, Minneapolis. Licklider, the first director of the Advanced Research Projects Agency's (ARPA) Information Processing Techniques Office (IPTO), discusses his work at Lincoln Laboratory and IPTO. Topics include: personnel recruitment; the interrelations between the various Massachusetts Institute of Technology laboratories; Licklider's relationship with <a href="/wiki/Bolt,_Beranek,_and_Newman" title="Bolt, Beranek, and Newman" class="mw-redirect">Bolt, Beranek, and Newman</a>; the work of ARPA director <a href="/wiki/Jack_Ruina" title="Jack Ruina">Jack Ruina</a>; IPTO's influence of computer science research in the areas of interactive computing and timesharing; the ARPA contracting process; the work of <a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://purl.umn.edu/107387">Oral history interview with Robert E. Kahn</a> at <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a>, <a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a>, <a href="/wiki/Minneapolis" title="Minneapolis">Minneapolis</a>, Minnesota. Kahn discusses the work of various DARPA and IPTO personnel including J.&#160;C.&#160;R. Licklider.</li>
+<li><cite class="citation news">Glenn Fowler (3 July 1990). <a rel="nofollow" class="external text" href="http://www.nytimes.com/1990/07/03/obituaries/joseph-cr-licklider-dies-at-75-foresaw-new-uses-for-computers.html">"Joseph C.R. Licklider Dies at 75 - Foresaw New Uses for Computers"</a>. New York Times<span class="reference-accessdate">. Retrieved <span class="nowrap">28 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+C.+R.+Licklider&amp;rft.atitle=Joseph+C.R.+Licklider+Dies+at+75+-++Foresaw+New+Uses+for+Computers&amp;rft.au=Glenn+Fowler&amp;rft.date=1990-07-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F1990%2F07%2F03%2Fobituaries%2Fjoseph-cr-licklider-dies-at-75-foresaw-new-uses-for-computers.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Internet_Hall_of_Fame" title="Template:Internet Hall of Fame"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Internet_Hall_of_Fame" title="Template talk:Internet Hall of Fame"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Internet_Hall_of_Fame&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Internet_Hall_of_Fame" title="Internet Hall of Fame">Internet Hall of Fame</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">Pioneers</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2012</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Paul_Baran" title="Paul Baran">Paul Baran</a><sup>†</sup></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a></li>
+<li><a href="/wiki/Danny_Cohen_(engineer)" title="Danny Cohen (engineer)">Danny Cohen</a></li>
+<li><a href="/wiki/Steve_Crocker" title="Steve Crocker">Steve Crocker</a></li>
+<li><a href="/wiki/Donald_Davies" title="Donald Davies">Donald Davies</a><sup>†</sup></li>
+<li><a href="/wiki/Elizabeth_J._Feinler" title="Elizabeth J. Feinler">Elizabeth J. Feinler</a></li>
+<li><a href="/wiki/Charles_Herzfeld" title="Charles Herzfeld" class="mw-redirect">Charles Herzfeld</a></li>
+<li><a href="/wiki/Bob_Kahn" title="Bob Kahn">Robert Kahn</a></li>
+<li><a href="/wiki/Peter_T._Kirstein" title="Peter T. Kirstein">Peter T. Kirstein</a></li>
+<li><a href="/wiki/Leonard_Kleinrock" title="Leonard Kleinrock">Leonard Kleinrock</a></li>
+<li><a href="/wiki/John_Klensin" title="John Klensin">John Klensin</a></li>
+<li><a href="/wiki/Jon_Postel" title="Jon Postel">Jon Postel</a><sup>†</sup></li>
+<li><a href="/wiki/Louis_Pouzin" title="Louis Pouzin">Louis Pouzin</a></li>
+<li><a href="/wiki/Lawrence_Roberts_(scientist)" title="Lawrence Roberts (scientist)">Lawrence Roberts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2013</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/David_D._Clark" title="David D. Clark">David Clark</a></li>
+<li><a href="/wiki/David_J._Farber" title="David J. Farber">David Farber</a></li>
+<li><a href="/w/index.php?title=Howard_Frank_(Internet)&amp;action=edit&amp;redlink=1" class="new" title="Howard Frank (Internet) (page does not exist)">Howard Frank</a></li>
+<li><a href="/w/index.php?title=Kanchana_Kanchanasut&amp;action=edit&amp;redlink=1" class="new" title="Kanchana Kanchanasut (page does not exist)">Kanchana Kanchanasut</a></li>
+<li><strong class="selflink">J. C. R. Licklider</strong><sup>†</sup></li>
+<li><a href="/wiki/Robert_Metcalfe" title="Robert Metcalfe">Bob Metcalfe</a></li>
+<li><a href="/wiki/Jun_Murai" title="Jun Murai">Jun Murai</a></li>
+<li><a href="/wiki/Kees_Neggers" title="Kees Neggers">Kees Neggers</a></li>
+<li><a href="/wiki/Nii_Quaynor" title="Nii Quaynor">Nii Quaynor</a></li>
+<li><a href="/wiki/Glenn_Ricart" title="Glenn Ricart">Glenn Ricart</a></li>
+<li><a href="/wiki/Robert_Taylor_(computer_scientist)" title="Robert Taylor (computer scientist)">Robert Taylor</a></li>
+<li><a href="/wiki/Stephen_Wolff" title="Stephen Wolff">Stephen Wolff</a></li>
+<li><a href="/w/index.php?title=Werner_Zorn&amp;action=edit&amp;redlink=1" class="new" title="Werner Zorn (page does not exist)">Werner Zorn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2014</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a><sup>†</sup></li>
+<li>Susan Estrada</li>
+<li>Frank Heart</li>
+<li><a href="/wiki/Dennis_Jennings_(Internet_pioneer)" title="Dennis Jennings (Internet pioneer)">Dennis Jennings</a></li>
+<li><a href="/wiki/Rolf_Nordhagen_(physicist)" title="Rolf Nordhagen (physicist)">Rolf Nordhagen</a><sup>†</sup></li>
+<li><a href="/wiki/Radia_Perlman" title="Radia Perlman">Radia Perlman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">Global connectors</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2012</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Randy_Bush_(scientist)" title="Randy Bush (scientist)">Randy Bush</a></li>
+<li><a href="/w/index.php?title=Kilnam_Chon&amp;action=edit&amp;redlink=1" class="new" title="Kilnam Chon (page does not exist)">Kilnam Chon</a></li>
+<li><a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a></li>
+<li><a href="/wiki/Nancy_Hafkin" title="Nancy Hafkin">Nancy Hafkin</a></li>
+<li><a href="/w/index.php?title=Geoff_Huston_(internet)&amp;action=edit&amp;redlink=1" class="new" title="Geoff Huston (internet) (page does not exist)">Geoff Huston</a></li>
+<li><a href="/wiki/Brewster_Kahle" title="Brewster Kahle">Brewster Kahle</a></li>
+<li><a href="/w/index.php?title=Daniel_Karrenberg&amp;action=edit&amp;redlink=1" class="new" title="Daniel Karrenberg (page does not exist)">Daniel Karrenberg</a></li>
+<li><a href="/w/index.php?title=Toru_Takahashi_(internet)&amp;action=edit&amp;redlink=1" class="new" title="Toru Takahashi (internet) (page does not exist)">Toru Takahashi</a></li>
+<li><a href="/w/index.php?title=Tan_Tin_Wee&amp;action=edit&amp;redlink=1" class="new" title="Tan Tin Wee (page does not exist)">Tan Tin Wee</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2013</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Karen_Banks&amp;action=edit&amp;redlink=1" class="new" title="Karen Banks (page does not exist)">Karen Banks</a></li>
+<li><a href="/w/index.php?title=Gihan_Dias&amp;action=edit&amp;redlink=1" class="new" title="Gihan Dias (page does not exist)">Gihan Dias</a></li>
+<li><a href="/w/index.php?title=Anriette_Esterhuysen&amp;action=edit&amp;redlink=1" class="new" title="Anriette Esterhuysen (page does not exist)">Anriette Esterhuysen</a></li>
+<li><a href="/w/index.php?title=Steve_Goldstein_(NSF)&amp;action=edit&amp;redlink=1" class="new" title="Steve Goldstein (NSF) (page does not exist)">Steve Goldstein</a></li>
+<li><a href="/w/index.php?title=Teus_Hagen&amp;action=edit&amp;redlink=1" class="new" title="Teus Hagen (page does not exist)">Teus Hagen</a></li>
+<li><a href="/w/index.php?title=Ida_Holz&amp;action=edit&amp;redlink=1" class="new" title="Ida Holz (page does not exist)">Ida Holz</a></li>
+<li><a href="/w/index.php?title=Qiheng_Hu&amp;action=edit&amp;redlink=1" class="new" title="Qiheng Hu (page does not exist)">Qiheng Hu</a></li>
+<li><a href="/w/index.php?title=Haruhisa_Ishida&amp;action=edit&amp;redlink=1" class="new" title="Haruhisa Ishida (page does not exist)">Haruhisa Ishida</a><sup>†</sup></li>
+<li><a href="/w/index.php?title=Barry_Leiner&amp;action=edit&amp;redlink=1" class="new" title="Barry Leiner (page does not exist)">Barry Leiner</a><sup>†</sup></li>
+<li><a href="/wiki/George_Sadowsky" title="George Sadowsky">George Sadowsky</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2014</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Dai Davies</li>
+<li><a href="/w/index.php?title=Demi_Getschko&amp;action=edit&amp;redlink=1" class="new" title="Demi Getschko (page does not exist)">Demi Getschko</a></li>
+<li><a href="/w/index.php?title=Masaki_Hirabaru&amp;action=edit&amp;redlink=1" class="new" title="Masaki Hirabaru (page does not exist)">Masaki Hirabaru</a><sup>†</sup></li>
+<li><a href="/w/index.php?title=Erik_Huizer&amp;action=edit&amp;redlink=1" class="new" title="Erik Huizer (page does not exist)">Erik Huizer</a></li>
+<li><a href="/w/index.php?title=Steven_Huter&amp;action=edit&amp;redlink=1" class="new" title="Steven Huter (page does not exist)">Steven Huter</a></li>
+<li><a href="/wiki/Abhaya_Induruwa" title="Abhaya Induruwa">Abhaya Induruwa</a></li>
+<li><a href="/wiki/Dorcas_Muthoni" title="Dorcas Muthoni">Dorcas Muthoni</a></li>
+<li><a href="/wiki/Mahabir_Pun" title="Mahabir Pun">Mahabir Pun</a></li>
+<li><a href="/w/index.php?title=Srinivasan_Ramani&amp;action=edit&amp;redlink=1" class="new" title="Srinivasan Ramani (page does not exist)">Srinivasan Ramani</a></li>
+<li><a href="/w/index.php?title=Michael_Roberts_(internet)&amp;action=edit&amp;redlink=1" class="new" title="Michael Roberts (internet) (page does not exist)">Michael Roberts</a></li>
+<li><a href="/wiki/Ben_Segal" title="Ben Segal" class="mw-redirect">Ben Segal</a></li>
+<li><a href="/w/index.php?title=Douglas_Van_Houweling&amp;action=edit&amp;redlink=1" class="new" title="Douglas Van Houweling (page does not exist)">Douglas Van Houweling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">Innovators</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2012</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mitchell_Baker" title="Mitchell Baker">Mitchell Baker</a></li>
+<li><a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a></li>
+<li><a href="/wiki/Robert_Cailliau" title="Robert Cailliau">Robert Cailliau</a></li>
+<li><a href="/wiki/Van_Jacobson" title="Van Jacobson">Van Jacobson</a></li>
+<li><a href="/wiki/Lawrence_Landweber" title="Lawrence Landweber">Lawrence Landweber</a></li>
+<li><a href="/wiki/Paul_Mockapetris" title="Paul Mockapetris">Paul Mockapetris</a></li>
+<li><a href="/wiki/Craig_Newmark" title="Craig Newmark">Craig Newmark</a></li>
+<li><a href="/wiki/Raymond_Tomlinson" title="Raymond Tomlinson" class="mw-redirect">Raymond Tomlinson</a></li>
+<li><a href="/wiki/Linus_Torvalds" title="Linus Torvalds">Linus Torvalds</a></li>
+<li><a href="/wiki/Philip_Zimmermann" title="Philip Zimmermann" class="mw-redirect">Philip Zimmermann</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2013</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Marc_Andreessen" title="Marc Andreessen">Marc Andreessen</a></li>
+<li><a href="/wiki/John_Perry_Barlow" title="John Perry Barlow">John Perry Barlow</a></li>
+<li><a href="/wiki/Fran%C3%A7ois_Fl%C3%BCckiger" title="François Flückiger" class="mw-redirect">François Flückiger</a></li>
+<li><a href="/w/index.php?title=Stephen_Kent_(network_security)&amp;action=edit&amp;redlink=1" class="new" title="Stephen Kent (network security) (page does not exist)">Stephen Kent</a></li>
+<li><a href="/w/index.php?title=Anne-Marie_Eklund_L%C3%B6winder&amp;action=edit&amp;redlink=1" class="new" title="Anne-Marie Eklund Löwinder (page does not exist)">Anne-Marie Eklund Löwinder</a></li>
+<li><a href="/wiki/Henning_Schulzrinne" title="Henning Schulzrinne">Henning Schulzrinne</a></li>
+<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Richard Stallman</a></li>
+<li><a href="/wiki/Aaron_Swartz" title="Aaron Swartz">Aaron Swartz</a><sup>†</sup></li>
+<li><a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2014</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eric_Allman" title="Eric Allman">Eric Allman</a></li>
+<li><a href="/wiki/Eric_Bina" title="Eric Bina">Eric Bina</a></li>
+<li><a href="/wiki/Karlheinz_Brandenburg" title="Karlheinz Brandenburg">Karlheinz Brandenburg</a></li>
+<li><a href="/wiki/John_Cioffi" title="John Cioffi">John Cioffi</a></li>
+<li>Hualin Qian</li>
+<li><a href="/wiki/Paul_Vixie" title="Paul Vixie">Paul Vixie</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n80-028573">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/41929274">41929274</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n80028573">n80028573</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000110590671">0000 0001 1059 0671</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/124622259">124622259</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/073272639">073272639</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb124201851">cb124201851</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb124201851">(data)</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1241
+Cached time: 20160107133114
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.477 seconds
+Real time usage: 0.562 seconds
+Preprocessor visited node count: 3993/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 103294/2097152 bytes
+Template argument size: 9958/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.203/10.000 seconds
+Lua memory usage: 4.06 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  483.325      1 - -total
+ 40.02%  193.425      1 - Template:Reflist
+ 25.25%  122.033      1 - Template:Infobox_person
+ 20.05%   96.917     11 - Template:Cite_book
+ 19.09%   92.276      1 - Template:Infobox
+ 12.76%   61.659      1 - Template:Internet_Hall_of_Fame
+ 12.17%   58.835      1 - Template:Navbox_with_collapsible_groups
+  7.84%   37.881      5 - Template:Br_separated_entries
+  7.75%   37.457      7 - Template:Cite_web
+  5.35%   25.848      3 - Template:Navbox_subgroup
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:254150-0!*!0!!en!4!* and timestamp 20160107133113 and revision id 690239393
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=J._C._R._Licklider&amp;oldid=690239393">https://en.wikipedia.org/w/index.php?title=J._C._R._Licklider&amp;oldid=690239393</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1915_births" title="Category:1915 births">1915 births</a></li><li><a href="/wiki/Category:1990_deaths" title="Category:1990 deaths">1990 deaths</a></li><li><a href="/wiki/Category:People_from_St._Louis,_Missouri" title="Category:People from St. Louis, Missouri">People from St. Louis, Missouri</a></li><li><a href="/wiki/Category:University_of_Rochester_alumni" title="Category:University of Rochester alumni">University of Rochester alumni</a></li><li><a href="/wiki/Category:Washington_University_in_St._Louis_alumni" title="Category:Washington University in St. Louis alumni">Washington University in St. Louis alumni</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_faculty" title="Category:Massachusetts Institute of Technology faculty">Massachusetts Institute of Technology faculty</a></li><li><a href="/wiki/Category:Artificial_intelligence_researchers" title="Category:Artificial intelligence researchers">Artificial intelligence researchers</a></li><li><a href="/wiki/Category:American_psychologists" title="Category:American psychologists">American psychologists</a></li><li><a href="/wiki/Category:Cyberneticists" title="Category:Cyberneticists">Cyberneticists</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Internet_pioneers" title="Category:Internet pioneers">Internet pioneers</a></li><li><a href="/wiki/Category:People_from_Arlington,_Massachusetts" title="Category:People from Arlington, Massachusetts">People from Arlington, Massachusetts</a></li><li><a href="/wiki/Category:Deaths_from_asthma" title="Category:Deaths from asthma">Deaths from asthma</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_invisible_characters" title="Category:CS1 errors: invisible characters">CS1 errors: invisible characters</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=J.+C.+R.+Licklider&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=J.+C.+R.+Licklider" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/J._C._R._Licklider"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:J._C._R._Licklider"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/J._C._R._Licklider" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=J._C._R._Licklider&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/J._C._R._Licklider" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/J._C._R._Licklider" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=J._C._R._Licklider&amp;oldid=690239393" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=J._C._R._Licklider&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92778" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=J._C._R._Licklider&amp;id=690239393" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=J.+C.+R.+Licklider">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=J.+C.+R.+Licklider&amp;returnto=J.+C.+R.+Licklider&amp;oldid=690239393&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=J._C._R._Licklider&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Joseph_Carl_Robnett_Licklider" title="Joseph Carl Robnett Licklider – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Joseph_Carl_Robnett_Licklider" title="Joseph Carl Robnett Licklider – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Joseph_Carl_Robnett_Licklider" title="Joseph Carl Robnett Licklider – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Joseph_Carl_Robnett_Licklider" title="Joseph Carl Robnett Licklider – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Joseph_Licklider" title="Joseph Licklider – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%92%27%D7%99%D7%99_%D7%A1%D7%99_%D7%90%D7%A8_%D7%9C%D7%99%D7%A7%D7%9C%D7%99%D7%93%D7%A8" title="ג'יי סי אר ליקלידר – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%9C%E0%B5%86.%E0%B4%B8%E0%B4%BF.%E0%B4%86%E0%B5%BC._%E0%B4%B2%E0%B4%BF%E0%B4%95%E0%B5%8D%E2%80%8C%E0%B4%B2%E0%B5%88%E0%B4%A1%E0%B5%BC" title="ജെ.സി.ആർ. ലിക്‌ലൈഡർ – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Joseph_Carl_Robnett_Licklider" title="Joseph Carl Robnett Licklider – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/J%E3%83%BBC%E3%83%BBR%E3%83%BB%E3%83%AA%E3%83%83%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC" title="J・C・R・リックライダー – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Joseph_Licklider" title="Joseph Licklider – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Joseph_Carl_Robnett_Licklider" title="Joseph Carl Robnett Licklider – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Joseph_Carl_Robnett_Licklider" title="Joseph Carl Robnett Licklider – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BA%D0%BB%D0%B0%D0%B9%D0%B4%D0%B5%D1%80,_%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84_%D0%9A%D0%B0%D1%80%D0%BB_%D0%A0%D0%BE%D0%B1%D0%BD%D0%B5%D1%82%D1%82" title="Ликлайдер, Джозеф Карл Робнетт – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="//fi.wikipedia.org/wiki/J._C._R._Licklider" title="J. C. R. Licklider – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84_%D0%9B%D1%96%D0%BA%D0%BB%D0%B0%D0%B9%D0%B4%D0%B5%D1%80" title="Джозеф Ліклайдер – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92778#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 November 2015, at 03:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=J._C._R._Licklider&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1257"}); /* @nomin */
+} );</script>
+	</body>
+</html>

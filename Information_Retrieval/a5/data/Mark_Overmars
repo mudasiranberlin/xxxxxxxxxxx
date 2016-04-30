@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Mark Overmars - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mark_Overmars","wgTitle":"Mark Overmars","wgCurRevisionId":694920397,"wgRevisionId":694920397,"wgArticleId":1177516,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","1958 births","Living people","Researchers in geometric algorithms","Dutch computer scientists","Dutch computer programmers","Roboticists","People from Zeist","Utrecht University alumni","Utrecht University faculty"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mark_Overmars","wgRelevantArticleId":1177516,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92835","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mark_Overmars" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mark_Overmars&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Mark_Overmars&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Mark_Overmars" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Mark_Overmars skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Mark Overmars</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the computer scientist.  For the football player, see <a href="/wiki/Marc_Overmars" title="Marc Overmars">Marc Overmars</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Mark H. Overmars</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1958-09-29</span>)</span> September 29, 1958 <span class="noprint ForceAgeToShow">(age&#160;57)</span><br />
+<a href="/wiki/Zeist" title="Zeist">Zeist</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
+</tr>
+<tr>
+<th scope="row">Residence</th>
+<td><a href="/wiki/Utrecht_(city)" title="Utrecht (city)" class="mw-redirect">Utrecht</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/Netherlands" title="Netherlands">Dutch</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computational_geometry" title="Computational geometry">Computational geometry</a><br />
+<a href="/wiki/Robotics" title="Robotics">Robotics</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Utrecht_University" title="Utrecht University">Utrecht University</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Utrecht_University" title="Utrecht University">Utrecht University</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><i>The Design of Dynamic Data Structures</i>&#160;<span style="font-size:90%;">(1983)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/Jan_van_Leeuwen" title="Jan van Leeuwen">Jan van Leeuwen</a></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td>Mark de Berg<br />
+Marc van Kreveld</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Probabilistic_Roadmap_Method" title="Probabilistic Roadmap Method" class="mw-redirect">Probabilistic Roadmap Method</a>, <a href="/wiki/GameMaker:_Studio" title="GameMaker: Studio">Game Maker</a></td>
+</tr>
+</table>
+<p><b>Markus Hendrik "Mark" Overmars</b> (<small>Dutch pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Dutch" title="Help:IPA for Dutch">[ˈmɑrkʏs ˈɦɛndrɪk ˈmɑrk ˈoːvərˌmɑrs]</a></span>, born 29 September 1958 in <a href="/wiki/Zeist" title="Zeist">Zeist</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> is a Dutch <a href="/wiki/Computer_science" title="Computer science">computer scientist</a> and teacher of game programming known for his game development application <a href="/wiki/GameMaker:_Studio" title="GameMaker: Studio">Game Maker</a>. Game Maker lets people create computer games using a drag-and-drop interface. He is the former head of the <i>Center for Geometry, Imaging, and Virtual Environments</i> at <a href="/wiki/Utrecht_University" title="Utrecht University">Utrecht University</a>, in the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> This research center concentrates on <a href="/wiki/Computational_geometry" title="Computational geometry">computational geometry</a> and its application in areas like <a href="/wiki/Computer_graphics" title="Computer graphics">computer graphics</a>, <a href="/wiki/Robotics" title="Robotics">robotics</a>, <a href="/wiki/Geographic_information_system" title="Geographic information system">geographic information systems</a>, imaging, <a href="/wiki/Multimedia" title="Multimedia">multimedia</a>, virtual environments, and games.</p>
+<p>Overmars received his Ph.D. in 1983 from Utrecht University under the supervision of <a href="/wiki/Jan_van_Leeuwen" title="Jan van Leeuwen">Jan van Leeuwen</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> and has since been a member of the faculty of the same university. Overmars has published over 100 journal papers, largely on <a href="/wiki/Computational_geometry" title="Computational geometry">computational geometry</a>, and is the co-author of several books including a widely used computational geometry text.</p>
+<p>Overmars has also worked in robotics. He was the first to develop the <a href="/wiki/Probabilistic_roadmap_method" title="Probabilistic roadmap method" class="mw-redirect">probabilistic roadmap method</a> in 1992, which was later independently discovered by <a href="/wiki/Lydia_Kavraki" title="Lydia Kavraki">Kavraki</a> and <a href="/wiki/Jean-Claude_Latombe" title="Jean-Claude Latombe">Latombe</a> in 1994. Their joint paper, <i>Probabilistic roadmaps for path planning in high-dimensional configuration spaces</i>,<sup id="cite_ref-Kavraki1996_4-0" class="reference"><a href="#cite_note-Kavraki1996-4"><span>[</span>4<span>]</span></a></sup> is considered one of the most influential studies in <a href="/wiki/Motion_planning" title="Motion planning">motion planning</a>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> and has been widely cited (more than 2500 times as of 2014 according to <a href="/wiki/Google_Scholar" title="Google Scholar">Google Scholar</a>).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Overmars&amp;action=edit&amp;section=1" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Overmars, M. H. (1983). <i>The Design of Dynamic Data Structures</i>. Lecture Notes in Computer Science <b>156</b>. Springer-Verlag. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-387-12330-X" title="Special:BookSources/0-387-12330-X">0-387-12330-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Overmars&amp;rft.au=Overmars%2C+M.+H.&amp;rft.btitle=The+Design+of+Dynamic+Data+Structures&amp;rft.date=1983&amp;rft.genre=book&amp;rft.isbn=0-387-12330-X&amp;rft.pub=Springer-Verlag&amp;rft.series=Lecture+Notes+in+Computer+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></li>
+<li><cite class="citation book">de Berg, M.; van Kreveld, M.; Overmars, M. H.; Schwarzkopf, O. (1997). <i>Computational Geometry: Algorithms and Applications</i>. Springer-Verlag.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Overmars&amp;rft.au=de+Berg%2C+M.%3B+van+Kreveld%2C+M.%3B+Overmars%2C+M.+H.%3B+Schwarzkopf%2C+O.&amp;rft.btitle=Computational+Geometry%3A+Algorithms+and+Applications&amp;rft.date=1997&amp;rft.genre=book&amp;rft.pub=Springer-Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> 2nd ed., 2000; 3rd ed., 2008.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></li>
+<li><cite class="citation book">Habgood, J.; Overmars, M. H. (2006). <i>The Game Maker's Apprentice: Game Development for Beginners</i>. APress. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-59059-615-3" title="Special:BookSources/1-59059-615-3">1-59059-615-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Overmars&amp;rft.au=Habgood%2C+J.%3B+Overmars%2C+M.+H.&amp;rft.btitle=The+Game+Maker%27s+Apprentice%3A+Game+Development+for+Beginners&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=1-59059-615-3&amp;rft.pub=APress&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Overmars&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111002054918/http://people.cs.uu.nl/markov/curric.pdf">Curriculum vitae</a>, archived <a rel="nofollow" class="external text" href="http://people.cs.uu.nl/markov/curric.pdf">from the Utrecht University web site</a> on October 2, 2011.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cs.uu.nl/staff/old/IDX/mho.html">Former colleagues</a>, GIVE Center, retrieved 2014-01-16.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=66080">Markus (Mark) Hendrik Overmars</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a>.</span></li>
+<li id="cite_note-Kavraki1996-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kavraki1996_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Lydia_Kavraki" title="Lydia Kavraki">Kavraki, L.E.</a>; Svestka, P.; <a href="/wiki/Jean-Claude_Latombe" title="Jean-Claude Latombe">Latombe, J.C.</a>; Overmars, M.H. (1996). "Probabilistic roadmaps for path planning in high-dimensional configuration spaces". <i>Robotics and Automation, IEEE Transactions on</i> <b>12</b> (4): 566–580. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2F70.508439">10.1109/70.508439</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Overmars&amp;rft.atitle=Probabilistic+roadmaps+for+path+planning+in+high-dimensional+configuration+spaces&amp;rft.aufirst=L.E.&amp;rft.aulast=Kavraki&amp;rft.au=Latombe%2C+J.C.&amp;rft.au=Overmars%2C+M.H.&amp;rft.au=Svestka%2C+P.&amp;rft.date=1996&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2F70.508439&amp;rft.issue=4&amp;rft.jtitle=Robotics+and+Automation%2C+IEEE+Transactions+on&amp;rft.pages=566-580&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite id="CITEREFKaramanFrazzoli2011" class="citation">Karaman, Sertac; Frazzoli, Emilio (2011), "Sampling-based algorithms for optimal motion planning", <i>International Journal of Robotics Research</i> <b>30</b> (7): 846–894, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1177%2F0278364911406761">10.1177/0278364911406761</a>, <q>Arguably, the most influential sampling-based motion planning algorithms to date include probabilistic roadmaps</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Overmars&amp;rft.atitle=Sampling-based+algorithms+for+optimal+motion+planning&amp;rft.aufirst=Sertac&amp;rft.au=Frazzoli%2C+Emilio&amp;rft.aulast=Karaman&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1177%2F0278364911406761&amp;rft.issue=7&amp;rft.jtitle=International+Journal+of+Robotics+Research&amp;rft.pages=846-894&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=30" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://scholar.google.com/scholar?cites=17258006345944552504&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en">Citations to <i>probabilistic roadmaps</i></a>, Google Scholar, retrieved 2014-01-17.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Review of <i>The design of dynamic data structures</i> by <a href="/wiki/Der-Tsai_Lee" title="Der-Tsai Lee">D. T. Lee</a> (1985), <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="http://www.ams.org/mathscinet-getitem?mr=0710832">0710832</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Review of <i>Computational Geometry</i> by Hans-Dietrich Hecker (1998), <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="http://www.ams.org/mathscinet-getitem?mr=1470713">1470713</a>. For the 2nd and 3rd eds., see <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="http://www.ams.org/mathscinet-getitem?mr=1763734">1763734</a> and <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="http://www.ams.org/mathscinet-getitem?mr=2723879">2723879</a>.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite id="CITEREFMasum2000" class="citation">Masum, Hassan (December 2000), "Review of Computational Geometry: Algorithms and Applications (2nd ed.) by Mark De Berg, Marc Van Kreveld, Mark Overmars, and Otfried Schwarzkopf", <i>SIGACT News</i> (New York, NY, USA: ACM) <b>31</b> (4): 10–12, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F369836.571192">10.1145/369836.571192</a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMark+Overmars&amp;rft.atitle=Review+of+Computational+Geometry%3A+Algorithms+and+Applications+%282nd+ed.%29+by+Mark+De+Berg%2C+Marc+Van+Kreveld%2C+Mark+Overmars%2C+and+Otfried+Schwarzkopf&amp;rft.aufirst=Hassan&amp;rft.aulast=Masum&amp;rft.date=2000-12&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F369836.571192&amp;rft.issue=4&amp;rft.jtitle=SIGACT+News&amp;rft.pages=10-12&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mark_Overmars&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.gamemaker.nl/">Game Maker website</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n83-217960">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/94613809">94613809</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n83217960">n83217960</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000008167287X">0000 0000 8167 287X</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/110926552">110926552</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=66080">66080</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1236
+Cached time: 20160107171927
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.187 seconds
+Real time usage: 0.240 seconds
+Preprocessor visited node count: 1128/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 20933/2097152 bytes
+Template argument size: 1444/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.084/10.000 seconds
+Lua memory usage: 2.74 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  220.502      1 - -total
+ 27.12%   59.806      1 - Template:Infobox_scientist
+ 26.31%   58.023      1 - Template:Reflist
+ 23.86%   52.615      1 - Template:Infobox
+ 16.49%   36.357      3 - Template:Cite_book
+ 12.06%   26.596      1 - Template:Authority_control
+ 11.70%   25.802      1 - Template:About
+  9.57%   21.104      2 - Template:Citation
+  9.40%   20.732      4 - Template:Br_separated_entries
+  9.24%   20.377      1 - Template:Hatnote
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1177516-0!*!0!!*!*!* and timestamp 20160107171927 and revision id 694920397
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mark_Overmars&amp;oldid=694920397">https://en.wikipedia.org/w/index.php?title=Mark_Overmars&amp;oldid=694920397</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1958_births" title="Category:1958 births">1958 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Researchers_in_geometric_algorithms" title="Category:Researchers in geometric algorithms">Researchers in geometric algorithms</a></li><li><a href="/wiki/Category:Dutch_computer_scientists" title="Category:Dutch computer scientists">Dutch computer scientists</a></li><li><a href="/wiki/Category:Dutch_computer_programmers" title="Category:Dutch computer programmers">Dutch computer programmers</a></li><li><a href="/wiki/Category:Roboticists" title="Category:Roboticists">Roboticists</a></li><li><a href="/wiki/Category:People_from_Zeist" title="Category:People from Zeist">People from Zeist</a></li><li><a href="/wiki/Category:Utrecht_University_alumni" title="Category:Utrecht University alumni">Utrecht University alumni</a></li><li><a href="/wiki/Category:Utrecht_University_faculty" title="Category:Utrecht University faculty">Utrecht University faculty</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mark+Overmars&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mark+Overmars" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Mark_Overmars"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Mark_Overmars"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Mark_Overmars" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Mark_Overmars&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mark_Overmars&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mark_Overmars" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mark_Overmars" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mark_Overmars&amp;oldid=694920397" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mark_Overmars&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92835" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mark_Overmars&amp;id=694920397" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mark+Overmars">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Mark+Overmars&amp;returnto=Mark+Overmars&amp;oldid=694920397&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Mark_Overmars&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Mark_Overmars" title="Mark Overmars – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Mark_Overmars" title="Mark Overmars – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Mark_Overmars" title="Mark Overmars – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%A7%88%EB%A5%B4%ED%81%AC_%EC%98%A4%EB%B2%84%EB%A5%B4%EB%A7%88%EB%A5%B4%EC%8A%A4_(%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99%EC%9E%90)" title="마르크 오버르마르스 (컴퓨터 과학자) – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Mark_Overmars" title="Mark Overmars – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Mark_Overmars" title="Mark Overmars – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Mark_Overmars" title="Mark Overmars – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Mark_Overmars" title="Mark Overmars – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D0%B2%D0%B5%D1%80%D0%BC%D0%B0%D1%80%D1%81,_%D0%9C%D0%B0%D1%80%D0%BA%D1%83%D1%81_%D0%A5%D0%B5%D0%BD%D0%B4%D1%80%D0%B8%D0%BA" title="Овермарс, Маркус Хендрик – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Mark_Overmars" title="Mark Overmars – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Mark_Overmars" title="Mark Overmars – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92835#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 December 2015, at 15:02.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mark_Overmars&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":317,"wgHostname":"mw1236"}); /* @nomin */
+} );</script>
+	</body>
+</html>

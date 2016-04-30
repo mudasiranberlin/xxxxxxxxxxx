@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>David Korn (computer scientist) - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"David_Korn_(computer_scientist)","wgTitle":"David Korn (computer scientist)","wgCurRevisionId":692257851,"wgRevisionId":692257851,"wgArticleId":852889,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with topics of unclear notability from May 2011","All articles with topics of unclear notability","BLP articles lacking sources from May 2014","All articles with unsourced statements","Articles with unsourced statements from November 2015","Articles with unsourced statements from May 2014","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with BNF identifiers","Year of birth missing (living people)","Living people","Rensselaer Polytechnic Institute alumni","American computer programmers","Unix people","Scientists at Bell Labs","Courant Institute of Mathematical Sciences alumni"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"David_Korn_(computer_scientist)","wgRelevantArticleId":852889,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1445353","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/David_Korn_(computer_scientist)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=David_Korn_(computer_scientist)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=David_Korn_(computer_scientist)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/David_Korn_(computer_scientist)" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-David_Korn_computer_scientist skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">David Korn (computer scientist)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Notability" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">The topic of this article <b>may not meet Wikipedia's <a href="/wiki/Wikipedia:Notability" title="Wikipedia:Notability">general notability guideline</a></b>. <span class="hide-when-compact">Please help to establish notability by adding <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable, secondary sources</a> about the topic. If notability cannot be established, the article is likely to be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a>, <a href="/wiki/Wikipedia:Redirect" title="Wikipedia:Redirect">redirected</a>, or <a href="/wiki/Wikipedia:Deletion_policy" title="Wikipedia:Deletion policy">deleted</a>.<br />
+<small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22David+Korn+%28computer+scientist%29%22&amp;num=50">"David Korn (computer scientist)"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?q=%22David+Korn+%28computer+scientist%29%22&amp;tbm=nws">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22David+Korn+%28computer+scientist%29%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22David+Korn+%28computer+scientist%29%22">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22David+Korn+%28computer+scientist%29%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="http://www.jstor.org/action/doBasicSearch?Query=%22David+Korn+%28computer+scientist%29%22&amp;acc=on&amp;wc=on">JSTOR</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/images?safe=off&amp;tbm=isch&amp;tbs=sur:fmc&amp;q=%22David+Korn+%28computer+scientist%29%22+-site:wikipedia.org+-site:wikimedia.org">free images</a></span></small></span> <small><i>(May 2011)</i></small></span></td>
+</tr>
+</table>
+<p><b>David Korn</b> is an <a href="/wiki/United_States" title="United States">American</a> UNIX <a href="/wiki/Computer_programmer" title="Computer programmer" class="mw-redirect">programmer</a> and the author of the <a href="/wiki/Korn_shell" title="Korn shell">Korn shell</a> (<i>ksh</i>), a <a href="/wiki/Command_line_interface" title="Command line interface" class="mw-redirect">command line interface</a>/<a href="/wiki/Programming_language" title="Programming language">programming language</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education_and_Work"><span class="tocnumber">1</span> <span class="toctext">Education and Work</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Korn_shell_and_Microsoft"><span class="tocnumber">2</span> <span class="toctext">Korn shell and Microsoft</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Other_software_projects"><span class="tocnumber">3</span> <span class="toctext">Other software projects</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Education_and_Work">Education and Work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Korn_(computer_scientist)&amp;action=edit&amp;section=1" title="Edit section: Education and Work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-BLP_unsourced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section of a <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biography of a living person</a> <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">include</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help by adding <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Contentious material about living people that is unsourced or poorly sourced <b>must be removed immediately</b>.</span> <small><i>(May 2014)</i></small></span></td>
+</tr>
+</table>
+<p>David Korn received his undergraduate degree in <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> from <a href="/wiki/Rensselaer_Polytechnic_Institute" title="Rensselaer Polytechnic Institute">Rensselaer Polytechnic Institute</a> in 1965 and his Ph.D. in applied mathematics from <a href="/wiki/New_York_University" title="New York University">NYU</a>'s <a href="/wiki/Courant_Institute_of_Mathematical_Sciences" title="Courant Institute of Mathematical Sciences">Courant Institute of Mathematical Sciences</a> in 1969. After working on computer simulations of transsonic airfoils and developing the Korn airfoil,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> he switched fields to computer science and became a <a href="/wiki/Member_of_technical_staff" title="Member of technical staff">member of technical staff</a> at <a href="/wiki/Bell_Laboratories" title="Bell Laboratories" class="mw-redirect">Bell Laboratories</a> in 1976. He developed Korn shell in response to problems he and his colleagues had with the most commonly used shells at the time, <a href="/wiki/Bourne_shell" title="Bourne shell">Bourne shell</a> and <a href="/wiki/C_shell" title="C shell">C shell</a>. The Korn shell pioneered the practice of consultative user interface design, with input from Unix shell users, and from mathematical and cognitive psychologists.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2015)">citation needed</span></a></i>]</sup> The user interface, which included a choice of editing styles (the choices included styles based on vi and on two variants of Emacs) was incorporated into, or copied by, most subsequent Unix shells. The Korn shell is <a href="/wiki/Backward-compatible" title="Backward-compatible" class="mw-redirect">backward-compatible</a> with Bourne shell, but takes a lot of ideas from C shell, such as history viewing and <a href="/wiki/Vi" title="Vi">vi</a>-like command line editing.</p>
+<h2><span class="mw-headline" id="Korn_shell_and_Microsoft">Korn shell and Microsoft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Korn_(computer_scientist)&amp;action=edit&amp;section=2" title="Edit section: Korn shell and Microsoft">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> once included a version of the Korn shell produced by <a href="/wiki/Mortice_Kern_Systems" title="Mortice Kern Systems" class="mw-redirect">Mortice Kern Systems</a> (MKS) in a UNIX integration package for <a href="/wiki/Windows_NT" title="Windows NT">Windows NT</a>.<sup class="noprint selfreference">[<i><a href="/wiki/Talk:David_Korn_(computer_scientist)#poorly_sourced_anecdote" title="Talk:David Korn (computer scientist)">discuss</a></i>]</sup> This version was not compatible with ksh88 (a Korn shell specification), and Korn mentioned this during a question and answer period of a Microsoft presentation during a <a href="/wiki/USENIX" title="USENIX">USENIX</a> NT conference in <a href="/wiki/Seattle" title="Seattle">Seattle</a> in 1998. Greg Sullivan, a Microsoft product manager who was participating in the presentation, not knowing who the commenter was, insisted that Microsoft had indeed chosen a "real" Korn shell. A polite debate ensued, with Sullivan continuing to insist that the man giving the criticisms was mistaken about the compatibility issues. Sullivan only backed down when an audience member stood up and mentioned that the man making the comments was none other than the eponymous David Korn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Other_software_projects">Other software projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Korn_(computer_scientist)&amp;action=edit&amp;section=3" title="Edit section: Other software projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Along with Korn shell, he is also known as the creator of <a href="/wiki/UWIN" title="UWIN">UWIN</a>, an <a href="/wiki/X/Open" title="X/Open">X/Open</a> library for <a href="/wiki/Win32" title="Win32" class="mw-redirect">Win32</a> systems,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup> similar to <a href="/wiki/Cygwin" title="Cygwin">Cygwin</a>. Korn and Kiem-Phong Vo also co-developed <a href="/wiki/Sfio" title="Sfio" class="mw-redirect">sfio</a>,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup> a library for managing I/O streams.</p>
+<p>Korn became a <a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a> fellow in 1984.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup> He currently lives in <a href="/wiki/New_York_City" title="New York City">New York City</a>, and until 2013 worked for <a href="/wiki/AT%26T_Labs_Research" title="AT&amp;T Labs Research" class="mw-redirect">AT&amp;T Labs Research</a> in <a href="/wiki/Florham_Park" title="Florham Park" class="mw-redirect">Florham Park</a>, <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> but now he is working for Google.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Korn_(computer_scientist)&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://aero-comlab.stanford.edu/Papers/Garabedian.pdf">http://aero-comlab.stanford.edu/Papers/Garabedian.pdf</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://slashdot.org/article.pl?sid=01/02/06/2030205">"David Korn Tells All"</a>: Interview with David Korn on Slashdot, February 7, 2001</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150310123118/http://gopher.quux.org:70/Humor%20and%20Fun/Microsoft_KSH.txt%7C/MBOX-MESSAGE/1">A person's take on the David Korn encounter</a>, via Internet Archive.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Fowler, Glenn (1 October 2013). <a rel="nofollow" class="external text" href="http://lists.research.att.com/pipermail/ast-users/2013q4/004368.html">"[ast-users] dgk &amp; gsf status"</a>. <i>lists.research.att.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADavid+Korn+%28computer+scientist%29&amp;rft.atitle=%5Bast-users%5D+dgk+%26+gsf+status&amp;rft.aufirst=Glenn&amp;rft.aulast=Fowler&amp;rft.date=2013-10-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flists.research.att.com%2Fpipermail%2Fast-users%2F2013q4%2F004368.html&amp;rft.jtitle=lists.research.att.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Korn_(computer_scientist)&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.kornshell.com/~dgk/">David Korn homepage</a> on <a rel="nofollow" class="external text" href="http://www.kornshell.com/">Kornshell.com</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n88-247844">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/46814274">46814274</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n88247844">n88247844</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000029063516">0000 0000 2906 3516</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/031041035">031041035</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12233578f">cb12233578f</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12233578f">(data)</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1058
+Cached time: 20160101051539
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.225 seconds
+Real time usage: 0.295 seconds
+Preprocessor visited node count: 1055/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29730/2097152 bytes
+Template argument size: 3274/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.114/10.000 seconds
+Lua memory usage: 3.65 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  263.092      1 - -total
+ 37.12%   97.661      1 - Template:Notability
+ 30.06%   79.081      2 - Template:Ambox
+ 19.15%   50.373      1 - Template:Reflist
+ 15.37%   40.436      1 - Template:Cite_web
+ 14.21%   37.381      5 - Template:Fix
+ 14.00%   36.827      1 - Template:Authority_control
+ 13.02%   34.258      1 - Template:Find_sources_mainspace
+ 11.54%   30.357     10 - Template:Category_handler
+ 10.63%   27.970      4 - Template:Citation_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:852889-0!*!0!!en!4!* and timestamp 20160101051539 and revision id 692257851
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=David_Korn_(computer_scientist)&amp;oldid=692257851">https://en.wikipedia.org/w/index.php?title=David_Korn_(computer_scientist)&amp;oldid=692257851</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Rensselaer_Polytechnic_Institute_alumni" title="Category:Rensselaer Polytechnic Institute alumni">Rensselaer Polytechnic Institute alumni</a></li><li><a href="/wiki/Category:American_computer_programmers" title="Category:American computer programmers">American computer programmers</a></li><li><a href="/wiki/Category:Unix_people" title="Category:Unix people">Unix people</a></li><li><a href="/wiki/Category:Scientists_at_Bell_Labs" title="Category:Scientists at Bell Labs">Scientists at Bell Labs</a></li><li><a href="/wiki/Category:Courant_Institute_of_Mathematical_Sciences_alumni" title="Category:Courant Institute of Mathematical Sciences alumni">Courant Institute of Mathematical Sciences alumni</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_topics_of_unclear_notability_from_May_2011" title="Category:Articles with topics of unclear notability from May 2011">Articles with topics of unclear notability from May 2011</a></li><li><a href="/wiki/Category:All_articles_with_topics_of_unclear_notability" title="Category:All articles with topics of unclear notability">All articles with topics of unclear notability</a></li><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_May_2014" title="Category:BLP articles lacking sources from May 2014">BLP articles lacking sources from May 2014</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2015" title="Category:Articles with unsourced statements from November 2015">Articles with unsourced statements from November 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2014" title="Category:Articles with unsourced statements from May 2014">Articles with unsourced statements from May 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Year_of_birth_missing_(living_people)" title="Category:Year of birth missing (living people)">Year of birth missing (living people)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=David+Korn+%28computer+scientist%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=David+Korn+%28computer+scientist%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/David_Korn_(computer_scientist)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:David_Korn_(computer_scientist)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/David_Korn_(computer_scientist)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=David_Korn_(computer_scientist)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=David_Korn_(computer_scientist)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/David_Korn_(computer_scientist)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/David_Korn_(computer_scientist)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=David_Korn_(computer_scientist)&amp;oldid=692257851" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=David_Korn_(computer_scientist)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1445353" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=David_Korn_%28computer_scientist%29&amp;id=692257851" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=David+Korn+%28computer+scientist%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=David+Korn+%28computer+scientist%29&amp;returnto=David+Korn+%28computer+scientist%29&amp;oldid=692257851&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=David_Korn_(computer_scientist)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/David_Korn" title="David Korn – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/David_Korn" title="David Korn – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1445353#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 November 2015, at 16:24.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=David_Korn_(computer_scientist)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1239"}); /* @nomin */
+} );</script>
+	</body>
+</html>

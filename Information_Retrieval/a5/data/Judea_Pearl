@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Judea Pearl - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Judea_Pearl","wgTitle":"Judea Pearl","wgCurRevisionId":694693806,"wgRevisionId":694693806,"wgArticleId":699964,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing potentially dated statements from 2011","All articles containing potentially dated statements","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","1936 births","Living people","American atheists","American computer scientists","Artificial intelligence researchers","Fellow Members of the IEEE","Fellows of the Association for the Advancement of Artificial Intelligence","Fellows of the Association for Computing Machinery","Fellows of the American Academy of Arts and Sciences","Israeli computer scientists","Israeli atheists","Israeli Jews","Israeli philosophers","Jewish atheists","Jewish American scientists","Jewish philosophers","Rutgers University alumni","Members of the United States National Academy of Engineering","Members of the United States National Academy of Sciences","Polytechnic Institute of New York University alumni","University of California, Los Angeles faculty","Turing Award laureates","Rumelhart Prize laureates"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Judea_Pearl","wgRelevantArticleId":699964,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92824","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Judea_Pearl" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Judea_Pearl&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Judea_Pearl&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Judea_Pearl" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Judea_Pearl skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Judea Pearl</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Judea Pearl</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1936-09-04</span>)</span> September 4, 1936 <span class="noprint ForceAgeToShow">(age&#160;79)</span><br />
+<a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a>, <a href="/wiki/Mandatory_Palestine" title="Mandatory Palestine">British Palestine</a><br />
+(now the <a href="/wiki/Israel" title="Israel">State of Israel</a>)</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/Israel" title="Israel">Israeli</a><br />
+<a href="/wiki/United_States" title="United States">American</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a><br />
+<a href="/wiki/Statistics" title="Statistics">Statistics</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Technion" title="Technion" class="mw-redirect">Technion</a>, <a href="/wiki/Israel" title="Israel">Israel</a><br />
+<a href="/wiki/Rutgers_University" title="Rutgers University">Rutgers University</a>, <a href="/wiki/United_States" title="United States">U.S.</a><br />
+<a href="/wiki/Polytechnic_Institute_of_Brooklyn" title="Polytechnic Institute of Brooklyn" class="mw-redirect">Polytechnic Institute of Brooklyn</a>, U.S.</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><i><a href="/wiki/Pearl_vortex" title="Pearl vortex">Vortex Theory of Superconductive Memories</a></i>&#160;<span style="font-size:90%;">(1965)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td>L. Strauss<br />
+L. Bergstein</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Artificial_Intelligence" title="Artificial Intelligence" class="mw-redirect">Artificial Intelligence</a><br />
+<a href="/wiki/Causality" title="Causality">Causality</a><br />
+<a href="/wiki/Bayesian_Network" title="Bayesian Network" class="mw-redirect">Bayesian Networks</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/IJCAI_Award_for_Research_Excellence" title="IJCAI Award for Research Excellence">IJCAI Award for Research Excellence</a><small style="font-size:85%;">(1999)</small><br />
+<a href="/wiki/Turing_Award" title="Turing Award">ACM Turing Award</a> <small style="font-size:85%;">(2011)</small><sup id="cite_ref-acm-turing_1-0" class="reference"><a href="#cite_note-acm-turing-1"><span>[</span>1<span>]</span></a></sup><br />
+<a href="/wiki/Rumelhart_Prize" title="Rumelhart Prize">Rumelhart Prize</a> <small style="font-size:85%;">(2011)</small><br />
+<a href="/wiki/Harvey_Prize" title="Harvey Prize">Harvey Prize</a> <small style="font-size:85%;">(2011)</small></td>
+</tr>
+<tr>
+<th scope="row">Spouse</th>
+<td>Ruth</td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td><a href="/wiki/Daniel_Pearl" title="Daniel Pearl">Daniel Pearl</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Website</b><br />
+<a rel="nofollow" class="external free" href="http://bayes.cs.ucla.edu/jp_home.html">http://bayes.cs.ucla.edu/jp_home.html</a></td>
+</tr>
+</table>
+<p><b>Judea Pearl</b> (born 1936) is an Israeli-born American <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> and <a href="/wiki/Philosopher" title="Philosopher">philosopher</a>, best known for championing the probabilistic approach to <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a> and the development of <a href="/wiki/Bayesian_networks" title="Bayesian networks" class="mw-redirect">Bayesian networks</a> (see the article on <a href="/wiki/Belief_propagation" title="Belief propagation">belief propagation</a>). He is also credited for developing a theory of causal and counterfactual inference based on structural models (see article on <a href="/wiki/Causality" title="Causality">causality</a>). He is the 2011 winner of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a>, the highest distinction in computer science, "for fundamental contributions to artificial intelligence through the development of a calculus for probabilistic and causal reasoning".<sup id="cite_ref-acm-turing_1-1" class="reference"><a href="#cite_note-acm-turing-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-acm_2011_Turing_award__Judea_Pearl_press_release_2-0" class="reference"><a href="#cite_note-acm_2011_Turing_award_Judea_Pearl_press_release-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-acm_3-0" class="reference"><a href="#cite_note-acm-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Judea Pearl is the father of journalist <a href="/wiki/Daniel_Pearl" title="Daniel Pearl">Daniel Pearl</a>, who was kidnapped and murdered by militants in <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a> connected with Al-Qaeda and the International Islamic Front in 2002 for his <a href="/wiki/United_States" title="United States">American</a> and <a href="/wiki/Jewish" title="Jewish" class="mw-redirect">Jewish</a> heritage.<sup id="cite_ref-Time_5-0" class="reference"><a href="#cite_note-Time-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-ATO_6-0" class="reference"><a href="#cite_note-ATO-6"><span>[</span>6<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Murder_of_Daniel_Pearl"><span class="tocnumber">2</span> <span class="toctext">Murder of Daniel Pearl</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Research"><span class="tocnumber">3</span> <span class="toctext">Research</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Notable_contributions"><span class="tocnumber">3.1</span> <span class="toctext">Notable contributions</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Books"><span class="tocnumber">3.2</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Scientific_papers"><span class="tocnumber">3.3</span> <span class="toctext">Scientific papers</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Lectures"><span class="tocnumber">3.4</span> <span class="toctext">Lectures</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Awards"><span class="tocnumber">3.5</span> <span class="toctext">Awards</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Judea_Pearl&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Judea Pearl was born in <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a>, <a href="/wiki/British_Mandate_for_Palestine" title="British Mandate for Palestine" class="mw-redirect">British Mandate for Palestine</a>, in 1936 and received a B.S. degree in Electrical Engineering from the <a href="/wiki/Technion" title="Technion" class="mw-redirect">Technion</a> in 1960. In 1960 he came to the United States and received a master's degree in Physics from <a href="/wiki/Rutgers_University" title="Rutgers University">Rutgers University</a>, <a href="/wiki/United_States" title="United States">U.S.</a> and a Ph.D. degree in electrical engineering from the <a href="/wiki/Polytechnic_Institute_of_Brooklyn" title="Polytechnic Institute of Brooklyn" class="mw-redirect">Polytechnic Institute of Brooklyn</a> (now New York University Polytechnic School of Engineering), U.S., in 1965. He worked at RCA Research Laboratories on superconductive parametric and storage devices and at Electronic Memories, Inc., on advanced memory systems. When <a href="/wiki/Semiconductor" title="Semiconductor">semiconductors</a> "wiped out" Pearl's work, as he later expressed it,<sup id="cite_ref-cacm_7-0" class="reference"><a href="#cite_note-cacm-7"><span>[</span>7<span>]</span></a></sup> he joined <a href="/wiki/UCLA" title="UCLA" class="mw-redirect">UCLA</a>'s <a href="/wiki/Henry_Samueli_School_of_Engineering_and_Applied_Science" title="Henry Samueli School of Engineering and Applied Science" class="mw-redirect">School of Engineering</a> in 1970 and started work on probabilistic <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>.</p>
+<p>Pearl is currently a professor of computer science and statistics and director of the Cognitive Systems Laboratory at UCLA. He and his wife, Ruth, had three children. In addition, as of 2011<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Judea_Pearl&amp;action=edit">[update]</a></sup>, he is a member of the International Advisory Board of <a href="/wiki/NGO_Monitor" title="NGO Monitor">NGO Monitor</a>.<sup id="cite_ref-NGO_8-0" class="reference"><a href="#cite_note-NGO-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>On Pearl's religious views, some reports describe him as a <a href="/wiki/Jewish_atheist" title="Jewish atheist" class="mw-redirect">Jewish atheist</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> He is very connected to Jewish traditions such as daily prayer, tefillin, and Kiddush on Friday night. <sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> In an interview with Heeb Magazine, he is "... trying to educate our children and live under God.” <sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> His writings on morality focus on clarity between right and wrong. <sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> He believes that Jews have always expected a return to Israel as expressed in songs, prayers and holidays.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>Emeritus Chief Rabbi, The Right Honourable Lord <a href="/wiki/Jonathan_Sacks" title="Jonathan Sacks">Jonathan Sacks</a> quoted Judea Pearl's beliefs in a lesson on Judaism. "I asked Judea Pearl, father of the murdered journalist Daniel Pearl, why he was working for reconciliation between Jews and Muslims, he replied with heartbreaking lucidity, “Hate killed my son. Therefore I am determined to fight hate.”<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>Former Israeli Chief Rabbi, Rabbi Yisrael Meir Lau, and partnered with Judea Pearl in the documentary "With My Whole Broken Heart."<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Murder_of_Daniel_Pearl">Murder of Daniel Pearl</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Judea_Pearl&amp;action=edit&amp;section=2" title="Edit section: Murder of Daniel Pearl">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2002, his son, <a href="/wiki/Daniel_Pearl" title="Daniel Pearl">Daniel Pearl</a>, a journalist working for the <a href="/wiki/Wall_Street_Journal" title="Wall Street Journal" class="mw-redirect">Wall Street Journal</a> was kidnapped and murdered in <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a>, leading Judea and the other members of the family and friends to create the <a href="/wiki/Daniel_Pearl_Foundation" title="Daniel Pearl Foundation">Daniel Pearl Foundation</a>.<sup id="cite_ref-DPF_16-0" class="reference"><a href="#cite_note-DPF-16"><span>[</span>16<span>]</span></a></sup> On the seventh anniversary of Daniel's death, Judea wrote an article in the Wall Street Journal titled <i>Daniel Pearl and the Normalization of Evil: When will our luminaries stop making excuses for terror?</i>.<sup id="cite_ref-WSJ_17-0" class="reference"><a href="#cite_note-WSJ-17"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Judea_Pearl&amp;action=edit&amp;section=3" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Judea Pearl was one of the pioneers of <a href="/wiki/Bayesian_networks" title="Bayesian networks" class="mw-redirect">Bayesian networks</a> and the <a href="/wiki/Probability" title="Probability">probabilistic</a> approach to <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, and one of the first to mathematize causal modeling in the empirical sciences. His work is also intended as a high-level <a href="/wiki/Cognitive_model" title="Cognitive model">cognitive model</a>. He is interested in the philosophy of science, knowledge representation, nonstandard logics, and learning. Pearl is described as "one of the giants in the field of artificial intelligence” by UCLA computer science professor Richard Korf.<sup id="cite_ref-Korf_18-0" class="reference"><a href="#cite_note-Korf-18"><span>[</span>18<span>]</span></a></sup> His work on <a href="/wiki/Causality" title="Causality">causality</a> has "revolutionized the understanding of causality in statistics, psychology, medicine and the social sciences" according to the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>.<sup id="cite_ref-ACM_19-0" class="reference"><a href="#cite_note-ACM-19"><span>[</span>19<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Notable_contributions">Notable contributions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Judea_Pearl&amp;action=edit&amp;section=4" title="Edit section: Notable contributions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>A summary of Pearl's scientific contributions is available in a chronological <a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/pearl_2658896.cfm">account</a> authored by Stuart Russell (2012).</li>
+<li>An <a rel="nofollow" class="external text" href="http://amturing.acm.org/bib/pearl_2658896.cfm">annotated bibliography</a> of Pearl's contributions was compiled by the ACM in 2012.</li>
+</ul>
+<h3><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Judea_Pearl&amp;action=edit&amp;section=5" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><i>Heuristics</i>, Addison-Wesley, 1984</li>
+<li><i>Probabilistic Reasoning in Intelligent Systems</i>, Morgan-Kaufmann, 1988</li>
+<li><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/BOOK-2K/index.html"><i>Causality: Models, Reasoning, and Inference</i></a>, Cambridge University Press, 2000</li>
+<li><a rel="nofollow" class="external text" href="http://www.jewishlights.com/page/product/978-1-58023-259-3"><i>I Am Jewish: Personal Reflections Inspired by the Last Words of Daniel Pearl</i></a>, Jewish Lights, 2004.</li>
+</ul>
+<h3><span class="mw-headline" id="Scientific_papers">Scientific papers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Judea_Pearl&amp;action=edit&amp;section=6" title="Edit section: Scientific papers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/csl_papers.html">List of papers on Pearl's personal website</a></li>
+</ul>
+<h3><span class="mw-headline" id="Lectures">Lectures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Judea_Pearl&amp;action=edit&amp;section=7" title="Edit section: Lectures">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://thesciencenetwork.org/programs/cogsci-2011/rumelhart-lecture-judea-pearl">"The Algorithmization of Counterfactuals" video of the Rumelhart Lecture given July 21, 2011.</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=78EmmdfOcI8">"On Causes and Counterfactuals" video of a lecture given at a tribute symposium, March 12, 2010</a></li>
+<li><a rel="nofollow" class="external text" href="http://video.google.com/videoplay?docid=-3669777328062859687&amp;hl=en">Honorary Doctorate of Science degree received from the University of Toronto - commencement speech given June 21, 2007</a></li>
+<li><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/LECTURE/lecture_sec1.htm">"The Art and Science of Cause and Effect": a slideshow and tutorial lecture by Judea Pearl</a></li>
+<li><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/IJCAI99/ijcai-99.pdf">Reasoning with Cause and Effect</a></li>
+</ul>
+<h3><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Judea_Pearl&amp;action=edit&amp;section=8" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li>2015—Named Fellow of <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> "For contributions to artificial intelligence through the development of a calculus for probabilistic and causal reasoning".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></li>
+<li>2014—Elected to the <a href="/wiki/National_Academy_of_Sciences" title="National Academy of Sciences">National Academy of Sciences</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></li>
+<li><a rel="nofollow" class="external text" href="http://www.admin.technion.ac.il/harvey/">2012—Harvey Prize (For "foundational work that has touched a multitude of spheres of modern life")</a></li>
+<li>2011—<a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a><sup id="cite_ref-acm-turing_1-2" class="reference"><a href="#cite_note-acm-turing-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-acm_2011_Turing_award__Judea_Pearl_press_release_2-1" class="reference"><a href="#cite_note-acm_2011_Turing_award_Judea_Pearl_press_release-2"><span>[</span>2<span>]</span></a></sup></li>
+<li>2011—<a href="/wiki/IEEE_Intelligent_Systems" title="IEEE Intelligent Systems">IEEE Intelligent Systems</a>' AI's Hall of Fame<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></li>
+<li><a rel="nofollow" class="external text" href="http://rumelhartprize.org/?page_id=54">2011—David E. Rumelhart Prize (For Contributions to the Theoretical Foundations of Human Cognition)</a></li>
+<li><a rel="nofollow" class="external text" href="http://thesciencenetwork.org/programs/cogsci-2011/on-counterfactuals-and-cognitive-science">2011—Rumelhart Prize Symposium in honor of Judea Pearl</a></li>
+<li><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/TRIBUTE/pearl-tribute2010.htm">2010—Festschrift and symposium in honor of Judea Pearl</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fi.edu/franklinawards/08/laureate_bf_computerccs-pearl.html">2008—Benjamin Franklin Medal in Computers and Cognitive Science</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.news.utoronto.ca/bin6/070424-3110.asp">2007—University of Toronto, Honorary Doctorate</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.purposeprize.org/finalists/pearl-ahmed.cfm">2006—Purpose Prize</a></li>
+<li><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/Newell_2003.htm">2004—2003 ACM Allen Newell Award</a></li>
+<li><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/pekeris03.html">2003—Pekeris Memorial Lecture</a></li>
+<li>2002—Corresponding Member, Spanish Academy of Engineering</li>
+<li><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/lakatos.htm">2001—Lakatos Award, London School of Economics and Political Science</a></li>
+<li><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/aaai-award2k.html">2000—</a><a href="/wiki/AAAI" title="AAAI" class="mw-redirect">AAAI</a> Classic Paper Award</li>
+<li><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/IJCAI99/index.html">1999—</a><a href="/wiki/IJCAI_Award_for_Research_Excellence" title="IJCAI Award for Research Excellence">IJCAI Award for Research Excellence</a> in Artificial Intelligence</li>
+<li><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/LECTURE/lecture_sec1.htm">1996—UCLA 81st Faculty Research Lecturer</a></li>
+<li>1995—Member, National Academy of Engineering</li>
+<li>1990—Fellow, American Association for Artificial Intelligence (<a href="/wiki/AAAI" title="AAAI" class="mw-redirect">AAAI</a>)</li>
+<li>1988—Fellow, Institute of Electrical and Electronic Engineers (<a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a>)</li>
+<li>1975—<a href="/wiki/NATO" title="NATO">NATO</a> Senior Fellowship in Science</li>
+<li>1965—<a href="/wiki/RCA_Laboratories" title="RCA Laboratories" class="mw-redirect">RCA Laboratories</a> Achievement Award</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Judea_Pearl&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:P_vip.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/28px-P_vip.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/41px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/55px-P_vip.svg.png 2x" data-file-width="1911" data-file-height="1944" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Biography" title="Portal:Biography">Biography portal</a></td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Flag_of_Los_Angeles_County,_California.png" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Los_Angeles_County%2C_California.png/32px-Flag_of_Los_Angeles_County%2C_California.png" width="32" height="19" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Los_Angeles_County%2C_California.png/48px-Flag_of_Los_Angeles_County%2C_California.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Los_Angeles_County%2C_California.png/64px-Flag_of_Los_Angeles_County%2C_California.png 2x" data-file-width="1522" data-file-height="913" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Greater_Los_Angeles" title="Portal:Greater Los Angeles">Greater Los Angeles portal</a></td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Flag_of_Israel.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png" width="32" height="23" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/48px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/64px-Flag_of_Israel.svg.png 2x" data-file-width="660" data-file-height="480" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Israel" title="Portal:Israel">Israel portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/History_of_the_Jews_in_Los_Angeles" title="History of the Jews in Los Angeles">History of the Jews in Los Angeles</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Judea_Pearl&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-acm-turing-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-acm-turing_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-acm-turing_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-acm-turing_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/pearl_2658896.cfm">Judea Pearl – A. M. Turing Award winner</a>, ACM, retrieved 2012-03-14.</span></li>
+<li id="cite_note-acm_2011_Turing_award__Judea_Pearl_press_release-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-acm_2011_Turing_award_Judea_Pearl_press_release_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-acm_2011_Turing_award_Judea_Pearl_press_release_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Gold, Virginia (March 15, 2012). <a rel="nofollow" class="external text" href="http://www.webcitation.org/66CCWiGVz">"Judea Pearl Wins ACM A.M. Turing Award for Contributions that Transformed Artificial Intelligence"</a>. The <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>. Archived from <a rel="nofollow" class="external text" href="http://www.acm.org/press-room/news-releases/2012/turing-award-11">the original</a> on March 15, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">March 15,</span> 2012</span>. <q><a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a>, the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> today named Judea Pearl of the <a href="/wiki/University_of_California,_Los_Angeles" title="University of California, Los Angeles">University of California, Los Angeles</a> the winner of the 2011 ACM <a href="/wiki/A.M._Turing_Award" title="A.M. Turing Award" class="mw-redirect">A.M. Turing Award</a> for innovations that enabled remarkable advances in the partnership between humans and machines that is the foundation of <a href="/wiki/Artificial_Intelligence" title="Artificial Intelligence" class="mw-redirect">Artificial Intelligence</a> (AI).</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.au=Gold%2C+Virginia&amp;rft.btitle=Judea+Pearl+Wins+ACM+A.M.+Turing+Award+for+Contributions+that+Transformed+Artificial+Intelligence&amp;rft.date=2012-03-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.acm.org%2Fpress-room%2Fnews-releases%2F2012%2Fturing-award-11&amp;rft.pub=The+Association+for+Computing+Machinery&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-acm-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-acm_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dl.acm.org/author_page.cfm?id=81548012093">Judea Pearl</a> from the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery (ACM)</a> Digital Library</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Goth, G. (2006). "Judea Pearl Interview: A Giant of Artificial Intelligence Takes on All-Too-Real Hatred". <i>IEEE Internet Computing</i> <b>10</b> (5): 6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FMIC.2006.107">10.1109/MIC.2006.107</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=Judea+Pearl+Interview%3A+A+Giant+of+Artificial+Intelligence+Takes+on+All-Too-Real+Hatred&amp;rft.aufirst=G.&amp;rft.aulast=Goth&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FMIC.2006.107&amp;rft.issue=5&amp;rft.jtitle=IEEE+Internet+Computing&amp;rft.pages=6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Time-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Time_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fonda, Daren (September 27, 2003). <a rel="nofollow" class="external text" href="http://www.time.com/time/arts/article/0,8599,490640,00.html">"On the Trail of Daniel Pearl"</a>. <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">TIME</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 20,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=On+the+Trail+of+Daniel+Pearl&amp;rft.aufirst=Daren&amp;rft.aulast=Fonda&amp;rft.date=2003-09-27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2Farts%2Farticle%2F0%2C8599%2C490640%2C00.html&amp;rft.jtitle=TIME&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ATO-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-ATO_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Pepe_Escobar" title="Pepe Escobar">Escobar, Pepe</a> (June 28, 2003). <a rel="nofollow" class="external text" href="http://www.atimes.com/atimes/South_Asia/EF28Df02.html">"Who killed Daniel Pearl?"</a>. <i>Book Review</i>. <a href="/wiki/Asia_Times_Online" title="Asia Times Online">Asia Times Online</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 20,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=Who+killed+Daniel+Pearl%3F&amp;rft.aufirst=Pepe&amp;rft.aulast=Escobar&amp;rft.date=2003-06-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.atimes.com%2Fatimes%2FSouth_Asia%2FEF28Df02.html&amp;rft.jtitle=Book+Review&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cacm-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-cacm_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Leah Hoffmann (2012). "Q&amp;A: A Sure Thing". <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a></i> <b>55</b> (6): 135–136. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F2184319.2184347">10.1145/2184319.2184347</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=Q%26A%3A+A+Sure+Thing&amp;rft.au=Leah+Hoffmann&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F2184319.2184347&amp;rft.issue=6&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=135-136&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=55" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NGO-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-NGO_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ngo-monitor.org/article.php?viewall=yes&amp;id=2028">"International Advisory Board Profiles"</a>. <a href="/wiki/NGO_Monitor" title="NGO Monitor">NGO Monitor</a>. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">July 20,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.btitle=International+Advisory+Board+Profiles&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ngo-monitor.org%2Farticle.php%3Fviewall%3Dyes%26id%3D2028&amp;rft.pub=NGO+Monitor&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Mathew Philips. <a rel="nofollow" class="external text" href="http://www.greatertalent.com/speaker-news/judea-pearl-history-has-given-us-both-a-tragedy-and-an-opportunity/">"Tragedy and Opportunity: The parents of slain journalist Danny Pearl have devoted their lives to improving Muslim-Jewish relations."</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2013</span>. <q>I turned secular at the age of 11, by divine revelation. [Laughs.] I was standing on the roof of the house my father built, looking down on the street and suddenly it became very clear to me that there is no God.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.au=Mathew+Philips&amp;rft.btitle=Tragedy+and+Opportunity%3A+The+parents+of+slain+journalist+Danny+Pearl+have+devoted+their+lives+to+improving+Muslim-Jewish+relations.&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.greatertalent.com%2Fspeaker-news%2Fjudea-pearl-history-has-given-us-both-a-tragedy-and-an-opportunity%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Fishman Orlins, Susan (November 2006). <a rel="nofollow" class="external text" href="http://www.momentmag.com/the-price-of-being-jewish-an-interview-with-judea-pearl/">"The Price of Being Jewish: An Interview with Judea Pearl"</a>. Moment. <q>Did you pray for Danny’s safe return? No, I don’t believe in a God [that] would listen to me. But I do pray every morning. I lay tefillin. I started a year ago. But aren’t you a secular Jew? I’ll give you the same answer I gave 10 Muslims who joined me for dinner one Friday night. I said, “Oh, it’s Friday night. I have to do Kiddush.”</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=The+Price+of+Being+Jewish%3A+An+Interview+with+Judea+Pearl&amp;rft.aufirst=Susan&amp;rft.aulast=Fishman+Orlins&amp;rft.date=2006-11&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.momentmag.com%2Fthe-price-of-being-jewish-an-interview-with-judea-pearl%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Neuman, Joshua (June 7, 2010). <a rel="nofollow" class="external text" href="http://heebmagazine.com/like-son-like-father-judea-pearl/26418">"Like Son, Like Father: Judea Pearl"</a>. Heeb. <q>“I see people getting together, Muslims and Jews, elevating above differences and recognizing that we’re all human beings trying to make sense of what’s going on, trying to educate our children and live under God.”</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=Like+Son%2C+Like+Father%3A+Judea+Pearl&amp;rft.aufirst=Joshua&amp;rft.aulast=Neuman&amp;rft.date=2010-06-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fheebmagazine.com%2Flike-son-like-father-judea-pearl%2F26418&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Pearl, Judah (September 22, 2014). <a rel="nofollow" class="external text" href="http://www.nytimes.com/2014/09/23/opinion/klinghoffer-an-opera-and-a-protest.html?_r=0">"Klinghoffer an Opera and a Protest"</a>. New York Times.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=Klinghoffer+an+Opera+and+a+Protest&amp;rft.aufirst=Judah&amp;rft.aulast=Pearl&amp;rft.date=2014-09-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F23%2Fopinion%2Fklinghoffer-an-opera-and-a-protest.html%3F_r%3D0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Lipner, Rose (December 2, 2014). <a rel="nofollow" class="external text" href="http://www.shalhevetboilingpoint.com/top-stories/2014/12/02/judea-pearl-challenges-students-at-jspa-conference/">"Judea Pearl challenges students at JSPA conference"</a>. Shalhevet High School. The Boiling Point.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=Judea+Pearl+challenges+students+at+JSPA+conference&amp;rft.aufirst=Rose&amp;rft.aulast=Lipner&amp;rft.date=2014-12-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.shalhevetboilingpoint.com%2Ftop-stories%2F2014%2F12%2F02%2Fjudea-pearl-challenges-students-at-jspa-conference%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Emeritus Chief Rabbi, The Right Honourable Lord Sacks (September 5, 2014). <a rel="nofollow" class="external text" href="http://www.israelnationalnews.com/Articles/Article.aspx/15622">"Judaism: Covenant &amp; Conversation: Against Hate"</a>. Israel National News. <q>I asked Judea Pearl, father of the murdered journalist Daniel Pearl, why he was working for reconciliation between Jews and Muslims, he replied with heartbreaking lucidity, “Hate killed my son. Therefore I am determined to fight hate.”</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.au=Emeritus+Chief+Rabbi%2C+The+Right+Honourable+Lord+Sacks&amp;rft.btitle=Judaism%3A+Covenant+%26+Conversation%3A+Against+Hate&amp;rft.date=2014-09-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.israelnationalnews.com%2FArticles%2FArticle.aspx%2F15622&amp;rft.pub=Israel+National+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">Wilkinson, Phaedra (10 July 2015). <a rel="nofollow" class="external text" href="http://www.chicagotribune.com/suburbs/deerfield/community/chi-ugc-article-with-my-whole-broken-heart-2015-07-10-story.html">"From the community: With My Whole Broken Heart"</a>. Chicago Tribune.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=From+the+community%3A+With+My+Whole+Broken+Heart&amp;rft.aufirst=Phaedra&amp;rft.aulast=Wilkinson&amp;rft.date=2015-07-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.chicagotribune.com%2Fsuburbs%2Fdeerfield%2Fcommunity%2Fchi-ugc-article-with-my-whole-broken-heart-2015-07-10-story.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DPF-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-DPF_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.danielpearl.org/about_us/Judea_Pearl.html">"Biography of Dr. Judea Pearl"</a>. <a href="/wiki/Daniel_Pearl_Foundation" title="Daniel Pearl Foundation">Daniel Pearl Foundation</a>. 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">July 20,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.btitle=Biography+of+Dr.+Judea+Pearl&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.danielpearl.org%2Fabout_us%2FJudea_Pearl.html&amp;rft.pub=Daniel+Pearl+Foundation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WSJ-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-WSJ_17-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Pearl, Judea (February 3, 2009). <a rel="nofollow" class="external text" href="http://online.wsj.com/article/SB123362422088941893.html">"Daniel Pearl and the Normalization of Evil"</a>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i>. p.&#160;A15<span class="reference-accessdate">. Retrieved <span class="nowrap">July 20,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=Daniel+Pearl+and+the+Normalization+of+Evil&amp;rft.aufirst=Judea&amp;rft.aulast=Pearl&amp;rft.date=2009-02-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB123362422088941893.html&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.pages=A15&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Korf-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Korf_18-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Amundson, Marlys (Fall 2004). <a rel="nofollow" class="external text" href="http://ftp.cs.ucla.edu/pub/stat_ser/pearl-engineer-fall04.pdf">"A Profile of Judea Pearl – Computer Science Pioneer,Visionary"</a> <span style="font-size:85%;">(<a href="/wiki/Portable_Document_Format" title="Portable Document Format">PDF</a>)</span>. <i>UCLA Engineer</i> (<a href="/wiki/University_of_California,_Los_Angeles" title="University of California, Los Angeles">UCLA</a> <a href="/wiki/Henry_Samueli_School_of_Engineering_and_Applied_Science" title="Henry Samueli School of Engineering and Applied Science" class="mw-redirect">Henry Samueli School of Engineering and Applied Science</a>) (12): 16–17<span class="reference-accessdate">. Retrieved <span class="nowrap">July 20,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=A+Profile+of+Judea+Pearl+%93+Computer+Science+Pioneer%2CVisionary&amp;rft.aufirst=Marlys&amp;rft.aulast=Amundson&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fftp.cs.ucla.edu%2Fpub%2Fstat_ser%2Fpearl-engineer-fall04.pdf&amp;rft.issue=12&amp;rft.jtitle=UCLA+Engineer&amp;rft.pages=16-17&amp;rft.ssn=fall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ACM-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-ACM_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/Newell_2003.htm">"ACM HONORS INNOVATORS WHO CHANGED THE SCIENTIFIC WORLD"</a>. <a href="/wiki/New_York" title="New York">New York</a>: <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>. April 27, 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">July 20,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.btitle=ACM+HONORS+INNOVATORS+WHO+CHANGED+THE+SCIENTIFIC+WORLD&amp;rft.date=2004-04-27&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fbayes.cs.ucla.edu%2FNewell_2003.htm&amp;rft.place=New+York&amp;rft.pub=Association+for+Computing+Machinery&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.acm.org/press-room/news-releases/2015/fellows-2015">"ACM Fellows Named for Computing Innovations that Are Advancing Technology in the Digital Age"</a>. ACM. 8 December 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.btitle=ACM+Fellows+Named+for+Computing+Innovations+that+Are+Advancing+Technology+in+the+Digital+Age&amp;rft.date=2015-12-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.acm.org%2Fpress-room%2Fnews-releases%2F2015%2Ffellows-2015&amp;rft.pub=ACM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nasonline.org/news-and-multimedia/news/april-29-2014-NAS-Election.html">National Academy of Sciences Members and Foreign Associates Elected</a>, <a href="/wiki/National_Academy_of_Sciences" title="National Academy of Sciences">National Academy of Sciences</a>, April 29, 2014.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://www.computer.org/cms/Computer.org/ComputingNow/homepage/2011/0811/rW_IS_AIsHallofFame.pdf">"AI's Hall of Fame"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/IEEE_Intelligent_Systems" title="IEEE Intelligent Systems">IEEE Intelligent Systems</a></i> (<a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a>) <b>26</b> (4): 5–15. 2011. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FMIS.2011.64">10.1109/MIS.2011.64</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=AI%27s+Hall+of+Fame&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.computer.org%2Fcms%2FComputer.org%2FComputingNow%2Fhomepage%2F2011%2F0811%2FrW_IS_AIsHallofFame.pdf&amp;rft_id=info%3Adoi%2F10.1109%2FMIS.2011.64&amp;rft.issue=4&amp;rft.jtitle=IEEE+Intelligent+Systems&amp;rft.pages=5-15&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.digitaljournal.com/pr/399442">"IEEE Computer Society Magazine Honors Artificial Intelligence Leaders"</a>. <i><a href="/wiki/DigitalJournal.com" title="DigitalJournal.com" class="mw-redirect">DigitalJournal.com</a></i>. August 24, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">September 18,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJudea+Pearl&amp;rft.atitle=IEEE+Computer+Society+Magazine+Honors+Artificial+Intelligence+Leaders&amp;rft.date=2011-08-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.digitaljournal.com%2Fpr%2F399442&amp;rft.jtitle=DigitalJournal.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> Press release source: <i><a href="/wiki/PRWeb" title="PRWeb" class="mw-redirect">PRWeb</a></i> (<a href="/wiki/Vocus" title="Vocus">Vocus</a>).</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Judea_Pearl&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Special:Search/Judea_Pearl" class="extiw" title="q:Special:Search/Judea Pearl">Judea Pearl</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://bayes.cs.ucla.edu/jp_home.html">Judea Pearl's personal website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.danielpearl.org">Daniel Pearl Foundation Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ushmm.org/confront-antisemitism/antisemitism-podcast/judea-pearl">Interview with Judea Pearl</a> from the U.S. Holocaust Memorial Museum</li>
+<li><a rel="nofollow" class="external text" href="http://thesciencenetwork.org/programs/cogsci-2011/interview-with-judea-pearl">Interview with Judea Pearl on Robots and Free Will</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=70481">Judea Pearl</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></li>
+<li><a rel="nofollow" class="external text" href="http://aigp.eecs.umich.edu/researcher/show/595">Judea Pearl</a> at the AI Genealogy Project.</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Turing_Award_laureates" title="Template:Turing Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Turing_Award_laureates" title="Template talk:Turing Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Turing_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a> <small>(1966)</small></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Vincent Wilkes</a> <small>(1967)</small></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1968)</small></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> <small>(1969)</small></li>
+<li><a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a> <small>(1970)</small></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a> <small>(1971)</small></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a> <small>(1972)</small></li>
+<li><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a> <small>(1973)</small></li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> <small>(1974)</small></li>
+<li><a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a> / <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a> <small>(1975)</small></li>
+<li><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a> / <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> <small>(1976)</small></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> <small>(1977)</small></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a> <small>(1978)</small></li>
+<li><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a> <small>(1979)</small></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> <small>(1980)</small></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> <small>(1981)</small></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> <small>(1982)</small></li>
+<li><a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> / <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> <small>(1983)</small></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> <small>(1984)</small></li>
+<li><a href="/wiki/Richard_Karp" title="Richard Karp" class="mw-redirect">Richard Karp</a> <small>(1985)</small></li>
+<li><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a> / <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a> <small>(1986)</small></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a> <small>(1987)</small></li>
+<li><a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a> <small>(1988)</small></li>
+<li><a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a> <small>(1989)</small></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a> <small>(1990)</small></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> <small>(1991)</small></li>
+<li><a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a> <small>(1992)</small></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a> / <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a> <small>(1993)</small></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a> / <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a> <small>(1994)</small></li>
+<li><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a> <small>(1995)</small></li>
+<li><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a> <small>(1996)</small></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> <small>(1997)</small></li>
+<li><a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> <small>(1998)</small></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a> <small>(1999)</small></li>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Yao</a> <small>(2000)</small></li>
+<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a> / <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a> <small>(2001)</small></li>
+<li><a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a> / <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a> / <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a> <small>(2002)</small></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> <small>(2003)</small></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a> / <a href="/wiki/Bob_Kahn" title="Bob Kahn">Bob Kahn</a> <small>(2004)</small></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a> <small>(2005)</small></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a> <small>(2006)</small></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a> / <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a> / <a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a> <small>(2007)</small></li>
+<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> <small>(2008)</small></li>
+<li><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> <small>(2009)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie G. Valiant</a> <small>(2010)</small></li>
+<li><strong class="selflink">Judea Pearl</strong> <small>(2011)</small></li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a> / <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a> <small>(2012)</small></li>
+<li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> <small>(2013)</small></li>
+<li><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n83-071112">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/94373233">94373233</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n83071112">n83071112</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000011688905X">0000 0001 1688 905X</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/139283331">139283331</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/060348674">060348674</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=70481">70481</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/01155642">01155642</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1032
+Cached time: 20160106233105
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.561 seconds
+Real time usage: 0.652 seconds
+Preprocessor visited node count: 1997/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 59657/2097152 bytes
+Template argument size: 1769/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.281/10.000 seconds
+Lua memory usage: 4.15 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  563.703      1 - -total
+ 51.92%  292.673      1 - Template:Reflist
+ 19.28%  108.687      1 - Template:Infobox_scientist
+ 19.20%  108.234      8 - Template:Cite_web
+ 17.44%   98.287      1 - Template:Infobox
+ 11.88%   66.979      7 - Template:Cite_news
+ 10.20%   57.520      5 - Template:Cite_journal
+  7.81%   44.050      1 - Template:Authority_control
+  5.47%   30.857      4 - Template:Br_separated_entries
+  3.66%   20.650      1 - Template:As_of
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:699964-0!*!0!!en!4!* and timestamp 20160106233104 and revision id 694693806
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Judea_Pearl&amp;oldid=694693806">https://en.wikipedia.org/w/index.php?title=Judea_Pearl&amp;oldid=694693806</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1936_births" title="Category:1936 births">1936 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_atheists" title="Category:American atheists">American atheists</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Artificial_intelligence_researchers" title="Category:Artificial intelligence researchers">Artificial intelligence researchers</a></li><li><a href="/wiki/Category:Fellow_Members_of_the_IEEE" title="Category:Fellow Members of the IEEE">Fellow Members of the IEEE</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_the_Advancement_of_Artificial_Intelligence" title="Category:Fellows of the Association for the Advancement of Artificial Intelligence">Fellows of the Association for the Advancement of Artificial Intelligence</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences" title="Category:Fellows of the American Academy of Arts and Sciences">Fellows of the American Academy of Arts and Sciences</a></li><li><a href="/wiki/Category:Israeli_computer_scientists" title="Category:Israeli computer scientists">Israeli computer scientists</a></li><li><a href="/wiki/Category:Israeli_atheists" title="Category:Israeli atheists">Israeli atheists</a></li><li><a href="/wiki/Category:Israeli_Jews" title="Category:Israeli Jews">Israeli Jews</a></li><li><a href="/wiki/Category:Israeli_philosophers" title="Category:Israeli philosophers">Israeli philosophers</a></li><li><a href="/wiki/Category:Jewish_atheists" title="Category:Jewish atheists">Jewish atheists</a></li><li><a href="/wiki/Category:Jewish_American_scientists" title="Category:Jewish American scientists">Jewish American scientists</a></li><li><a href="/wiki/Category:Jewish_philosophers" title="Category:Jewish philosophers">Jewish philosophers</a></li><li><a href="/wiki/Category:Rutgers_University_alumni" title="Category:Rutgers University alumni">Rutgers University alumni</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Sciences" title="Category:Members of the United States National Academy of Sciences">Members of the United States National Academy of Sciences</a></li><li><a href="/wiki/Category:Polytechnic_Institute_of_New_York_University_alumni" title="Category:Polytechnic Institute of New York University alumni">Polytechnic Institute of New York University alumni</a></li><li><a href="/wiki/Category:University_of_California,_Los_Angeles_faculty" title="Category:University of California, Los Angeles faculty">University of California, Los Angeles faculty</a></li><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li><li><a href="/wiki/Category:Rumelhart_Prize_laureates" title="Category:Rumelhart Prize laureates">Rumelhart Prize laureates</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2011" title="Category:Articles containing potentially dated statements from 2011">Articles containing potentially dated statements from 2011</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Judea+Pearl&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Judea+Pearl" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Judea_Pearl"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Judea_Pearl"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Judea_Pearl" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Judea_Pearl&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Judea_Pearl&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Judea_Pearl" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Judea_Pearl" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Judea_Pearl&amp;oldid=694693806" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Judea_Pearl&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92824" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Judea_Pearl&amp;id=694693806" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Judea+Pearl">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Judea+Pearl&amp;returnto=Judea+Pearl&amp;oldid=694693806&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Judea_Pearl&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AC%D9%88%D8%AF%D9%8A%D8%A7_%D8%A8%D9%8A%D8%A7%D8%B1%D9%84" title="جوديا بيارل – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%81%E0%A6%A1%E0%A7%87_%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B2" title="জুডে পার্ল – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Judea_Pearl" title="Judea Pearl – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Judea_Pearl" title="Judea Pearl – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DB%8C%D9%88%D8%AF%DB%8C%D8%A7_%D9%BE%D8%B1%D9%84" title="یودیا پرل – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Judea_Pearl" title="Judea Pearl – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%9C%A0%EB%94%94_%ED%8E%84" title="유디 펄 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%99%D7%94%D7%95%D7%93%D7%94_%D7%A4%D7%A8%D7%9C" title="יהודה פרל – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Judea_Pearl" title="Judea Pearl – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Judea_Pearl" title="Judea Pearl – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%91%E3%83%BC%E3%83%AB" title="ジューディア・パール – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Judea_Pearl" title="Judea Pearl – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BB,_%D0%94%D0%B6%D1%83%D0%B4%D0%B0" title="Перл, Джуда – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%94%D0%B6%D1%83%D0%B4%D0%B0_%D0%9F%D0%B5%D1%80%D0%BB" title="Джуда Перл – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%9C%B1%E8%BF%AA%E4%BA%9A%C2%B7%E7%8F%80%E5%B0%94" title="朱迪亚·珀尔 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92824#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 December 2015, at 22:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Judea_Pearl&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":771,"wgHostname":"mw1032"}); /* @nomin */
+} );</script>
+	</body>
+</html>

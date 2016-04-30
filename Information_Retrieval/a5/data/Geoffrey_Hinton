@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Geoffrey Hinton - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Geoffrey_Hinton","wgTitle":"Geoffrey Hinton","wgCurRevisionId":693391705,"wgRevisionId":693391705,"wgArticleId":507174,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing links to subscription-only content","Use dmy dates from December 2010","Articles containing potentially dated statements from 2015","All articles containing potentially dated statements","Vague or ambiguous time from November 2015","All articles with unsourced statements","Articles with unsourced statements from November 2015","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Artificial intelligence researchers","British computer scientists","Canadian computer scientists","Cognitive scientists","Fellows of the Association for the Advancement of Artificial Intelligence","Fellows of the Royal Society","Google employees","Living people","Machine learning researchers","University of Toronto faculty","Canada Research Chairs","1947 births","Carnegie Mellon University faculty","Rumelhart Prize laureates","Alumni of the University of Edinburgh"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Geoffrey_Hinton","wgRelevantArticleId":507174,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Geoffrey_Hinton_at_UBC.jpg/79px-Geoffrey_Hinton_at_UBC.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["zh-cn","zh","en","zh-tw","ja"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92894","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Geoffrey_Hinton" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Geoffrey_Hinton&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Geoffrey_Hinton&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Geoffrey_Hinton" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Geoffrey_Hinton skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Geoffrey Hinton</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Geoff Hinton</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Geoffrey_Hinton_at_UBC.jpg" class="image"><img alt="Geoffrey Hinton at UBC.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Geoffrey_Hinton_at_UBC.jpg/220px-Geoffrey_Hinton_at_UBC.jpg" width="220" height="277" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Geoffrey_Hinton_at_UBC.jpg/330px-Geoffrey_Hinton_at_UBC.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Geoffrey_Hinton_at_UBC.jpg/440px-Geoffrey_Hinton_at_UBC.jpg 2x" data-file-width="1384" data-file-height="1744" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>Geoffrey Everest Hinton<br />
+<span style="display:none">(<span class="bday">1947-12-06</span>)</span> 6 December 1947 <span class="noprint ForceAgeToShow">(age&#160;68)</span><sup id="cite_ref-whoswho_1-0" class="reference"><a href="#cite_note-whoswho-1"><span>[</span>1<span>]</span></a></sup><br />
+<a href="/wiki/Wimbledon,_London" title="Wimbledon, London">Wimbledon, London</a></td>
+</tr>
+<tr>
+<th scope="row">Residence</th>
+<td><a href="/wiki/Canada" title="Canada">Canada</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></li>
+<li><a href="/wiki/Neural_network" title="Neural network" class="mw-redirect">Neural networks</a></li>
+<li><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a></li>
+<li><a href="/wiki/Cognitive_science" title="Cognitive science">Cognitive science</a></li>
+<li><a href="/wiki/Object_recognition" title="Object recognition" class="mw-redirect">Object recognition</a><sup id="cite_ref-googlescholar_2-0" class="reference"><a href="#cite_note-googlescholar-2"><span>[</span>2<span>]</span></a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a> (BA)</li>
+<li><a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a> (PhD)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.era.lib.ed.ac.uk/handle/1842/8121"><i>Relaxation and its role in vision</i></a>&#160;<span style="font-size:90%;">(1977)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/H._Christopher_Longuet-Higgins" title="H. Christopher Longuet-Higgins">H. Christopher Longuet-Higgins</a><sup id="cite_ref-mathgene_3-0" class="reference"><a href="#cite_note-mathgene-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td>
+<div class="plainlist">
+<ul>
+<li>David Ackley</li>
+<li>Peter Brown</li>
+<li><a href="/w/index.php?title=Richard_Szeliski&amp;action=edit&amp;redlink=1" class="new" title="Richard Szeliski (page does not exist)">Richard Szeliski</a></li>
+<li>Mark Derthick</li>
+<li>Kevin Lang</li>
+<li>Steven Nowlan</li>
+<li>David Plaut</li>
+<li>Sidney Fels</li>
+<li>Sue Becker</li>
+<li>Rich Zemel</li>
+<li>Carl Edward Rasmussen</li>
+<li>Chris Williams</li>
+<li><a href="/wiki/Brendan_Frey" title="Brendan Frey">Brendan Frey</a></li>
+<li>Radek Grzeszczuk</li>
+<li>Brian Sallans</li>
+<li>Sageev Oore</li>
+<li>Alberto Paccanaro</li>
+<li>Yee Whye Teh<sup id="cite_ref-mathgene_3-1" class="reference"><a href="#cite_note-mathgene-3"><span>[</span>3<span>]</span></a></sup></li>
+<li>Ruslan Salakhutdinov</li>
+<li>Ilya Sutskever</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Other&#160;notable students</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Yann_LeCun" title="Yann LeCun">Yann LeCun</a> (<a href="/wiki/Postdoctoral_researcher" title="Postdoctoral researcher">postdoc</a>)</li>
+<li><a href="/wiki/Zoubin_Ghahramani" title="Zoubin Ghahramani">Zoubin Ghahramani</a> (<a href="/wiki/Postdoctoral_researcher" title="Postdoctoral researcher">postdoc</a>)</li>
+<li><a href="/wiki/Radford_M._Neal" title="Radford M. Neal">Radford M. Neal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Backpropagation" title="Backpropagation">Backpropagation</a></li>
+<li><a href="/wiki/Boltzmann_machine" title="Boltzmann machine">Boltzmann machine</a></li>
+<li><a href="/wiki/Deep_learning" title="Deep learning">Deep learning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society" class="mw-redirect">FRS</a> (1998)<sup id="cite_ref-frs_6-0" class="reference"><a href="#cite_note-frs-6"><span>[</span>6<span>]</span></a></sup></li>
+<li><a href="/wiki/AAAI" title="AAAI" class="mw-redirect">AAAI</a> Fellow <small style="font-size:85%;">(1990)</small></li>
+<li><a href="/wiki/Rumelhart_Prize" title="Rumelhart Prize">Rumelhart Prize</a> <small style="font-size:85%;">(2001)</small></li>
+<li><a href="/wiki/IJCAI_Award_for_Research_Excellence" title="IJCAI Award for Research Excellence">IJCAI Award for Research Excellence</a> <small style="font-size:85%;">(2005)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Website</b><br />
+<span class="url"><a rel="nofollow" class="external text" href="https://www.cs.toronto.edu/~hinton/">www<wbr />.cs<wbr />.toronto<wbr />.edu<wbr />/~hinton<wbr />/</a></span></td>
+</tr>
+</table>
+<p><b>Geoffrey Everest Hinton</b> <a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society" class="mw-redirect">FRS</a><sup id="cite_ref-frs_6-1" class="reference"><a href="#cite_note-frs-6"><span>[</span>6<span>]</span></a></sup> (born 6 December 1947) is a <a href="/wiki/United_Kingdom" title="United Kingdom">British</a>-born <a href="/wiki/Cognitive_psychology" title="Cognitive psychology">cognitive psychologist</a> and <a href="/wiki/Computer_science" title="Computer science">computer scientist</a>, most noted for his work on <a href="/wiki/Artificial_neural_networks" title="Artificial neural networks" class="mw-redirect">artificial neural networks</a>. As of 2015<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Geoffrey_Hinton&amp;action=edit">[update]</a></sup> he divides his time working for Google and <a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> He was one of the first researchers who demonstrated the use of generalized <a href="/wiki/Backpropagation" title="Backpropagation">backpropagation</a> algorithm for training multi-layer neural nets and is an important figure in the <a href="/wiki/Deep_learning" title="Deep learning">deep learning</a> movement.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education"><span class="tocnumber">1</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Research"><span class="tocnumber">3</span> <span class="toctext">Research</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Honours_and_awards"><span class="tocnumber">4</span> <span class="toctext">Honours and awards</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Personal_life"><span class="tocnumber">5</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geoffrey_Hinton&amp;action=edit&amp;section=1" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hinton was educated at <a href="/wiki/King%27s_College,_Cambridge" title="King's College, Cambridge">King's College, Cambridge</a> graduating in 1970, with a <a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">Bachelor of Arts</a> in experimental psychology.<sup id="cite_ref-whoswho_1-1" class="reference"><a href="#cite_note-whoswho-1"><span>[</span>1<span>]</span></a></sup> He continued his study at the <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a> where he was awarded a <a href="/wiki/PhD" title="PhD" class="mw-redirect">PhD</a> in <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a> in 1977 for research supervised by <a href="/wiki/H._Christopher_Longuet-Higgins" title="H. Christopher Longuet-Higgins">H. Christopher Longuet-Higgins</a>.<sup id="cite_ref-mathgene_3-2" class="reference"><a href="#cite_note-mathgene-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geoffrey_Hinton&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He has worked at <a href="/wiki/University_of_Sussex" title="University of Sussex">Sussex</a>, <a href="/wiki/UCSD" title="UCSD" class="mw-redirect">University of California San Diego</a>, <a href="/wiki/Cambridge_University" title="Cambridge University" class="mw-redirect">Cambridge</a>, <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a> and <a href="/wiki/University_College_London" title="University College London">University College London</a>. He was the founding director of the Gatsby Computational Neuroscience Unit at <a href="/wiki/University_College_London" title="University College London">University College London</a>, and is currently a <a href="/wiki/Professor" title="Professor">professor</a> in the computer science department at the <a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a>. He holds a <a href="/wiki/Canada_Research_Chair" title="Canada Research Chair">Canada Research Chair</a> in Machine Learning. He is the director of the program on "Neural Computation and Adaptive Perception" which is funded by the Canadian Institute for Advanced Research. Hinton taught a free online course on Neural Networks on the education platform Coursera in 2012.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> Hinton joined <a href="/wiki/Google" title="Google">Google</a> in March 2013 when his company, DNNresearch Inc, was acquired. He is planning to "divide his time between his university research and his work at Google".<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geoffrey_Hinton&amp;action=edit&amp;section=3" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An accessible introduction to Geoffrey Hinton's research can be found in his articles in <i><a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a></i> in September 1992 and October 1993. He investigates ways of using neural networks for <a href="/wiki/Machine_learning" title="Machine learning">learning</a>, <a href="/wiki/Memory" title="Memory">memory</a>, <a href="/wiki/Perception" title="Perception">perception</a> and symbol processing and has authored over 200 publications<sup id="cite_ref-scopus_14-0" class="reference"><a href="#cite_note-scopus-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-googlescholar_2-1" class="reference"><a href="#cite_note-googlescholar-2"><span>[</span>2<span>]</span></a></sup> in these areas. He was one of the first researchers who demonstrated the use of generalized <a href="/wiki/Backpropagation" title="Backpropagation">back-propagation algorithm</a> for training multi-layer neural networks that has been widely used for practical applications. He co-invented <a href="/wiki/Boltzmann_machine" title="Boltzmann machine">Boltzmann machines</a> with <a href="/wiki/Terry_Sejnowski" title="Terry Sejnowski">Terry Sejnowski</a>. His other contributions to neural network research include <a href="/wiki/Distributed_representation" title="Distributed representation" class="mw-redirect">distributed representations</a>, <a href="/wiki/Time_delay_neural_network" title="Time delay neural network">time delay neural network</a>, mixtures of experts, <a href="/wiki/Helmholtz_machines" title="Helmholtz machines" class="mw-redirect">Helmholtz machines</a> and <a href="/wiki/Product_of_Experts" title="Product of Experts" class="mw-redirect">Product of Experts</a>. His current<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (November 2015)">when?</span></a></i>]</sup> main interest is in <a href="/wiki/Unsupervised_learning" title="Unsupervised learning">unsupervised learning</a> procedures for neural networks with rich sensory input.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2015)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Honours_and_awards">Honours and awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geoffrey_Hinton&amp;action=edit&amp;section=4" title="Edit section: Honours and awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hinton was elected a <a href="/wiki/List_of_Fellows_of_the_Royal_Society_elected_in_1998" title="List of Fellows of the Royal Society elected in 1998">Fellow of the Royal Society (FRS) in 1998</a>.<sup id="cite_ref-frs_6-2" class="reference"><a href="#cite_note-frs-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> Hinton was the first winner of the <a href="/wiki/Rumelhart_Prize" title="Rumelhart Prize">David E. Rumelhart Prize</a>.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (November 2015)">when?</span></a></i>]</sup> His certificate of election for the Royal Society reads:</p>
+<table class="cquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;">Geoffrey E. Hinton is internationally distinguished for his work on artificial neural nets, especially how they can be designed to learn without the aid of a human teacher. This may will be the start of autonomous intelligent brain-like machines. He has compared effects of brain damage with effects of losses in such a net, and found striking similarities with human impairment, such as for recognition of names and losses of categorization. His work includes studies of mental imagery, and inventing puzzles for testing originality and creative intelligence. It is conceptual, mathematically sophisticated and experimental. He brings these skills together with striking effect to produce important work of great interest.<sup id="cite_ref-royal_16-0" class="reference"><a href="#cite_note-royal-16"><span>[</span>16<span>]</span></a></sup></td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”</td>
+</tr>
+</table>
+<p>In 2001, Hinton was awarded an Honorary Doctorate from the <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a>.</p>
+<p>Hinton was the 2005 recipient of the <a href="/wiki/IJCAI_Award_for_Research_Excellence" title="IJCAI Award for Research Excellence">IJCAI Award for Research Excellence</a> lifetime-achievement award.</p>
+<p>He has also been awarded the 2011 Herzberg Canada Gold Medal for Science and Engineering.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>In 2013, Hinton was awarded an Honorary Doctorate from the <a href="/wiki/Universit%C3%A9_de_Sherbrooke" title="Université de Sherbrooke">Université de Sherbrooke</a>.</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geoffrey_Hinton&amp;action=edit&amp;section=5" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hinton is the great-great-grandson both of logician <a href="/wiki/George_Boole" title="George Boole">George Boole</a> whose work eventually became one of the foundations of modern computer science, and of surgeon and author <a href="/wiki/James_Hinton" title="James Hinton">James Hinton</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> His father is <a href="/wiki/Howard_Hinton" title="Howard Hinton" class="mw-redirect">Howard Hinton</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Geoffrey_Hinton&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-whoswho-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-whoswho_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-whoswho_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://www.ukwhoswho.com/view/article/oupww/whoswho/U20261"><i>HINTON, Prof. Geoffrey Everest</i></a>. <a href="/wiki/Who%27s_Who_(UK)" title="Who's Who (UK)">Who's Who</a> <b>2015</b> (online <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a> ed.). A &amp; C Black, an imprint of Bloomsbury Publishing plc.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoffrey+Hinton&amp;rft.btitle=HINTON%2C+Prof.+Geoffrey+Everest&amp;rft.edition=online+Oxford+University+Press&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ukwhoswho.com%2Fview%2Farticle%2Foupww%2Fwhoswho%2FU20261&amp;rft.pub=A+%26+C+Black%2C+an+imprint+of+Bloomsbury+Publishing+plc&amp;rft.series=Who%27s+Who&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:0.95em; font-size: 90%; color: #555">(subscription required)</span></span></li>
+<li id="cite_note-googlescholar-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-googlescholar_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-googlescholar_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="//scholar.google.com/citations?user=JicYPdAAAAAJ">Geoffrey Hinton's publications</a> indexed by <a href="/wiki/Google_Scholar" title="Google Scholar">Google Scholar</a>, a service provided by <a href="/wiki/Google" title="Google">Google</a></span></li>
+<li id="cite_note-mathgene-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-mathgene_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mathgene_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mathgene_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=50071">Geoffrey Hinton</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://phdtree.org/scholar/hinton-geoffrey-e/">Geoffrey E. Hinton's Academic Genealogy</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gregory, R. L.; Murrell, J. N. (2006). "<a href="/wiki/H._Christopher_Longuet-Higgins" title="H. Christopher Longuet-Higgins">Hugh Christopher Longuet-Higgins</a>. 11 April 1923 -- 27 March 2004: Elected FRS 1958". <i><a href="/wiki/Biographical_Memoirs_of_Fellows_of_the_Royal_Society" title="Biographical Memoirs of Fellows of the Royal Society">Biographical Memoirs of Fellows of the Royal Society</a></i> <b>52</b>: 149. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1098%2Frsbm.2006.0012">10.1098/rsbm.2006.0012</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoffrey+Hinton&amp;rft.atitle=Hugh+Christopher+Longuet-Higgins.+11+April+1923+--+27+March+2004%3A+Elected+FRS+1958&amp;rft.aufirst=R.+L.&amp;rft.aulast=Gregory&amp;rft.au=Murrell%2C+J.+N.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1098%2Frsbm.2006.0012&amp;rft.jtitle=Biographical+Memoirs+of+Fellows+of+the+Royal+Society&amp;rft.pages=149&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=52" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-frs-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-frs_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-frs_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-frs_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20151103005016/https://royalsociety.org/people/geoffrey-hinton-11624/">"Professor Geoffrey Hinton FRS"</a>. London: <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a>. Archived from <a rel="nofollow" class="external text" href="https://royalsociety.org/people/geoffrey-hinton-11624/">the original</a> on 2015-11-03.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoffrey+Hinton&amp;rft.btitle=Professor+Geoffrey+Hinton+FRS&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Froyalsociety.org%2Fpeople%2Fgeoffrey-hinton-11624%2F&amp;rft.place=London&amp;rft.pub=Royal+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Daniela Hernandez (7 May 2013). <a rel="nofollow" class="external text" href="http://www.wired.com/wiredenterprise/2013/05/neuro-artificial-intelligence/all/">"The Man Behind the Google Brain: Andrew Ng and the Quest for the New AI"</a>. <i><a href="/wiki/Wired_(website)" title="Wired (website)">Wired</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoffrey+Hinton&amp;rft.atitle=The+Man+Behind+the+Google+Brain%3A+Andrew+Ng+and+the+Quest+for+the+New+AI&amp;rft.au=Daniela+Hernandez&amp;rft.date=2013-05-07&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wired.com%2Fwiredenterprise%2F2013%2F05%2Fneuro-artificial-intelligence%2Fall%2F&amp;rft.jtitle=Wired&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thestar.com/news/world/2015/04/17/how-a-toronto-professors-research-revolutionized-artificial-intelligence.html">"How a Toronto professor’s research revolutionized artificial intelligence"</a>. <i>Toronto Star</i>, Kate Allen, Apr 17 2015</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=AyzOUbkUf3M"><span class="plainlinks">"The Next Generation of Neural Networks"</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.reddit.com/r/MachineLearning/comments/2lmo0l/ama_geoffrey_hinton">AMA Geoffrey Hinton (self.MachineLearning)</a> www.reddit.com Ask Me Anything&#160;: Geoffrey Hinton</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation thesis">Hinton, Geoffrey E. (1977). <a rel="nofollow" class="external text" href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.482889"><i>Relaxation and its role in vision</i></a> (PhD thesis). University of Edinburgh. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/18656113">18656113</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoffrey+Hinton&amp;rft.aufirst=Geoffrey+E.&amp;rft.aulast=Hinton&amp;rft.date=1977&amp;rft.degree=PhD&amp;rft_id=http%3A%2F%2Fethos.bl.uk%2FOrderDetails.do%3Fuin%3Duk.bl.ethos.482889&amp;rft_id=info%3Aoclcnum%2F18656113&amp;rft.inst=University+of+Edinburgh&amp;rft.title=Relaxation+and+its+role+in+vision&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.coursera.org/course/neuralnets">https://www.coursera.org/course/neuralnets</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://media.utoronto.ca/media-releases/u-of-t-neural-networks-start-up-acquired-by-google/">"U of T neural networks start-up acquired by Google"</a> (Press release). Toronto, ON. 12 March 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoffrey+Hinton&amp;rft.btitle=U+of+T+neural+networks+start-up+acquired+by+Google&amp;rft.date=2013-03-12&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmedia.utoronto.ca%2Fmedia-releases%2Fu-of-t-neural-networks-start-up-acquired-by-google%2F&amp;rft.place=Toronto%2C+ON&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-scopus-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-scopus_14-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.scopus.com/authid/detail.url?authorId=7006699573">Geoffrey Hinton's publications</a> indexed by the <a href="/wiki/Scopus" title="Scopus">Scopus</a> bibliographic database, a service provided by <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a>.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://royalsociety.org/about-us/fellowship/fellows/">"Fellows of the Royal Society"</a>. The Royal Society<span class="reference-accessdate">. Retrieved <span class="nowrap">14 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoffrey+Hinton&amp;rft.btitle=Fellows+of+the+Royal+Society&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Froyalsociety.org%2Fabout-us%2Ffellowship%2Ffellows%2F&amp;rft.pub=The+Royal+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-royal-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-royal_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.webcitation.org/6coKGDp4u">"Certificate of election EC/1998/21: Geoffrey Everest Hinton"</a>. London: <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a>. Archived from <a rel="nofollow" class="external text" href="https://collections.royalsociety.org/DServe.exe?dsqIni=Dserve.ini&amp;dsqApp=Archive&amp;dsqDb=Catalog&amp;dsqCmd=show.tcl&amp;dsqSearch=(RefNo==%27EC%2F1998%2F21%27)">the original</a> on 2015-11-05.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoffrey+Hinton&amp;rft.btitle=Certificate+of+election+EC%2F1998%2F21%3A+Geoffrey+Everest+Hinton&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fcollections.royalsociety.org%2FDServe.exe%3FdsqIni%3DDserve.ini%26dsqApp%3DArchive%26dsqDb%3DCatalog%26dsqCmd%3Dshow.tcl%26dsqSearch%3D%28RefNo%3D%3D%2527EC%252F1998%252F21%2527%29&amp;rft.place=London&amp;rft.pub=Royal+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.cbc.ca/technology/story/2011/02/14/science-herzberg-hinton-artificial-intelligence.html#ixzz1DxUEvAcQ">"Artificial intelligence scientist gets M prize"</a>. <i>CBC News</i>. 14 February 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoffrey+Hinton&amp;rft.atitle=Artificial+intelligence+scientist+gets+M+prize&amp;rft.date=2011-02-14&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Ftechnology%2Fstory%2F2011%2F02%2F14%2Fscience-herzberg-hinton-artificial-intelligence.html%23ixzz1DxUEvAcQ&amp;rft.jtitle=CBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cse.buffalo.edu/~rapaport/111F04/boole.html">The Isaac Newton of logic</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Salt, George (1978). "<a href="/wiki/H._E._Hinton" title="H. E. Hinton">Howard Everest Hinton</a>. 24 August 1912-2 August 1977". <i><a href="/wiki/Biographical_Memoirs_of_Fellows_of_the_Royal_Society" title="Biographical Memoirs of Fellows of the Royal Society">Biographical Memoirs of Fellows of the Royal Society</a></i> <b>24</b> (0): 150–182. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1098%2Frsbm.1978.0006">10.1098/rsbm.1978.0006</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0080-4606">0080-4606</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeoffrey+Hinton&amp;rft.atitle=Howard+Everest+Hinton.+24+August+1912-2+August+1977&amp;rft.aufirst=George&amp;rft.aulast=Salt&amp;rft.date=1978&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1098%2Frsbm.1978.0006&amp;rft.issn=0080-4606&amp;rft.issue=0&amp;rft.jtitle=Biographical+Memoirs+of+Fellows+of+the+Royal+Society&amp;rft.pages=150-182&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=24" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n80-165215">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/94385551">94385551</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n80165215">n80165215</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/1068117893">1068117893</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/050314904">050314904</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb13493774b">cb13493774b</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb13493774b">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=50071">50071</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20160107133442
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.312 seconds
+Real time usage: 0.419 seconds
+Preprocessor visited node count: 2228/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42875/2097152 bytes
+Template argument size: 7568/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Lua time usage: 0.130/10.000 seconds
+Lua memory usage: 4.4 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  380.261      1 - -total
+ 42.30%  160.864      1 - Template:Reflist
+ 22.55%   85.742      1 - Template:Infobox_scientist
+ 20.70%   78.699      1 - Template:Infobox
+  9.31%   35.394      3 - Template:Fix
+  9.19%   34.952      2 - Template:When
+  8.97%   34.093      1 - Template:Who's_Who
+  8.26%   31.406      1 - Template:Cite_book
+  8.20%   31.166      4 - Template:Category_handler
+  7.98%   30.330      1 - Template:Use_dmy_dates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:507174-0!*!0!!en!4!* and timestamp 20160107133441 and revision id 693391705
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Geoffrey_Hinton&amp;oldid=693391705">https://en.wikipedia.org/w/index.php?title=Geoffrey_Hinton&amp;oldid=693391705</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Artificial_intelligence_researchers" title="Category:Artificial intelligence researchers">Artificial intelligence researchers</a></li><li><a href="/wiki/Category:British_computer_scientists" title="Category:British computer scientists">British computer scientists</a></li><li><a href="/wiki/Category:Canadian_computer_scientists" title="Category:Canadian computer scientists">Canadian computer scientists</a></li><li><a href="/wiki/Category:Cognitive_scientists" title="Category:Cognitive scientists">Cognitive scientists</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_the_Advancement_of_Artificial_Intelligence" title="Category:Fellows of the Association for the Advancement of Artificial Intelligence">Fellows of the Association for the Advancement of Artificial Intelligence</a></li><li><a href="/wiki/Category:Fellows_of_the_Royal_Society" title="Category:Fellows of the Royal Society">Fellows of the Royal Society</a></li><li><a href="/wiki/Category:Google_employees" title="Category:Google employees">Google employees</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Machine_learning_researchers" title="Category:Machine learning researchers">Machine learning researchers</a></li><li><a href="/wiki/Category:University_of_Toronto_faculty" title="Category:University of Toronto faculty">University of Toronto faculty</a></li><li><a href="/wiki/Category:Canada_Research_Chairs" title="Category:Canada Research Chairs">Canada Research Chairs</a></li><li><a href="/wiki/Category:1947_births" title="Category:1947 births">1947 births</a></li><li><a href="/wiki/Category:Carnegie_Mellon_University_faculty" title="Category:Carnegie Mellon University faculty">Carnegie Mellon University faculty</a></li><li><a href="/wiki/Category:Rumelhart_Prize_laureates" title="Category:Rumelhart Prize laureates">Rumelhart Prize laureates</a></li><li><a href="/wiki/Category:Alumni_of_the_University_of_Edinburgh" title="Category:Alumni of the University of Edinburgh">Alumni of the University of Edinburgh</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_December_2010" title="Category:Use dmy dates from December 2010">Use dmy dates from December 2010</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2015" title="Category:Articles containing potentially dated statements from 2015">Articles containing potentially dated statements from 2015</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_November_2015" title="Category:Vague or ambiguous time from November 2015">Vague or ambiguous time from November 2015</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2015" title="Category:Articles with unsourced statements from November 2015">Articles with unsourced statements from November 2015</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Geoffrey+Hinton&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Geoffrey+Hinton" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Geoffrey_Hinton"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Geoffrey_Hinton"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Geoffrey_Hinton" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Geoffrey_Hinton&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Geoffrey_Hinton&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Geoffrey_Hinton" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Geoffrey_Hinton" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Geoffrey_Hinton&amp;oldid=693391705" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Geoffrey_Hinton&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92894" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Geoffrey_Hinton&amp;id=693391705" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Geoffrey+Hinton">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Geoffrey+Hinton&amp;returnto=Geoffrey+Hinton&amp;oldid=693391705&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Geoffrey_Hinton&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Geoffrey_Hinton" title="Geoffrey Hinton – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%95%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%92%E3%83%B3%E3%83%88%E3%83%B3" title="ジェフリー・ヒントン – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BD%D1%82%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%80%D0%B8" title="Хинтон, Джеффри – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%80%E0%B8%88%E0%B8%9F%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C_%E0%B8%AE%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%99" title="เจฟฟรีย์ ฮินตัน – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%9D%B0%E5%BC%97%E9%87%8C%C2%B7%E8%BE%9B%E9%A1%BF" title="杰弗里·辛顿 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92894#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 December 2015, at 07:20.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Geoffrey_Hinton&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1249"}); /* @nomin */
+} );</script>
+	</body>
+</html>

@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Serge Abiteboul - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Serge_Abiteboul","wgTitle":"Serge Abiteboul","wgCurRevisionId":691229443,"wgRevisionId":691229443,"wgArticleId":18901086,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using duplicate arguments in template calls","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Database researchers","Members of the French Academy of Sciences","Fellows of the Association for Computing Machinery","Living people","1953 births"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Serge_Abiteboul","wgRelevantArticleId":18901086,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3479163","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Serge_Abiteboul" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Serge_Abiteboul&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Serge_Abiteboul&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Serge_Abiteboul" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Serge_Abiteboul skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Serge Abiteboul</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Serge Abiteboul</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>Serge Joseph Abiteboul<br />
+<span style="display:none">(<span class="bday">1953-08-25</span>)</span> 25 August 1953 <span class="noprint ForceAgeToShow">(age&#160;62)</span></td>
+</tr>
+<tr>
+<th scope="row">Citizenship</th>
+<td><a href="/wiki/French_people" title="French people">French</a></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/France" title="France">French</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a></li>
+<li><a href="/wiki/Database" title="Database">Databases</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/INRIA" title="INRIA" class="mw-redirect">INRIA</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/University_of_Southern_California" title="University of Southern California">University of Southern California</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><a rel="nofollow" class="external text" href="http://search.proquest.com/docview/303233018"><i>Matching Functions and Disaggregations in Databases</i></a>&#160;<span style="font-size:90%;">(1982)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/Seymour_Ginsburg" title="Seymour Ginsburg">Seymour Ginsburg</a><sup id="cite_ref-mathgene_1-0" class="reference"><a href="#cite_note-mathgene-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td>
+<div class="plainlist">
+<ul>
+<li>Émilien Antoine</li>
+<li>Omar Benjelloun</li>
+<li>Nicole Bidoit</li>
+<li>Pierre Bourhis</li>
+<li>Bogdan Cautis</li>
+<li>Gregory Cobena</li>
+<li>Alban Galland</li>
+<li>Stéphane Grumbach</li>
+<li>Laurent Mignet</li>
+<li>Benjamin Nguyen</li>
+<li>Pierre Senellart</li>
+<li>Emmanuel Waller<sup id="cite_ref-mathgene_1-1" class="reference"><a href="#cite_note-mathgene-1"><span>[</span>1<span>]</span></a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><i>Data on the Web</i><sup id="cite_ref-dataontheweb_2-0" class="reference"><a href="#cite_note-dataontheweb-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td>
+<div class="plainlist">
+<ul>
+<li>ACM <a href="/wiki/SIGMOD_Edgar_F._Codd_Innovations_Award" title="SIGMOD Edgar F. Codd Innovations Award">SIGMOD Edgar F. Codd Innovations Award</a> (1998)</li>
+<li>ACM <a href="/wiki/SIGMOD" title="SIGMOD">SIGMOD</a> Test of Time Award 2004</li>
+<li>Prix EADS (2007)</li>
+<li>ACM PODS Alberto O. Mendelzon Test-of-Time Award (2008)</li>
+<li><a href="/wiki/ISI_highly_cited_researcher" title="ISI highly cited researcher" class="mw-redirect">ISI highly cited researcher</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Website</b><br />
+<span class="url"><a rel="nofollow" class="external text" href="http://abiteboul.com">abiteboul<wbr />.com</a></span></td>
+</tr>
+</table>
+<p><b>Serge Joseph Abiteboul</b> is a <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> working in the areas of <a href="/wiki/Data_management" title="Data management">data management</a>, <a href="/wiki/Database_theory" title="Database theory">database theory</a>, and <a href="/wiki/Finite_model_theory" title="Finite model theory">finite model theory</a>.<sup id="cite_ref-acm_3-0" class="reference"><a href="#cite_note-acm-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-dblp_6-0" class="reference"><a href="#cite_note-dblp-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-googlescholar_7-0" class="reference"><a href="#cite_note-googlescholar-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-dataontheweb_2-1" class="reference"><a href="#cite_note-dataontheweb-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-twitter_9-0" class="reference"><a href="#cite_note-twitter-9"><span>[</span>9<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education"><span class="tocnumber">1</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Awards_and_honours"><span class="tocnumber">3</span> <span class="toctext">Awards and honours</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serge_Abiteboul&amp;action=edit&amp;section=1" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Abiteboul received his PhD from the <a href="/wiki/University_of_Southern_California" title="University of Southern California">University of Southern California</a> under the supervision of <a href="/wiki/Seymour_Ginsburg" title="Seymour Ginsburg">Seymour Ginsburg</a>, in 1982.</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serge_Abiteboul&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He is a senior researcher at the <a href="/wiki/Institut_national_de_recherche_en_informatique_et_en_automatique" title="Institut national de recherche en informatique et en automatique" class="mw-redirect">Institut national de recherche en informatique et en automatique</a> (INRIA), the French national research institute focussing on <a href="/wiki/Computer_science" title="Computer science">computer science</a> and related areas, and has been a professor of the <a href="/wiki/Coll%C3%A8ge_de_France" title="Collège de France">Collège de France</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>He is known for his many contributions in the areas of <a href="/wiki/Finite_model_theory" title="Finite model theory">finite model theory</a>, database theory, and database systems. In finite model theory, the Abiteboul-Vianu Theorem states that <a href="/wiki/Polynomial_time" title="Polynomial time" class="mw-redirect">polynomial time</a> is equal to <a href="/wiki/PSPACE" title="PSPACE">PSPACE</a> if and only if <a href="/wiki/Least_fixed_point" title="Least fixed point">fixed point logic</a> is the same as partial fixed point logic.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> In database theory, he has contributed a wide variety of results, the most recent on languages for the distributed processing of XML data. In data management, he is best known for his early work on semistructured and Web databases. In 2008, according to <a href="/wiki/Citeseer" title="Citeseer" class="mw-redirect">Citeseer</a>, he is the most highly cited researcher in the data management area who works at a European institution.</p>
+<p>Abiteboul is also known for two books, one on database theory<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> and one on Web data management.<sup id="cite_ref-dataontheweb_2-2" class="reference"><a href="#cite_note-dataontheweb-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Awards_and_honours">Awards and honours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serge_Abiteboul&amp;action=edit&amp;section=3" title="Edit section: Awards and honours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Abiteboul became a member of the <a href="/wiki/French_Academy_of_Sciences" title="French Academy of Sciences">French Academy of Sciences</a> in 2008, of the <a href="/wiki/European_Academy_of_Sciences" title="European Academy of Sciences">European Academy of Sciences</a> in 2011, and a Fellow of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> in 2011.<sup id="cite_ref-acm_3-1" class="reference"><a href="#cite_note-acm-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serge_Abiteboul&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-mathgene-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-mathgene_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mathgene_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=84626">Serge Abiteboul</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></span></li>
+<li id="cite_note-dataontheweb-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-dataontheweb_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dataontheweb_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-dataontheweb_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Abiteboul, Serge; <a href="/wiki/Peter_Buneman" title="Peter Buneman">Buneman, Peter</a>; <a href="/wiki/Dan_Suciu" title="Dan Suciu">Suciu, Dan</a> (2000). <i>Data on the Web: From Relations to Semistructured Data and XML</i>. Morgan Kaufmann. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/155860622X" title="Special:BookSources/155860622X">155860622X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerge+Abiteboul&amp;rft.au=Buneman%2C+Peter&amp;rft.aufirst=Serge&amp;rft.aulast=Abiteboul&amp;rft.au=Suciu%2C+Dan&amp;rft.btitle=Data+on+the+Web%3A+From+Relations+to+Semistructured+Data+and+XML&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=155860622X&amp;rft.pub=Morgan+Kaufmann&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-acm-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-acm_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-acm_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dl.acm.org/author_page.cfm?id=81100200659">Serge Abiteboul</a> from the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery (ACM)</a> Digital Library</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Marianne_Winslett" title="Marianne Winslett">Winslett, M.</a> (2008). <a rel="nofollow" class="external text" href="http://www.sigmod.org/publications/sigmod-record/0803/p25.profiles-abiteboul.pdf">"Serge Abiteboul speaks out"</a> <span style="font-size:85%;">(PDF)</span>. <i>ACM SIGMOD Record</i> <b>37</b>: 25. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1374780.1374787">10.1145/1374780.1374787</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerge+Abiteboul&amp;rft.atitle=Serge+Abiteboul+speaks+out&amp;rft.aufirst=M.&amp;rft.aulast=Winslett&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sigmod.org%2Fpublications%2Fsigmod-record%2F0803%2Fp25.profiles-abiteboul.pdf&amp;rft_id=info%3Adoi%2F10.1145%2F1374780.1374787&amp;rft.jtitle=ACM+SIGMOD+Record&amp;rft.pages=25&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=37" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Web Data Management, Serge Abiteboul, Ioana Manolescu, Philippe Rigaux, Marie-Christine Rousset, Pierre Senellart, Cambridge University Press, 2011. <a rel="nofollow" class="external free" href="http://webdam.inria.fr/Jorge/">http://webdam.inria.fr/Jorge/</a> <a href="/wiki/Special:BookSources/1107012430" class="internal mw-magiclink-isbn">ISBN 1107012430</a></span></li>
+<li id="cite_note-dblp-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-dblp_6-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dblp.uni-trier.de/pers/hd/a/Abiteboul:Serge">Serge Abiteboul's publications</a> indexed by the <a href="/wiki/DBLP" title="DBLP">DBLP Bibliography Server</a> at the <a href="/wiki/University_of_Trier" title="University of Trier">University of Trier</a></span></li>
+<li id="cite_note-googlescholar-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-googlescholar_7-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="//scholar.google.com/citations?user=lk_jn24AAAAJ">Serge Abiteboul's publications</a> indexed by <a href="/wiki/Google_Scholar" title="Google Scholar">Google Scholar</a>, a service provided by <a href="/wiki/Google" title="Google">Google</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Djeraba, C.; Bouet, M.; Briand, H.; Khenchaf, A. (2000). "Visual and textual content based indexing and retrieval". <i>International Journal on Digital Libraries</i> <b>2</b> (4): 269. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs007990050005">10.1007/s007990050005</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerge+Abiteboul&amp;rft.atitle=Visual+and+textual+content+based+indexing+and+retrieval&amp;rft.au=Bouet%2C+M.&amp;rft.au=Briand%2C+H.&amp;rft.aufirst=C.&amp;rft.au=Khenchaf%2C+A.&amp;rft.aulast=Djeraba&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs007990050005&amp;rft.issue=4&amp;rft.jtitle=International+Journal+on+Digital+Libraries&amp;rft.pages=269&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-twitter-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-twitter_9-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://twitter.com/sergeabiteboul">Serge Abiteboul</a> on <a href="/wiki/Twitter" title="Twitter">Twitter</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.college-de-france.fr/media/chaires-et-professeurs/UPL8392536186108912171_LISTE_DES_PROFESSEURS.pdf">Liste des professeurs depuis la fondation du Collège de France en 1530</a>. Collège de France</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Abiteboul, S.; Vianu, V. (1991). "Generic Computation and its complexity". <i>Proceedings of the twenty-third annual ACM symposium on Theory of computing - STOC '91</i>. p.&#160;209. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F103418.103444">10.1145/103418.103444</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0897913973" title="Special:BookSources/0897913973">0897913973</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerge+Abiteboul&amp;rft.atitle=Generic+Computation+and+its+complexity&amp;rft.aufirst=S.&amp;rft.aulast=Abiteboul&amp;rft.au=Vianu%2C+V.&amp;rft.btitle=Proceedings+of+the+twenty-third+annual+ACM+symposium+on+Theory+of+computing++-+STOC+%2791&amp;rft.date=1991&amp;rft.genre=bookitem&amp;rft_id=info%3Adoi%2F10.1145%2F103418.103444&amp;rft.isbn=0897913973&amp;rft.pages=209&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Abiteboul, S.; Vianu, V. (1995). "Computing with First-Order Logic". <i>Journal of Computer and System Sciences</i> <b>50</b> (2): 309. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1006%2Fjcss.1995.1025">10.1006/jcss.1995.1025</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerge+Abiteboul&amp;rft.atitle=Computing+with+First-Order+Logic&amp;rft.aufirst=S.&amp;rft.aulast=Abiteboul&amp;rft.au=Vianu%2C+V.&amp;rft.date=1995&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1006%2Fjcss.1995.1025&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Computer+and+System+Sciences&amp;rft.pages=309&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=50" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Serge Abiteboul, Richard B. Hull, <a href="/wiki/Victor_Vianu" title="Victor Vianu">Victor Vianu</a>: Foundations of Databases. Addison-Wesley, 1995. <a rel="nofollow" class="external free" href="http://webdam.inria.fr/Alice/">http://webdam.inria.fr/Alice/</a> <a href="/wiki/Special:BookSources/0201537710" class="internal mw-magiclink-isbn">ISBN 0201537710</a></span></li>
+</ol>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n88-235253">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/7540704">7540704</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n88235253">n88235253</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000115915332">0000 0001 1591 5332</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/121348989">121348989</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/035648562">035648562</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb134862796">cb134862796</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb134862796">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=84626">84626</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/01051826">01051826</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1075
+Cached time: 20160107150920
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.302 seconds
+Real time usage: 0.370 seconds
+Preprocessor visited node count: 1171/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21588/2097152 bytes
+Template argument size: 2473/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.141/10.000 seconds
+Lua memory usage: 2.58 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  336.995      1 - -total
+ 36.33%  122.434      1 - Template:Infobox_scientist
+ 32.87%  110.758      1 - Template:Infobox
+ 16.65%   56.094      2 - Template:Cite_book
+ 13.72%   46.246      1 - Template:Authority_control
+ 11.89%   40.085      3 - Template:Cite_journal
+  9.73%   32.804      4 - Template:Br_separated_entries
+  4.48%   15.099      1 - Template:Birth_date_and_age
+  4.03%   13.580      5 - Template:PAGENAMEBASE
+  2.83%    9.534      1 - Template:MathGenealogy
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18901086-0!*!0!!en!*!* and timestamp 20160107150920 and revision id 691229443
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Serge_Abiteboul&amp;oldid=691229443">https://en.wikipedia.org/w/index.php?title=Serge_Abiteboul&amp;oldid=691229443</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Database_researchers" title="Category:Database researchers">Database researchers</a></li><li><a href="/wiki/Category:Members_of_the_French_Academy_of_Sciences" title="Category:Members of the French Academy of Sciences">Members of the French Academy of Sciences</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:1953_births" title="Category:1953 births">1953 births</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_duplicate_arguments_in_template_calls" title="Category:Pages using duplicate arguments in template calls">Pages using duplicate arguments in template calls</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Serge+Abiteboul&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Serge+Abiteboul" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Serge_Abiteboul"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Serge_Abiteboul"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Serge_Abiteboul" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Serge_Abiteboul&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Serge_Abiteboul&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Serge_Abiteboul" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Serge_Abiteboul" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Serge_Abiteboul&amp;oldid=691229443" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Serge_Abiteboul&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q3479163" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Serge_Abiteboul&amp;id=691229443" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Serge+Abiteboul">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Serge+Abiteboul&amp;returnto=Serge+Abiteboul&amp;oldid=691229443&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Serge_Abiteboul&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Serge_Abiteboul" title="Serge Abiteboul – French" lang="fr" hreflang="fr">Français</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q3479163#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 November 2015, at 13:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Serge_Abiteboul&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":475,"wgHostname":"mw1075"}); /* @nomin */
+} );</script>
+	</body>
+</html>

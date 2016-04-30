@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Richard J. Lipton - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Richard_J._Lipton","wgTitle":"Richard J. Lipton","wgCurRevisionId":659939086,"wgRevisionId":659939086,"wgArticleId":11532414,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2010","All articles needing additional references","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","American computer scientists","Fellows of the Association for Computing Machinery","Guggenheim Fellows","Living people","Carnegie Mellon University alumni","Georgia Institute of Technology faculty","Theoretical computer scientists","1946 births","20th-century mathematicians","21st-century mathematicians","Members of the United States National Academy of Engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Richard_J._Lipton","wgRelevantArticleId":11532414,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q7326742","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Richard_J._Lipton" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Richard_J._Lipton&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Richard_J._Lipton&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Richard_J._Lipton" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Richard_J_Lipton skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Richard J. Lipton</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Richard_J._Lipton&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2010)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Richard J. Lipton</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1946-09-06</span>)</span> September 6, 1946 <span class="noprint ForceAgeToShow">(age&#160;69)</span></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_science" title="Computer science">computer science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Yale_University" title="Yale University">Yale</a><br />
+<a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">Berkeley</a><br />
+<a href="/wiki/Princeton_University" title="Princeton University">Princeton</a><br />
+<a href="/wiki/Georgia_Institute_of_Technology" title="Georgia Institute of Technology">Georgia Tech</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><i>On Synchronization Primitive Systems</i>&#160;<span style="font-size:90%;">(1973)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/David_Parnas" title="David Parnas">David Parnas</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a href="/wiki/Dan_Boneh" title="Dan Boneh">Dan Boneh</a><br />
+<a href="/wiki/Avi_Wigderson" title="Avi Wigderson">Avi Wigderson</a><br />
+Chee Yap</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Karp%E2%80%93Lipton_theorem" title="Karp–Lipton theorem">Karp–Lipton theorem</a> and <a href="/wiki/Planar_separator_theorem" title="Planar separator theorem">planar separator theorem</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/Knuth_Prize" title="Knuth Prize">Knuth Prize</a> (2014)</td>
+</tr>
+</table>
+<p><b>Richard Jay "Dick" Lipton</b> (born September 6, 1946) is an <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Computer_science" title="Computer science">computer scientist</a> who has worked in <a href="/wiki/Computer_science_theory" title="Computer science theory" class="mw-redirect">computer science theory</a>, <a href="/wiki/Cryptography" title="Cryptography">cryptography</a>, and <a href="/wiki/DNA_computing" title="DNA computing">DNA computing</a>. Lipton is Associate Dean of Research, Professor, and the Frederick G. Storey Chair in Computing in the College of Computing at the <a href="/wiki/Georgia_Institute_of_Technology" title="Georgia Institute of Technology">Georgia Institute of Technology</a>.</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1968, Lipton received his undergraduate degree in <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> from <a href="/wiki/Case_Western_Reserve_University" title="Case Western Reserve University">Case Western Reserve University</a>. In 1973, he received his <a href="/wiki/Ph.D." title="Ph.D." class="mw-redirect">Ph.D.</a> from <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a>; his dissertation, supervised by <a href="/wiki/David_Parnas" title="David Parnas">David Parnas</a>, is entitled <i>On Synchronization Primitive Systems</i>. After graduating, Lipton taught at <a href="/wiki/Yale_University" title="Yale University">Yale</a> 1973–1978, at <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">Berkeley</a> 1978–1980, and then at <a href="/wiki/Princeton_University" title="Princeton University">Princeton</a> 1980–2000. Since 2000, Lipton has been at <a href="/wiki/Georgia_Institute_of_Technology" title="Georgia Institute of Technology">Georgia Tech</a>. While at Princeton, Lipton worked in the field of <a href="/wiki/DNA_computing" title="DNA computing">DNA computing</a>. Since 1996, Lipton has been the chief consulting scientist at <a href="/wiki/Telcordia" title="Telcordia" class="mw-redirect">Telcordia</a>.</p>
+<h2><span class="mw-headline" id="Karp.E2.80.93Lipton_theorem">Karp–Lipton theorem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=2" title="Edit section: Karp–Lipton theorem">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Karp-Lipton_theorem" title="Karp-Lipton theorem" class="mw-redirect">Karp-Lipton theorem</a></div>
+<p>In 1980, along with <a href="/wiki/Richard_M._Karp" title="Richard M. Karp">Richard M. Karp</a>, Lipton proved that if <a href="/wiki/Boolean_satisfiability_problem" title="Boolean satisfiability problem">SAT</a> can be solved by <a href="/wiki/Boolean_circuit" title="Boolean circuit">Boolean circuits</a> with a polynomial number of <a href="/wiki/Logic_gate" title="Logic gate">logic gates</a>, then the <a href="/wiki/Polynomial_hierarchy" title="Polynomial hierarchy">polynomial hierarchy</a> collapses to its second level.</p>
+<h2><span class="mw-headline" id="Parallel_algorithms">Parallel algorithms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=3" title="Edit section: Parallel algorithms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Showing that a program P has some property is a simple process if the actions inside the program are uninterruptible. However, when the action is interruptible, Lipton showed that through a type of reduction and analysis, it can be shown that the reduced program has that property if and only if the original program has the property.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> If the reduction is done by treating interruptible operations as one large uninterruptible action, even with these relaxed conditions properties can be proven for a program P. Thus, correctness proofs of a parallel system can often be greatly simplified.</p>
+<h2><span class="mw-headline" id="Database_security">Database security</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=4" title="Edit section: Database security">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lipton studied and created database security models on how and when to restrict the queries made by users of a database such that private or secret information will not be leaked.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> Even when the user is restricted to only read operations on a database, secure information could be at risk. For example, querying a database of campaign donations could allow the user to discover the individual donations to political candidates or organizations. If given access to averages of data and unrestricted query access, a user could exploit the properties of those averages to gain illicit information. These queries are considered to have large "overlap" creating the insecurity. By bounding the "overlap" and number of queries, a secure database can be achieved.</p>
+<h2><span class="mw-headline" id="Online_scheduling">Online scheduling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=5" title="Edit section: Online scheduling">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Richard Lipton with Andrew Tomkins introduced a randomized <a href="/wiki/Adversary_(online_algorithm)" title="Adversary (online algorithm)" class="mw-redirect">online interval scheduling algorithm</a>, the 2-size version being strongly competitive, and the <i>k</i>-size version achieving O(log<img class="mwe-math-fallback-image-inline tex" alt="\vartriangle^{1+\epsilon}" src="//upload.wikimedia.org/math/0/4/2/0428f04809f1383d31bfbdc7a9949cc6.png" />), as well as demonstrating a theoretical lower-bound of O(log<img class="mwe-math-fallback-image-inline tex" alt="\vartriangle" src="//upload.wikimedia.org/math/5/a/d/5ade839e70fc9f5afb5d3e0aa8cfffcc.png" />).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> This algorithm uses a private-coin for randomization and a "virtual" choice to fool a <a href="/wiki/Adversary_(online_algorithm)" title="Adversary (online algorithm)" class="mw-redirect">medium adversary</a>.</p>
+<p>Being presented with an event the user must decide whether or not to include the event in the schedule. The 2-size virtual algorithm is described by how it reacts to 1-interval or <i>k</i>-intervals being presented by the adversary:</p>
+<ul>
+<li>For a 1-interval, flip a fair coin
+<ul>
+<li>
+<dl>
+<dt>Heads</dt>
+<dd>Take the interval</dd>
+<dt>Tails</dt>
+<dd>"Virtually" take the interval, but do no work. Take no short interval for the next 1 unit of time.</dd>
+</dl>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>For a <i>k</i>-interval, take whenever possible.</li>
+</ul>
+<p>Again, this 2-size algorithm is shown to be strongly-<a href="/wiki/Competitive_analysis_(online_algorithm)" title="Competitive analysis (online algorithm)">competitive</a>. The generalized <i>k</i>-size algorithm which is similar to the 2-size algorithm is then shown to be O(log<img class="mwe-math-fallback-image-inline tex" alt="\vartriangle^{1+\epsilon}" src="//upload.wikimedia.org/math/0/4/2/0428f04809f1383d31bfbdc7a9949cc6.png" />)-competitive.</p>
+<h2><span class="mw-headline" id="Program_checking">Program checking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=6" title="Edit section: Program checking">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lipton showed that randomized testing can be provably useful, given the problem satisfied certain properties.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Proving <a href="/wiki/Program_correctness" title="Program correctness" class="mw-redirect">correctness of a program</a> is one of the most important problems presented in computer science. Typically in randomized testing, in order to attain a 1/1000 chance of an error, 1000 tests must be run. However Lipton shows that if a problem has "easy" sub-parts, repeated black-box testing can attain <i>c</i><sup><i>r</i></sup> error rate, with <i>c</i> a constant less than 1 and <i>r</i> being the number of tests. Therefore, the probability of error <a href="/wiki/Exponential_decay" title="Exponential decay">goes to zero exponentially</a> fast as <i>r</i> grows.</p>
+<p>This technique is useful to check the correctness of many types of problems.</p>
+<ul>
+<li>Signal processing: <a href="/wiki/Fast_Fourier_transform" title="Fast Fourier transform">fast Fourier transform (FFT)</a> and other highly parallelizable functions are difficult to manually check results when written in code such as <a href="/wiki/Fortran" title="Fortran">FORTRAN</a>, so a way to quickly check correctness is greatly desired.</li>
+<li>Functions over finite fields and the permanent: Suppose that <img class="mwe-math-fallback-image-inline tex" alt="f(x_1,\dots,x_n)" src="//upload.wikimedia.org/math/7/e/d/7ed1b355c35f8e1edf61cc1d203501ea.png" /> is a polynomial over a finite field of size <i>q</i> with <span class="nowrap"><i>q</i> &gt; deg(<i>ƒ</i>) + 1</span>. Then <i>ƒ</i> is randomly testable of order <span class="nowrap">deg(<i>ƒ</i>) + 1</span> over the function basis that includes just addition. Perhaps the most important application from this is the ability to efficiently check the correctness of the <a href="/wiki/Permanent" title="Permanent">permanent</a>. Cosmetically similar to the determinant, the permanent is very difficult to check correctness, but even this type of problem satisfies the constraints. This result even led to the breakthroughs of <a href="/wiki/Interactive_proof_system" title="Interactive proof system">interactive proof systems</a> Karloff-Nisan and Shamir, including the result <span class="nowrap">IP = PSPACE</span>.</li>
+</ul>
+<h2><span class="mw-headline" id="Games_with_simple_strategies">Games with simple strategies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=7" title="Edit section: Games with simple strategies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the area of <a href="/wiki/Game_theory" title="Game theory">game theory</a>, more specifically on <a href="/wiki/Non-cooperative_game" title="Non-cooperative game">non-cooperative game</a>, Lipton together with E.Markakis and A.Mehta proved <sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> the existence of <a href="/wiki/Epsilon-equilibrium" title="Epsilon-equilibrium">epsilon-equilibrium</a> strategies with support logarithmic in the number of <a href="/wiki/Pure_strategy" title="Pure strategy" class="mw-redirect">pure strategy</a>. Furthermore, the payoff of such strategies can epsilon-approximate the payoffs of exact <a href="/wiki/Nash_equilibrium" title="Nash equilibrium">Nash equilibrium</a>. The limited size (logarithmic) of support provides a natural quasi-polynomial algorithm of computing an <a href="/wiki/Epsilon-equilibrium" title="Epsilon-equilibrium">epsilon-equilibrium</a>.</p>
+<h2><span class="mw-headline" id="Query_size_estimation">Query size estimation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=8" title="Edit section: Query size estimation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lipton and J.Naughton presented an adaptive random sampling algorithm for database querying<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> which is applicable to any query for which answer to the query can be partitioned into disjoint subsets. Compared with most sampling estimation algorithms that statically determines the number of samples needed, the algorithm they proposed decides the number of samples based on the size of samples and tends to keep the running time constant rather than the number of samples.</p>
+<h2><span class="mw-headline" id="Formal_verification_of_programs">Formal verification of programs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=9" title="Edit section: Formal verification of programs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Richard_DeMillo" title="Richard DeMillo">DeMillo</a>, Lipton and <a href="/wiki/Alan_Perlis" title="Alan Perlis">Perlis</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> criticized the idea of formal verification of programs and argued that</p>
+<ul>
+<li>Formal verifications in computer science will not play the same key role as proofs do in mathematics.</li>
+<li>Absence of continuity, the inevitability of change, and the complexity of specification of real programs will make formal verification of programs difficult to justify and manage.</li>
+</ul>
+<h2><span class="mw-headline" id="Multi-party_protocols">Multi-party protocols</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=10" title="Edit section: Multi-party protocols">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Chandra, Furst and Lipton<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> generalized the notion of two-party communication protocols to multi-party communication protocols. They proposed a model in which a collection of processes (<img class="mwe-math-fallback-image-inline tex" alt="P_0" src="//upload.wikimedia.org/math/1/3/8/13899aa46204b02713a854702142955d.png" />, <img class="mwe-math-fallback-image-inline tex" alt="P_1,\dots,P_{k-1}" src="//upload.wikimedia.org/math/e/4/2/e42da58570a6489218318a718446a394.png" />) have access to a set of integers (<img class="mwe-math-fallback-image-inline tex" alt="a_0" src="//upload.wikimedia.org/math/c/2/8/c28556537f6fa3e67b9c313fecb1c4bc.png" />, <img class="mwe-math-fallback-image-inline tex" alt="a_1" src="//upload.wikimedia.org/math/8/e/6/8e6ba967645c302e1f2a60ec9c341e5c.png" />,…<img class="mwe-math-fallback-image-inline tex" alt="a_{k-1}" src="//upload.wikimedia.org/math/6/a/1/6a1b87920c4fb8c045c99ae1a939b20e.png" /> ) except one of them, so that <img class="mwe-math-fallback-image-inline tex" alt="P_i" src="//upload.wikimedia.org/math/9/e/5/9e5fb72f12371dd00668ac0423d3aec1.png" /> is denied access to <img class="mwe-math-fallback-image-inline tex" alt="a_i" src="//upload.wikimedia.org/math/d/8/d/d8dd7d0f3eb7145ca41c711457b7eb8f.png" />. These processes are allowed to communicate in order to arrive at a consensus on a predicate. They studied this model’s communication complexity, defined as the number of bits broadcast among all the processes. As an example, they studied the complexity of a <i>k</i>-party protocol for Exactly-N (do all <img class="mwe-math-fallback-image-inline tex" alt="a_i" src="//upload.wikimedia.org/math/d/8/d/d8dd7d0f3eb7145ca41c711457b7eb8f.png" />’s sum up to N?), and obtained a lower bound using the tiling method. They further applied this model to study general branching programs and obtained a time lower bound for constant-space branching programs that compute Exactly-N.</p>
+<h2><span class="mw-headline" id="Time.2Fspace_SAT_tradeoff">Time/space SAT tradeoff</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=11" title="Edit section: Time/space SAT tradeoff">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>We have no way to prove that <a href="/wiki/Boolean_satisfiability_problem" title="Boolean satisfiability problem">Boolean satisfiability problem</a> (often abbreviated as SAT), which is <a href="/wiki/NP-complete" title="NP-complete" class="mw-redirect">NP-complete</a>, requires exponential (or at least super-polynomial) time (this is the famous <a href="/wiki/P_versus_NP_problem" title="P versus NP problem">P versus NP problem</a>), or linear (or at least super-logarithmic) space to solve. However, in the context of <a href="/wiki/Space-time_tradeoff" title="Space-time tradeoff" class="mw-redirect">space-time tradeoff</a>, one can prove that SAT cannot be computed if we apply constraints to both time and space. L. Fortnow, Lipton, D. van Melkebeek, and A. Viglas<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> proved that SAT cannot be computed by a Turing machine that takes at most O(<img class="mwe-math-fallback-image-inline tex" alt="n^{1.1}" src="//upload.wikimedia.org/math/7/e/0/7e03d6a9bb49e4852bfbb3d7f13b3c69.png" />) steps and at most O(<img class="mwe-math-fallback-image-inline tex" alt="n^{0.1}" src="//upload.wikimedia.org/math/a/b/b/abbedba7a219b4e9b7c7cd1f8d77dc10.png" />) cells of its read-write tapes.</p>
+<h2><span class="mw-headline" id="Awards_and_honors">Awards and honors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=12" title="Edit section: Awards and honors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Guggenheim_Fellowship" title="Guggenheim Fellowship">Guggenheim Fellow</a>, 1981</li>
+<li><a href="/wiki/Fellow" title="Fellow">Fellow</a> of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>, 1997</li>
+<li>member of the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a></li>
+<li><a href="/wiki/Knuth_Prize" title="Knuth Prize">Knuth Prize</a> winner, 2014<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/SL_(complexity)" title="SL (complexity)">SL (complexity)</a></li>
+<li><a href="/wiki/Take-grant_protection_model" title="Take-grant protection model">Take-grant protection model</a></li>
+<li><a href="/wiki/Planar_separator_theorem" title="Planar separator theorem">Planar separator theorem</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=14" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=69524">Richard J. Lipton</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Lipton, R (1975) <a rel="nofollow" class="external text" href="http://www.cs.uoregon.edu/classes/06W/cis607atom/readings/lipton-reduction.pdf">"Reduction: a method of proving properties of parallel programs"</a>, <i>Communications of the ACM</i> 18(12)</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Lipton, R (1979) <a rel="nofollow" class="external text" href="http://www.cs.virginia.edu/papers/p97-dobkin.pdf">"Secure databases: protection against user influence"</a>, "ACM Transactions on Database Systems" 4(1)</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation conference">Lipton, R (1994). <i>Online interval scheduling</i>. <i>Symposium on Discrete Algorithms</i>. pp.&#160;302–311. <a href="/wiki/CiteSeer#CiteSeerX" title="CiteSeer">CiteSeerX</a>: <span class="url"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.44.4548">10<wbr />.1<wbr />.1<wbr />.44<wbr />.4548</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARichard+J.+Lipton&amp;rft.atitle=Online+interval+scheduling&amp;rft.aufirst=R&amp;rft.aulast=Lipton&amp;rft.date=1994&amp;rft.genre=conference&amp;rft.jtitle=Symposium+on+Discrete+Algorithms&amp;rft.pages=302-311&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Lipton, R (1991) "New Directions in Testing", "DIMACS Distributed Computing and Cryptography" Vol. 2 page: 191</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/wiki/Richard_Lipton" title="Richard Lipton" class="mw-redirect">Richard Lipton</a>, Evangelos Markakis, Aranyak Mehta (2007) "Playing Games with Simple Strategies", "EC '03: Proceedings of the 4th ACM conference on Electronic commerce", "ACM"</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Richard J. Lipton, Jeffrey F. Naughton (1990) "Query Size Estimation By Adaptive Sampling", "PODS '90: Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems"</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Richard J. Lipton, Jeffrey F. Naughton, Donovan A. Schneider (1990) "SIGMOD '90: Proceedings of the 1990 ACM SIGMOD international conference on Management of data "</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Richard A. DeMillo, Richard J. Lipton, Alan J. Perlis (1979) “Social processes and proofs of theorems and programs”, "Communications of the ACM , Volume 22 Issue 5"</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">A. K. Chandra, M. L. Furst, and R. J. Lipton (1983) "Multi-Party Protocols", "In STOC, pages 94–99. ACM, 25–2"</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">L. Fortnow, R. Lipton, D. van Melkebeek, and A. Viglas (2005) "Time-space lower bounds for satisfiability", "J. ACM, 52:835–865, 2005. Prelim version CCC ’2000"</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.acm.org/press-room/news-releases/2014/knuth-prize-2014">"ACM Awards Knuth Prize to Pioneer for Advances in Algorithms and Complexity Theory"</a>. Association for Computing Machinery. September 15, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARichard+J.+Lipton&amp;rft.btitle=ACM+Awards+Knuth+Prize+to+Pioneer+for+Advances+in+Algorithms+and+Complexity+Theory&amp;rft.date=2014-09-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.acm.org%2Fpress-room%2Fnews-releases%2F2014%2Fknuth-prize-2014&amp;rft.pub=Association+for+Computing+Machinery&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://rjlipton.wordpress.com/">His Personal Blog "Gödel`s Lost Letter and P=NP"</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Knuth_Prize_laureates" title="Template:Knuth Prize laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Knuth_Prize_laureates" title="Template talk:Knuth Prize laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Knuth_Prize_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Knuth_Prize" title="Knuth Prize">Knuth Prize</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Yao</a> <small>(1996)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Valiant</a> <small>(1997)</small></li>
+<li><a href="/wiki/L%C3%A1szl%C3%B3_Lov%C3%A1sz" title="László Lovász">Lovász</a> <small>(1999)</small></li>
+<li><a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">Ullman</a> <small>(2000)</small></li>
+<li><a href="/wiki/Christos_Papadimitriou" title="Christos Papadimitriou">Papadimitriou</a> <small>(2002)</small></li>
+<li><a href="/wiki/Mikl%C3%B3s_Ajtai" title="Miklós Ajtai">Ajtai</a> <small>(2003)</small></li>
+<li><a href="/wiki/Mihalis_Yannakakis" title="Mihalis Yannakakis">Yannakakis</a> <small>(2005)</small></li>
+<li><a href="/wiki/Nancy_Lynch" title="Nancy Lynch">Lynch</a> <small>(2007)</small></li>
+<li><a href="/wiki/Volker_Strassen" title="Volker Strassen">Strassen</a> <small>(2008)</small></li>
+<li><a href="/wiki/David_S._Johnson" title="David S. Johnson">Johnson</a> <small>(2010)</small></li>
+<li><a href="/wiki/Ravindran_Kannan" title="Ravindran Kannan">Kannan</a> <small>(2011)</small></li>
+<li><a href="/wiki/Leonid_Levin" title="Leonid Levin">Levin</a> <small>(2012)</small></li>
+<li><a href="/wiki/Gary_Miller_(computer_scientist)" title="Gary Miller (computer scientist)">Miller</a> <small>(2013)</small></li>
+<li><strong class="selflink">Lipton</strong> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n88-604244">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/117513630">117513630</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n88604244">n88604244</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000011780509X">0000 0001 1780 509X</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/142572888">142572888</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/150406444">150406444</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb169666764">cb169666764</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb169666764">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=69524">69524</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1069
+Cached time: 20160107072559
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.286 seconds
+Real time usage: 0.420 seconds
+Preprocessor visited node count: 1180/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21278/2097152 bytes
+Template argument size: 909/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.117/10.000 seconds
+Lua memory usage: 2.85 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  368.191      1 - -total
+ 24.26%   89.308      1 - Template:Infobox_scientist
+ 21.50%   79.146      1 - Template:Infobox
+ 19.22%   70.772      1 - Template:Refimprove
+ 13.31%   49.005      1 - Template:Cite_conference
+ 12.64%   46.551      1 - Template:Ambox
+ 10.15%   37.361      1 - Template:Authority_control
+  7.91%   29.116      4 - Template:Br_separated_entries
+  4.04%   14.862      1 - Template:Birth_date_and_age
+  3.38%   12.445      1 - Template:Knuth_Prize_laureates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11532414-0!*!0!!*!4!*!math=0 and timestamp 20160107072559 and revision id 659939086
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Richard_J._Lipton&amp;oldid=659939086">https://en.wikipedia.org/w/index.php?title=Richard_J._Lipton&amp;oldid=659939086</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Guggenheim_Fellows" title="Category:Guggenheim Fellows">Guggenheim Fellows</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Carnegie_Mellon_University_alumni" title="Category:Carnegie Mellon University alumni">Carnegie Mellon University alumni</a></li><li><a href="/wiki/Category:Georgia_Institute_of_Technology_faculty" title="Category:Georgia Institute of Technology faculty">Georgia Institute of Technology faculty</a></li><li><a href="/wiki/Category:Theoretical_computer_scientists" title="Category:Theoretical computer scientists">Theoretical computer scientists</a></li><li><a href="/wiki/Category:1946_births" title="Category:1946 births">1946 births</a></li><li><a href="/wiki/Category:20th-century_mathematicians" title="Category:20th-century mathematicians">20th-century mathematicians</a></li><li><a href="/wiki/Category:21st-century_mathematicians" title="Category:21st-century mathematicians">21st-century mathematicians</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2010" title="Category:Articles needing additional references from April 2010">Articles needing additional references from April 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Richard+J.+Lipton&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Richard+J.+Lipton" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Richard_J._Lipton"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Richard_J._Lipton"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Richard_J._Lipton" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Richard_J._Lipton&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Richard_J._Lipton" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Richard_J._Lipton" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Richard_J._Lipton&amp;oldid=659939086" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Richard_J._Lipton&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q7326742" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Richard_J._Lipton&amp;id=659939086" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Richard+J.+Lipton">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Richard+J.+Lipton&amp;returnto=Richard+J.+Lipton&amp;oldid=659939086&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Richard_J._Lipton&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Richard_J._Lipton" title="Richard J. Lipton – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Richard_J._Lipton" title="Richard J. Lipton – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Richard_Lipton" title="Richard Lipton – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q7326742#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 April 2015, at 20:53.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Richard_J._Lipton&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1048"}); /* @nomin */
+} );</script>
+	</body>
+</html>

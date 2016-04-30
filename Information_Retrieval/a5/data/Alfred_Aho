@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Alfred Aho - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alfred_Aho","wgTitle":"Alfred Aho","wgCurRevisionId":690059063,"wgRevisionId":690059063,"wgArticleId":140930,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from March 2014","Articles containing potentially dated statements from 2011","All articles containing potentially dated statements","Articles with specifically marked weasel-worded phrases from May 2011","Articles with unsourced statements from February 2013","Articles containing potentially dated statements from 2010","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","1941 births","Canadian computer scientists","Canadian people of Finnish descent","Columbia University faculty","Columbia School of Engineering and Applied Science faculty","Fellows of the Association for Computing Machinery","Fellow Members of the IEEE","American people of Finnish descent","Living people","Princeton University alumni","Programming language designers","Scientists at Bell Labs","Theoretical computer scientists","University of Toronto alumni","People from Timmins","Fellows of the American Academy of Arts and Sciences","Members of the United States National Academy of Engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Alfred_Aho","wgRelevantArticleId":140930,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["zh-tw","zh","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q62898","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Alfred_Aho" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alfred_Aho&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Alfred_Aho&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Alfred_Aho" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Alfred_Aho skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Alfred Aho</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Alfred Aho</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1941-08-09</span>)</span> August 9, 1941 <span class="noprint ForceAgeToShow">(age&#160;74)</span><br />
+<a href="/wiki/Timmins" title="Timmins">Timmins</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a></td>
+</tr>
+<tr>
+<th scope="row">Residence</th>
+<td><a href="/wiki/United_States" title="United States">U.S.</a></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/Canada" title="Canada">Canadian</a>-<a href="/wiki/United_States" title="United States">American</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a></li>
+<li><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><i>Indexed Grammars: An Extension of Context Free Grammars</i>&#160;<span style="font-size:90%;">(1968)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a><sup id="cite_ref-mathgene_1-0" class="reference"><a href="#cite_note-mathgene-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td>
+<div class="plainlist">
+<ul>
+<li>Marcio Buss</li>
+<li>Marc Eaddy</li>
+<li>Gaurav Kc</li>
+<li>Krysta Svore<sup id="cite_ref-mathgene_1-1" class="reference"><a href="#cite_note-mathgene-1"><span>[</span>1<span>]</span></a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Awk" title="Awk" class="mw-redirect">Awk</a> programming language</td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td>
+<div class="plainlist">
+<ul>
+<li>Fellow, Bell Laboratories (1984)</li>
+<li><a href="/wiki/American_Association_for_the_Advancement_of_Science" title="American Association for the Advancement of Science">FAAAS</a> (1986)</li>
+<li>Doctor of Philosophy, honoris causa, University of Helsinki (1986)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2014)">citation needed</span></a></i>]</sup></li>
+<li><a href="/wiki/IEEE_Fellow" title="IEEE Fellow" class="mw-redirect">IEEE Fellow</a> (1988)</li>
+<li><a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">FACM</a> (1996)</li>
+<li>IEEE <a href="/wiki/John_von_Neumann_Medal" title="John von Neumann Medal" class="mw-redirect">John von Neumann Medal</a> (2003)</li>
+<li>Great Teacher Award, Society of Columbia Graduates (2003)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Website</b><br />
+<span class="url"><a rel="nofollow" class="external text" href="http://www1.cs.columbia.edu/~aho">www1<wbr />.cs<wbr />.columbia<wbr />.edu<wbr />/~aho</a></span></td>
+</tr>
+</table>
+<p><b>Alfred Vaino Aho</b> (born August 9, 1941) is a Canadian <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> best known for his work on programming languages, compilers, and related algorithms, and his textbooks on the art and science of computer programming.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-acm_9-0" class="reference"><a href="#cite_note-acm-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Teaching"><span class="tocnumber">2</span> <span class="toctext">Teaching</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Books"><span class="tocnumber">3</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alfred_Aho&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Aho received a B.A.Sc. in Engineering Physics from the <a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a> and a Ph.D. in Electrical Engineering/Computer Science from <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a>. He conducted research at <a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a> from 1967 to 1991, and again from 1997 to 2002 as Vice President of the Computing Sciences Research Center. As of 2011<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Alfred_Aho&amp;action=edit">[update]</a></sup> he holds the Lawrence Gussman Chair of <a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a> at <a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a>. He served as chair of the department from 1995 to 1997, and again in the spring of 2003.</p>
+<p>In his PhD thesis Aho created <a href="/wiki/Indexed_grammar" title="Indexed grammar">indexed grammars</a> and the <a href="/wiki/Nested_stack_automaton" title="Nested stack automaton">nested-stack automaton</a> as vehicles for extending the power of <a href="/wiki/Context-free_languages" title="Context-free languages" class="mw-redirect">context-free languages</a>, but retaining many of their decidability and closure properties. Indexed grammars have been used<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (May 2011)">by whom?</span></a></i>]</sup> to model parallel rewriting systems, particularly in biological applications.</p>
+<p>After graduating from Princeton, Aho joined the Computing Sciences Research Center at Bell Labs where he devised efficient regular expression and string-pattern matching algorithms that he implemented in the first versions of the <a href="/wiki/Unix" title="Unix">Unix</a> tools <code><a href="/wiki/Egrep" title="Egrep" class="mw-redirect">egrep</a></code> and <code><a href="/wiki/Fgrep" title="Fgrep" class="mw-redirect">fgrep</a></code>. The <code>fgrep</code> algorithm has become known as the <a href="/wiki/Aho-Corasick_algorithm" title="Aho-Corasick algorithm" class="mw-redirect">Aho-Corasick algorithm</a>; it is used by several bibliographic search-systems, including the one developed by <a href="/wiki/Margaret_J._Corasick" title="Margaret J. Corasick" class="mw-redirect">Margaret J. Corasick</a>, and by other string-searching applications.</p>
+<p>At Bell Labs, Aho worked closely with <a href="/wiki/Stephen_C._Johnson" title="Stephen C. Johnson">Steve Johnson</a> and <a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">Jeffrey Ullman</a> to develop efficient algorithms for analyzing and translating programming languages. Steve Johnson used the bottom-up LALR parsing algorithms to create the syntax-analyzer generator <a href="/wiki/Yacc" title="Yacc">yacc</a>, and <a href="/wiki/Michael_E._Lesk" title="Michael E. Lesk" class="mw-redirect">Michael E. Lesk</a> and <a href="/wiki/Eric_Schmidt" title="Eric Schmidt">Eric Schmidt</a> used Aho's regular-expression pattern-matching algorithms to create the lexical-analyzer generator <a href="/wiki/Lex_(software)" title="Lex (software)">lex</a>. The lex and yacc tools and their derivatives have been used to develop the front ends of many of today's programming language compilers.</p>
+<p>Aho and Ullman wrote a series of textbooks on compiling techniques that codified the theory relevant to compiler design. Their 1977 textbook <i><a href="/wiki/Principles_of_Compiler_Design" title="Principles of Compiler Design">Principles of Compiler Design</a></i> had a green dragon on the front cover and became known as "the green dragon book". In 1986 Aho and Ullman were joined by <a href="/wiki/Ravi_Sethi" title="Ravi Sethi">Ravi Sethi</a> to create a new edition, "the red dragon book" (which was briefly shown in the 1995 movie "<a href="/wiki/Hackers_(film)" title="Hackers (film)">Hackers</a>"), and in 2007 also by Monica Lam to create "the purple dragon book". The dragon books have been the most widely used compiler textbooks throughout the world.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2013)">citation needed</span></a></i>]</sup></p>
+<p>In 1974, Aho, <a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a>, and Ullman wrote the <i>Design and Analysis of Computer Algorithms</i>, codifying some of their early research on algorithms. This book became one of the most highly cited books in computer science for several decades and helped to stimulate the creation of algorithms and data structures as a central course in the computer science curriculum.</p>
+<p>Aho is also widely known for his co-authorship of the <a href="/wiki/AWK_programming_language" title="AWK programming language" class="mw-redirect">AWK programming language</a> with <a href="/wiki/Peter_J._Weinberger" title="Peter J. Weinberger">Peter J. Weinberger</a> and <a href="/wiki/Brian_Kernighan" title="Brian Kernighan">Brian Kernighan</a> (the "A" stands for "Aho"). As of 2010<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Alfred_Aho&amp;action=edit">[update]</a></sup> Aho's research interests include programming languages, compilers, algorithms, and <a href="/wiki/Quantum_computing" title="Quantum computing">quantum computing</a>. He is part of the Language and Compilers research-group at Columbia University.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>Overall, his works have been cited 51,583 times and he has an <a href="/wiki/H-index" title="H-index">h-index</a> of 62, as of November 10, 2015.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>Aho has received many prestigious honors, including the <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">IEEE</a>'s <a href="/wiki/IEEE_John_von_Neumann_Medal" title="IEEE John von Neumann Medal">John von Neumann Medal</a> and membership in the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a>. He was elected a Fellow of the <a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">American Academy of Arts and Sciences</a> in 2003.<sup id="cite_ref-AAAS_14-0" class="reference"><a href="#cite_note-AAAS-14"><span>[</span>14<span>]</span></a></sup> He holds honorary doctorates from the <a href="/wiki/University_of_Waterloo" title="University of Waterloo">University of Waterloo</a>, from the <a href="/wiki/University_of_Helsinki" title="University of Helsinki">University of Helsinki</a>, from the <a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a>, and is a Fellow of the <a href="/wiki/American_Association_for_the_Advancement_of_Science" title="American Association for the Advancement of Science">American Association for the Advancement of Science</a>, <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a>, <a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a>, and <a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a>. He won the Great Teacher Award from the Society of Columbia Graduates in 2003.</p>
+<p>Aho has twice served as chair of the Advisory Committee for the Computer and Information Science and Engineering Directorate of the National Science Foundation. He is a past president of the <a href="/wiki/ACM_Special_Interest_Group_on_Algorithms_and_Computability_Theory" title="ACM Special Interest Group on Algorithms and Computability Theory" class="mw-redirect">ACM Special Interest Group on Algorithms and Computability Theory</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Teaching">Teaching</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alfred_Aho&amp;action=edit&amp;section=2" title="Edit section: Teaching">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Aho has taught at Columbia University in the City of New York since 1995. He won the Great Teacher Award from the Society of Columbia Graduates in 2003.</p>
+<h2><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alfred_Aho&amp;action=edit&amp;section=3" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>A. V. Aho and <a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">J. D. Ullman</a>, <i>The Theory of Parsing, Translation, and Compiling, Vol. 1, Parsing.</i> Prentice Hall, 1972. <a href="/wiki/Special:BookSources/0139145567" class="internal mw-magiclink-isbn">ISBN 0-13-914556-7</a></li>
+<li>A. V. Aho (ed.) <i>Currents in the Theory of Computing.</i> Prentice Hall, 1973.</li>
+<li>A. V. Aho and <a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">J. D. Ullman</a>, <i>The Theory of Parsing, Translation, and Compiling, Vol. 2, Compiling.</i> Prentice-Hall, 1973. <a href="/wiki/Special:BookSources/9780139145643" class="internal mw-magiclink-isbn">ISBN 978-0-13-914564-3</a></li>
+<li>A. V. Aho, <a href="/wiki/J._E._Hopcroft" title="J. E. Hopcroft" class="mw-redirect">J. E. Hopcroft</a>, <a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">J. D. Ullman</a>, <i>The Design and Analysis of Computer Algorithms.</i> Addison-Wesley, 1974. <a href="/wiki/Special:BookSources/0201000237" class="internal mw-magiclink-isbn">ISBN 0-201-00023-7</a></li>
+<li>A. V. Aho and <a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">J. D. Ullman</a>, <i>Principles of Compiler Design.</i> Addison-Wesley, 1977. <a href="/wiki/Special:BookSources/0201000229" class="internal mw-magiclink-isbn">ISBN 0-201-00022-9</a></li>
+<li>A. V. Aho, <a href="/wiki/J._E._Hopcroft" title="J. E. Hopcroft" class="mw-redirect">J. E. Hopcroft</a>, <a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">J. D. Ullman</a>, <i>Data Structures and Algorithms.</i> Addison-Wesley, 1983. <a href="/wiki/Special:BookSources/0201000237" class="internal mw-magiclink-isbn">ISBN 0-201-00023-7</a></li>
+<li>A. V. Aho, <a href="/wiki/Ravi_Sethi" title="Ravi Sethi">R. Sethi</a>, <a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">J. D. Ullman</a>, <i><a href="/wiki/Compilers:_Principles,_Techniques,_and_Tools" title="Compilers: Principles, Techniques, and Tools">Compilers: Principles, Techniques, and Tools</a>.</i> Addison-Wesley, Reading MA 1986. <a href="/wiki/Special:BookSources/0201100886" class="internal mw-magiclink-isbn">ISBN 0-201-10088-6</a></li>
+<li>A. V. Aho, <a href="/wiki/Brian_W._Kernighan" title="Brian W. Kernighan" class="mw-redirect">B. W. Kernighan</a>, and <a href="/wiki/Peter_J._Weinberger" title="Peter J. Weinberger">P. J. Weinberger</a>, <i>The AWK Programming Language.</i> Addison-Wesley, 1988. <a href="/wiki/Special:BookSources/9780201079814" class="internal mw-magiclink-isbn">ISBN 978-0-201-07981-4</a></li>
+<li>A. V. Aho and <a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">J. D. Ullman</a>, <i><a rel="nofollow" class="external text" href="http://infolab.stanford.edu/~ullman/focs.html">Foundations of Computer Science</a>.</i> W. H. Freeman/Computer Science Press, 1992.
+<ul>
+<li>A. V. Aho and <a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">J. D. Ullman</a>, <i>Foundations of Computer Science, C Edition.</i> W. H. Freeman, 1995. <a href="/wiki/Special:BookSources/9780716782841" class="internal mw-magiclink-isbn">ISBN 978-0-7167-8284-1</a></li>
+</ul>
+</li>
+<li>A. V. Aho, <a href="/wiki/Monica_S._Lam" title="Monica S. Lam">M. S. Lam</a>, <a href="/wiki/Ravi_Sethi" title="Ravi Sethi">R. Sethi</a>, and <a href="/wiki/Jeffrey_Ullman" title="Jeffrey Ullman">J. D. Ullman</a>, <i><a href="/wiki/Compilers:_Principles,_Techniques,_and_Tools" title="Compilers: Principles, Techniques, and Tools">Compilers: Principles, Techniques, and Tools</a>, Second Edition.</i> Addison-Wesley, 2007. <a href="/wiki/Special:BookSources/9780321486813" class="internal mw-magiclink-isbn">ISBN 978-0-321-48681-3</a></li>
+</ul>
+<p><br /></p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alfred_Aho&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://zbmath.org/authors/?q=ai:aho.alfred-v">Author profile</a> in the database <a href="/wiki/Zentralblatt_MATH" title="Zentralblatt MATH">zbMATH</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alfred_Aho&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-mathgene-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-mathgene_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mathgene_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=82019">Alfred Vaino Aho</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aho, A. V. (1968). "Indexed Grammars---An Extension of Context-Free Grammars". <i>Journal of the ACM</i> <b>15</b> (4): 647. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F321479.321488">10.1145/321479.321488</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlfred+Aho&amp;rft.atitle=Indexed+Grammars---An+Extension+of+Context-Free+Grammars&amp;rft.aufirst=A.+V.&amp;rft.aulast=Aho&amp;rft.date=1968&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F321479.321488&amp;rft.issue=4&amp;rft.jtitle=Journal+of+the+ACM&amp;rft.pages=647&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink">'<i><a href="#cite_ref-3">^</a></i> <b><i><span class="reference-text"><cite class="citation journal">Aho, A.; <a href="/wiki/Georg_Gottlob" title="Georg Gottlob">Gottlob, G.</a> (2014). "A front row seat to</cite></span> <cite class="citation journal"><span class="reference-text"><b>Communications</b> editorial transformation". <i>Communications of the ACM</i> <b>57</b> (4): 5. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F2582611">10.1145/2582611</a>.</span></cite><span class="reference-text"><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlfred+Aho&amp;rft.atitle=A+front+row+seat+to+Communications+editorial+transformation&amp;rft.aufirst=A.&amp;rft.au=Gottlob%2C+G.&amp;rft.aulast=Aho&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F2582611&amp;rft.issue=4&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=57" class="Z3988"><span style="display:none;">&#160;</span></span></span></i></b></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aho, A. V. (1969). "Nested Stack Automata". <i>Journal of the ACM</i> <b>16</b> (3): 383. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F321526.321529">10.1145/321526.321529</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlfred+Aho&amp;rft.atitle=Nested+Stack+Automata&amp;rft.aufirst=A.+V.&amp;rft.aulast=Aho&amp;rft.date=1969&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F321526.321529&amp;rft.issue=3&amp;rft.jtitle=Journal+of+the+ACM&amp;rft.pages=383&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aho, Alfred V.; Corasick, Margaret J. (Jun 1975). <a rel="nofollow" class="external text" href="ftp://163.13.200.222/assistant/bearhero/prog/%A8%E4%A5%A6/ac_bm.pdf">"Efficient String Matching: An Aid to Bibliographic Search"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a></i> <b>18</b> (6): 333–340. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F360825.360855">10.1145/360825.360855</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlfred+Aho&amp;rft.atitle=Efficient+String+Matching%3A+An+Aid+to+Bibliographic+Search&amp;rft.au=Corasick%2C+Margaret+J.&amp;rft.aufirst=Alfred+V.&amp;rft.aulast=Aho&amp;rft.date=1975-06&amp;rft.genre=article&amp;rft_id=ftp%3A%2F%2F163.13.200.222%2Fassistant%2Fbearhero%2Fprog%2F%25A8%25E4%25A5%25A6%2Fac_bm.pdf&amp;rft_id=info%3Adoi%2F10.1145%2F360825.360855&amp;rft.issue=6&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=333-340&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aho, A. V.; Johnson, S. C.; Ullman, J. D. (1977). "Code Generation for Expressions with Common Subexpressions". <i>Journal of the ACM</i> <b>24</b>: 146. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F321992.322001">10.1145/321992.322001</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlfred+Aho&amp;rft.atitle=Code+Generation+for+Expressions+with+Common+Subexpressions&amp;rft.aufirst=A.+V.&amp;rft.au=Johnson%2C+S.+C.&amp;rft.aulast=Aho&amp;rft.au=Ullman%2C+J.+D.&amp;rft.date=1977&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F321992.322001&amp;rft.jtitle=Journal+of+the+ACM&amp;rft.pages=146&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=24" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aho, A. V.; Kernighan, B. W.; Weinberger, P. J. (1979). "Awk — a pattern scanning and processing language". <i>Software: Practice and Experience</i> <b>9</b> (4): 267. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fspe.4380090403">10.1002/spe.4380090403</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlfred+Aho&amp;rft.atitle=Awk+%94+a+pattern+scanning+and+processing+language&amp;rft.aufirst=A.+V.&amp;rft.au=Kernighan%2C+B.+W.&amp;rft.aulast=Aho&amp;rft.au=Weinberger%2C+P.+J.&amp;rft.date=1979&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fspe.4380090403&amp;rft.issue=4&amp;rft.jtitle=Software%3A+Practice+and+Experience&amp;rft.pages=267&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">— (1990). "Algorithms for Finding Patterns in Strings". <i>Handbook of Theoretical Computer Science</i>. MIT Press. pp.&#160;255–300.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlfred+Aho&amp;rft.atitle=Algorithms+for+Finding+Patterns+in+Strings&amp;rft.aufirst=A.V.&amp;rft.aulast=Aho&amp;rft.btitle=Handbook+of+Theoretical+Computer+Science&amp;rft.date=1990&amp;rft.genre=bookitem&amp;rft.pages=255-300&amp;rft.pub=MIT+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-acm-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-acm_9-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dl.acm.org/author_page.cfm?id=81100024612">Alfred Aho</a> from the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery (ACM)</a> Digital Library</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.computerworld.com.au/index.php/id;1726534212;fp;4194304;fpid;1/">Computerworld Interview with Alfred V. Aho</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://engineering.columbia.edu/files/engineering/final_86.pdf">Creating Reliable Programs from Unreliable Programmers [PDF], Excellentia</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://landc.cs.columbia.edu/">http://landc.cs.columbia.edu/</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://scholar.google.com/citations?user=gb2r2ssAAAAJ">"Google Scholar Record for Alfred Aho"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlfred+Aho&amp;rft.btitle=Google+Scholar+Record+for+Alfred+Aho&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Dgb2r2ssAAAAJ&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AAAS-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-AAAS_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.amacad.org/publications/BookofMembers/ChapterA.pdf">"Book of Members, 1780-2010: Chapter A"</a> <span style="font-size:85%;">(PDF)</span>. American Academy of Arts and Sciences. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20110510021801/http://www.amacad.org/publications/BookofMembers/ChapterA.pdf">Archived</a> <span style="font-size:85%;">(PDF)</span> from the original on 10 May 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlfred+Aho&amp;rft.btitle=Book+of+Members%2C+1780-2010%3A+Chapter+A&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.amacad.org%2Fpublications%2FBookofMembers%2FChapterA.pdf&amp;rft.pub=American+Academy+of+Arts+and+Sciences&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.nytimes.com/1987/02/17/science/brief-us-suppression-of-proof-stirs-anger.html">"Brief U.S. Supression of Proof Stirs Anger"</a>. The New York Times. February 17, 1987<span class="reference-accessdate">. Retrieved <span class="nowrap">November 10,</span> 2015</span> – via Safari.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlfred+Aho&amp;rft.atitle=Brief+U.S.+Supression+of+Proof+Stirs+Anger&amp;rft.date=1987-02-17&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F1987%2F02%2F17%2Fscience%2Fbrief-us-suppression-of-proof-stirs-anger.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n50-033193">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/101796572">101796572</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n50033193">n50033193</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000084042072">0000 0000 8404 2072</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/135798728">135798728</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/029300010">029300010</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb120955822">cb120955822</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb120955822">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=82019">82019</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00431066">00431066</a></span></li>
+<li><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ola2004161177&amp;CON_LNG=ENG">ola2004161177</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1036
+Cached time: 20160107153159
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.471 seconds
+Real time usage: 0.555 seconds
+Preprocessor visited node count: 1921/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37854/2097152 bytes
+Template argument size: 5721/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 5/500
+Lua time usage: 0.238/10.000 seconds
+Lua memory usage: 4.29 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  509.010      1 - -total
+ 39.37%  200.378      1 - Template:Reflist
+ 36.46%  185.591      1 - Template:Infobox_scientist
+ 34.37%  174.932      1 - Template:Infobox
+ 21.82%  111.050      6 - Template:Cite_journal
+ 11.98%   60.995      1 - Template:Authority_control
+ 10.71%   54.498      2 - Template:Citation_needed
+ 10.33%   52.563      3 - Template:Plainlist
+  9.57%   48.732      3 - Template:Fix
+  8.29%   42.185      5 - Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:140930-0!*!0!!en!*!* and timestamp 20160107153159 and revision id 690059063
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alfred_Aho&amp;oldid=690059063">https://en.wikipedia.org/w/index.php?title=Alfred_Aho&amp;oldid=690059063</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1941_births" title="Category:1941 births">1941 births</a></li><li><a href="/wiki/Category:Canadian_computer_scientists" title="Category:Canadian computer scientists">Canadian computer scientists</a></li><li><a href="/wiki/Category:Canadian_people_of_Finnish_descent" title="Category:Canadian people of Finnish descent">Canadian people of Finnish descent</a></li><li><a href="/wiki/Category:Columbia_University_faculty" title="Category:Columbia University faculty">Columbia University faculty</a></li><li><a href="/wiki/Category:Columbia_School_of_Engineering_and_Applied_Science_faculty" title="Category:Columbia School of Engineering and Applied Science faculty">Columbia School of Engineering and Applied Science faculty</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Fellow_Members_of_the_IEEE" title="Category:Fellow Members of the IEEE">Fellow Members of the IEEE</a></li><li><a href="/wiki/Category:American_people_of_Finnish_descent" title="Category:American people of Finnish descent">American people of Finnish descent</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Princeton_University_alumni" title="Category:Princeton University alumni">Princeton University alumni</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:Scientists_at_Bell_Labs" title="Category:Scientists at Bell Labs">Scientists at Bell Labs</a></li><li><a href="/wiki/Category:Theoretical_computer_scientists" title="Category:Theoretical computer scientists">Theoretical computer scientists</a></li><li><a href="/wiki/Category:University_of_Toronto_alumni" title="Category:University of Toronto alumni">University of Toronto alumni</a></li><li><a href="/wiki/Category:People_from_Timmins" title="Category:People from Timmins">People from Timmins</a></li><li><a href="/wiki/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences" title="Category:Fellows of the American Academy of Arts and Sciences">Fellows of the American Academy of Arts and Sciences</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2014" title="Category:Articles with unsourced statements from March 2014">Articles with unsourced statements from March 2014</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2011" title="Category:Articles containing potentially dated statements from 2011">Articles containing potentially dated statements from 2011</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_May_2011" title="Category:Articles with specifically marked weasel-worded phrases from May 2011">Articles with specifically marked weasel-worded phrases from May 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2013" title="Category:Articles with unsourced statements from February 2013">Articles with unsourced statements from February 2013</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2010" title="Category:Articles containing potentially dated statements from 2010">Articles containing potentially dated statements from 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alfred+Aho&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alfred+Aho" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Alfred_Aho"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Alfred_Aho"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Alfred_Aho" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Alfred_Aho&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Alfred_Aho&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Alfred_Aho" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Alfred_Aho" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Alfred_Aho&amp;oldid=690059063" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Alfred_Aho&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q62898" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alfred_Aho&amp;id=690059063" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Alfred+Aho">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Alfred+Aho&amp;returnto=Alfred+Aho&amp;oldid=690059063&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Alfred_Aho&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%81%D8%B1%D8%AF_%D8%A3%D9%87%D9%88" title="ألفرد أهو – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%B2%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%A1_%E0%A6%86%E0%A6%B9%E0%A7%8B" title="আলফ্রেড আহো – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%90%D1%85%D0%BE_%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4" title="Ахо Альфред – Chuvash" lang="cv" hreflang="cv">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Alfred_Aho" title="Alfred Aho – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Alfred_V._Aho" title="Alfred V. Aho – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Alfred_Aho" title="Alfred Aho – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Alfred_Aho" title="Alfred Aho – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Alfred_Aho" title="Alfred Aho – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%95%A8%ED%94%84%EB%A6%AC%EB%93%9C_%EC%97%90%EC%9D%B4%ED%98%B8" title="앨프리드 에이호 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Alfred_Aho" title="Alfred Aho – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Alfred_Aho" title="Alfred Aho – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Alfred_Aho" title="Alfred Aho – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%82%A8%E3%82%A4%E3%83%9B" title="アルフレッド・エイホ – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Alfred_Aho" title="Alfred Aho – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Alfred_V._Aho" title="Alfred V. Aho – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Alfred_Aho" title="Alfred Aho – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D1%85%D0%BE,_%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4" title="Ахо, Альфред – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Alfred_Aho" title="Alfred Aho – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Alfred_Aho" title="Alfred Aho – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4_%D0%90%D1%85%D0%BE" title="Альфред Ахо – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E4%BD%9B%E9%9B%B7%E5%BE%B7%C2%B7%E8%89%BE%E4%BE%AF" title="阿尔佛雷德·艾侯 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q62898#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 November 2015, at 01:10.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Alfred_Aho&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":675,"wgHostname":"mw1036"}); /* @nomin */
+} );</script>
+	</body>
+</html>

@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Gene Amdahl - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gene_Amdahl","wgTitle":"Gene Amdahl","wgCurRevisionId":692750286,"wgRevisionId":692750286,"wgArticleId":247897,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from June 2013","All articles with unsourced statements","Articles with unsourced statements from November 2010","Commons category with page title same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","1922 births","2015 deaths","American computer businesspeople","American physicists","Computer hardware engineers","IBM employees","IBM Fellows","People from Moody County, South Dakota","American people of Norwegian descent","American people of Swedish descent","University of Wisconsin–Madison alumni","Fellows of the British Computer Society","South Dakota State University alumni","Members of the United States National Academy of Engineering","Deaths from pneumonia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gene_Amdahl","wgRelevantArticleId":247897,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Amdahl_march_13_2008.jpg/80px-Amdahl_march_13_2008.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q62890","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gene_Amdahl" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Gene_Amdahl&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Gene_Amdahl&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Gene_Amdahl" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Gene_Amdahl skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Gene Amdahl</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Gene Amdahl</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Amdahl_march_13_2008.jpg" class="image"><img alt="Amdahl march 13 2008.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Amdahl_march_13_2008.jpg/220px-Amdahl_march_13_2008.jpg" width="220" height="275" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Amdahl_march_13_2008.jpg/330px-Amdahl_march_13_2008.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Amdahl_march_13_2008.jpg/440px-Amdahl_march_13_2008.jpg 2x" data-file-width="687" data-file-height="859" /></a>
+<div>Gene Amdahl addressing a <a href="/wiki/University_of_Wisconsin%E2%80%93Madison" title="University of Wisconsin–Madison">UW–Madison</a> Alumni gathering, March 13, 2008</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1922-11-16</span>)</span>November 16, 1922<br />
+<a href="/wiki/Flandreau,_South_Dakota" title="Flandreau, South Dakota">Flandreau, South Dakota</a></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>November 10, 2015<span style="display:none">(<span class="dday deathdate">2015-11-10</span>)</span> (aged&#160;92)<br />
+<a href="/wiki/Palo_Alto,_California" title="Palo Alto, California">Palo Alto, California</a></td>
+</tr>
+<tr>
+<th scope="row">Citizenship</th>
+<td>United States</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td>American</td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category">Entrepreneur<br />
+<a href="/wiki/Computer_science" title="Computer science">Computer science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td>degrees in theoretical physics from the University of Wisconsin.</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/South_Dakota_State_University" title="South Dakota State University">South Dakota State University</a> (B.S., 1948)<br />
+<a href="/wiki/University_of_Wisconsin%E2%80%93Madison" title="University of Wisconsin–Madison">University of Wisconsin–Madison</a> (M.S.; Ph.D., 1952)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><a rel="nofollow" class="external text" href="http://pages.cs.wisc.edu/~bezenek/Stuff/amdahl_thesis.pdf"><i>The Logical Design of an Intermediate Speed Digital Computer</i></a>&#160;<span style="font-size:90%;">(1953)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td>Harold A. Peterson<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td>founding <a href="/wiki/Amdahl_Corporation" title="Amdahl Corporation">Amdahl Corporation</a>; formulating <a href="/wiki/Amdahl%27s_law" title="Amdahl's law">Amdahl's law</a>; IBM 360, 704</td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> (1967)<br />
+<a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> Fellow (1998) <sup id="cite_ref-chbio_2-0" class="reference"><a href="#cite_note-chbio-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><b>Gene Myron Amdahl</b> (November 16, 1922&#160;– November 10, 2015) was an American computer architect and high-tech entrepreneur, chiefly known for his work on <a href="/wiki/Mainframe_computer" title="Mainframe computer">mainframe computers</a> at <a href="/wiki/IBM" title="IBM">IBM</a> and later his own companies, especially <a href="/wiki/Amdahl_Corporation" title="Amdahl Corporation">Amdahl Corporation</a>. He formulated <a href="/wiki/Amdahl%27s_law" title="Amdahl's law">Amdahl's law</a>, which states a fundamental limitation of <a href="/wiki/Parallel_computing" title="Parallel computing">parallel computing</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Childhood_and_education"><span class="tocnumber">1</span> <span class="toctext">Childhood and education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_IBM_.26_Amdahl_years"><span class="tocnumber">2</span> <span class="toctext">The IBM &amp; Amdahl years</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#1979.E2.80.932015:_entrepreneur"><span class="tocnumber">3</span> <span class="toctext">1979–2015: entrepreneur</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Awards"><span class="tocnumber">4</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Childhood_and_education">Childhood and education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gene_Amdahl&amp;action=edit&amp;section=1" title="Edit section: Childhood and education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Amdahl was born to immigrant parents of Norwegian and Swedish descent in <a href="/wiki/Flandreau,_South_Dakota" title="Flandreau, South Dakota">Flandreau, South Dakota</a>. After serving in the <a href="/wiki/United_States_Navy" title="United States Navy">Navy</a> during World War II he completed a degree in <a href="/wiki/Engineering_physics" title="Engineering physics">engineering physics</a> at <a href="/wiki/South_Dakota_State_University" title="South Dakota State University">South Dakota State University</a> in 1948. He went on to study theoretical physics at the <a href="/wiki/University_of_Wisconsin%E2%80%93Madison" title="University of Wisconsin–Madison">University of Wisconsin–Madison</a> and completed his <a href="/wiki/Doctorate" title="Doctorate">doctorate</a> there in 1952 with a thesis titled <i>A Logical Design of an Intermediate Speed Digital Computer</i> and creating his first computer, the <a href="/wiki/Wisconsin_Integrally_Synchronized_Computer" title="Wisconsin Integrally Synchronized Computer">Wisconsin Integrally Synchronized Computer</a>, WISC. He then went straight from Wisconsin to a position at IBM in June 1952.</p>
+<h2><span class="mw-headline" id="The_IBM_.26_Amdahl_years">The IBM &amp; Amdahl years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gene_Amdahl&amp;action=edit&amp;section=2" title="Edit section: The IBM &amp; Amdahl years">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At IBM, Amdahl worked on the <a href="/wiki/IBM_704" title="IBM 704">IBM 704</a>, the <a href="/wiki/IBM_709" title="IBM 709">IBM 709</a>, and then the <i>Stretch</i> project, the basis for the <a href="/wiki/IBM_7030_Stretch" title="IBM 7030 Stretch">IBM 7030</a>. He left IBM in December 1955, but returned in September 1960 (after working at <a href="/wiki/TRW_Inc." title="TRW Inc.">Ramo-Wooldridge</a> and at <a href="/wiki/Aeronutronic" title="Aeronutronic">Aeronutronic</a>). He quit out of frustration with the bureaucratic structure of the organization. In an interview<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> conducted in 1989 for the <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a>, he addressed this:</p>
+<blockquote class="templatequote">
+<p>Well, what I felt was that with that kind of an organization I'm not going to be in control of what I want to do any time in the future. It's going to be a much more bureaucratic structure. I'll work in one area of it, and that's all I'll get experience in. And I decided that I didn't want to have that kind of life, basically. It wasn't just Dunwell. It was the way the structure was set up; I was going to be a peg-in-a-hole.</p>
+</blockquote>
+<p><br />
+On his return he became chief architect of <a href="/wiki/IBM_System/360" title="IBM System/360">IBM System/360</a> and was named an <a href="/wiki/IBM_Fellow" title="IBM Fellow">IBM Fellow</a> in 1965, and head of the ACS Laboratory in <a href="/wiki/Menlo_Park,_California" title="Menlo Park, California">Menlo Park, California</a>. He left IBM again in September 1970, after his ideas for computer development were rejected, and set up <a href="/wiki/Amdahl_Corporation" title="Amdahl Corporation">Amdahl Corporation</a> in <a href="/wiki/Sunnyvale,_California" title="Sunnyvale, California">Sunnyvale, California</a> with aid from <a href="/wiki/Fujitsu" title="Fujitsu">Fujitsu</a>.</p>
+<p>Competing with IBM in the mainframe market, the company manufactured "<a href="/wiki/Plug_compatible" title="Plug compatible">plug-compatible</a>" mainframes, shipping its first machine in 1975&#160;— the Amdahl 470V/6, a less expensive, more reliable and faster replacement for the System 370/168. By purchasing an Amdahl 470 and plug-compatible peripheral devices from third-party manufacturers, customers could now run S/360 and S/370 applications without buying actual IBM hardware. Amdahl's software team developed VM/PE, software designed to optimize the performance of IBM's <a href="/wiki/MVS" title="MVS">MVS</a> <a href="/wiki/Operating_system" title="Operating system">operating system</a> when running under IBM's <a href="/wiki/VM_(operating_system)" title="VM (operating system)">VM operating system</a>. By 1979, Amdahl Corporation had sold over a US$1 billion<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2010)">citation needed</span></a></i>]</sup> of V6 and V7 mainframes and had over 6,000 employees worldwide. The corporation went on to distribute an IBM-plug-compatible <a href="/wiki/Front-end_processor" title="Front-end processor">front-end processor</a> (the 4705) as well as high-performance <a href="/wiki/Disk_storage" title="Disk storage">disk drives</a>, both jointly developed with Fujitsu engineers.</p>
+<p>At the <a href="/wiki/Joint_Computer_Conference" title="Joint Computer Conference">Spring Joint Computer Conference</a>, Amdahl, along with three other computer architects, most notably <a href="/wiki/ILLIAC_IV" title="ILLIAC IV">ILLIAC IV</a> architect <a href="/wiki/Daniel_Slotnick" title="Daniel Slotnick">Daniel Slotnick</a>, engaged in a discussion on future architectural trends. Amdahl argued, verbally and in three written pages, for performance limitations in any special feature or mode introduced to new machines. This resulted in two, <a href="/wiki/Amdahl%27s_law" title="Amdahl's law">major and lesser, "laws" of computer performance</a> regarding sequential vs. <a href="/wiki/Parallel_computing" title="Parallel computing">parallel processing</a>. These arguments continue to this day.</p>
+<h2><span class="mw-headline" id="1979.E2.80.932015:_entrepreneur">1979–2015: entrepreneur</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gene_Amdahl&amp;action=edit&amp;section=3" title="Edit section: 1979–2015: entrepreneur">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Amdahl left his eponymous company in August 1979 to set up <a href="/wiki/Trilogy_Systems" title="Trilogy Systems">Trilogy Systems</a>. With over US$200 million in funds Trilogy was aimed at designing an <a href="/wiki/Microprocessor" title="Microprocessor">integrated chip</a> for even cheaper mainframes. The chip development failed within months of the company's $60 million public offering; thereafter, the company focused on developing its <a href="/wiki/Very-large-scale_integration" title="Very-large-scale integration">VLSI</a> technology and, when that project failed, in 1985 Trilogy merged into <a href="/wiki/Elxsi" title="Elxsi">Elxsi</a>. Elxsi also did poorly and Amdahl left in 1989, having already founded his next venture, <a href="/w/index.php?title=Andor_International&amp;action=edit&amp;redlink=1" class="new" title="Andor International (page does not exist)">Andor International</a>, in 1987. Andor hoped to compete in the mid-sized mainframe market, using improved manufacturing techniques developed by one of the company's employees, <a href="/w/index.php?title=Robert_F._Brown&amp;action=edit&amp;redlink=1" class="new" title="Robert F. Brown (page does not exist)">Robert F. Brown</a>, to make smaller, more efficient machines. Production problems and strong competition led the company into bankruptcy by 1995.</p>
+<p>Amdahl co-founded <a href="/w/index.php?title=Commercial_Data_Servers&amp;action=edit&amp;redlink=1" class="new" title="Commercial Data Servers (page does not exist)">Commercial Data Servers</a> in 1996, again in Sunnyvale, and again developing mainframe-like machines but this time with new super-cooled processor designs and aimed at physically smaller systems. One such machine, from 1997, was the ESP/490 (Enterprise Server Platform/490), an enhancement of IBM's P/390 of the <a href="/wiki/IBM_ESA/390" title="IBM ESA/390">System/390</a> family. Since then, CDS has changed its name and narrowed its focus. As <a href="/w/index.php?title=Xbridge_Systems&amp;action=edit&amp;redlink=1" class="new" title="Xbridge Systems (page does not exist)">Xbridge Systems</a>, the company now builds software to scan mainframe datasets and database tables for sensitive information such as Credit Card Numbers, Social Security and other government identification numbers, sensitive medical diagnosis information that can be linked to an individual, and other information such as that needed for electronic discovery. As of early 2005, however, Xbridge's Web site did not list Amdahl as a member of their current management team.</p>
+<p>In November 2004, Amdahl was appointed to the board of advisors of <a href="/w/index.php?title=Massively_Parallel_Technologies&amp;action=edit&amp;redlink=1" class="new" title="Massively Parallel Technologies (page does not exist)">Massively Parallel Technologies</a>. He died on November 10, 2015 in <a href="/wiki/Palo_Alto,_California" title="Palo Alto, California">Palo Alto, California</a>, from pneumonia.<sup id="cite_ref-nytimes-obituary_4-0" class="reference"><a href="#cite_note-nytimes-obituary-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-computing-obituary_5-0" class="reference"><a href="#cite_note-computing-obituary-5"><span>[</span>5<span>]</span></a></sup> He also had <a href="/wiki/Alzheimer%27s_disease" title="Alzheimer's disease">Alzheimer's disease</a> in the last years of his life.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gene_Amdahl_visit_to_Amdahl_2008.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Gene_Amdahl_visit_to_Amdahl_2008.JPG/220px-Gene_Amdahl_visit_to_Amdahl_2008.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Gene_Amdahl_visit_to_Amdahl_2008.JPG/330px-Gene_Amdahl_visit_to_Amdahl_2008.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Gene_Amdahl_visit_to_Amdahl_2008.JPG/440px-Gene_Amdahl_visit_to_Amdahl_2008.JPG 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gene_Amdahl_visit_to_Amdahl_2008.JPG" class="internal" title="Enlarge"></a></div>
+Gene and his wife, Marian, in front of the main house at Amdahl, Norway</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Gene_and_Marian_Amdahl_in_front_of_the_%22Amdahl_troll%22.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gene_and_Marian_Amdahl_in_front_of_the_%22Amdahl_troll%22.JPG/220px-Gene_and_Marian_Amdahl_in_front_of_the_%22Amdahl_troll%22.JPG" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gene_and_Marian_Amdahl_in_front_of_the_%22Amdahl_troll%22.JPG/330px-Gene_and_Marian_Amdahl_in_front_of_the_%22Amdahl_troll%22.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gene_and_Marian_Amdahl_in_front_of_the_%22Amdahl_troll%22.JPG/440px-Gene_and_Marian_Amdahl_in_front_of_the_%22Amdahl_troll%22.JPG 2x" data-file-width="1536" data-file-height="2048" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Gene_and_Marian_Amdahl_in_front_of_the_%22Amdahl_troll%22.JPG" class="internal" title="Enlarge"></a></div>
+On the face of the mountain behind Gene and Marian there is a profile of a face, called the "Amdahl troll"</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gene_Amdahl&amp;action=edit&amp;section=4" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Amdahl was named an <a href="/wiki/IBM_Fellow" title="IBM Fellow">IBM Fellow</a> in 1965, became a member of the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> in 1967 and was recognized as the Centennial Alumnus of <a href="/wiki/South_Dakota_State_University" title="South Dakota State University">South Dakota State University</a> in 1986. He has numerous awards and patents to his credit and has received <a href="/wiki/Honorary_degree" title="Honorary degree">Honorary Doctorates</a> from his two <a href="/wiki/Alma_mater" title="Alma mater">alma maters</a> and two other institutions as well. In 1983, Amdahl was awarded the <a href="/wiki/Harry_H._Goode_Memorial_Award" title="Harry H. Goode Memorial Award">Harry H. Goode Memorial Award</a> by the <a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a> "in recognition of his outstanding contributions to the design, applications and manufacture of large-scale high-performance computers."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>In 1998, he was made a Fellow of the <a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> "for his fundamental work in computer architecture and design, project management, and leadership."<sup id="cite_ref-chbio_2-1" class="reference"><a href="#cite_note-chbio-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>In November 2007, Amdahl was recognized with the <a href="/wiki/Special_Interest_Group_on_Design_Automation" title="Special Interest Group on Design Automation">SIGDA</a> Pioneering Achievement Award.<sup id="cite_ref-SIGDA_Pioneering_Achievement_Award_7-0" class="reference"><a href="#cite_note-SIGDA_Pioneering_Achievement_Award-7"><span>[</span>7<span>]</span></a></sup> A banquet dinner in his honor featured a short talk by Amdahl on his career, and a panel debate on the future of parallel processing. Panelists included <a href="/wiki/John_Gustafson_(scientist)" title="John Gustafson (scientist)">John Gustafson</a> (known for <a href="/wiki/Gustafson%27s_law" title="Gustafson's law">Gustafson's law</a>). The talk and debate were both videotaped, and are available through the SIGDA Web page, and the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> Digital Library.<sup id="cite_ref-SIGDA_Member_Meeting_at_ICCAD_2007_8-0" class="reference"><a href="#cite_note-SIGDA_Member_Meeting_at_ICCAD_2007-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gene_Amdahl&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Amdahl%27s_law" title="Amdahl's law">Amdahl's law</a></li>
+<li><a href="/wiki/Amdahl_Corporation" title="Amdahl Corporation">Amdahl Corporation</a></li>
+<li><a href="/wiki/IBM_mainframe" title="IBM mainframe">IBM mainframe</a></li>
+<li><a href="/wiki/Fear,_uncertainty_and_doubt" title="Fear, uncertainty and doubt">FUD</a>&#160;— a term coined by Amdahl to describe IBM's competitive tactics</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gene_Amdahl&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ed-thelen.org/comp-hist/wisc.html">"WISC"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 11,</span> 2009</span>. <q>Professor Peterson encouraged them, provided space and a home in the department, and assisted in finding financing for the development of the Wisconsin Integrally Synchronized Computer (WISC), the first digital computer built in Wisconsin.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGene+Amdahl&amp;rft.btitle=WISC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fed-thelen.org%2Fcomp-hist%2Fwisc.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-chbio-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-chbio_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-chbio_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/bios/Gene,Amdahl/">"Gene Amdahl"</a>. <i>computerhistory.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGene+Amdahl&amp;rft.atitle=Gene+Amdahl&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Ffellowawards%2Fhall%2Fbios%2FGene%2CAmdahl%2F&amp;rft.jtitle=computerhistory.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://conservancy.umn.edu/handle/11299//104341">http://conservancy.umn.edu/handle/11299//104341</a></span></li>
+<li id="cite_note-nytimes-obituary-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-nytimes-obituary_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.nytimes.com/2015/11/13/technology/gene-amdahl-pioneer-of-mainframe-computing-dies-at-92.html">"Gene Amdahl, Pioneer of Mainframe Computing, Dies at 92"</a>. <i>New York Times</i>. November 12, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGene+Amdahl&amp;rft.atitle=Gene+Amdahl%2C+Pioneer+of+Mainframe+Computing%2C+Dies+at+92&amp;rft.date=2015-11-12&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2015%2F11%2F13%2Ftechnology%2Fgene-amdahl-pioneer-of-mainframe-computing-dies-at-92.html&amp;rft.jtitle=New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-computing-obituary-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-computing-obituary_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.computing.co.uk/ctg/news/2434594/computer-pioneer-gene-amdahl-dies-aged-92">"Computer pioneer Gene Amdahl dies, aged 92"</a>. <i>computing.co.uk</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGene+Amdahl&amp;rft.atitle=Computer+pioneer+Gene+Amdahl+dies%2C+aged+92&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computing.co.uk%2Fctg%2Fnews%2F2434594%2Fcomputer-pioneer-gene-amdahl-dies-aged-92&amp;rft.jtitle=computing.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://awards.computer.org/ana/award/viewPastRecipients.action?id=17">"Past recipients for Harry H. Goode Memorial Award"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 16,</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGene+Amdahl&amp;rft.btitle=Past+recipients+for+Harry+H.+Goode+Memorial+Award&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fawards.computer.org%2Fana%2Faward%2FviewPastRecipients.action%3Fid%3D17&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-SIGDA_Pioneering_Achievement_Award-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-SIGDA_Pioneering_Achievement_Award_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sigda.org/amdahlevent.html">"SIGDA Pioneering Achievement Award"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGene+Amdahl&amp;rft.btitle=SIGDA+Pioneering+Achievement+Award&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sigda.org%2Famdahlevent.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-SIGDA_Member_Meeting_at_ICCAD_2007-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-SIGDA_Member_Meeting_at_ICCAD_2007_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://portal.acm.org/toc.cfm?id=1324499&amp;type=proceeding&amp;coll=portal&amp;dl=ACM&amp;CFID=65780763&amp;CFTOKEN=53289721">"SIGDA Member Meeting at ICCAD 2007"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGene+Amdahl&amp;rft.btitle=SIGDA+Member+Meeting+at+ICCAD+2007&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fportal.acm.org%2Ftoc.cfm%3Fid%3D1324499%26type%3Dproceeding%26coll%3Dportal%26dl%3DACM%26CFID%3D65780763%26CFTOKEN%3D53289721&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gene_Amdahl&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Gene_Amdahl" class="extiw" title="commons:Category:Gene Amdahl">Gene Amdahl</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Special:Search/Gene_Amdahl" class="extiw" title="q:Special:Search/Gene Amdahl">Gene Amdahl</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://purl.umn.edu/104341">Oral history interview with Gene M. Amdahl</a> <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a>, <a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a>. Amdahl discusses his graduate work at the University of Wisconsin and his design of <a href="/wiki/Wisconsin_Integrally_Synchronized_Computer" title="Wisconsin Integrally Synchronized Computer">WISC</a>. Discusses his role in the designing of several computers for IBM including the <a href="/wiki/IBM_7030_Stretch" title="IBM 7030 Stretch">IBM 7030 Stretch</a>, <a href="/wiki/IBM_701" title="IBM 701">IBM 701</a>, and <a href="/wiki/IBM_704" title="IBM 704">IBM 704</a>. He discusses his work with <a href="/wiki/Nathaniel_Rochester_(computer_scientist)" title="Nathaniel Rochester (computer scientist)">Nathaniel Rochester</a> and IBM's management of the design process. Mentions work with <a href="/wiki/TRW_Inc." title="TRW Inc.">Ramo-Wooldridge</a>, <a href="/wiki/Aeronutronic" title="Aeronutronic">Aeronutronic</a>, and <a href="/wiki/Computer_Sciences_Corporation" title="Computer Sciences Corporation">Computer Sciences Corporation</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-nr94-012330">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/58961532">58961532</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/nr94012330">nr94012330</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000049601481">0000 0000 4960 1481</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1089
+Cached time: 20160107125702
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.376 seconds
+Real time usage: 0.478 seconds
+Preprocessor visited node count: 1628/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25910/2097152 bytes
+Template argument size: 2586/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.150/10.000 seconds
+Lua memory usage: 3.13 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  409.548      1 - -total
+ 29.83%  122.185      1 - Template:Reflist
+ 27.93%  114.405      1 - Template:Infobox_scientist
+ 25.44%  104.208      1 - Template:Infobox
+ 20.47%   83.843      6 - Template:Cite_web
+ 11.98%   49.054      4 - Template:Br_separated_entries
+ 10.24%   41.938      1 - Template:Citation_needed
+  9.65%   39.539      1 - Template:Use_mdy_dates
+  9.20%   37.686      1 - Template:Fix
+  8.81%   36.100      1 - Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:247897-0!*!0!!en!4!* and timestamp 20160107125701 and revision id 692750286
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gene_Amdahl&amp;oldid=692750286">https://en.wikipedia.org/w/index.php?title=Gene_Amdahl&amp;oldid=692750286</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1922_births" title="Category:1922 births">1922 births</a></li><li><a href="/wiki/Category:2015_deaths" title="Category:2015 deaths">2015 deaths</a></li><li><a href="/wiki/Category:American_computer_businesspeople" title="Category:American computer businesspeople">American computer businesspeople</a></li><li><a href="/wiki/Category:American_physicists" title="Category:American physicists">American physicists</a></li><li><a href="/wiki/Category:Computer_hardware_engineers" title="Category:Computer hardware engineers">Computer hardware engineers</a></li><li><a href="/wiki/Category:IBM_employees" title="Category:IBM employees">IBM employees</a></li><li><a href="/wiki/Category:IBM_Fellows" title="Category:IBM Fellows">IBM Fellows</a></li><li><a href="/wiki/Category:People_from_Moody_County,_South_Dakota" title="Category:People from Moody County, South Dakota">People from Moody County, South Dakota</a></li><li><a href="/wiki/Category:American_people_of_Norwegian_descent" title="Category:American people of Norwegian descent">American people of Norwegian descent</a></li><li><a href="/wiki/Category:American_people_of_Swedish_descent" title="Category:American people of Swedish descent">American people of Swedish descent</a></li><li><a href="/wiki/Category:University_of_Wisconsin%E2%80%93Madison_alumni" title="Category:University of Wisconsin–Madison alumni">University of Wisconsin–Madison alumni</a></li><li><a href="/wiki/Category:Fellows_of_the_British_Computer_Society" title="Category:Fellows of the British Computer Society">Fellows of the British Computer Society</a></li><li><a href="/wiki/Category:South_Dakota_State_University_alumni" title="Category:South Dakota State University alumni">South Dakota State University alumni</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Deaths_from_pneumonia" title="Category:Deaths from pneumonia">Deaths from pneumonia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_June_2013" title="Category:Use mdy dates from June 2013">Use mdy dates from June 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2010" title="Category:Articles with unsourced statements from November 2010">Articles with unsourced statements from November 2010</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gene+Amdahl&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gene+Amdahl" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Gene_Amdahl"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Gene_Amdahl"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Gene_Amdahl" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Gene_Amdahl&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Gene_Amdahl&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gene_Amdahl" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gene_Amdahl" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gene_Amdahl&amp;oldid=692750286" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gene_Amdahl&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q62890" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gene_Amdahl&amp;id=692750286" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gene+Amdahl">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Gene+Amdahl&amp;returnto=Gene+Amdahl&amp;oldid=692750286&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Gene_Amdahl&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AC%D9%8A%D9%86_%D8%A3%D9%85%D8%AF%D8%A7%D9%84" title="جين أمدال – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Cin_Amdal" title="Cin Amdal – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BF%E0%A6%A8_%E0%A6%86%E0%A6%AE%E0%A7%8D%E2%80%8C%E0%A6%A1%E0%A6%BE%E0%A6%B2" title="জিন আম্‌ডাল – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AC%DB%8C%D9%86_%D8%A7%D9%85%D8%AF%D8%A7%D9%84" title="جین امدال – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%A7%84_%EC%95%94%EB%8B%AC" title="진 암달 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%A0%E3%83%80%E3%83%BC%E3%83%AB" title="ジーン・アムダール – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B4%D0%B0%D0%BB,_%D0%94%D0%B6%D0%B8%D0%BD" title="Амдал, Джин – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Gene_Amdahl" title="Gene Amdahl – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E9%98%BF%E5%A7%86%E9%81%94%E7%88%BE" title="吉恩·阿姆達爾 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q62890#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 November 2015, at 01:28.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Gene_Amdahl&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":639,"wgHostname":"mw1089"}); /* @nomin */
+} );</script>
+	</body>
+</html>

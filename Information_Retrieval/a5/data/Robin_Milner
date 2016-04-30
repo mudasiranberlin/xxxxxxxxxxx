@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Robin Milner - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Robin_Milner","wgTitle":"Robin Milner","wgCurRevisionId":693024817,"wgRevisionId":693024817,"wgArticleId":93547,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from April 2012","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","1934 births","2010 deaths","People from Devon","People educated at Eton College","Alumni of King's College, Cambridge","British computer scientists","Fellows of the Royal Society","Turing Award laureates","Academics of City University London","Academics of Swansea University","Stanford University School of Engineering faculty","Academics of the University of Edinburgh","Formal methods people","Members of the University of Cambridge Computer Laboratory","Fellows of the Association for Computing Machinery","Programming language designers","Programming language researchers","Fellows of the Royal Society of Edinburgh","Fellows of the British Computer Society","Royal Engineers officers","Computer science writers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Robin_Milner","wgRelevantArticleId":93547,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92643","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Robin_Milner" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Robin_Milner&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Robin_Milner&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Robin_Milner" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Robin_Milner skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Robin Milner</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Robin Milner</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>Arthur John Robin Gorell Milner<br />
+<span style="display:none">(<span class="bday">1934-01-13</span>)</span>13 January 1934<br />
+<a href="/wiki/Yealmpton" title="Yealmpton">Yealmpton</a>, <a href="/wiki/Plymouth" title="Plymouth">Plymouth</a>, <a href="/wiki/England" title="England">England</a></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>20 March 2010<span style="display:none">(<span class="dday deathdate">2010-03-20</span>)</span> (aged&#160;76)<br />
+<a href="/wiki/Cambridge" title="Cambridge">Cambridge</a>, <a href="/wiki/England" title="England">England</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Ferranti" title="Ferranti">Ferranti</a></li>
+<li><a href="/wiki/City_University,_London" title="City University, London" class="mw-redirect">City University, London</a></li>
+<li><a href="/wiki/Swansea_University" title="Swansea University">Swansea University</a></li>
+<li><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></li>
+<li><a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a></li>
+<li><a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a></li>
+<li><a href="/wiki/Aarhus_University" title="Aarhus University">Aarhus University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td>None, as Milner never did a PhD<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td>George Milne<br />
+Avra Cohn<br />
+Raymond Aubin<br />
+Mike Sanderson<br />
+<a href="/wiki/Alan_Mycroft" title="Alan Mycroft">Alan Mycroft</a><br />
+Luis Damas<br />
+Brian Monahan<br />
+Kevin Mitchell<br />
+Kim Larsen (1986)<br />
+<a href="/wiki/Mads_Tofte" title="Mads Tofte">Mads Tofte</a> (1988)<br />
+K.V.S. Prasad (1989)<br />
+<a href="/wiki/Faron_Moller" title="Faron Moller">Faron Moller</a><br />
+Dave Berry<br />
+<a href="/wiki/Chris_Tofts" title="Chris Tofts">Chris Tofts</a><br />
+Peter Sewell<br />
+<a href="/wiki/Davide_Sangiorgi" title="Davide Sangiorgi">Davide Sangiorgi</a> (1993)<br />
+David N. Turner (1995)<br />
+Alex Mifsud<br />
+James J. Leifer (2001)<sup id="cite_ref-mathgene_2-0" class="reference"><a href="#cite_note-mathgene-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/LCF_theorem_prover" title="LCF theorem prover" class="mw-redirect">LCF</a></li>
+<li><a href="/wiki/ML_programming_language" title="ML programming language" class="mw-redirect">ML</a></li>
+<li><a href="/wiki/Calculus_of_communicating_systems" title="Calculus of communicating systems">Calculus of communicating systems</a></li>
+<li><a href="/wiki/Pi-calculus" title="Pi-calculus" class="mw-redirect">Pi-calculus</a></li>
+<li><a href="/wiki/Type_inference#Hindley.E2.80.93Milner_type_inference_algorithm" title="Type inference">Hindley-Milner type inference</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/ACM_Turing_Award" title="ACM Turing Award" class="mw-redirect">Turing Award</a> (1991)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></li>
+<li><a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society" class="mw-redirect">FRS</a></li>
+<li><a href="/wiki/Royal_Society_of_Edinburgh" title="Royal Society of Edinburgh">FRSE</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Arthur John Robin Gorell Milner</b> <a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society" class="mw-redirect">FRS</a> <a href="/wiki/Royal_Society_of_Edinburgh" title="Royal Society of Edinburgh">FRSE</a> (13 January 1934 – 20 March 2010), known as <b>Robin Milner</b> or <b>A. J. R. G. Milner</b>, was a British <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a>, and a <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> winner.<sup id="cite_ref-times_4-0" class="reference"><a href="#cite_note-times-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-acm_9-0" class="reference"><a href="#cite_note-acm-9"><span>[</span>9<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Life.2C_education_and_career"><span class="tocnumber">1</span> <span class="toctext">Life, education and career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Contributions"><span class="tocnumber">2</span> <span class="toctext">Contributions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Honors_and_awards"><span class="tocnumber">3</span> <span class="toctext">Honors and awards</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Selected_publications"><span class="tocnumber">4</span> <span class="toctext">Selected publications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Bibliography"><span class="tocnumber">5</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Life.2C_education_and_career">Life, education and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robin_Milner&amp;action=edit&amp;section=1" title="Edit section: Life, education and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Milner was born in <a href="/wiki/Yealmpton" title="Yealmpton">Yealmpton</a>, near <a href="/wiki/Plymouth" title="Plymouth">Plymouth</a>, <a href="/wiki/England" title="England">England</a> into a military family. He was awarded a scholarship to <a href="/wiki/Eton_College" title="Eton College">Eton College</a> in 1947, and subsequently served in the <a href="/wiki/Royal_Engineers" title="Royal Engineers">Royal Engineers</a>, attaining the rank of Second Lieutenant. He then enrolled at <a href="/wiki/King%27s_College,_Cambridge" title="King's College, Cambridge">King's College, Cambridge</a>, graduating in 1957. Milner first worked as a schoolteacher then as a <a href="/wiki/Programmer" title="Programmer">programmer</a> at <a href="/wiki/Ferranti" title="Ferranti">Ferranti</a>, before entering academia at <a href="/wiki/City_University,_London" title="City University, London" class="mw-redirect">City University, London</a>, then <a href="/wiki/Swansea_University" title="Swansea University">Swansea University</a>, <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>, and from 1973 at the <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a>, where he was a co-founder of the <a href="/wiki/Laboratory_for_Foundations_of_Computer_Science" title="Laboratory for Foundations of Computer Science">Laboratory for Foundations of Computer Science</a> (LFCS). He returned to <a href="/wiki/University_of_Cambridge" title="University of Cambridge">Cambridge</a> as the head of the <a href="/wiki/Cambridge_University_Computer_Laboratory" title="Cambridge University Computer Laboratory" class="mw-redirect">Computer Laboratory</a> in 1995 from which he eventually stepped down, although he was still at the laboratory. From 2009, Milner was a SICSA Advanced Research Fellow and held (part-time) the Chair of Computer Science at the <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a>.</p>
+<p>Milner died of a <a href="/wiki/Heart_attack" title="Heart attack" class="mw-redirect">heart attack</a> on 20 March 2010 in Cambridge.<sup id="cite_ref-times_4-1" class="reference"><a href="#cite_note-times-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> His wife, Lucy, died shortly before him.</p>
+<h2><span class="mw-headline" id="Contributions">Contributions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robin_Milner&amp;action=edit&amp;section=2" title="Edit section: Contributions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Milner is generally regarded as having made three major contributions to <a href="/wiki/Computer_science" title="Computer science">computer science</a>. He developed <a href="/wiki/Logic_for_Computable_Functions" title="Logic for Computable Functions">LCF</a>, one of the first tools for <a href="/wiki/Automated_theorem_proving" title="Automated theorem proving">automated theorem proving</a>. The language he developed for LCF, <a href="/wiki/ML_programming_language" title="ML programming language" class="mw-redirect">ML</a>, was the first language with polymorphic <a href="/wiki/Type_inference" title="Type inference">type inference</a> and type-safe <a href="/wiki/Exception_handling" title="Exception handling">exception handling</a>. In a very different area, Milner also developed a theoretical framework for analyzing <a href="/wiki/Concurrent_systems" title="Concurrent systems" class="mw-redirect">concurrent systems</a>, the <a href="/wiki/Calculus_of_communicating_systems" title="Calculus of communicating systems">calculus of communicating systems</a> (CCS), and its successor, the <a href="/wiki/Pi-calculus" title="Pi-calculus" class="mw-redirect">pi-calculus</a>. At the time of his death, he was working on <a href="/wiki/Bigraphs" title="Bigraphs" class="mw-redirect">bigraphs</a>, a formalism for <a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">ubiquitous computing</a> subsuming CCS and the pi-calculus.<sup id="cite_ref-bigraphs_11-0" class="reference"><a href="#cite_note-bigraphs-11"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Honors_and_awards">Honors and awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robin_Milner&amp;action=edit&amp;section=3" title="Edit section: Honors and awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He was made a Fellow of the <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a> in 1988 and received the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> in 1991. In 1994 he was inducted as a <a href="/wiki/Fellow" title="Fellow">Fellow</a> of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a>. In 2004, the <a href="/wiki/Royal_Society_of_Edinburgh" title="Royal Society of Edinburgh">Royal Society of Edinburgh</a> awarded Milner with a Royal Medal for his "bringing about public benefits on a global scale". In 2008, he was elected a Foreign Associate of the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> for "fundamental contributions to computer science, including the development of LCF, ML, CCS, and the pi-calculus." <a rel="nofollow" class="external autonumber" href="http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=02082008">[1]</a></p>
+<h2><span class="mw-headline" id="Selected_publications">Selected publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robin_Milner&amp;action=edit&amp;section=4" title="Edit section: Selected publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>A Calculus of Communicating Systems</i>, Robin Milner. <a href="/wiki/Springer-Verlag" title="Springer-Verlag" class="mw-redirect">Springer-Verlag</a> (<a href="/wiki/LNCS" title="LNCS" class="mw-redirect">LNCS</a> 92), 1980. <a href="/wiki/Special:BookSources/3540102353" class="internal mw-magiclink-isbn">ISBN 3-540-10235-3</a></li>
+<li><i>Communication and Concurrency</i>, Robin Milner. <a href="/wiki/Prentice_Hall_International_Series_in_Computer_Science" title="Prentice Hall International Series in Computer Science">Prentice Hall International Series in Computer Science</a>, 1989. <a href="/wiki/Special:BookSources/0131150073" class="internal mw-magiclink-isbn">ISBN 0-13-115007-3</a></li>
+<li><i>The Definition of Standard ML</i>, Robin Milner, <a href="/wiki/Mads_Tofte" title="Mads Tofte">Mads Tofte</a>, Robert Harper, <a href="/wiki/MIT_Press" title="MIT Press">MIT Press</a> 1990</li>
+<li><i>The Definition of Standard ML</i> (Revised), Robin Milner, <a href="/wiki/Mads_Tofte" title="Mads Tofte">Mads Tofte</a>, Robert Harper, David MacQueen, MIT Press 1997. <a href="/wiki/Special:BookSources/0262631814" class="internal mw-magiclink-isbn">ISBN 0-262-63181-4</a></li>
+<li><i>Commentary on Standard ML</i>, Robin Milner, <a href="/wiki/Mads_Tofte" title="Mads Tofte">Mads Tofte</a>, MIT Press 1997. <a href="/wiki/Special:BookSources/0262631377" class="internal mw-magiclink-isbn">ISBN 0-262-63137-7</a></li>
+<li><i>Communicating and Mobile Systems: the Pi-Calculus</i>, Robin Milner. <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>, 1999. <a href="/wiki/Special:BookSources/0521658691" class="internal mw-magiclink-isbn">ISBN 0-521-65869-1</a></li>
+<li><i>The Space and Motion of Communicating Agents</i>, Robin Milner, <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>, 2009. <a href="/wiki/Special:BookSources/9780521738330" class="internal mw-magiclink-isbn">ISBN 978-0-521-73833-0</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Milner:Robin.html">Publications by Robin Milner</a> in <a href="/wiki/DBLP" title="DBLP">DBLP</a></li>
+</ul>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robin_Milner&amp;action=edit&amp;section=5" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.simple-talk.com/opinion/geek-of-the-week/robin-milner-geek-of-the-week/">An interview with Robin Milner, January 2010</a>.</li>
+<li><i><a rel="nofollow" class="external text" href="http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=3797">Proof, Language, and Interaction: Essays in Honour of Robin Milner</a></i>, edited by <a href="/wiki/Gordon_Plotkin" title="Gordon Plotkin">Gordon Plotkin</a>, Colin Stirling and <a href="/wiki/Mads_Tofte" title="Mads Tofte">Mads Tofte</a>. <a href="/wiki/The_MIT_Press" title="The MIT Press" class="mw-redirect">The MIT Press</a>, 2000. <a href="/wiki/Special:BookSources/0262161885" class="internal mw-magiclink-isbn">ISBN 0-262-16188-5</a>.</li>
+<li>The Royal Society of Edinburgh: <i>Royal Gold Medals for Outstanding Achievement</i> (2004 press release). <a rel="nofollow" class="external free" href="http://www.royalsoced.org.uk/rse_press/2004/medals.htm">http://www.royalsoced.org.uk/rse_press/2004/medals.htm</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fairdene.com/picalculus/robinmilner.html">A brief biography of and speech by Robin Milner</a></li>
+<li><a rel="nofollow" class="external text" href="http://homepages.inf.ed.ac.uk/gdp/publications/Robin_sci_biog.pdf">A Brief Scientific Biography of Robin Milner</a> (from Proof, Language, and Interaction: Essays in Honour of Robin Milner)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robin_Milner&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sussex.ac.uk/Users/mfb21/interviews/milner/">Interview with Robin Milner by Martin Berger</a>.</span></li>
+<li id="cite_note-mathgene-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-mathgene_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=143382">Robin Milner</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Milner, R. (1993). "Elements of interaction: Turing award lecture". <i>Communications of the ACM</i> <b>36</b>: 78–89. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F151233.151240">10.1145/151233.151240</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobin+Milner&amp;rft.atitle=Elements+of+interaction%3A+Turing+award+lecture&amp;rft.aufirst=R.&amp;rft.aulast=Milner&amp;rft.date=1993&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F151233.151240&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=78-89&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=36" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-times-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-times_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-times_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.timesonline.co.uk/tol/comment/obituaries/article7081867.ece">Obituary — Professor Robin Milner: computer scientist</a>, <i><a href="/wiki/The_Times" title="The Times">The Times</a></i>, 31 March 2010.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hoffmann, L. (2010). "Robin Milner: the elegant pragmatist". <i>Communications of the ACM</i> <b>53</b> (6): 20. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1743546.1743556">10.1145/1743546.1743556</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobin+Milner&amp;rft.atitle=Robin+Milner%3A+the+elegant+pragmatist&amp;rft.aufirst=L.&amp;rft.aulast=Hoffmann&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F1743546.1743556&amp;rft.issue=6&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=20&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=53" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Milner, R. (1987). "Is Computing an Experimental Science?". <i>Journal of Information Technology</i> <b>2</b> (2): 58–66. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1057%2Fjit.1987.12">10.1057/jit.1987.12</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobin+Milner&amp;rft.atitle=Is+Computing+an+Experimental+Science%3F&amp;rft.aufirst=R.&amp;rft.aulast=Milner&amp;rft.date=1987&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1057%2Fjit.1987.12&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Information+Technology&amp;rft.pages=58-66&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cl.cam.ac.uk/misc/obituaries/milner">http://www.cl.cam.ac.uk/misc/obituaries/milner</a> Cambridge University - Obituary</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cl.cam.ac.uk/users/rm135/">http://www.cl.cam.ac.uk/users/rm135/</a> Milner's Cambridge homepage</span></li>
+<li id="cite_note-acm-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-acm_9-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dl.acm.org/author_page.cfm?id=81332515695">Robin Milner</a> from the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery (ACM)</a> Digital Library</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://lists.seas.upenn.edu/pipermail/types-list/2010/001478.html">Newsgroup message</a> informing on Milner's death.</span></li>
+<li id="cite_note-bigraphs-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-bigraphs_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Milner, Robin. <a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/~rm135/uam-theme.html">"The Bigraphical Model"</a>. University of Cambridge<span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2009</span>. <q>Bigraphs [...] are proposed as a <b>Ubiquitous Abstract Machine</b>, playing the foundational role for ubiquitous computing that the von Neumann machine has played for sequential computing.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARobin+Milner&amp;rft.aufirst=Robin&amp;rft.aulast=Milner&amp;rft.btitle=The+Bigraphical+Model&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cl.cam.ac.uk%2F~rm135%2Fuam-theme.html&amp;rft.pub=University+of+Cambridge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Robin_Milner&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.cs.unibo.it/icalp/Lauree_milner.html">Address in Bologna</a>, a short address by Milner on receiving Laurea Honoris Causa in Computer Science from the <a href="/wiki/University_of_Bologna" title="University of Bologna">University of Bologna</a>, summarising some of his main works, 9 July 1997</li>
+<li><a rel="nofollow" class="external text" href="http://www.diffusion.ens.fr/data/audio/2007_12_10_milner.mp3">Is informatics a science?</a>, conference at <a href="/wiki/%C3%89cole_Normale_Sup%C3%A9rieure" title="École Normale Supérieure">ENS</a>, 10 December 2007</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:EATCS_Award_laureates" title="Template:EATCS Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:EATCS_Award_laureates" title="Template talk:EATCS Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:EATCS_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/European_Association_for_Theoretical_Computer_Science" title="European Association for Theoretical Computer Science">EATCS Award</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Richard_M._Karp" title="Richard M. Karp">Karp</a> <small>(2000)</small></li>
+<li><a href="/wiki/Corrado_B%C3%B6hm" title="Corrado Böhm">Böhm</a> <small>(2001)</small></li>
+<li><a href="/wiki/Maurice_Nivat" title="Maurice Nivat">Nivat</a> <small>(2002)</small></li>
+<li><a href="/wiki/Grzegorz_Rozenberg" title="Grzegorz Rozenberg">Rozenberg</a> <small>(2003)</small></li>
+<li><a href="/wiki/Arto_Salomaa" title="Arto Salomaa">Salomaa</a> <small>(2004)</small></li>
+<li><strong class="selflink">Milner</strong> <small>(2005)</small></li>
+<li><a href="/wiki/Mike_Paterson" title="Mike Paterson">Paterson</a> <small>(2006)</small></li>
+<li><a href="/wiki/Dana_Scott" title="Dana Scott">Scott</a> <small>(2007)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Valiant</a> <small>(2008)</small></li>
+<li><a href="/wiki/G%C3%A9rard_Huet" title="Gérard Huet">Huet</a> <small>(2009)</small></li>
+<li><a href="/wiki/Kurt_Mehlhorn" title="Kurt Mehlhorn">Mehlhorn</a> <small>(2010)</small></li>
+<li><a href="/wiki/Boris_Trakhtenbrot" title="Boris Trakhtenbrot">Trakhtenbrot</a> <small>(2011)</small></li>
+<li><a href="/wiki/Moshe_Vardi" title="Moshe Vardi">Vardi</a> <small>(2012)</small></li>
+<li><a href="/wiki/Martin_Dyer" title="Martin Dyer">Dyer</a> <small>(2013)</small></li>
+<li><a href="/wiki/Gordon_Plotkin" title="Gordon Plotkin">Plotkin</a> <small>(2014)</small></li>
+<li><a href="/wiki/Christos_Papadimitriou" title="Christos Papadimitriou">Papadimitriou</a> <small>(2015)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Turing_Award_laureates" title="Template:Turing Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Turing_Award_laureates" title="Template talk:Turing Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Turing_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a> <small>(1966)</small></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Vincent Wilkes</a> <small>(1967)</small></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1968)</small></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> <small>(1969)</small></li>
+<li><a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a> <small>(1970)</small></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a> <small>(1971)</small></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a> <small>(1972)</small></li>
+<li><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a> <small>(1973)</small></li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> <small>(1974)</small></li>
+<li><a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a> / <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a> <small>(1975)</small></li>
+<li><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a> / <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> <small>(1976)</small></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> <small>(1977)</small></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a> <small>(1978)</small></li>
+<li><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a> <small>(1979)</small></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> <small>(1980)</small></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> <small>(1981)</small></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> <small>(1982)</small></li>
+<li><a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> / <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> <small>(1983)</small></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> <small>(1984)</small></li>
+<li><a href="/wiki/Richard_Karp" title="Richard Karp" class="mw-redirect">Richard Karp</a> <small>(1985)</small></li>
+<li><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a> / <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a> <small>(1986)</small></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a> <small>(1987)</small></li>
+<li><a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a> <small>(1988)</small></li>
+<li><a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a> <small>(1989)</small></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a> <small>(1990)</small></li>
+<li><strong class="selflink">Robin Milner</strong> <small>(1991)</small></li>
+<li><a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a> <small>(1992)</small></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a> / <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a> <small>(1993)</small></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a> / <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a> <small>(1994)</small></li>
+<li><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a> <small>(1995)</small></li>
+<li><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a> <small>(1996)</small></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> <small>(1997)</small></li>
+<li><a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> <small>(1998)</small></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a> <small>(1999)</small></li>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Yao</a> <small>(2000)</small></li>
+<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a> / <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a> <small>(2001)</small></li>
+<li><a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a> / <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a> / <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a> <small>(2002)</small></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> <small>(2003)</small></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a> / <a href="/wiki/Bob_Kahn" title="Bob Kahn">Bob Kahn</a> <small>(2004)</small></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a> <small>(2005)</small></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a> <small>(2006)</small></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a> / <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a> / <a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a> <small>(2007)</small></li>
+<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> <small>(2008)</small></li>
+<li><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> <small>(2009)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie G. Valiant</a> <small>(2010)</small></li>
+<li><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a> <small>(2011)</small></li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a> / <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a> <small>(2012)</small></li>
+<li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> <small>(2013)</small></li>
+<li><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n79-133739">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/10415187">10415187</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n79133739">n79133739</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/128466081">128466081</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/034037535">034037535</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12483422x">cb12483422x</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12483422x">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=143382">143382</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20160107170448
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.220 seconds
+Real time usage: 0.275 seconds
+Preprocessor visited node count: 1428/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35421/2097152 bytes
+Template argument size: 2871/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.089/10.000 seconds
+Lua memory usage: 2.86 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  231.588      1 - -total
+ 32.71%   75.755      1 - Template:Reflist
+ 28.46%   65.920      1 - Template:Infobox_scientist
+ 25.51%   59.085      1 - Template:Infobox
+ 17.61%   40.782      3 - Template:Cite_journal
+ 16.35%   37.875      1 - Template:Authority_control
+ 11.74%   27.197      1 - Template:Use_dmy_dates
+ 11.46%   26.538      4 - Template:Br_separated_entries
+  5.03%   11.639      1 - Template:DMCA
+  4.44%   10.279      2 - Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:93547-0!*!0!!en!*!* and timestamp 20160107170448 and revision id 693024817
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Robin_Milner&amp;oldid=693024817">https://en.wikipedia.org/w/index.php?title=Robin_Milner&amp;oldid=693024817</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1934_births" title="Category:1934 births">1934 births</a></li><li><a href="/wiki/Category:2010_deaths" title="Category:2010 deaths">2010 deaths</a></li><li><a href="/wiki/Category:People_from_Devon" title="Category:People from Devon">People from Devon</a></li><li><a href="/wiki/Category:People_educated_at_Eton_College" title="Category:People educated at Eton College">People educated at Eton College</a></li><li><a href="/wiki/Category:Alumni_of_King%27s_College,_Cambridge" title="Category:Alumni of King's College, Cambridge">Alumni of King's College, Cambridge</a></li><li><a href="/wiki/Category:British_computer_scientists" title="Category:British computer scientists">British computer scientists</a></li><li><a href="/wiki/Category:Fellows_of_the_Royal_Society" title="Category:Fellows of the Royal Society">Fellows of the Royal Society</a></li><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li><li><a href="/wiki/Category:Academics_of_City_University_London" title="Category:Academics of City University London">Academics of City University London</a></li><li><a href="/wiki/Category:Academics_of_Swansea_University" title="Category:Academics of Swansea University">Academics of Swansea University</a></li><li><a href="/wiki/Category:Stanford_University_School_of_Engineering_faculty" title="Category:Stanford University School of Engineering faculty">Stanford University School of Engineering faculty</a></li><li><a href="/wiki/Category:Academics_of_the_University_of_Edinburgh" title="Category:Academics of the University of Edinburgh">Academics of the University of Edinburgh</a></li><li><a href="/wiki/Category:Formal_methods_people" title="Category:Formal methods people">Formal methods people</a></li><li><a href="/wiki/Category:Members_of_the_University_of_Cambridge_Computer_Laboratory" title="Category:Members of the University of Cambridge Computer Laboratory">Members of the University of Cambridge Computer Laboratory</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:Programming_language_researchers" title="Category:Programming language researchers">Programming language researchers</a></li><li><a href="/wiki/Category:Fellows_of_the_Royal_Society_of_Edinburgh" title="Category:Fellows of the Royal Society of Edinburgh">Fellows of the Royal Society of Edinburgh</a></li><li><a href="/wiki/Category:Fellows_of_the_British_Computer_Society" title="Category:Fellows of the British Computer Society">Fellows of the British Computer Society</a></li><li><a href="/wiki/Category:Royal_Engineers_officers" title="Category:Royal Engineers officers">Royal Engineers officers</a></li><li><a href="/wiki/Category:Computer_science_writers" title="Category:Computer science writers">Computer science writers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_April_2012" title="Category:Use dmy dates from April 2012">Use dmy dates from April 2012</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Robin+Milner&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Robin+Milner" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Robin_Milner"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Robin_Milner"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Robin_Milner" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Robin_Milner&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Robin_Milner&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Robin_Milner" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Robin_Milner" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Robin_Milner&amp;oldid=693024817" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Robin_Milner&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92643" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Robin_Milner&amp;id=693024817" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Robin+Milner">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Robin+Milner&amp;returnto=Robin+Milner&amp;oldid=693024817&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Robin_Milner&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%A8%D9%86_%D9%85%D9%8A%D9%84%D9%86%D8%B1" title="روبن ميلنر – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%AC%E0%A6%BF%E0%A6%A8_%E0%A6%AE%E0%A6%BF%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A6%B0" title="রবিন মিলনার – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B1%D8%A7%D8%A8%DB%8C%D9%86_%D9%85%DB%8C%D9%84%D8%B2" title="رابین میلز – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%AD%E3%83%93%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%AB%E3%83%8A%E3%83%BC" title="ロビン・ミルナー – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BD%D0%B5%D1%80,_%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD" title="Милнер, Робин – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD_%D0%9C%D0%B8%D0%BB%D0%BD%D0%B5%D1%80" title="Робин Милнер – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1%D1%96%D0%BD_%D0%9C%D1%96%D0%BB%D0%BD%D0%B5%D1%80" title="Робін Мілнер – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Robin_Milner" title="Robin Milner – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%BD%97%E5%AE%BE%C2%B7%E7%B1%B3%E5%B0%94%E7%BA%B3" title="罗宾·米尔纳 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92643#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 November 2015, at 23:05.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Robin_Milner&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":141,"wgHostname":"mw1108"}); /* @nomin */
+} );</script>
+	</body>
+</html>

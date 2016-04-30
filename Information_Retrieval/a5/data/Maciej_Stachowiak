@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Maciej Stachowiak - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Maciej_Stachowiak","wgTitle":"Maciej Stachowiak","wgCurRevisionId":678607160,"wgRevisionId":678607160,"wgArticleId":24565549,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with reference errors","Pages with duplicate reference names","Articles with hCards","Articles including recorded pronunciations","Apple Inc. employees","Free software programmers","World Wide Web Consortium","GNOME developers","Living people","Massachusetts Institute of Technology alumni","American people of Polish descent","People from Koszalin","1976 births"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Maciej_Stachowiak","wgRelevantArticleId":24565549,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Maciej_Stachowiak_in_2009.png/81px-Maciej_Stachowiak_in_2009.png","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6723998","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Maciej_Stachowiak" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Maciej_Stachowiak&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Maciej_Stachowiak&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Maciej_Stachowiak" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Maciej_Stachowiak skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Maciej Stachowiak</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Maciej Stachowiak</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Maciej_Stachowiak_in_2009.png" class="image" title="Maciej Stachowiak in Boston, 2009"><img alt="Maciej Stachowiak in Boston, 2009" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Maciej_Stachowiak_in_2009.png/220px-Maciej_Stachowiak_in_2009.png" width="220" height="272" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Maciej_Stachowiak_in_2009.png/330px-Maciej_Stachowiak_in_2009.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Maciej_Stachowiak_in_2009.png/440px-Maciej_Stachowiak_in_2009.png 2x" data-file-width="523" data-file-height="646" /></a>
+<div>Maciej Stachowiak in Boston, 2009</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1976-06-06</span>)</span> June 6, 1976 <span class="noprint ForceAgeToShow">(age&#160;39)</span><br />
+<span class="birthplace"><a href="/wiki/Koszalin" title="Koszalin">Koszalin</a>, <a href="/wiki/People%27s_Republic_of_Poland" title="People's Republic of Poland" class="mw-redirect">Poland</a></span></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">Polish</td>
+</tr>
+<tr>
+<th scope="row">Citizenship</th>
+<td class="category">American</td>
+</tr>
+<tr>
+<th scope="row">Education</th>
+<td>MIT <a href="/wiki/MIT_Electrical_Engineering_and_Computer_Science_Department" title="MIT Electrical Engineering and Computer Science Department">Course 6 - Electrical Engineering and Computer Science</a> <a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">Sc.B.</a> and <a href="/wiki/Master_of_Engineering" title="Master of Engineering">M.Eng</a> Electrical Engineering and Computer Science</td>
+</tr>
+<tr>
+<th scope="row">Parent(s)</th>
+<td>Grzegorz and Anna Stachowiak</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Engineering career</b></td>
+</tr>
+<tr>
+<th scope="row">Engineering discipline</th>
+<td class="category"><a href="/wiki/HTML" title="HTML">HTML</a> Standards</td>
+</tr>
+<tr>
+<th scope="row">Employer(s)</th>
+<td class="org"><a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Inc.</a></td>
+</tr>
+<tr class="note">
+<th scope="row">Significant projects</th>
+<td><a href="/wiki/Nautilus_(file_manager)" title="Nautilus (file manager)" class="mw-redirect">Nautilus</a>, <a href="/wiki/GNOME" title="GNOME">GNOME</a>, <a href="/wiki/Safari_(web_browser)" title="Safari (web browser)">Safari</a> / <a href="/wiki/WebKit" title="WebKit">WebKit</a></td>
+</tr>
+<tr class="note">
+<th scope="row">Significant design</th>
+<td><a href="/wiki/HTML_5" title="HTML 5" class="mw-redirect">HTML 5</a>, <a href="/wiki/Webkit" title="Webkit" class="mw-redirect">Webkit</a></td>
+</tr>
+</table>
+<p><b>Maciej Stachowiak</b> (<span class="nowrap"><span class="noexcerpt"><a href="//upload.wikimedia.org/wikipedia/en/a/ae/Maciej-Stachowiak-en-US-pronunciation.ogg" title="Listen"><img alt="Listen" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/11px-Speakerlink-new.svg.png" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/17px-Speakerlink-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Speakerlink-new.svg/22px-Speakerlink-new.svg.png 2x" data-file-width="11" data-file-height="11" /></a><sup><span class="IPA" style="color:#00e;font:bold 80% sans-serif;padding:0 .1em"><a href="/wiki/File:Maciej-Stachowiak-en-US-pronunciation.ogg" title="File:Maciej-Stachowiak-en-US-pronunciation.ogg">i</a></span></sup></span><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="/ˈ/ primary stress follows">ˈ</span><span title="'m' in 'my'">m</span><span title="/æ/ short 'a' in 'bad'">æ</span><span title="/tʃ/ 'ch' in 'china'">tʃ</span><span title="/eɪ/ long 'a' in 'base'">eɪ</span></span> <span style="border-bottom:1px dotted"><span title="'s' in 'sigh'">s</span><span title="'t' in 'tie'">t</span><span title="/ə/ 'a' in 'about'">ə</span><span title="/ˈ/ primary stress follows">ˈ</span><span title="'h' in 'hi'">h</span><span title="/oʊ/ long 'o' in 'code'">oʊ</span><span title="'v' in 'vie'">v</span><span title="/i/ 'y' in 'happy'">i</span><span title="/./ syllable break">.</span><span title="/æ/ short 'a' in 'bad'">æ</span><span title="'k' in 'kind'">k</span></span>/</a></span></span>; born June 6, 1976) is a <a href="/wiki/Polish_American" title="Polish American" class="mw-redirect">Polish American</a> software developer currently employed by <a href="/wiki/Apple_Inc" title="Apple Inc" class="mw-redirect">Apple Inc</a>. where he is a leader of the development team responsible for the <a href="/wiki/Safari_web_browser" title="Safari web browser" class="mw-redirect">Safari web browser</a> and <a href="/wiki/WebKit" title="WebKit">WebKit</a> Framework. A longtime proponent of <a href="/wiki/Open_Source" title="Open Source" class="mw-redirect">Open Source</a>, Stachowiak was involved with the <a href="/wiki/Scwm" title="Scwm">SCWM</a>, <a href="/wiki/GNOME" title="GNOME">GNOME</a> and <a href="/wiki/Nautilus_(file_manager)" title="Nautilus (file manager)" class="mw-redirect">Nautilus</a> projects for Linux before joining Apple. He is actively involved the development of web standards, and is a co-chair of the <a href="/wiki/W3c" title="W3c" class="mw-redirect">World Wide Web Consortium</a>'s <a href="/wiki/HTML_5" title="HTML 5" class="mw-redirect">HTML 5</a> working group and a member of the <a href="/wiki/WHATWG" title="WHATWG">Web Hypertext Application Technology Working Group</a> steering committee.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education"><span class="tocnumber">1</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Eazel"><span class="tocnumber">2</span> <span class="toctext">Eazel</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Apple_Inc."><span class="tocnumber">3</span> <span class="toctext">Apple Inc.</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#W3C_Standards_Participation"><span class="tocnumber">3.1</span> <span class="toctext">W3C Standards Participation</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Web_Standards_Project_Participation"><span class="tocnumber">3.2</span> <span class="toctext">Web Standards Project Participation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Family_and_Personal_Life"><span class="tocnumber">4</span> <span class="toctext">Family and Personal Life</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maciej_Stachowiak&amp;action=edit&amp;section=1" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After graduating from <a href="/wiki/East_High_School_(Rochester,_New_York)" title="East High School (Rochester, New York)">East High School (Rochester, New York)</a> in 1994,<sup id="cite_ref-Facebook_1-0" class="reference"><a href="#cite_note-Facebook-1"><span>[</span>1<span>]</span></a></sup> Stachowiak was accepted into <a href="/wiki/MIT" title="MIT" class="mw-redirect">MIT</a> where he completed <a href="/wiki/MIT_Electrical_Engineering_and_Computer_Science_Department" title="MIT Electrical Engineering and Computer Science Department">Course 6 - Electrical Engineering and Computer Science</a> and received both his <a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">Sc.B.</a> and <a href="/wiki/Master_of_Engineering" title="Master of Engineering">M.Eng.</a> in 1998.<sup id="cite_ref-LinkedIn_2-0" class="reference"><a href="#cite_note-LinkedIn-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>While at MIT Stachowiak worked on the Rethinking CS101 project,<sup id="cite_ref-rethinking_cs_3-0" class="reference"><a href="#cite_note-rethinking_cs-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> and in 1997 he began the <a href="/wiki/Scwm" title="Scwm">The Scheme Constraints Window Manager</a> project with Greg Badros.<sup id="cite_ref-scwm_5-0" class="reference"><a href="#cite_note-scwm-5"><span>[</span>5<span>]</span></a></sup> He also contributed to a paper with the Cognitive &amp; Neural Sciences <a href="/wiki/Office_of_Naval_Research" title="Office of Naval Research">Office of Naval Research</a>.<sup id="cite_ref-naval_research_6-0" class="reference"><a href="#cite_note-naval_research-6"><span>[</span>6<span>]</span></a></sup> Stachowiak's MIT M.Eng. thesis on "Automated Extraction of Structured data from HTML Documents" was indicative of his early interest in web standards and development.<sup id="cite_ref-MIT_Thesis_7-0" class="reference"><a href="#cite_note-MIT_Thesis-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Eazel">Eazel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maciej_Stachowiak&amp;action=edit&amp;section=2" title="Edit section: Eazel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>From 1999-2001, Stachowiak contributed to various <a href="/wiki/Linux" title="Linux">Linux</a> software projects and was employed by <a href="/wiki/Eazel" title="Eazel">Eazel</a> as one of their lead developers along with <a href="/wiki/Andy_Hertzfeld" title="Andy Hertzfeld">Andy Hertzfeld</a> and <a href="/wiki/Darin_Adler" title="Darin Adler">Darin Adler</a> to create the <a href="/wiki/Nautilus_(file_manager)" title="Nautilus (file manager)" class="mw-redirect">Nautilus file manager</a>. He was also a developer on the Object Activation Framework (OAF) for the <a href="/wiki/GNOME" title="GNOME">GNOME</a> <a href="/wiki/Desktop_environment" title="Desktop environment">desktop environment</a> from 1999-2001. In 1999, he became a maintainer for the <a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme</a> interpreter for <a href="/wiki/GNU_Guile" title="GNU Guile">Guile</a>.<sup id="cite_ref-Guile_8-0" class="reference"><a href="#cite_note-Guile-8"><span>[</span>8<span>]</span></a></sup> During his employment at Eazel, Stachowiak also contributed to <a href="/wiki/Eye_of_GNOME" title="Eye of GNOME">Eye of GNOME</a>, GNOME Libs, Gravevine, GnoP, and was a Developer on Medusa, <a href="/wiki/Bonobo_(component_model)" title="Bonobo (component model)">Bonobo</a>, <a href="/wiki/GNOME_VFS" title="GNOME VFS" class="mw-redirect">GNOME VFS</a>. Stachowiak was also a member of <a href="/wiki/GNOME_Foundation" title="GNOME Foundation">GNOME Foundation</a> board of directors.<sup id="cite_ref-Advogato_Page_9-0" class="reference"><a href="#cite_note-Advogato_Page-9"><span>[</span>9<span>]</span></a></sup> During this time, Eazel was profiled in <a href="/wiki/Fortune_magazine" title="Fortune magazine" class="mw-redirect">Fortune magazine</a> and Stachowiak was asked why he had decided to join Eazel. "It seemed like a borderline-crazy business plan," observed Maciej Stachowiak, who is one year out of MIT. "But I said, 'Sure, I'll work on it.'" He was laughing as he said this, but his colleagues fidgeted uncomfortably.<sup id="cite_ref-Fortune_Article_10-0" class="reference"><a href="#cite_note-Fortune_Article-10"><span>[</span>10<span>]</span></a></sup> Two months later, Eazel closed its doors, laying off its entire staff, including Stachowiak.<sup id="cite_ref-Eazel_Closed_11-0" class="reference"><a href="#cite_note-Eazel_Closed-11"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Apple_Inc.">Apple Inc.</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maciej_Stachowiak&amp;action=edit&amp;section=3" title="Edit section: Apple Inc.">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After the closure of Eazel, most of the remaining senior engineers (including <a href="/wiki/Bud_Tribble" title="Bud Tribble">Bud Tribble</a>, Don Melton, <a href="/wiki/Darin_Adler" title="Darin Adler">Darin Adler</a>, John Sullivan, Ken Kocienda, and Stachowiak) and <a href="/wiki/Netscape_Communications_Corporation" title="Netscape Communications Corporation" class="mw-redirect">Netscape</a>/<a href="/wiki/Mozilla_Firefox" title="Mozilla Firefox" class="mw-redirect">Mozilla Firefox</a> alumni <a href="/wiki/David_Hyatt" title="David Hyatt" class="mw-redirect">David Hyatt</a> joined Apple's Safari team in June 2001.<sup id="cite_ref-Facebook_1-1" class="reference"><a href="#cite_note-Facebook-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-Gramps_12-0" class="reference"><a href="#cite_note-Gramps-12"><span>[</span>12<span>]</span></a></sup> On June 13, 2002, Stachowiak announced on a mailing list that Apple was releasing JavaScriptCore, a framework for Mac OS X that was based on <a href="/wiki/KDE%27s_JavaScript_engine" title="KDE's JavaScript engine" class="mw-redirect">KDE's JavaScript engine</a>.<sup id="cite_ref-kde-darwin_mailing_list.2C_June_2002_13-0" class="reference"><a href="#cite_note-kde-darwin_mailing_list.2C_June_2002-13"><span>[</span>13<span>]</span></a></sup> Through the WebKit project, JavaScriptCore has since evolved into <a href="/wiki/JavaScriptCore" title="JavaScriptCore" class="mw-redirect">SquirrelFish Extreme</a>, a JavaScript engine that compiles JavaScript into native machine code. On June 6, 2005, Webkit was made open source (which was coincidentally and not intentionally Stachowiak's birthday).</p>
+<h3><span class="mw-headline" id="W3C_Standards_Participation">W3C Standards Participation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maciej_Stachowiak&amp;action=edit&amp;section=4" title="Edit section: W3C Standards Participation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Stachowiak wrote on behalf of Apple along with members of the <a href="/wiki/Mozilla_Foundation" title="Mozilla Foundation">Mozilla Foundation</a> and <a href="/wiki/Opera_Software" title="Opera Software">Opera Software</a> in a proposal that the new HTML working group of the W3C adopt the <a href="/wiki/Web_Hypertext_Application_Technology_Working_Group" title="Web Hypertext Application Technology Working Group" class="mw-redirect">Web Hypertext Application Technology Working Group</a>’s <a href="/wiki/HTML5" title="HTML5">HTML5</a> as the starting point of its work.<sup id="cite_ref-w3c_HTML5_14-0" class="reference"><a href="#cite_note-w3c_HTML5-14"><span>[</span>14<span>]</span></a></sup> On 9 May 2007, the new HTML working group resolved to do that. In May 2009, Stachowiak co-authored the W3C HTML Design Principles for HTML5, one of his first major documentation projects for the W3C.<sup id="cite_ref-design_15-0" class="reference"><a href="#cite_note-design-15"><span>[</span>15<span>]</span></a></sup> As of 27 August 2009, Stachowiak has co-chaired the <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">World Wide Web Consortium</a>'s HTML Working Group along with <a href="/wiki/IBM" title="IBM">IBM</a>'s <a href="/wiki/Sam_Ruby" title="Sam Ruby">Sam Ruby</a> and <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>'s <a href="/w/index.php?title=Paul_Cotton_(software_developer)&amp;action=edit&amp;redlink=1" class="new" title="Paul Cotton (software developer) (page does not exist)">Paul Cotton</a>.<sup id="cite_ref-arstechnica_16-0" class="reference"><a href="#cite_note-arstechnica-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-cnet_17-0" class="reference"><a href="#cite_note-cnet-17"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Web_Standards_Project_Participation">Web Standards Project Participation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maciej_Stachowiak&amp;action=edit&amp;section=5" title="Edit section: Web Standards Project Participation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>WebKit, the underpinnings of Safari, was made open source on June 6, 2005. When Safari was run with this latest version of WebKit, it passed the <a href="/wiki/Web_Standards_Project" title="Web Standards Project">Web Standards Project</a>'s <a href="/wiki/Acid2" title="Acid2">Acid2</a> test. Stachowiak reported on the WebKit blog on March 26, 2008 that webkit had passed 100/100 on the <a href="/wiki/Acid3" title="Acid3">Acid3</a> test, making Safari the first browser to pass.<sup id="cite_ref-safari_acid3_full_18-0" class="reference"><a href="#cite_note-safari_acid3_full-18"><span>[</span>18<span>]</span></a></sup> In September 2008, it was reported that "WebKit is the first browser engine to fully pass Acid3," by developer Stachowiak in a post to the WebKit blog.<sup id="cite_ref-safari_acid3_full_18-1" class="reference"><a href="#cite_note-safari_acid3_full-18"><span>[</span>18<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Family_and_Personal_Life">Family and Personal Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maciej_Stachowiak&amp;action=edit&amp;section=6" title="Edit section: Family and Personal Life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Maciej Stachowiak was born in <a href="/wiki/Koszalin" title="Koszalin">Koszalin</a>, <a href="/wiki/Poland" title="Poland">Poland</a> to Anna and <a href="/w/index.php?title=Grzegorz_Stachowiak&amp;action=edit&amp;redlink=1" class="new" title="Grzegorz Stachowiak (page does not exist)">Grzegorz Stachowiak</a>, both of whom were educated as engineers in Poland. When <a href="/wiki/Martial_law_in_Poland" title="Martial law in Poland">martial law</a> was declared in Poland, Maciej's father Grzegorz and other members of the <a href="/wiki/History_of_Solidarity" title="History of Solidarity">Solidarity movement</a> were arrested and incarcerated on December 13, 1981. After Grzegorz was released in November 1982, Stachowiak's family fled Poland and entered the United States seeking <a href="/wiki/Right_of_asylum" title="Right of asylum">political asylum</a>.<sup id="cite_ref-Grzegorz_Solidarity_19-0" class="reference"><a href="#cite_note-Grzegorz_Solidarity-19"><span>[</span>19<span>]</span></a></sup> They were granted American citizenship a short time later. Maciej's younger sister, Agnieszka Stachowiak, attended MIT for her undergraduate and Ph.D., and is currently a faculty member at MIT.<sup id="cite_ref-AStachow_at_MIT_20-0" class="reference"><a href="#cite_note-AStachow_at_MIT-20"><span>[</span>20<span>]</span></a></sup> The pseudonym, "othermaciej" <sup id="cite_ref-othermaciej_21-0" class="reference"><a href="#cite_note-othermaciej-21"><span>[</span>21<span>]</span></a></sup> was acquired when Apple’s WebKit team decided to use <a href="/wiki/Freenode" title="Freenode">freenode</a> as the home for the #webkit irc channel, and Maciej Cegłowski was already using the irc nick "maciej".</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maciej_Stachowiak&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Facebook-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Facebook_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Facebook_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.facebook.com/profile.php?v=info&amp;id=712797">Maciej Stachowiak's Facebook Profile</a>, Retrieved 2010-01-17.</span></li>
+<li id="cite_note-LinkedIn-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-LinkedIn_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.linkedin.com/pub/maciej-stachowiak/1/423/b49">Maciej Stachowiak's LinkedIn Profile</a>, Retrieved 2010-01-17.</span></li>
+<li id="cite_note-rethinking_cs-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-rethinking_cs_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://faculty.olin.edu/~las/2001/07/www.ai.mit.edu/people/las/students.html">Lynn Andrea Stein's Students</a>, Retrieved 2010-01-17.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ai.mit.edu/projects/cs101/">"The Rethinking CS101 Project"</a>. December 5, 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaciej+Stachowiak&amp;rft.btitle=The+Rethinking+CS101+Project&amp;rft.date=2005-12-05&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ai.mit.edu%2Fprojects%2Fcs101%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-scwm-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-scwm_5-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.informit.com/articles/article.aspx?p=18279&amp;seqNum=3">InformIT: SCWM: The Scheme Constraints Window Manager &gt; Background</a> Retrieved 2010-01-17.</span></li>
+<li id="cite_note-naval_research-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-naval_research_6-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA335483&amp;Location=U2&amp;doc=GetTRDoc.pdf">Training Spatial Knowledge Acquisition Using Virtual Environments</a>, Retrieved 2010-01-17.</span></li>
+<li id="cite_note-MIT_Thesis-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-MIT_Thesis_7-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dspace.mit.edu/handle/1721.1/9896?show=full">Automated Extraction of Structured Data from HTML Documents</a>, Retrieved 2010-01-17.</span></li>
+<li id="cite_note-Guile-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Guile_8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wingolog.org/archives/2009/01/07/a-brief-history-of-guile">A Brief History of Guile, by Andy Wingo</a> Retrieved 2010-01-17.</span></li>
+<li id="cite_note-Advogato_Page-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Advogato_Page_9-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.advogato.org/person/mjs/">Advogato: Personal info for mjs</a>, Retrieved 2010-01-17.</span></li>
+<li id="cite_note-Fortune_Article-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fortune_Article_10-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://money.cnn.com/magazines/fortune/fortune_archive/2001/03/19/299188/index.htm">"Welcome To Silicon Valley's Twilight Zone In the nation's mecca of technology, they say they've learned to stop worrying and love the crash. Anyone care to take a lie detector test?" Fortune Magazine, March 19, 2001</a>, Retrieved 2010-01-17.</span></li>
+<li id="cite_note-Eazel_Closed-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Eazel_Closed_11-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.cnet.com/2100-1001-257709.html">Consumer-Linux company Eazel closes, CNET News, May 15, 2001 6:15 PM PDT</a>, Retrieved 2010-01-17.</span></li>
+<li id="cite_note-Gramps-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gramps_12-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://lists.kde.org/?m=104197092318639">(fwd) Greetings from the Safari team at Apple Computer</a>, Retrieved 2010-01-17.</span></li>
+<li id="cite_note-kde-darwin_mailing_list.2C_June_2002-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-kde-darwin_mailing_list.2C_June_2002_13-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20070310215550/www.opendarwin.org/pipermail/kde-darwin/2002-June/000034.html">[KDE-Darwin] JavaScriptCore, Apple's JavaScript framework based on KJS</a>, Retrieved 2010-01-17.</span></li>
+<li id="cite_note-w3c_HTML5-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-w3c_HTML5_14-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://lists.w3.org/Archives/Public/public-html/2007Apr/0429.html">Proposal to Adopt HTML5 from Maciej Stachowiak on 2007-04-10</a> Retrieved 2010-01-17.</span></li>
+<li id="cite_note-design-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-design_15-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dev.w3.org/html5/html-design-principles/">HTML Design Principles, W3C Working Draft 26 May 2009</a>, Retrieved 2010-01-17.</span></li>
+<li id="cite_note-arstechnica-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-arstechnica_16-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://arstechnica.com/apple/news/2009/08/apple-webkit-engineer-named-co-chair-of-html-working-group.ars">Apple WebKit engineer named co-chair of HTML Working Group</a>, Retrieved 2010-01-17.</span></li>
+<li id="cite_note-cnet-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-cnet_17-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.cnet.com/8301-30685_3-10319463-264.html">Apple gets higher profile in HTML standardization</a> - <a href="/wiki/CNET_Networks#CNET_News" title="CNET Networks" class="mw-redirect">CNET News</a></span></li>
+<li id="cite_note-safari_acid3_full-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-safari_acid3_full_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-safari_acid3_full_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://webkit.org/blog/173/webkit-achieves-acid3-100100-in-public-build/">Surfin' Safari: WebKit achieves Acid3 100/100 in public build</a>, Retrieved 2008-03-26. <strong class="error mw-ext-cite-error">Cite error: Invalid <code>&lt;ref&gt;</code> tag; name "safari_acid3_full" defined multiple times with different content (see the <a href="/wiki/Help:Cite_errors/Cite_error_references_duplicate_key" title="Help:Cite errors/Cite error references duplicate key">help page</a>).</strong></span></li>
+<li id="cite_note-Grzegorz_Solidarity-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Grzegorz_Solidarity_19-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.komk.ovh.org/historia_04.html">Solidarność w Koszalinie. Początki</a>, Solidarity in Koszalin. Beginnings.</span></li>
+<li id="cite_note-AStachow_at_MIT-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-AStachow_at_MIT_20-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.mit.edu/be/people/stachowiak.htm">MIT| Department of Biological Engineering</a>, Agnieszka (Agi) Stachowiak, Ph.D.'s Faculty Staff page at MIT</span></li>
+<li id="cite_note-othermaciej-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-othermaciej_21-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://trac.webkit.org/wiki/WebKit%20Team">WebKit Team Page on webkit.org's Trac page</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maciej_Stachowiak&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://webkit.org/blog/">Surfin' Safari</a> - a weblog dedicated to discussing WebKit development, by various members of the WebKit team</li>
+<li><a rel="nofollow" class="external text" href="https://twitter.com/othermaciej">Maciej Stachowiak</a> on <a href="/wiki/Twitter" title="Twitter">Twitter</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20160107172034
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.196 seconds
+Real time usage: 0.253 seconds
+Preprocessor visited node count: 1640/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15903/2097152 bytes
+Template argument size: 3340/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 0/500
+Lua time usage: 0.061/10.000 seconds
+Lua memory usage: 2.05 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  218.637      1 - -total
+ 46.42%  101.500      1 - Template:Infobox_engineer
+ 44.90%   98.169      1 - Template:Infobox_person
+ 39.50%   86.352      2 - Template:Infobox
+ 32.03%   70.037      1 - Template:Reflist
+ 18.93%   41.386      2 - Template:Broken_ref
+ 12.99%   28.410      1 - Template:Cite_web
+ 11.36%   24.835      5 - Template:Br_separated_entries
+  6.92%   15.119      1 - Template:IPAc-en
+  5.96%   13.035      1 - Template:Wikidata_image
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24565549-0!*!0!!en!4!* and timestamp 20160107172034 and revision id 678607160
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Maciej_Stachowiak&amp;oldid=678607160">https://en.wikipedia.org/w/index.php?title=Maciej_Stachowiak&amp;oldid=678607160</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Apple_Inc._employees" title="Category:Apple Inc. employees">Apple Inc. employees</a></li><li><a href="/wiki/Category:Free_software_programmers" title="Category:Free software programmers">Free software programmers</a></li><li><a href="/wiki/Category:World_Wide_Web_Consortium" title="Category:World Wide Web Consortium">World Wide Web Consortium</a></li><li><a href="/wiki/Category:GNOME_developers" title="Category:GNOME developers">GNOME developers</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_alumni" title="Category:Massachusetts Institute of Technology alumni">Massachusetts Institute of Technology alumni</a></li><li><a href="/wiki/Category:American_people_of_Polish_descent" title="Category:American people of Polish descent">American people of Polish descent</a></li><li><a href="/wiki/Category:People_from_Koszalin" title="Category:People from Koszalin">People from Koszalin</a></li><li><a href="/wiki/Category:1976_births" title="Category:1976 births">1976 births</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_reference_errors" title="Category:Pages with reference errors">Pages with reference errors</a></li><li><a href="/wiki/Category:Pages_with_duplicate_reference_names" title="Category:Pages with duplicate reference names">Pages with duplicate reference names</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_including_recorded_pronunciations" title="Category:Articles including recorded pronunciations">Articles including recorded pronunciations</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Maciej+Stachowiak&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Maciej+Stachowiak" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Maciej_Stachowiak"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Maciej_Stachowiak"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Maciej_Stachowiak" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Maciej_Stachowiak&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Maciej_Stachowiak&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Maciej_Stachowiak" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Maciej_Stachowiak" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Maciej_Stachowiak&amp;oldid=678607160" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Maciej_Stachowiak&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q6723998" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Maciej_Stachowiak&amp;id=678607160" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Maciej+Stachowiak">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Maciej+Stachowiak&amp;returnto=Maciej+Stachowiak&amp;oldid=678607160&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Maciej_Stachowiak&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Maciej_Stachowiak" title="Maciej Stachowiak – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q6723998#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 August 2015, at 13:24.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Maciej_Stachowiak&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":342,"wgHostname":"mw1258"}); /* @nomin */
+} );</script>
+	</body>
+</html>

@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Bryan Cantrill - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bryan_Cantrill","wgTitle":"Bryan Cantrill","wgCurRevisionId":697002752,"wgRevisionId":697002752,"wgArticleId":2710978,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["BLP articles lacking sources from August 2012","Living people","Open source people","American computer scientists","Computer programmers","Solaris people","Brown University alumni","Eagle Scouts","1974 births","Sun Microsystems people","Chief technology officers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bryan_Cantrill","wgRelevantArticleId":2710978,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bryan_Cantrill_1.jpg/75px-Bryan_Cantrill_1.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q4980008","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bryan_Cantrill" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bryan_Cantrill&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bryan_Cantrill&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bryan_Cantrill" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Bryan_Cantrill skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Bryan Cantrill</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-BLP_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biographical article</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help by adding <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Defamation" title="Defamation">libelous</a> or harmful.</span> <small><i>(August 2012)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bryan_Cantrill_1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bryan_Cantrill_1.jpg/220px-Bryan_Cantrill_1.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/f/f6/Bryan_Cantrill_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/f6/Bryan_Cantrill_1.jpg 2x" data-file-width="240" data-file-height="320" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bryan_Cantrill_1.jpg" class="internal" title="Enlarge"></a></div>
+Bryan Cantrill in 2007</div>
+</div>
+</div>
+<p><b>Bryan M. Cantrill</b> (born 1973) is an <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Software_Engineer" title="Software Engineer" class="mw-redirect">Software Engineer</a> who worked at <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a> and later at <a href="/wiki/Oracle_Corporation" title="Oracle Corporation">Oracle Corporation</a> following its acquisition of Sun. He left Oracle on July 25, 2010<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> to become the Vice President of Engineering at <a href="/wiki/Joyent" title="Joyent">Joyent</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> He is currently <a href="/wiki/Chief_Technology_Officer" title="Chief Technology Officer" class="mw-redirect">Chief Technology Officer</a> at <a href="/wiki/Joyent" title="Joyent">Joyent</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Professional_life"><span class="tocnumber">1</span> <span class="toctext">Professional life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Controversies_and_opinions"><span class="tocnumber">2</span> <span class="toctext">Controversies and opinions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Articles"><span class="tocnumber">3</span> <span class="toctext">Articles</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Professional_life">Professional life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bryan_Cantrill&amp;action=edit&amp;section=1" title="Edit section: Professional life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cantrill was born in Vermont, later moving to Colorado, where he attained the rank of <a href="/wiki/Eagle_Scout_(Boy_Scouts_of_America)" title="Eagle Scout (Boy Scouts of America)">Eagle Scout</a>. He studied <a href="/wiki/Computer_science" title="Computer science">computer science</a> at <a href="/wiki/Brown_University" title="Brown University">Brown University</a>, spending two summers at <a href="/wiki/QNX_Software_Systems" title="QNX Software Systems" class="mw-redirect">QNX Software Systems</a> doing kernel development. Upon completing his <a href="/wiki/B.Sc." title="B.Sc." class="mw-redirect">B.Sc.</a> in 1996, he immediately joined Sun Microsystems to work with <a href="/wiki/Jeff_Bonwick" title="Jeff Bonwick">Jeff Bonwick</a> in the <a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a> Performance Group.</p>
+<p>In 2005 Bryan Cantrill was named one of the 35 Top Young Innovators by <i><a href="/wiki/Technology_Review" title="Technology Review" class="mw-redirect">Technology Review</a></i>, <a href="/wiki/MIT" title="MIT" class="mw-redirect">MIT</a>'s magazine. Cantrill was included in the <a href="/wiki/TR35" title="TR35">TR35</a> list for his development of <a href="/wiki/DTrace" title="DTrace">DTrace</a>, a function of the <a href="/wiki/Operating_system" title="Operating system">OS</a> <a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris 10</a> that provides a non-invasive means for <a href="/wiki/Real-time_computing" title="Real-time computing">real-time</a> <a href="/wiki/Tracing_(software)" title="Tracing (software)">tracing</a> and diagnosis of <a href="/wiki/Software" title="Software">software</a>. Sun technologies and technologists, including <a href="/wiki/DTrace" title="DTrace">DTrace</a> and Cantrill, also received an <a href="/wiki/InfoWorld" title="InfoWorld">InfoWorld</a> Innovators Award that year.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> In 2006, "The DTrace trouble-shooting software from Sun was chosen as the Gold winner in <a href="/wiki/Wall_Street_Journal" title="Wall Street Journal" class="mw-redirect">Wall Street Journal</a>'s 2006 Technology Innovation Awards contest."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> In 2008, Cantrill, Mike Shapiro and <a href="/wiki/Adam_Leventhal_(programmer)" title="Adam Leventhal (programmer)">Adam Leventhal</a> were recognized with the <a href="/wiki/USENIX" title="USENIX">USENIX</a> Software Tools User Group (STUG) award for "the provision of a significant enabling technology."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Together with Shapiro and Leventhal, Cantrill founded Fishworks,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> a stealth project within Sun Microsystems which produced the Sun Storage 7000 Unified Storage Systems.</p>
+<p>He is a member of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> Queue Editorial Board.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Controversies_and_opinions">Controversies and opinions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bryan_Cantrill&amp;action=edit&amp;section=2" title="Edit section: Controversies and opinions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1996 Bryan Cantrill raised some controversy by his on line response in a lengthy technical discussion with <a href="/wiki/Linux_kernel" title="Linux kernel">Linux kernel</a> developer <a href="/wiki/David_S._Miller" title="David S. Miller">David S. Miller</a>, which was cited even decades later.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>After Cantrill left Oracle in 2010 he used very strong analogies multiple times to describe his point of view on Oracle's business behavior.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>Cantrill announced also his strong preference for <a href="/wiki/Permissive_license" title="Permissive license" class="mw-redirect">permissive</a> open source <a href="/wiki/Software_licenses" title="Software licenses" class="mw-redirect">software licenses</a> over <a href="/wiki/Copyleft" title="Copyleft">copyleft</a> one, by calling the copyleft <a href="/wiki/GPL" title="GPL" class="mw-redirect">GPL</a> license family "anti-collaborative" and "<a href="/wiki/Viral_license" title="Viral license">viral</a>".<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Articles">Articles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bryan_Cantrill&amp;action=edit&amp;section=3" title="Edit section: Articles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation journal">Bryan Cantrill (2006-02-01). <a rel="nofollow" class="external text" href="http://queue.acm.org/detail.cfm?id=1117401">"Hidden in Plain Sight"</a>. <i><a href="/wiki/ACM_Queue" title="ACM Queue">ACM Queue</a></i> <b>4</b> (1): 26–36. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1117389.1117401">10.1145/1117389.1117401</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.atitle=Hidden+in+Plain+Sight&amp;rft.au=Bryan+Cantrill&amp;rft.date=2006-02-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fqueue.acm.org%2Fdetail.cfm%3Fid%3D1117401&amp;rft_id=info%3Adoi%2F10.1145%2F1117389.1117401&amp;rft.issue=1&amp;rft.jtitle=ACM+Queue&amp;rft.pages=26-36&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Bryan Cantrill, Jeff Bonwick (2008-09-01). <a rel="nofollow" class="external text" href="http://queue.acm.org/detail.cfm?id=1454462">"Real-World Concurrency"</a>. <i><a href="/wiki/ACM_Queue" title="ACM Queue">ACM Queue</a></i> <b>6</b> (5): 16. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1454456.1454462">10.1145/1454456.1454462</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.atitle=Real-World+Concurrency&amp;rft.au=Bryan+Cantrill%2C+Jeff+Bonwick&amp;rft.date=2008-09-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fqueue.acm.org%2Fdetail.cfm%3Fid%3D1454462&amp;rft_id=info%3Adoi%2F10.1145%2F1454456.1454462&amp;rft.issue=5&amp;rft.jtitle=ACM+Queue&amp;rft.pages=16&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation conference">Bryan M. Cantrill, Michael W. Shapiro and Adam H. Leventhal (2004-06-10). <a rel="nofollow" class="external text" href="https://db.usenix.org/event/usenix04/tech/general/full_papers/cantrill/cantrill_html/">"Dynamic Instrumentation of Production Systems"</a>. <i>Proceedings of the 2004 USENIX Annual Technical Conference</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.au=Bryan+M.+Cantrill%2C+Michael+W.+Shapiro+and+Adam+H.+Leventhal&amp;rft.btitle=Proceedings+of+the+2004+USENIX+Annual+Technical+Conference&amp;rft.date=2004-06-10&amp;rft.genre=conference&amp;rft_id=https%3A%2F%2Fdb.usenix.org%2Fevent%2Fusenix04%2Ftech%2Fgeneral%2Ffull_papers%2Fcantrill%2Fcantrill_html%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation conference">Bryan M. Cantrill, Thomas W. Doeppner (1996-08-15). <a rel="nofollow" class="external text" href="http://www.cs.brown.edu/research/thmon/thmon.html">"ThreadMon: A Tool for Monitoring Multithreaded Program Performance"</a>. <i>30th Hawaii International Conference on System Sciences (HICSS) Volume 1: Software Technology and Architecture</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.au=Bryan+M.+Cantrill%2C+Thomas+W.+Doeppner&amp;rft.btitle=30th+Hawaii+International+Conference+on+System+Sciences+%28HICSS%29+Volume+1%3A+Software+Technology+and+Architecture&amp;rft.date=1996-08-15&amp;rft.genre=conference&amp;rft_id=http%3A%2F%2Fwww.cs.brown.edu%2Fresearch%2Fthmon%2Fthmon.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bryan_Cantrill&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Bryan Cantrill (2010-07-25). <a rel="nofollow" class="external text" href="http://dtrace.org/blogs/bmc/2010/07/25/good-bye-sun/">"Good-bye, Sun"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.au=Bryan+Cantrill&amp;rft.btitle=Good-bye%2C+Sun&amp;rft.date=2010-07-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdtrace.org%2Fblogs%2Fbmc%2F2010%2F07%2F25%2Fgood-bye-sun%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Bryan Cantrill (2010-07-30). <a rel="nofollow" class="external text" href="http://dtrace.org/blogs/bmc/2010/07/30/hello-joyent/">"Hello Joyent!"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.au=Bryan+Cantrill&amp;rft.btitle=Hello+Joyent%21&amp;rft.date=2010-07-30&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdtrace.org%2Fblogs%2Fbmc%2F2010%2F07%2F30%2Fhello-joyent%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Cantrill, Bryan. <a rel="nofollow" class="external text" href="http://dtrace.org/blogs/bmc/2014/04/15/from-vp-of-engineering-to-cto/">"From VP of Engineering to CTO"</a>. dtrace.org<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.aufirst=Bryan&amp;rft.aulast=Cantrill&amp;rft.btitle=From+VP+of+Engineering+to+CTO&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdtrace.org%2Fblogs%2Fbmc%2F2014%2F04%2F15%2Ffrom-vp-of-engineering-to-cto%2F&amp;rft.pub=dtrace.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Neil McAllister (2005-08-01). <a rel="nofollow" class="external text" href="https://www.infoworld.com/print/17136">"DTrace and Predictive Self-Healing herald Sun’s future"</a>. <a href="/wiki/InfoWorld" title="InfoWorld">InfoWorld</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.au=Neil+McAllister&amp;rft.btitle=DTrace+and+Predictive+Self-Healing+herald+Sun%99s+future&amp;rft.date=2005-08-01&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.infoworld.com%2Fprint%2F17136&amp;rft.pub=InfoWorld&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Michael Totty (2006-11-11). <a rel="nofollow" class="external text" href="http://online.wsj.com/public/article/SB115755300770755096-R2Ct41cQ4ZIPMwk4_xh0xU_HnQI_20061011.html">"The Winners Are..."</a>. <a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.au=Michael+Totty&amp;rft.btitle=The+Winners+Are...&amp;rft.date=2006-11-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fonline.wsj.com%2Fpublic%2Farticle%2FSB115755300770755096-R2Ct41cQ4ZIPMwk4_xh0xU_HnQI_20061011.html&amp;rft.pub=The+Washington+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://db.usenix.org/about/stug.html">"STUG Award"</a>. <a href="/wiki/USENIX" title="USENIX">USENIX</a>. 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.btitle=STUG+Award&amp;rft.date=2008&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fdb.usenix.org%2Fabout%2Fstug.html&amp;rft.pub=USENIX&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Bryan Cantrill (2008-11-10). <a rel="nofollow" class="external text" href="http://dtrace.org/blogs/bmc/2008/11/10/fishworks-now-it-can-be-told/">"Fishworks: Now it can be told"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.au=Bryan+Cantrill&amp;rft.btitle=Fishworks%3A+Now+it+can+be+told&amp;rft.date=2008-11-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdtrace.org%2Fblogs%2Fbmc%2F2008%2F11%2F10%2Ffishworks-now-it-can-be-told%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://queue.acm.org/editorialboardx.cfm">"ACM Queue Editorial Board"</a>. <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.btitle=ACM+Queue+Editorial+Board&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fqueue.acm.org%2Feditorialboardx.cfm&amp;rft.pub=ACM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://groups.google.com/group/comp.sys.sun.hardware/msg/242387aeaa5b5456">"But why?"</a>. <i>Have you ever kissed a girl? - Bryan Cantrill's famous response to Linux Kernel hacker <a href="/wiki/David_S._Miller" title="David S. Miller">David S. Miller</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.atitle=But+why%3F&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fgroups.google.com%2Fgroup%2Fcomp.sys.sun.hardware%2Fmsg%2F242387aeaa5b5456&amp;rft.jtitle=Have+you+ever+kissed+a+girl%3F+-+Bryan+Cantrill%27s+famous+response+to+Linux+Kernel+hacker+David+S.+Miller&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://news.ycombinator.com/item?id=9041086">"It's funny you should mention that"</a>. <i>Bryan's reflection on his most famous one-liner, nearly 20 years later. <a href="/wiki/Hacker_News" title="Hacker News">Hacker News</a></i>. 2015-02-13.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.atitle=It%27s+funny+you+should+mention+that&amp;rft.date=2015-02-13&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D9041086&amp;rft.jtitle=Bryan%27s+reflection+on+his+most+famous+one-liner%2C+nearly+20+years+later.+Hacker+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Bryan Cantrill. <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=79fvDDPaIoY&amp;t=24m">"Bryan Cantrill from Joyent on Manta: internet-facing object storage facility that features compute"</a>. Hakka Labs. <q><i>"and then, the Nazis invaded [...] for a while I tried to not go to Nazi allegory when talking about Oracle but I actually think that it does a dis-service to not go to Nazi allegory because if I don't use Nazi allegory when referring to Oracle there's some critical understanding that I have left on the table"</i></q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.au=Bryan+Cantrill&amp;rft.btitle=Bryan+Cantrill+from+Joyent+on+Manta%3A+internet-facing+object+storage+facility+that+features+compute&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D79fvDDPaIoY%26t%3D24m&amp;rft.pub=Hakka+Labs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://twitter.com/bcantrill/status/167727183601729536">Bryan Cantrill</a> on twitter <i>If you were an enterprise database customer who hadn't heard of the Nazis, might it be easiest to explain them with Oracle allegory?</i></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Cantrill, Bryan (2014-09-17). <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Pm8P4oCIY3gt=37m05s">"Corporate Open Source Anti-patterns"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-26</span></span>. <q><i>Anti-collaborative licensing</i></q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.aufirst=Bryan&amp;rft.aulast=Cantrill&amp;rft.btitle=Corporate+Open+Source+Anti-patterns&amp;rft.date=2014-09-17&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPm8P4oCIY3gt%3D37m05s&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bryan_Cantrill&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://dtrace.org/blogs/bmc/">"Bryan Cantrill's blog"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.btitle=Bryan+Cantrill%27s+blog&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdtrace.org%2Fblogs%2Fbmc%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=TgmA48fILq8">"DTrace Review"</a>. <i><a href="/wiki/Google_Tech_Talks" title="Google Tech Talks" class="mw-redirect">Google Tech Talks</a></i>. 2007-08-15.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABryan+Cantrill&amp;rft.atitle=DTrace+Review&amp;rft.date=2007-08-15&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTgmA48fILq8&amp;rft.jtitle=Google+Tech+Talks&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1150
+Cached time: 20151228011234
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.294 seconds
+Real time usage: 0.340 seconds
+Preprocessor visited node count: 783/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 27909/2097152 bytes
+Template argument size: 43/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Lua time usage: 0.184/10.000 seconds
+Lua memory usage: 3.44 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  301.788      1 - -total
+ 43.18%  130.305      1 - Template:Reflist
+ 38.03%  114.778     14 - Template:Cite_web
+ 21.14%   63.788      1 - Template:BLP_sources
+ 18.27%   55.144      2 - Template:Cite_journal
+ 13.56%   40.935      1 - Template:Ambox
+  6.83%   20.612      2 - Template:Cite_conference
+  0.81%    2.456      1 - Template:Column-width
+  0.73%    2.212      1 - Template:Persondata
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2710978-0!*!0!!en!4!* and timestamp 20151228011233 and revision id 697002752
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bryan_Cantrill&amp;oldid=697002752">https://en.wikipedia.org/w/index.php?title=Bryan_Cantrill&amp;oldid=697002752</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Open_source_people" title="Category:Open source people">Open source people</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Computer_programmers" title="Category:Computer programmers">Computer programmers</a></li><li><a href="/wiki/Category:Solaris_people" title="Category:Solaris people">Solaris people</a></li><li><a href="/wiki/Category:Brown_University_alumni" title="Category:Brown University alumni">Brown University alumni</a></li><li><a href="/wiki/Category:Eagle_Scouts" title="Category:Eagle Scouts">Eagle Scouts</a></li><li><a href="/wiki/Category:1974_births" title="Category:1974 births">1974 births</a></li><li><a href="/wiki/Category:Sun_Microsystems_people" title="Category:Sun Microsystems people">Sun Microsystems people</a></li><li><a href="/wiki/Category:Chief_technology_officers" title="Category:Chief technology officers">Chief technology officers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_August_2012" title="Category:BLP articles lacking sources from August 2012">BLP articles lacking sources from August 2012</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bryan+Cantrill&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bryan+Cantrill" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Bryan_Cantrill"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Bryan_Cantrill"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Bryan_Cantrill" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Bryan_Cantrill&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bryan_Cantrill&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bryan_Cantrill" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bryan_Cantrill" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bryan_Cantrill&amp;oldid=697002752" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bryan_Cantrill&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4980008" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bryan_Cantrill&amp;id=697002752" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bryan+Cantrill">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Bryan+Cantrill&amp;returnto=Bryan+Cantrill&amp;oldid=697002752&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bryan_Cantrill&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Bryan_Cantrill" title="Bryan Cantrill – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q4980008#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 December 2015, at 14:46.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bryan_Cantrill&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1032"}); /* @nomin */
+} );</script>
+	</body>
+</html>

@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Gerald Jay Sussman - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gerald_Jay_Sussman","wgTitle":"Gerald Jay Sussman","wgCurRevisionId":660895899,"wgRevisionId":660895899,"wgArticleId":96431,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from February 2013","All articles lacking in-text citations","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","1947 births","20th-century American mathematicians","21st-century American mathematicians","American computer scientists","American educators","American electrical engineers","Artificial intelligence researchers","Fellow Members of the IEEE","Fellows of the American Association for the Advancement of Science","Fellows of the Association for Computing Machinery","Free software programmers","GNU people","History of artificial intelligence","Jewish American scientists","Lisp people","Living people","Massachusetts Institute of Technology alumni","Massachusetts Institute of Technology faculty","Members of the Free Software Foundation board of directors","Members of the United States National Academy of Engineering","Programming language designers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gerald_Jay_Sussman","wgRelevantArticleId":96431,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jerry_Sussman.jpg/69px-Jerry_Sussman.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92981","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gerald_Jay_Sussman" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Gerald_Jay_Sussman&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Gerald_Jay_Sussman&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Gerald_Jay_Sussman" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Gerald_Jay_Sussman skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Gerald Jay Sussman</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(February 2013)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Gerald Jay Sussman</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Jerry_Sussman.jpg" class="image"><img alt="Jerry Sussman.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jerry_Sussman.jpg/197px-Jerry_Sussman.jpg" width="197" height="287" srcset="//upload.wikimedia.org/wikipedia/commons/0/0e/Jerry_Sussman.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0e/Jerry_Sussman.jpg 2x" data-file-width="206" data-file-height="300" /></a>
+<div>Gerry Sussman appearing in a video recording of the SICP lectures</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1947-02-08</span>)</span> February 8, 1947 <span class="noprint ForceAgeToShow">(age&#160;68)</span><br />
+<a href="/wiki/United_States" title="United States">United States</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Cognitive_Science" title="Cognitive Science" class="mw-redirect">Cognitive Science</a>, <a href="/wiki/Electrical_Engineering" title="Electrical Engineering" class="mw-redirect">Electrical Engineering</a>, <a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a><br />
+<a href="/wiki/Seymour_Papert" title="Seymour Papert">Seymour Papert</a></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a href="/wiki/W._Daniel_Hillis" title="W. Daniel Hillis" class="mw-redirect">W. Daniel Hillis</a><br />
+<a href="/wiki/Ken_Forbus" title="Ken Forbus">Kenneth D. Forbus</a><br />
+<a href="/wiki/Guy_L._Steele_Jr." title="Guy L. Steele Jr." class="mw-redirect">Guy L. Steele Jr.</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/IJCAI_Computers_and_Thought_Award" title="IJCAI Computers and Thought Award">IJCAI Computers and Thought Award</a> (1981)<br />
+<a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> (1990)</td>
+</tr>
+</table>
+<p><b>Gerald Jay Sussman</b> (February 8, 1947) is the Panasonic Professor of <a href="/wiki/Electrical_engineering" title="Electrical engineering">Electrical Engineering</a> at the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> (MIT). He received his <a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">S.B.</a> and <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Ph.D.</a> degrees in <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> from MIT in 1968 and 1973 respectively. He has been involved in <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a> research at MIT since 1964. His research has centered on understanding the problem-solving strategies used by scientists and engineers, with the goals of automating parts of the process and formalizing it to provide more effective methods of science and engineering education. Sussman has also worked in computer languages, in computer architecture and in <a href="/wiki/VLSI" title="VLSI" class="mw-redirect">VLSI</a> design.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Academic_work"><span class="tocnumber">1</span> <span class="toctext">Academic work</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Awards_and_organizations"><span class="tocnumber">2</span> <span class="toctext">Awards and organizations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Academic_work">Academic work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerald_Jay_Sussman&amp;action=edit&amp;section=1" title="Edit section: Academic work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sussman is a coauthor (with <a href="/wiki/Hal_Abelson" title="Hal Abelson">Hal Abelson</a> and Julie Sussman) of the introductory computer science textbook <i><a href="/wiki/Structure_and_Interpretation_of_Computer_Programs" title="Structure and Interpretation of Computer Programs">Structure and Interpretation of Computer Programs</a></i>. It was used at MIT for several decades, and has been translated into several languages.</p>
+<p>Sussman's contributions to <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a> include problem solving by debugging almost-right plans, propagation of constraints applied to electrical circuit analysis and synthesis, dependency-based explanation and dependency-based backtracking, and various language structures for expressing problem-solving strategies. Sussman and his former student, <a href="/wiki/Guy_L._Steele" title="Guy L. Steele" class="mw-redirect">Guy L. Steele</a> Jr., invented the <a href="/wiki/Scheme_(programming_language)" title="Scheme (programming language)">Scheme programming language</a> in 1975.</p>
+<p>Sussman saw that artificial intelligence ideas can be applied to <a href="/wiki/Computer-aided_design" title="Computer-aided design">computer-aided design</a>. Sussman developed, with his graduate students, sophisticated computer-aided design tools for <a href="/wiki/VLSI" title="VLSI" class="mw-redirect">VLSI</a>. Steele made the first Scheme chips in 1978. These ideas and the AI-based CAD technology to support them were further developed in the Scheme chips of 1979 and 1981. The technique and experience developed were then used to design other special-purpose computers. Sussman was the principal designer of the <a href="/wiki/Stability_of_the_Solar_System#Digital_Orrery" title="Stability of the Solar System">Digital Orrery</a>, a machine designed to do high-precision integrations for <a href="/wiki/Orbital_mechanics" title="Orbital mechanics">orbital mechanics</a> experiments. The Orrery was designed and built by a few people in a few months, using AI-based simulation and compilation tools.</p>
+<p>Using the Digital Orrery, Sussman has worked with <a href="/wiki/Jack_Wisdom" title="Jack Wisdom">Jack Wisdom</a> to discover numerical evidence for chaotic motions in the outer planets. The Digital Orrery is now retired at the <a href="/wiki/Smithsonian_Institution" title="Smithsonian Institution">Smithsonian Institution</a> in Washington, DC. Sussman was also the lead designer of the Supercomputer Toolkit, another <a href="/wiki/Multiprocessor" title="Multiprocessor" class="mw-redirect">multiprocessor</a> computer optimized for evolving systems of <a href="/wiki/Ordinary_differential_equation" title="Ordinary differential equation">ordinary differential equations</a>. The Supercomputer Toolkit was used by Sussman and Wisdom to confirm and extend the discoveries made with the Digital Orrery to include the entire planetary system.</p>
+<p>Sussman has pioneered the use of computational descriptions to communicate methodological ideas in teaching subjects in Electrical Circuits and in Signals and Systems. Over the past decade Sussman and Wisdom have developed a subject that uses computational techniques to communicate a deeper understanding of advanced <a href="/wiki/Classical_mechanics" title="Classical mechanics">classical mechanics</a>. In <i>Computer Science: Reflections on the Field, Reflections from the Field</i>, he writes "...computational algorithms are used to express the methods used in the analysis of dynamical phenomena. Expressing the methods in a computer language forces them to be unambiguous and computationally effective. Students are expected to read the programs and to extend them and to write new ones. The task of formulating a method as a computer-executable program and debugging that program is a powerful exercise in the learning process. Also, once formalized procedurally, a mathematical idea becomes a tool that can be used directly to compute results." Sussman and Wisdom, with Meinhard Mayer, have produced a textbook, <i><a href="/wiki/SICM" title="SICM" class="mw-redirect">Structure and Interpretation of Classical Mechanics</a></i>, to capture these new ideas.</p>
+<p>Sussman and Abelson have also been a part of the <a href="/wiki/Free_Software_Movement" title="Free Software Movement" class="mw-redirect">Free Software Movement</a>, including releasing <a href="/wiki/MIT/GNU_Scheme" title="MIT/GNU Scheme">MIT/GNU Scheme</a> as <a href="/wiki/Free_software" title="Free software">free software</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> and serving on the Board of Directors of the <a href="/wiki/Free_Software_Foundation" title="Free Software Foundation">Free Software Foundation</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Awards_and_organizations">Awards and organizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerald_Jay_Sussman&amp;action=edit&amp;section=2" title="Edit section: Awards and organizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For his contributions to <a href="/wiki/Computer_science" title="Computer science">computer-science</a> education, Sussman received the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a>'s Karl Karlstrom Outstanding Educator Award in 1990, and the <a href="/wiki/Amar_G._Bose" title="Amar G. Bose" class="mw-redirect">Amar G. Bose</a> award for teaching in 1991.</p>
+<p>Sussman, <a href="/wiki/Hal_Abelson" title="Hal Abelson">Hal Abelson</a>, and <a href="/wiki/Richard_Stallman" title="Richard Stallman">Richard Stallman</a> are the only founding directors still active on the board of directors of the <a href="/wiki/Free_Software_Foundation" title="Free Software Foundation">Free Software Foundation</a> (FSF).</p>
+<p>Sussman is a fellow of the <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">Institute of Electrical and Electronics Engineers</a> (IEEE), a member of the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> (NAE), a fellow of the <a href="/wiki/Association_for_the_Advancement_of_Artificial_Intelligence" title="Association for the Advancement of Artificial Intelligence">Association for the Advancement of Artificial Intelligence</a> (AAAI), a fellow of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> (ACM), a fellow of the <a href="/wiki/American_Association_for_the_Advancement_of_Science" title="American Association for the Advancement of Science">American Association for the Advancement of Science</a> (AAAS), a fellow of the <a href="/wiki/New_York_Academy_of_Sciences" title="New York Academy of Sciences">New York Academy of Sciences</a> (NYAS), and a fellow of the <a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">American Academy of Arts and Sciences</a>. He is also a bonded <a href="/wiki/Locksmith" title="Locksmith" class="mw-redirect">locksmith</a>, a life member of the <a href="/wiki/American_Watchmakers-Clockmakers_Institute" title="American Watchmakers-Clockmakers Institute">American Watchmakers-Clockmakers Institute</a> (AWI), a member of the <a rel="nofollow" class="external text" href="http://www.plads.com/mwa/">Massachusetts Watchmakers-Clockmakers Association</a> (MWCA), a member of the <a rel="nofollow" class="external text" href="http://www.atmob.org/">Amateur Telescope Makers of Boston</a> (ATMOB), and a member of the <a href="/wiki/American_Radio_Relay_League" title="American Radio Relay League">American Radio Relay League</a> (ARRL).</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerald_Jay_Sussman&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Guy_Steele" title="Guy Steele" class="mw-redirect">Guy Steele</a></li>
+<li><a href="/wiki/Harold_Abelson" title="Harold Abelson" class="mw-redirect">Harold Abelson</a></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a></li>
+<li><a href="/wiki/Seymour_Papert" title="Seymour Papert">Seymour Papert</a></li>
+<li><a href="/wiki/Terry_Winograd" title="Terry Winograd">Terry Winograd</a></li>
+<li><a href="/wiki/MDL_programming_language" title="MDL programming language" class="mw-redirect">MDL programming language</a></li>
+<li><a href="/wiki/Sussman_Anomaly" title="Sussman Anomaly">Sussman Anomaly</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerald_Jay_Sussman&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://necsi.edu/events/iccs/video/iccs2002tuesday/3-sussmanclip.html">Video clip of Sussman speaking at the International Conference on Complex Systems, hosted by the New England Complex Systems Institute (NECSI)</a></li>
+<li>Sussman's <a rel="nofollow" class="external text" href="http://www.swiss.ai.mit.edu/~gjs/">homepage</a></li>
+<li><a rel="nofollow" class="external text" href="http://genealogy.math.ndsu.nodak.edu/html/id.phtml?id=20655&amp;fChrono=1">Gerald Sussman</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></li>
+<li><a rel="nofollow" class="external text" href="http://aduni.org/colloquia/sussman/">Video of "The Legacy of Computer Science" talk</a> for <a href="/wiki/ArsDigita_University" title="ArsDigita University">ArsDigita University</a>, 2001</li>
+<li><a rel="nofollow" class="external text" href="http://worldcat.org/identities/lccn-n84-27941">Works by or about Gerald Jay Sussman</a> in libraries (<a href="/wiki/WorldCat" title="WorldCat">WorldCat</a> catalog)</li>
+<li>Video of his keynote talk at the <a rel="nofollow" class="external text" href="http://thestrangeloop.com">Strange Loop</a> conference: <a rel="nofollow" class="external text" href="http://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute">"We Really Don't Know How To Compute!"</a>, Sept 19, 2011</li>
+<li><a rel="nofollow" class="external text" href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/">These twenty video lectures by Hal Abelson and Gerald Jay Sussman are a complete presentation of the MIT's SICP course, given in July 1986.</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gerald_Jay_Sussman&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://www.gnu.org/software/mit-scheme/#Licensing">[1]</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fsf.org/about/board">The current board of directors</a>, <a href="/wiki/Free_Software_Foundation" title="Free Software Foundation">Free Software Foundation</a></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n84-027941">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/46791066">46791066</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n84027941">n84027941</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000115567673">0000 0001 1556 7673</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/1043872582">1043872582</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/029454727">029454727</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb121078622">cb121078622</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb121078622">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=20655">20655</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00475814">00475814</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:GNU" title="Template:GNU"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:GNU" title="Template talk:GNU"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:GNU&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/GNU_Project" title="GNU Project">GNU Project</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">History</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GNU_Manifesto" title="GNU Manifesto">GNU Manifesto</a></li>
+<li><a href="/wiki/Free_Software_Foundation" title="Free Software Foundation">Free Software Foundation</a>
+<ul>
+<li><a href="/wiki/Free_Software_Foundation_Europe" title="Free Software Foundation Europe">Europe</a></li>
+<li><a href="/wiki/Free_Software_Foundation_of_India" title="Free Software Foundation of India">India</a></li>
+<li><a href="/wiki/Free_Software_Foundation_Latin_America" title="Free Software Foundation Latin America">Latin America</a></li>
+</ul>
+</li>
+<li><a href="/wiki/History_of_free_and_open-source_software" title="History of free and open-source software">History of free software</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Heckert_GNU_white.svg" class="image" title="GNU's not UNIX"><img alt="GNU's not UNIX" src="//upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/64px-Heckert_GNU_white.svg.png" width="64" height="63" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/96px-Heckert_GNU_white.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/128px-Heckert_GNU_white.svg.png 2x" data-file-width="535" data-file-height="523" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Licenses</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GNU General Public License</a></li>
+<li><a href="/wiki/GNU_Lesser_General_Public_License" title="GNU Lesser General Public License">GNU Lesser General Public License</a></li>
+<li><a href="/wiki/Affero_General_Public_License" title="Affero General Public License">Affero General Public License</a></li>
+<li><a href="/wiki/GNU_Free_Documentation_License" title="GNU Free Documentation License">GNU Free Documentation License</a></li>
+<li><a href="/wiki/GPL_linking_exception" title="GPL linking exception">GPL linking exception</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Software</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GNU" title="GNU">GNU</a> (<a href="/wiki/GNU_variants" title="GNU variants">variants</a>)</li>
+<li><a href="/wiki/GNU_Hurd" title="GNU Hurd">Hurd</a></li>
+<li><a href="/wiki/Linux-libre" title="Linux-libre">Linux-libre</a></li>
+<li><a href="/wiki/GNU_C_Library" title="GNU C Library">glibc</a></li>
+<li><a href="/wiki/Bash_(Unix_shell)" title="Bash (Unix shell)">Bash</a></li>
+<li><a href="/wiki/GNU_Core_Utilities" title="GNU Core Utilities">coreutils</a></li>
+<li><a href="/wiki/GNU_Find_Utilities" title="GNU Find Utilities">findutils</a></li>
+<li><a href="/wiki/GNU_build_system" title="GNU build system">Build system</a></li>
+<li><a href="/wiki/GNU_Compiler_Collection" title="GNU Compiler Collection">GCC</a></li>
+<li><a href="/wiki/GNU_Binutils" title="GNU Binutils">binutils</a></li>
+<li><a href="/wiki/GNU_Debugger" title="GNU Debugger">GDB</a></li>
+<li><a href="/wiki/GNU_GRUB" title="GNU GRUB">GRUB</a></li>
+<li><a href="/wiki/GNOME" title="GNOME">GNOME</a></li>
+<li><a href="/wiki/GNUstep" title="GNUstep">GNUstep</a></li>
+<li><a href="/wiki/GIMP" title="GIMP">GIMP</a></li>
+<li><a href="/wiki/GNU_Emacs" title="GNU Emacs">GNU Emacs</a></li>
+<li><a href="/wiki/GNU_TeXmacs" title="GNU TeXmacs">GNU TeXmacs</a></li>
+<li><a href="/wiki/GNU_Octave" title="GNU Octave">GNU Octave</a></li>
+<li><a href="/wiki/R_(programming_language)" title="R (programming language)">GNU R</a></li>
+<li><a href="/wiki/GNU_Scientific_Library" title="GNU Scientific Library">GSL</a></li>
+<li><a href="/wiki/GNU_Multiple_Precision_Arithmetic_Library" title="GNU Multiple Precision Arithmetic Library">GMP</a></li>
+<li><a href="/wiki/Electric_(software)" title="Electric (software)">GNU Electric</a></li>
+<li><a href="/wiki/GNU_Archimedes" title="GNU Archimedes">GNU Archimedes</a></li>
+<li><a href="/wiki/GNUnet" title="GNUnet">GNUnet</a></li>
+<li><a href="/wiki/GNU_Privacy_Guard" title="GNU Privacy Guard">GNU Privacy Guard</a></li>
+<li><a href="/wiki/Gnuzilla" title="Gnuzilla">Gnuzilla</a> (<a href="/wiki/GNU_IceCat" title="GNU IceCat">IceCat</a>)</li>
+<li><a href="/wiki/GNU_Health" title="GNU Health">GNU Health</a></li>
+<li><a href="/wiki/GNUmed" title="GNUmed">GNUmed</a></li>
+<li><a href="/wiki/LilyPond" title="LilyPond">GNU LilyPond</a></li>
+<li><a href="/wiki/GNU_Go" title="GNU Go">GNU Go</a></li>
+<li><a href="/wiki/GNU_Chess" title="GNU Chess">GNU Chess</a></li>
+<li><a href="/wiki/Gnash" title="Gnash">Gnash</a></li>
+<li><a href="/wiki/List_of_GNU_packages" title="List of GNU packages"><i>more...</i></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Public<br />
+speakers</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alexandre_Oliva" title="Alexandre Oliva">Alexandre Oliva</a></li>
+<li><a href="/wiki/Benjamin_Mako_Hill" title="Benjamin Mako Hill">Benjamin Mako Hill</a></li>
+<li><a href="/wiki/Bradley_M._Kuhn" title="Bradley M. Kuhn">Bradley M. Kuhn</a></li>
+<li><a href="/wiki/Eben_Moglen" title="Eben Moglen">Eben Moglen</a></li>
+<li><a href="/wiki/Federico_Heinz" title="Federico Heinz">Federico Heinz</a></li>
+<li><a href="/wiki/Georg_C._F._Greve" title="Georg C. F. Greve">Georg C. F. Greve</a></li>
+<li><a href="/wiki/William_John_Sullivan" title="William John Sullivan">John Sullivan</a></li>
+<li><a href="/wiki/Lo%C3%AFc_Dachary" title="Loïc Dachary">Loïc Dachary</a></li>
+<li><a href="/wiki/Nagarjuna_G." title="Nagarjuna G.">Nagarjuna G.</a></li>
+<li><a href="/wiki/Ricardo_Galli" title="Ricardo Galli">Ricardo Galli</a></li>
+<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Richard Stallman</a></li>
+<li><a href="/wiki/Robert_J._Chassell" title="Robert J. Chassell">Robert J. Chassell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GNU/Linux_naming_controversy" title="GNU/Linux naming controversy">GNU/Linux naming controversy</a></li>
+<li><i><a href="/wiki/Revolution_OS" title="Revolution OS">Revolution OS</a></i></li>
+<li><a href="/wiki/Free_Software_Foundation_anti-Windows_campaigns" title="Free Software Foundation anti-Windows campaigns">Free Software Foundation anti-Windows campaigns</a></li>
+<li><a href="/wiki/Defective_by_Design" title="Defective by Design">Defective by Design</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1217
+Cached time: 20160106202134
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.190 seconds
+Real time usage: 0.248 seconds
+Preprocessor visited node count: 856/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29076/2097152 bytes
+Template argument size: 802/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.073/10.000 seconds
+Lua memory usage: 1.65 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  194.271      1 - -total
+ 38.93%   75.634      1 - Template:Infobox_scientist
+ 34.70%   67.408      1 - Template:Infobox
+ 26.73%   51.936      1 - Template:More_footnotes
+ 17.87%   34.722      1 - Template:Authority_control
+ 17.23%   33.474      1 - Template:Ambox
+ 15.19%   29.517      4 - Template:Br_separated_entries
+  8.04%   15.610      1 - Template:Birth_date_and_age
+  5.74%   11.144      1 - Template:GNU
+  5.27%   10.245      1 - Template:Worldcat_id
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:96431-0!*!0!!en!4!* and timestamp 20160106202134 and revision id 660895899
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gerald_Jay_Sussman&amp;oldid=660895899">https://en.wikipedia.org/w/index.php?title=Gerald_Jay_Sussman&amp;oldid=660895899</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1947_births" title="Category:1947 births">1947 births</a></li><li><a href="/wiki/Category:20th-century_American_mathematicians" title="Category:20th-century American mathematicians">20th-century American mathematicians</a></li><li><a href="/wiki/Category:21st-century_American_mathematicians" title="Category:21st-century American mathematicians">21st-century American mathematicians</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:American_educators" title="Category:American educators">American educators</a></li><li><a href="/wiki/Category:American_electrical_engineers" title="Category:American electrical engineers">American electrical engineers</a></li><li><a href="/wiki/Category:Artificial_intelligence_researchers" title="Category:Artificial intelligence researchers">Artificial intelligence researchers</a></li><li><a href="/wiki/Category:Fellow_Members_of_the_IEEE" title="Category:Fellow Members of the IEEE">Fellow Members of the IEEE</a></li><li><a href="/wiki/Category:Fellows_of_the_American_Association_for_the_Advancement_of_Science" title="Category:Fellows of the American Association for the Advancement of Science">Fellows of the American Association for the Advancement of Science</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Free_software_programmers" title="Category:Free software programmers">Free software programmers</a></li><li><a href="/wiki/Category:GNU_people" title="Category:GNU people">GNU people</a></li><li><a href="/wiki/Category:History_of_artificial_intelligence" title="Category:History of artificial intelligence">History of artificial intelligence</a></li><li><a href="/wiki/Category:Jewish_American_scientists" title="Category:Jewish American scientists">Jewish American scientists</a></li><li><a href="/wiki/Category:Lisp_people" title="Category:Lisp people">Lisp people</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_alumni" title="Category:Massachusetts Institute of Technology alumni">Massachusetts Institute of Technology alumni</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_faculty" title="Category:Massachusetts Institute of Technology faculty">Massachusetts Institute of Technology faculty</a></li><li><a href="/wiki/Category:Members_of_the_Free_Software_Foundation_board_of_directors" title="Category:Members of the Free Software Foundation board of directors">Members of the Free Software Foundation board of directors</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_February_2013" title="Category:Articles lacking in-text citations from February 2013">Articles lacking in-text citations from February 2013</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gerald+Jay+Sussman&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gerald+Jay+Sussman" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Gerald_Jay_Sussman"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Gerald_Jay_Sussman"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Gerald_Jay_Sussman" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Gerald_Jay_Sussman&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Gerald_Jay_Sussman&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gerald_Jay_Sussman" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gerald_Jay_Sussman" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gerald_Jay_Sussman&amp;oldid=660895899" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gerald_Jay_Sussman&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92981" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gerald_Jay_Sussman&amp;id=660895899" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gerald+Jay+Sussman">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Gerald+Jay+Sussman&amp;returnto=Gerald+Jay+Sussman&amp;oldid=660895899&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Gerald_Jay_Sussman&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Gerald_Jay_Sussman" title="Gerald Jay Sussman – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Gerald_Jay_Sussman" title="Gerald Jay Sussman – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ht"><a href="//ht.wikipedia.org/wiki/Gerald_Jay_Sussman" title="Gerald Jay Sussman – Haitian Creole" lang="ht" hreflang="ht">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Gerald_Jay_Sussman" title="Gerald Jay Sussman – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%AB%E3%83%89%E3%83%BB%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%BB%E3%82%B5%E3%82%B9%E3%83%9E%E3%83%B3" title="ジェラルド・ジェイ・サスマン – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%82%91%E6%8B%89%E5%BE%B7%C2%B7%E5%82%91%E4%BC%8A%C2%B7%E8%96%A9%E6%96%AF%E6%9B%BC" title="傑拉德·傑伊·薩斯曼 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92981#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 May 2015, at 05:13.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Gerald_Jay_Sussman&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1220"}); /* @nomin */
+} );</script>
+	</body>
+</html>

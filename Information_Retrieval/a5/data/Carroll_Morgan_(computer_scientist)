@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Carroll Morgan (computer scientist) - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Carroll_Morgan_(computer_scientist)","wgTitle":"Carroll Morgan (computer scientist)","wgCurRevisionId":645061008,"wgRevisionId":645061008,"wgArticleId":27770334,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["1952 births","Living people","People from Washington, D.C.","American expatriates in Australia","University of Sydney alumni","Australian computer scientists","Members of the Department of Computer Science, University of Oxford","University of New South Wales faculty","Formal methods people","All stub articles","Australian scientist stubs","Computer specialist stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Carroll_Morgan_(computer_scientist)","wgRelevantArticleId":27770334,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5046597","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Carroll_Morgan_(computer_scientist)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Carroll_Morgan_(computer_scientist)" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Carroll_Morgan_computer_scientist skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Carroll Morgan (computer scientist)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For the Canadian heavyweight boxer, see <a href="/wiki/Carroll_Morgan" title="Carroll Morgan">Carroll Morgan</a>.</div>
+<p><b>Charles <i>Carroll</i> Morgan</b> (born 1952) is an American <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> who moved to <a href="/wiki/Australia" title="Australia">Australia</a> in his early teens. He completed his education there (high school, university, several years in industry), including a <a href="/wiki/PhD" title="PhD" class="mw-redirect">PhD</a> degree from the <a href="/wiki/University_of_Sydney" title="University of Sydney">University of Sydney</a>, and then moved to the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> in the early 1980s. In 2000, he returned to Australia.</p>
+<p>During the 1980s and 1990s, Carroll Morgan was based at the <a href="/wiki/Oxford_University_Computing_Laboratory" title="Oxford University Computing Laboratory" class="mw-redirect">Oxford University Computing Laboratory</a> in <a href="/wiki/England" title="England">England</a> as a researcher and lecturer working in the area of <a href="/wiki/Formal_methods" title="Formal methods">formal methods</a>. Having been influenced by the <a href="/wiki/Z_notation" title="Z notation">Z notation</a> of <a href="/wiki/Jean-Raymond_Abrial" title="Jean-Raymond Abrial">Jean-Raymond Abrial</a>, he authored <i>Programming from Specifications</i> (<a href="/wiki/Prentice_Hall_International_Series_in_Computer_Science" title="Prentice Hall International Series in Computer Science">Prentice Hall International Series in Computer Science</a>, <a href="/wiki/Special:BookSources/0131232746" class="internal mw-magiclink-isbn">ISBN 0-13-123274-6</a>) as an attempt to bring the high-level specification aspects of Z together with the rigorous program-derivation technique of <a href="/wiki/Edsger_Wybe_Dijkstra" title="Edsger Wybe Dijkstra" class="mw-redirect">Edsger Wybe Dijkstra</a>; his treatment concentrated on elementary program constructs in order to make the material accessible to undergraduates in their early years.<sup id="cite_ref-pfs_1-0" class="reference"><a href="#cite_note-pfs-1"><span>[</span>1<span>]</span></a></sup> Some of the ideas there were later incorporated as elements of the <a href="/wiki/B-Method" title="B-Method">B-Method</a> by <a href="/wiki/Jean-Raymond_Abrial" title="Jean-Raymond Abrial">Jean-Raymond Abrial</a>, when Abrial returned in Oxford in the second half of the 1980s.</p>
+<p>Together with Annabelle McIver, Morgan later authored <i>Abstraction, Refinement and Proof for Probabilistic Systems</i> (Springer Monographs in Computer Science, <a href="/wiki/Special:BookSources/9780387401157" class="internal mw-magiclink-isbn">ISBN 978-0-387-40115-7</a>) in which the same themes were pursued for probabilistic programs.<sup id="cite_ref-arp_2-0" class="reference"><a href="#cite_note-arp-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>Morgan is now Professor at the <a href="/wiki/University_of_New_South_Wales" title="University of New South Wales">University of New South Wales</a> in Australia.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> His primary research interests are probabilistic models for security and concurrency. He is also the author of numerous papers and active member of a number of <a href="/wiki/International_Federation_for_Information_Processing" title="International Federation for Information Processing">IFIP</a> working groups.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Carroll Morgan is known as a proponent of formalized approach to program development called the <a href="/wiki/Refinement_Calculus" title="Refinement Calculus" class="mw-redirect">Refinement Calculus</a>.<sup id="cite_ref-pfs_1-1" class="reference"><a href="#cite_note-pfs-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-pfs-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-pfs_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pfs_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Morgan, Carroll (1998). <a rel="nofollow" class="external text" href="http://www.cs.ox.ac.uk/publications/books/PfS/"><i>Programming from Specifications</i></a>. <a href="/wiki/Prentice_Hall_International_Series_in_Computer_Science" title="Prentice Hall International Series in Computer Science">International Series in Computer Science</a> (2nd ed.). <a href="/wiki/Prentice_Hall" title="Prentice Hall">Prentice Hall</a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarroll+Morgan+%28computer+scientist%29&amp;rft.aufirst=Carroll&amp;rft.aulast=Morgan&amp;rft.btitle=Programming+from+Specifications&amp;rft.date=1998&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cs.ox.ac.uk%2Fpublications%2Fbooks%2FPfS%2F&amp;rft.pub=Prentice+Hall&amp;rft.series=International+Series+in+Computer+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-arp-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-arp_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://link.springer.com/book/10.1007%2Fb138392"><i>Abstraction, Refinement and Proof for Probabilistic Systems</i></a>. <a href="/w/index.php?title=Monographs_in_Computer_Science&amp;action=edit&amp;redlink=1" class="new" title="Monographs in Computer Science (page does not exist)">Monographs in Computer Science</a>. <a href="/wiki/Springer_Verlag" title="Springer Verlag" class="mw-redirect">Springer Verlag</a>. 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarroll+Morgan+%28computer+scientist%29&amp;rft.btitle=Abstraction%2C+Refinement+and+Proof+for+Probabilistic+Systems&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Flink.springer.com%2Fbook%2F10.1007%252Fb138392&amp;rft.pub=Springer+Verlag&amp;rft.series=Monographs+in+Computer+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cse.unsw.com/db/staff/staff_details.php?ID=carrollm">"Carroll Morgan, Professor, Aust. Professional Fellow ARC"</a>. Australia: <a href="/wiki/University_of_New_South_Wales" title="University of New South Wales">University of New South Wales</a><span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarroll+Morgan+%28computer+scientist%29&amp;rft.btitle=Carroll+Morgan%2C+Professor%2C+Aust.+Professional+Fellow+ARC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cse.unsw.com%2Fdb%2Fstaff%2Fstaff_details.php%3FID%3Dcarrollm&amp;rft.place=Australia&amp;rft.pub=University+of+New+South+Wales&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://sdg.csail.mit.edu/people/morgan.html">"Software Design Group: Carroll Morgan"</a>. USA: <a href="/wiki/MIT" title="MIT" class="mw-redirect">MIT</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 June</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACarroll+Morgan+%28computer+scientist%29&amp;rft.btitle=Software+Design+Group%3A+Carroll+Morgan&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fsdg.csail.mit.edu%2Fpeople%2Fmorgan.html&amp;rft.place=USA&amp;rft.pub=MIT&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.cse.unsw.edu.au/~carrollm/">Carroll Morgan home page</a></li>
+<li><a rel="nofollow" class="external text" href="http://dblp.uni-trier.de/pers/hd/m/Morgan:Carroll">Carroll Morgan's publications</a> indexed by the <a href="/wiki/DBLP" title="DBLP">DBLP Bibliography Server</a> at the <a href="/wiki/University_of_Trier" title="University of Trier">University of Trier</a></li>
+</ul>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a href="/wiki/File:Flag_of_Australia.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/30px-Flag_of_Australia.svg.png" width="30" height="15" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/45px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/60px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></td>
+<td><i>This Australian scientist article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Australia-scientist-stub" title="Template:Australia-scientist-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Australia-scientist-stub" title="Template talk:Australia-scientist-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Australia-scientist-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a href="/wiki/File:Desktop_computer_clipart_-_Yellow_theme.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/30px-Desktop_computer_clipart_-_Yellow_theme.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/45px-Desktop_computer_clipart_-_Yellow_theme.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/60px-Desktop_computer_clipart_-_Yellow_theme.svg.png 2x" data-file-width="320" data-file-height="320" /></a></td>
+<td><i>This biographical article relating to a computer specialist is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Compu-bio-stub" title="Template:Compu-bio-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Compu-bio-stub" title="Template talk:Compu-bio-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Compu-bio-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1170
+Cached time: 20151218125241
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.111 seconds
+Real time usage: 0.139 seconds
+Preprocessor visited node count: 349/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12033/2097152 bytes
+Template argument size: 102/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Lua time usage: 0.047/10.000 seconds
+Lua memory usage: 2.26 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  118.678      1 - -total
+ 52.62%   62.444      1 - Template:Reflist
+ 31.37%   37.234      2 - Template:Cite_book
+ 18.68%   22.166      1 - Template:For
+ 16.59%   19.693      1 - Template:Hatnote
+ 12.22%   14.503      2 - Template:Asbox
+ 12.01%   14.248      1 - Template:Australia-scientist-stub
+ 11.51%   13.658      2 - Template:Cite_web
+  6.68%    7.927      1 - Template:DBLP
+  4.72%    5.599      1 - Template:PAGENAMEBASE
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27770334-0!*!0!!*!4!* and timestamp 20151218125241 and revision id 645061008
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;oldid=645061008">https://en.wikipedia.org/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;oldid=645061008</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1952_births" title="Category:1952 births">1952 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_Washington,_D.C." title="Category:People from Washington, D.C.">People from Washington, D.C.</a></li><li><a href="/wiki/Category:American_expatriates_in_Australia" title="Category:American expatriates in Australia">American expatriates in Australia</a></li><li><a href="/wiki/Category:University_of_Sydney_alumni" title="Category:University of Sydney alumni">University of Sydney alumni</a></li><li><a href="/wiki/Category:Australian_computer_scientists" title="Category:Australian computer scientists">Australian computer scientists</a></li><li><a href="/wiki/Category:Members_of_the_Department_of_Computer_Science,_University_of_Oxford" title="Category:Members of the Department of Computer Science, University of Oxford">Members of the Department of Computer Science, University of Oxford</a></li><li><a href="/wiki/Category:University_of_New_South_Wales_faculty" title="Category:University of New South Wales faculty">University of New South Wales faculty</a></li><li><a href="/wiki/Category:Formal_methods_people" title="Category:Formal methods people">Formal methods people</a></li><li><a href="/wiki/Category:Australian_scientist_stubs" title="Category:Australian scientist stubs">Australian scientist stubs</a></li><li><a href="/wiki/Category:Computer_specialist_stubs" title="Category:Computer specialist stubs">Computer specialist stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Carroll+Morgan+%28computer+scientist%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Carroll+Morgan+%28computer+scientist%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Carroll_Morgan_(computer_scientist)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Carroll_Morgan_(computer_scientist)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Carroll_Morgan_(computer_scientist)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Carroll_Morgan_(computer_scientist)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Carroll_Morgan_(computer_scientist)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;oldid=645061008" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q5046597" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Carroll_Morgan_%28computer_scientist%29&amp;id=645061008" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Carroll+Morgan+%28computer+scientist%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Carroll+Morgan+%28computer+scientist%29&amp;returnto=Carroll+Morgan+%28computer+scientist%29&amp;oldid=645061008&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Carroll_Morgan" title="Carroll Morgan – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q5046597#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 31 January 2015, at 23:11.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Carroll_Morgan_(computer_scientist)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1257"}); /* @nomin */
+} );</script>
+	</body>
+</html>

@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Ivan Sutherland - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ivan_Sutherland","wgTitle":"Ivan Sutherland","wgCurRevisionId":685774482,"wgRevisionId":685774482,"wgArticleId":78122,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with ULAN identifiers","1938 births","Members of the United States National Academy of Sciences","American engineers","Carnegie Mellon University College of Engineering alumni","Computer graphics professionals","Computer graphics researchers","Fellows of the Association for Computing Machinery","Living people","People from Hastings, Nebraska","People from Scarsdale, New York","Turing Award laureates","Harvard University faculty","University of Utah faculty","California Institute of Technology alumni","California Institute of Technology faculty","Virtual reality pioneers","Members of the United States National Academy of Engineering","Scarsdale High School alumni"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ivan_Sutherland","wgRelevantArticleId":78122,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ivan_Sutherland_at_CHM.jpg/74px-Ivan_Sutherland_at_CHM.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q62866","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ivan_Sutherland" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ivan_Sutherland&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ivan_Sutherland&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ivan_Sutherland" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ivan_Sutherland skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ivan Sutherland</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other people named Ivan Sutherland, see <a href="/wiki/Ivan_Sutherland_(disambiguation)" title="Ivan Sutherland (disambiguation)" class="mw-disambig">Ivan Sutherland (disambiguation)</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Ivan Edward Sutherland</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Ivan_Sutherland_at_CHM.jpg" class="image"><img alt="Ivan Sutherland at CHM.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ivan_Sutherland_at_CHM.jpg/150px-Ivan_Sutherland_at_CHM.jpg" width="150" height="201" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ivan_Sutherland_at_CHM.jpg/225px-Ivan_Sutherland_at_CHM.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ivan_Sutherland_at_CHM.jpg/300px-Ivan_Sutherland_at_CHM.jpg 2x" data-file-width="420" data-file-height="564" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1938-05-16</span>)</span> May 16, 1938 <span class="noprint ForceAgeToShow">(age&#160;77)</span><br />
+<a href="/wiki/Hastings,_Nebraska" title="Hastings, Nebraska">Hastings</a>, Nebraska, United States</td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_science" title="Computer science">Computer science</a><br />
+Internet<br />
+<a href="/wiki/Computer_graphics" title="Computer graphics">Computer graphics</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a><br />
+<a href="/wiki/University_of_Utah" title="University of Utah">University of Utah</a><br />
+<a href="/wiki/Evans_and_Sutherland" title="Evans and Sutherland" class="mw-redirect">Evans and Sutherland</a><br />
+<a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a><br />
+<a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a><br />
+<a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a><br />
+<a href="/wiki/Portland_State_University" title="Portland State University">Portland State University</a><br />
+<a href="/wiki/DARPA" title="DARPA">Advanced Research Projects Agency</a> (1964 - 1966)</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/MIT" title="MIT" class="mw-redirect">MIT</a> (Ph.D., 1963)<br />
+<a href="/wiki/Caltech" title="Caltech" class="mw-redirect">Caltech</a> (M.S., 1960)<br />
+<a href="/wiki/Carnegie_Institute_of_Technology" title="Carnegie Institute of Technology" class="mw-redirect">Carnegie Institute of Technology</a> (B.S., 1959)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><a rel="nofollow" class="external text" href="http://images.designworldonline.com.s3.amazonaws.com/CADhistory/Sketchpad_A_Man-Machine_Graphical_Communication_System_Jan63.pdf"><i>Sketchpad, a Man–Machine Graphical Communication System</i></a>&#160;<span style="font-size:90%;">(1963)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/Claude_Shannon" title="Claude Shannon">Claude Shannon</a></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a href="/wiki/Danny_Cohen_(engineer)" title="Danny Cohen (engineer)">Danny Cohen</a>, <a href="/wiki/Henri_Gouraud_(computer_scientist)" title="Henri Gouraud (computer scientist)">Henri Gouraud</a>, <a href="/wiki/James_H._Clark" title="James H. Clark">James H. Clark</a>, <a href="/wiki/Bui_Tuong_Phong" title="Bui Tuong Phong">Bui Tuong Phong</a>, <a href="/wiki/Franklin_C._Crow" title="Franklin C. Crow">Franklin C. Crow</a>, <a href="/wiki/John_Warnock" title="John Warnock">John Warnock</a>, Robert P. Burton, Michael K. Ullner, Christopher R. Carroll</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Sketchpad" title="Sketchpad">Sketchpad</a>, considered by many to be the creator of <a href="/wiki/Computer_Graphics" title="Computer Graphics" class="mw-redirect">Computer Graphics</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> <small>(1988)</small><br />
+<a href="/wiki/Computer_Pioneer_Award" title="Computer Pioneer Award">Computer Pioneer Award</a> <small>(1985)</small><br />
+<a href="/wiki/IEEE_John_von_Neumann_Medal" title="IEEE John von Neumann Medal">IEEE John von Neumann Medal</a> <small>(1998)</small><br />
+<a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> Fellow,<br />
+<a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> member,<br />
+<a href="/wiki/United_States_National_Academy_of_Sciences" title="United States National Academy of Sciences" class="mw-redirect">National Academy of Sciences</a> member,<br />
+<a href="/wiki/Kyoto_Prize" title="Kyoto Prize">Kyoto Prize</a><br />
+<a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> Fellow (2005)</td>
+</tr>
+</table>
+<p><b>Ivan Edward Sutherland</b> (born May 16, 1938)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> is an American <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> and <a href="/wiki/List_of_Internet_pioneers" title="List of Internet pioneers">Internet pioneer</a>. His early work in <a href="/wiki/Computer_graphics" title="Computer graphics">computer graphics</a> as well as his <a href="/wiki/Teaching" title="Teaching" class="mw-redirect">teaching</a> with <a href="/wiki/David_C._Evans" title="David C. Evans">David C. Evans</a> in that subject at the University of Utah in the 1970s was pioneering in the field. Sutherland, Evans, and his students from that era invented several foundations of modern computer graphics. He received the <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> from the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> in 1988 for the invention of <a href="/wiki/Sketchpad" title="Sketchpad">Sketchpad</a>, an early predecessor to the sort of <a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphical user interface</a> that has become ubiquitous in personal computers. He is a member of the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a>, as well as the <a href="/wiki/United_States_National_Academy_of_Sciences" title="United States National Academy of Sciences" class="mw-redirect">National Academy of Sciences</a> among many other major awards. In 2012 he was awarded the <a href="/wiki/Kyoto_Prize_in_Advanced_Technology" title="Kyoto Prize in Advanced Technology">Kyoto Prize in Advanced Technology</a> for "pioneering achievements in the development of computer graphics and interactive interfaces".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Awards"><span class="tocnumber">2</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Quotes"><span class="tocnumber">3</span> <span class="toctext">Quotes</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Patents"><span class="tocnumber">4</span> <span class="toctext">Patents</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Publications_and_external_links"><span class="tocnumber">6</span> <span class="toctext">Publications and external links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ivan_Sutherland&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sutherland earned his <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">Bachelor's degree</a> in electrical engineering from the <a href="/wiki/Carnegie_Institute_of_Technology" title="Carnegie Institute of Technology" class="mw-redirect">Carnegie Institute of Technology</a> (now <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a>), his master's degree from <a href="/wiki/Caltech" title="Caltech" class="mw-redirect">Caltech</a>, and his Ph.D. from <a href="/wiki/MIT" title="MIT" class="mw-redirect">MIT</a> in <a href="/wiki/Electrical_Engineering_and_Computer_Science" title="Electrical Engineering and Computer Science" class="mw-redirect">EECS</a> in 1963.</p>
+<p>He invented <a href="/wiki/Sketchpad" title="Sketchpad">Sketchpad</a> in 1962 while at MIT. Professor <a href="/wiki/Claude_Shannon" title="Claude Shannon">Claude Shannon</a> signed on to supervise Sutherland’s computer drawing thesis. Among others on his thesis committee were <a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> and <a href="/wiki/Steven_Coons" title="Steven Coons" class="mw-redirect">Steven Coons</a>. Sketchpad was an innovative program that influenced alternative forms of interaction with computers. Sketchpad could accept constraints and specified relationships among segments and arcs, including the diameter of arcs. It could draw both horizontal and vertical lines and combine them into figures and shapes. Figures could be copied, moved, rotated, or resized, retaining their basic properties. Sketchpad also had the first window-drawing program and clipping algorithm, which allowed zooming. Sketchpad ran on the <a href="/wiki/Lincoln_TX-2" title="Lincoln TX-2" class="mw-redirect">Lincoln TX-2</a> computer and influenced <a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a>'s <a href="/wiki/NLS_(computer_system)" title="NLS (computer system)">oN-Line System</a>. Sketchpad, in turn, was influenced by the conceptual <a href="/wiki/Memex" title="Memex">Memex</a> as envisioned by <a href="/wiki/Vannevar_Bush" title="Vannevar Bush">Vannevar Bush</a> in his influential paper "<a href="/wiki/As_We_May_Think" title="As We May Think">As We May Think</a>".</p>
+<p>Sutherland replaced <a href="/wiki/J._C._R._Licklider" title="J. C. R. Licklider">J. C. R. Licklider</a> as the head of the US Defense Department <a href="/wiki/DARPA" title="DARPA">Advanced Research Project Agency</a>'s <a href="/wiki/Information_Processing_Techniques_Office" title="Information Processing Techniques Office">Information Processing Techniques Office</a> (IPTO), when Licklider returned to MIT in 1964.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>From 1965 to 1968, Sutherland was an Associate Professor of Electrical Engineering at <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>. Work with student <a href="/wiki/Danny_Cohen_(engineer)" title="Danny Cohen (engineer)">Danny Cohen</a> in 1967 led to the development of the <a href="/wiki/Cohen%E2%80%93Sutherland" title="Cohen–Sutherland" class="mw-redirect">Cohen–Sutherland</a> computer graphics line clipping algorithm. In 1968, with the help of his student <a href="/wiki/Bob_Sproull" title="Bob Sproull">Bob Sproull</a>, he created the first <a href="/wiki/Virtual_reality" title="Virtual reality">virtual reality</a> and <a href="/wiki/Augmented_reality" title="Augmented reality">augmented reality</a> <a href="/wiki/Head_Mounted_Display" title="Head Mounted Display" class="mw-redirect">head-mounted display</a> system, named <a href="/wiki/The_Sword_of_Damocles_(virtual_reality)" title="The Sword of Damocles (virtual reality)">The Sword of Damocles</a>.</p>
+<p>From 1968 to 1974, Sutherland was a professor at the <a href="/wiki/University_of_Utah" title="University of Utah">University of Utah</a>. Among his students there were <a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a>, inventor of the <a href="/wiki/Smalltalk" title="Smalltalk">Smalltalk</a> language, <a href="/wiki/Henri_Gouraud_(computer_scientist)" title="Henri Gouraud (computer scientist)">Henri Gouraud</a> who devised the <a href="/wiki/Gouraud_shading" title="Gouraud shading">Gouraud shading</a> technique, <a href="/wiki/Franklin_C._Crow" title="Franklin C. Crow">Frank Crow</a>, who went on to develop <a href="/wiki/Spatial_anti-aliasing" title="Spatial anti-aliasing">antialiasing</a> methods, and <a href="/wiki/Edwin_Catmull" title="Edwin Catmull">Edwin Catmull</a>, computer graphics scientist, co-founder of <a href="/wiki/Pixar" title="Pixar">Pixar</a> and now President of <a href="/wiki/Walt_Disney_Feature_Animation" title="Walt Disney Feature Animation" class="mw-redirect">Walt Disney</a> and Pixar Animation Studios.</p>
+<p>In 1968 he co-founded <a href="/wiki/Evans_and_Sutherland" title="Evans and Sutherland" class="mw-redirect">Evans and Sutherland</a> with his friend and colleague <a href="/wiki/David_C._Evans" title="David C. Evans">David C. Evans</a>. The company has done pioneering work in the field of real-time hardware, accelerated <a href="/wiki/3D_computer_graphics" title="3D computer graphics">3D computer graphics</a>, and <a href="/wiki/Computer_printer" title="Computer printer" class="mw-redirect">printer</a> languages. Former employees of Evans and Sutherland included the future founders of <a href="/wiki/Adobe_Systems" title="Adobe Systems">Adobe</a> (<a href="/wiki/John_Warnock" title="John Warnock">John Warnock</a>) and <a href="/wiki/Silicon_Graphics" title="Silicon Graphics">Silicon Graphics</a> (<a href="/wiki/James_H._Clark" title="James H. Clark">Jim Clark</a>).</p>
+<p>From 1974 to 1978 he was the Fletcher Jones Professor of Computer Science at <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a>, where he was the founding head of that school's Computer Science department. He then founded a consulting firm, Sutherland, Sproull and Associates, which was purchased by <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a> to form the seed of its research division, Sun Labs.</p>
+<p>Sutherland was a Fellow and Vice President at <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a>. Sutherland was a visiting scholar in the Computer Science Division at <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> (Fall 2005–Spring 2008). On May 28, 2006, Ivan Sutherland married Marly Roncken. Sutherland and Marly Roncken are leading the research in Asynchronous Systems at <a href="/wiki/Portland_State_University" title="Portland State University">Portland State University</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>He has two children, Juliet and Dean, and four grandchildren, Belle, Robert, William and Rose. Ivan's elder brother, <a href="/wiki/Bert_Sutherland" title="Bert Sutherland">Bert Sutherland</a>, is also a prominent computer science researcher.</p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ivan_Sutherland&amp;action=edit&amp;section=2" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> Fellow "for the Sketchpad computer-aided design system and for lifelong contributions to computer graphics and education," 2005<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></li>
+<li><a href="/w/index.php?title=R%26D_100_Award&amp;action=edit&amp;redlink=1" class="new" title="R&amp;D 100 Award (page does not exist)">R&amp;D 100 Award</a>, 2004 (team)<sup id="cite_ref-RD100_7-0" class="reference"><a href="#cite_note-RD100-7"><span>[</span>7<span>]</span></a></sup></li>
+<li><a href="/wiki/IEEE_John_von_Neumann_Medal" title="IEEE John von Neumann Medal">IEEE John von Neumann Medal</a>, 1998<sup id="cite_ref-vonNeumann_8-0" class="reference"><a href="#cite_note-vonNeumann-8"><span>[</span>8<span>]</span></a></sup></li>
+<li><a href="/wiki/The_Franklin_Institute_Awards" title="The Franklin Institute Awards" class="mw-redirect">The Franklin Institute's Certificate of Merit</a>, 1996</li>
+<li><a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> Fellow, 1994<sup id="cite_ref-ACMFellow_9-0" class="reference"><a href="#cite_note-ACMFellow-9"><span>[</span>9<span>]</span></a></sup></li>
+<li><a href="/wiki/Electronic_Frontier_Foundation" title="Electronic Frontier Foundation">Electronic Frontier Foundation</a> EFF Pioneer Award, 1994<sup id="cite_ref-EFFPioneer_10-0" class="reference"><a href="#cite_note-EFFPioneer-10"><span>[</span>10<span>]</span></a></sup></li>
+<li><a href="/wiki/ACM_Software_System_Award" title="ACM Software System Award">ACM Software System Award</a>, 1993<sup id="cite_ref-acmaward_11-0" class="reference"><a href="#cite_note-acmaward-11"><span>[</span>11<span>]</span></a></sup></li>
+<li><a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a>, 1988<sup id="cite_ref-Turing_12-0" class="reference"><a href="#cite_note-Turing-12"><span>[</span>12<span>]</span></a></sup></li>
+<li><a href="/wiki/Computerworld" title="Computerworld">Computerworld</a> Honors Program, Leadership Award, 1987<sup id="cite_ref-CWH_13-0" class="reference"><a href="#cite_note-CWH-13"><span>[</span>13<span>]</span></a></sup></li>
+<li><a href="/wiki/IEEE_Emanuel_R._Piore_Award" title="IEEE Emanuel R. Piore Award">IEEE Emanuel R. Piore Award</a>, 1986<sup id="cite_ref-Piore_14-0" class="reference"><a href="#cite_note-Piore-14"><span>[</span>14<span>]</span></a></sup></li>
+<li>Member, <a href="/wiki/United_States_National_Academy_of_Sciences" title="United States National Academy of Sciences" class="mw-redirect">United States National Academy of Sciences</a>, 1978<sup id="cite_ref-NAS_15-0" class="reference"><a href="#cite_note-NAS-15"><span>[</span>15<span>]</span></a></sup></li>
+<li><a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> member, 1973<sup id="cite_ref-NAE_16-0" class="reference"><a href="#cite_note-NAE-16"><span>[</span>16<span>]</span></a></sup></li>
+<li><a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> First Zworykin Award, 1972</li>
+<li><a href="/w/index.php?title=CyberEdge_Journal&amp;action=edit&amp;redlink=1" class="new" title="CyberEdge Journal (page does not exist)">CyberEdge Journal</a> Virtual Reality Pioneer Award, 1996</li>
+<li><a href="/wiki/Kyoto_Prize" title="Kyoto Prize">Kyoto Prize</a> 2012, in the category of advanced technology.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Quotes">Quotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ivan_Sutherland&amp;action=edit&amp;section=3" title="Edit section: Quotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>"A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland."<sup id="cite_ref-ultimate_display_18-0" class="reference"><a href="#cite_note-ultimate_display-18"><span>[</span>18<span>]</span></a></sup></li>
+<li>"The ultimate display would, of course, be a room within which the computer can control the existence of matter. A chair displayed in such a room would be good enough to sit in. Handcuffs displayed in such a room would be confining, and a bullet displayed in such a room would be fatal."<sup id="cite_ref-ultimate_display_18-1" class="reference"><a href="#cite_note-ultimate_display-18"><span>[</span>18<span>]</span></a></sup></li>
+<li>When asked, "How could you possibly have done the first interactive graphics program, the first non-procedural programming language, the first object oriented software system, all in one year?" Ivan replied: "Well, I didn't know it was hard."<sup id="cite_ref-kay_lecture_19-0" class="reference"><a href="#cite_note-kay_lecture-19"><span>[</span>19<span>]</span></a></sup></li>
+<li>"It’s not an idea until you write it down."<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></li>
+<li>"Without the fun, none of us would go on!"<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Patents">Patents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ivan_Sutherland&amp;action=edit&amp;section=4" title="Edit section: Patents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sutherland has more than 60 patents, including:</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=7636361">US Patent 7,636,361 (2009) Apparatus and method for high-throughput asynchronous communication with flow control</a></li>
+<li><a rel="nofollow" class="external text" href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=7417993">US Patent 7,417,993 (2008) Apparatus and method for high-throughput asynchronous communication</a></li>
+<li><a rel="nofollow" class="external text" href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=7384804">US Patent 7,384,804 (2008) Method and apparatus for electronically aligning capacitively coupled mini-bars</a></li>
+<li><a rel="nofollow" class="external text" href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=3889107">US patent 3,889,107 (1975) System of polygon sorting by dissection</a></li>
+<li><a rel="nofollow" class="external text" href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=3816726">US patent 3,816,726 (1974) Computer Graphics Clipping System for Polygons</a></li>
+<li><a rel="nofollow" class="external text" href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=3732557">US patent 3,732,557 (1973) Incremental Position-Indicating System</a></li>
+<li><a rel="nofollow" class="external text" href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=3684876">US patent 3,684,876 (1972) Vector Computing System as for use in a Matrix Computer</a></li>
+<li><a rel="nofollow" class="external text" href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=3639736">US patent 3,639,736 (1972) Display Windowing by Clipping</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ivan_Sutherland&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Elizabeth H. Oakes (2007). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=uPRB-OED1bcC&amp;pg=PA701"><i>Encyclopedia of World Scientists</i></a>. Infobase Publishing. p.&#160;701. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4381-1882-6" title="Special:BookSources/978-1-4381-1882-6">978-1-4381-1882-6</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIvan+Sutherland&amp;rft.au=Elizabeth+H.+Oakes&amp;rft.btitle=Encyclopedia+of+World+Scientists&amp;rft.date=2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DuPRB-OED1bcC%26pg%3DPA701&amp;rft.isbn=978-1-4381-1882-6&amp;rft.pages=701&amp;rft.pub=Infobase+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.kyotoprize.org/en/28k-laureates-a.html">"The 2012 Kyoto Prize Laureates"</a>. Inamori Foundation<span class="reference-accessdate">. Retrieved <span class="nowrap">1 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIvan+Sutherland&amp;rft.btitle=The+2012+Kyoto+Prize+Laureates&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.kyotoprize.org%2Fen%2F28k-laureates-a.html&amp;rft.pub=Inamori+Foundation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Moschovitis Group, Hilary W. Poole, Laura Lambert, Chris Woodford, and Christos J. P. Moschovitis (2005). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=qi-ItIG6QLwC&amp;pg=RA1-PA159&amp;dq=licklider+sutherland+arpa"><i>The Internet: A Historical Encyclopedia</i></a>. ABC-CLIO. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85109-659-0" title="Special:BookSources/1-85109-659-0">1-85109-659-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIvan+Sutherland&amp;rft.au=Moschovitis+Group%2C+Hilary+W.+Poole%2C+Laura+Lambert%2C+Chris+Woodford%2C+and+Christos+J.+P.+Moschovitis&amp;rft.btitle=The+Internet%3A+A+Historical+Encyclopedia&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dqi-ItIG6QLwC%26pg%3DRA1-PA159%26dq%3Dlicklider%2Bsutherland%2Barpa&amp;rft.isbn=1-85109-659-0&amp;rft.pub=ABC-CLIO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Page, Dan and Cynthia Lee (1999). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20071224090235/http://www.today.ucla.edu/1999/990928looking.html">"Looking Back at Start of a Revolution"</a>. <i>UCLA Today</i> (The Regents of the University of California (UC Regents)). Archived from <a rel="nofollow" class="external text" href="http://www.today.ucla.edu/1999/990928looking.html">the original</a> on 2007-12-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIvan+Sutherland&amp;rft.atitle=Looking+Back+at+Start+of+a+Revolution&amp;rft.au=Page%2C+Dan+and+Cynthia+Lee&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.today.ucla.edu%2F1999%2F990928looking.html&amp;rft.jtitle=UCLA+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://arc.cecs.pdx.edu/about">"About ARC"</a>. <i>Asynchronous Research Center web site</i>. Portland State University<span class="reference-accessdate">. Retrieved <span class="nowrap">April 1,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIvan+Sutherland&amp;rft.atitle=About+ARC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Farc.cecs.pdx.edu%2Fabout&amp;rft.jtitle=Asynchronous+Research+Center+web+site&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">CHM. <a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/bios/Ivan,Sutherland/">"Ivan E. Sutherland — CHM Fellow Award Winner"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIvan+Sutherland&amp;rft.au=CHM&amp;rft.btitle=Ivan+E.+Sutherland+%94+CHM+Fellow+Award+Winner&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Ffellowawards%2Fhall%2Fbios%2FIvan%2CSutherland%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RD100-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-RD100_7-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://research.sun.com/spotlight/2004-09-20.proximity.html">R&amp;D 100</a></span></li>
+<li id="cite_note-vonNeumann-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-vonNeumann_8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ieee.org/portal/pages/about/awards/pr/vonneupr.html">von Neumann Medal</a></span></li>
+<li id="cite_note-ACMFellow-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-ACMFellow_9-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://fellows.acm.org/fellow_citation.cfm?id=3467412&amp;srt=alpha&amp;alpha=S">ACM Fellow</a></span></li>
+<li id="cite_note-EFFPioneer-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-EFFPioneer_10-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://w2.eff.org/awards/pioneer/1994.php">EFF Pioneer</a></span></li>
+<li id="cite_note-acmaward-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-acmaward_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://awards.acm.org/homepage.cfm?srt=all&amp;awd=149">"Software System Award"</a>. <i>ACM Awards</i>. <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 25,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIvan+Sutherland&amp;rft.atitle=Software+System+Award&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fawards.acm.org%2Fhomepage.cfm%3Fsrt%3Dall%26awd%3D149&amp;rft.jtitle=ACM+Awards&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Turing-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Turing_12-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://amturing.acm.org/award_winners/sutherland_3467412.cfm">[1]</a></span></li>
+<li id="cite_note-CWH-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-CWH_13-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cwhonors.org/leadership/indexpast.html">Computerworld Leadership Award</a></span></li>
+<li id="cite_note-Piore-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Piore_14-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ieee.org/portal/pages/about/awards/pr/piorepr.html">Piore Award</a></span></li>
+<li id="cite_note-NAS-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-NAS_15-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nasonline.org/site/Dir/244534946?pg=vprof&amp;mbr=1006266&amp;returl=http%3A%2F%2Fwww.nasonline.org%2Fsite%2FDir%2F244534946%3Fpg%3Dsrch%26view%3Dbasic&amp;retmk=search_again_link">NAS Member</a></span></li>
+<li id="cite_note-NAE-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-NAE_16-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nae.edu/nae/naepub.nsf/Members+By+UNID/A96504917AE99F038625755200622DC5?opendocument">NAE member</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://timesofindia.indiatimes.com/home/science/US-computer-scientist-wins-Kyoto-Prize/articleshow/14338078.cms">"Kyoto Prize"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIvan+Sutherland&amp;rft.btitle=Kyoto+Prize&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftimesofindia.indiatimes.com%2Fhome%2Fscience%2FUS-computer-scientist-wins-Kyoto-Prize%2Farticleshow%2F14338078.cms&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ultimate_display-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-ultimate_display_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ultimate_display_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Sutherland, Ivan E. (1965). <a rel="nofollow" class="external text" href="http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.136.3720">"The Ultimate Display"</a>. <i>Proceedings of IFIP Congress</i>. pp.&#160;506–508<span class="reference-accessdate">. Retrieved <span class="nowrap">22 September</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIvan+Sutherland&amp;rft.atitle=The+Ultimate+Display&amp;rft.aufirst=Ivan+E.&amp;rft.aulast=Sutherland&amp;rft.btitle=Proceedings+of+IFIP+Congress&amp;rft.date=1965&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fciteseer.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.136.3720&amp;rft.pages=506-508&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-kay_lecture-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-kay_lecture_19-0">^</a></b></span> <span class="reference-text"><cite class="citation audio-visual">Alan Kay (Speaker) (1987). <a rel="nofollow" class="external text" href="http://www.archive.org/details/AlanKeyD1987"><i>Doing with Images Makes Symbols</i></a> (Videotape). University Video Communications, Apple Computer<span class="reference-accessdate">. Retrieved <span class="nowrap">22 September</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIvan+Sutherland&amp;rft.btitle=Doing+with+Images+Makes+Symbols&amp;rft.date=1987&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.archive.org%2Fdetails%2FAlanKeyD1987&amp;rft.pub=University+Video+Communications%2C+Apple+Computer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Burton, Robert (2012). <a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/sutherland_3467412.cfm">"Ivan Sutherland"</a>. <i>A.M. Turing Awards</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIvan+Sutherland&amp;rft.atitle=Ivan+Sutherland&amp;rft.aufirst=Robert&amp;rft.aulast=Burton&amp;rft.date=2012&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fsutherland_3467412.cfm&amp;rft.jtitle=A.M.+Turing+Awards&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite id="CITEREFSutherland1996" class="citation">Sutherland, Ivan (April 1996), <i>Technology and Courage</i>, <a href="/wiki/CiteSeer#CiteSeerX" title="CiteSeer">CiteSeerX</a>: <span class="url"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.137.8273">10<wbr />.1<wbr />.1<wbr />.137<wbr />.8273</a></span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIvan+Sutherland&amp;rft.aufirst=Ivan&amp;rft.aulast=Sutherland&amp;rft.btitle=Technology+and+Courage&amp;rft.date=1996-04&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Publications_and_external_links">Publications and external links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ivan_Sutherland&amp;action=edit&amp;section=6" title="Edit section: Publications and external links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.cadazz.com/cad-software-Sketchpad.htm">SketchPad</a>, 2004 from "CAD software – history of CAD CAM" by CADAZZ</li>
+<li>Sutherland's 1963 Ph.D. Thesis from <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> republished in 2003 by University of Cambridge as Technical Report Number 574, <i><a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/TechReports/UCAM-CL-TR-574.pdf">Sketchpad, A Man-Machine Graphical Communication System</a></i>. His thesis supervisor was <a href="/wiki/Claude_Shannon" title="Claude Shannon">Claude Shannon</a>, father of <a href="/wiki/Information_theory" title="Information theory">information theory</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://research.sun.com/techrep/2001/abstract-100.html">Duchess Chips for Process-Specific Wire Capacitance Characterization, The</a>, by Jon Lexau, Jonathan Gainsley, Ann Coulthard and Ivan E. Sutherland, <a href="/wiki/Sun_Microsystems_Laboratories" title="Sun Microsystems Laboratories">Sun Microsystems Laboratories</a> Report Number TR-2001-100, October 2001</li>
+<li><a rel="nofollow" class="external text" href="http://cseweb.ucsd.edu/~wgg/smli_ps-1.pdf">Technology And Courage</a> by Ivan Sutherland, <a href="/wiki/Sun_Microsystems_Laboratories" title="Sun Microsystems Laboratories">Sun Microsystems Laboratories</a> Perspectives Essay Series, Perspectives-96-1 (April 1996)</li>
+<li><a rel="nofollow" class="external text" href="http://www.cc.gatech.edu/classes/cs6751_97_fall/projects/abowd_team/ivan/ivan.html">Biography</a>, "Ivan Sutherland" circa 1996, hosted by the <a href="/wiki/Georgia_Institute_of_Technology" title="Georgia Institute of Technology">Georgia Institute of Technology</a> College of Computing</li>
+<li><a rel="nofollow" class="external text" href="http://research.sun.com/techrep/1994/abstract-25.html">Counterflow Pipeline Processor Architecture</a>, by Ivan E. Sutherland, Charles E. Molnar (<a href="/wiki/Charles_Molnar" title="Charles Molnar">Charles Molnar</a>), and Robert F. Sproull (<a href="/wiki/Bob_Sproull" title="Bob Sproull">Bob Sproull</a>), <a href="/wiki/Sun_Microsystems_Laboratories" title="Sun Microsystems Laboratories">Sun Microsystems Laboratories</a> Report Number TR-94-25, April 1994</li>
+<li><a rel="nofollow" class="external text" href="http://purl.umn.edu/107642">Oral history interview with Ivan Sutherland</a> at <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a>, University of Minnesota, Minneapolis. Sutherland describes his tenure as head of the Information Processing Techniques Office (IPTO) from 1963 to 1965. He discusses the existing programs as established by <a href="/wiki/J._C._R._Licklider" title="J. C. R. Licklider">J. C. R. Licklider</a> and the new initiatives started while he was there: projects in graphics and networking, the <a href="/wiki/ILLIAC_IV" title="ILLIAC IV">ILLIAC IV</a>, and the <a href="/w/index.php?title=Macromodule&amp;action=edit&amp;redlink=1" class="new" title="Macromodule (page does not exist)">Macromodule</a> program.</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Evans_%26_Sutherland" title="Template:Evans &amp; Sutherland"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Evans_%26_Sutherland" title="Template talk:Evans &amp; Sutherland"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Evans_%26_Sutherland&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Evans_%26_Sutherland" title="Evans &amp; Sutherland">Evans &amp; Sutherland</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/David_C._Evans" title="David C. Evans">David C. Evans</a></li>
+<li><strong class="selflink">Ivan Sutherland</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Products</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Digistar_II" title="Digistar II">Digistar II</a></li>
+<li><a href="/wiki/Evans_%26_Sutherland_ES-1" title="Evans &amp; Sutherland ES-1">Evans &amp; Sutherland ES-1</a></li>
+<li><a href="/wiki/LDS-1_(Line_Drawing_System-1)" title="LDS-1 (Line Drawing System-1)">LDS-1 (Line Drawing System-1)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Turing_Award_laureates" title="Template:Turing Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Turing_Award_laureates" title="Template talk:Turing Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Turing_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a> <small>(1966)</small></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Vincent Wilkes</a> <small>(1967)</small></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1968)</small></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> <small>(1969)</small></li>
+<li><a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a> <small>(1970)</small></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a> <small>(1971)</small></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a> <small>(1972)</small></li>
+<li><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a> <small>(1973)</small></li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> <small>(1974)</small></li>
+<li><a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a> / <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a> <small>(1975)</small></li>
+<li><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a> / <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> <small>(1976)</small></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> <small>(1977)</small></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a> <small>(1978)</small></li>
+<li><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a> <small>(1979)</small></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> <small>(1980)</small></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> <small>(1981)</small></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> <small>(1982)</small></li>
+<li><a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> / <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> <small>(1983)</small></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> <small>(1984)</small></li>
+<li><a href="/wiki/Richard_Karp" title="Richard Karp" class="mw-redirect">Richard Karp</a> <small>(1985)</small></li>
+<li><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a> / <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a> <small>(1986)</small></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a> <small>(1987)</small></li>
+<li><strong class="selflink">Ivan Sutherland</strong> <small>(1988)</small></li>
+<li><a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a> <small>(1989)</small></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a> <small>(1990)</small></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> <small>(1991)</small></li>
+<li><a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a> <small>(1992)</small></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a> / <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a> <small>(1993)</small></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a> / <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a> <small>(1994)</small></li>
+<li><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a> <small>(1995)</small></li>
+<li><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a> <small>(1996)</small></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> <small>(1997)</small></li>
+<li><a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> <small>(1998)</small></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a> <small>(1999)</small></li>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Yao</a> <small>(2000)</small></li>
+<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a> / <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a> <small>(2001)</small></li>
+<li><a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a> / <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a> / <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a> <small>(2002)</small></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> <small>(2003)</small></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a> / <a href="/wiki/Bob_Kahn" title="Bob Kahn">Bob Kahn</a> <small>(2004)</small></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a> <small>(2005)</small></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a> <small>(2006)</small></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a> / <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a> / <a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a> <small>(2007)</small></li>
+<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> <small>(2008)</small></li>
+<li><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> <small>(2009)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie G. Valiant</a> <small>(2010)</small></li>
+<li><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a> <small>(2011)</small></li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a> / <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a> <small>(2012)</small></li>
+<li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> <small>(2013)</small></li>
+<li><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n79-030348">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/8657809">8657809</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n79030348">n79030348</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000010952655X">0000 0001 0952 655X</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/121394832">121394832</a></span></li>
+<li><a href="/wiki/Union_List_of_Artist_Names" title="Union List of Artist Names">ULAN</a>: <span class="uid"><a rel="nofollow" class="external text" href="//www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500334171">500334171</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=61088">61088</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1172
+Cached time: 20160107123457
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.357 seconds
+Real time usage: 0.418 seconds
+Preprocessor visited node count: 1520/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46588/2097152 bytes
+Template argument size: 2044/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.154/10.000 seconds
+Lua memory usage: 3.45 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  355.768      1 - -total
+ 47.15%  167.750      1 - Template:Reflist
+ 22.29%   79.299      1 - Template:Infobox_scientist
+ 19.75%   70.276      1 - Template:Infobox
+ 14.97%   53.259      3 - Template:Cite_book
+ 11.03%   39.247      6 - Template:Cite_web
+  9.66%   34.351      1 - Template:Authority_control
+  7.79%   27.729      4 - Template:Br_separated_entries
+  7.66%   27.264      1 - Template:Other_people3
+  6.99%   24.862      1 - Template:Hatnote
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:78122-0!*!0!!en!4!* and timestamp 20160107123457 and revision id 685774482
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ivan_Sutherland&amp;oldid=685774482">https://en.wikipedia.org/w/index.php?title=Ivan_Sutherland&amp;oldid=685774482</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1938_births" title="Category:1938 births">1938 births</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Sciences" title="Category:Members of the United States National Academy of Sciences">Members of the United States National Academy of Sciences</a></li><li><a href="/wiki/Category:American_engineers" title="Category:American engineers">American engineers</a></li><li><a href="/wiki/Category:Carnegie_Mellon_University_College_of_Engineering_alumni" title="Category:Carnegie Mellon University College of Engineering alumni">Carnegie Mellon University College of Engineering alumni</a></li><li><a href="/wiki/Category:Computer_graphics_professionals" title="Category:Computer graphics professionals">Computer graphics professionals</a></li><li><a href="/wiki/Category:Computer_graphics_researchers" title="Category:Computer graphics researchers">Computer graphics researchers</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_Hastings,_Nebraska" title="Category:People from Hastings, Nebraska">People from Hastings, Nebraska</a></li><li><a href="/wiki/Category:People_from_Scarsdale,_New_York" title="Category:People from Scarsdale, New York">People from Scarsdale, New York</a></li><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li><li><a href="/wiki/Category:Harvard_University_faculty" title="Category:Harvard University faculty">Harvard University faculty</a></li><li><a href="/wiki/Category:University_of_Utah_faculty" title="Category:University of Utah faculty">University of Utah faculty</a></li><li><a href="/wiki/Category:California_Institute_of_Technology_alumni" title="Category:California Institute of Technology alumni">California Institute of Technology alumni</a></li><li><a href="/wiki/Category:California_Institute_of_Technology_faculty" title="Category:California Institute of Technology faculty">California Institute of Technology faculty</a></li><li><a href="/wiki/Category:Virtual_reality_pioneers" title="Category:Virtual reality pioneers">Virtual reality pioneers</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Scarsdale_High_School_alumni" title="Category:Scarsdale High School alumni">Scarsdale High School alumni</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ULAN_identifiers" title="Category:Wikipedia articles with ULAN identifiers">Wikipedia articles with ULAN identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ivan+Sutherland&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ivan+Sutherland" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ivan_Sutherland"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ivan_Sutherland"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ivan_Sutherland" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ivan_Sutherland&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ivan_Sutherland&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ivan_Sutherland" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ivan_Sutherland" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ivan_Sutherland&amp;oldid=685774482" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ivan_Sutherland&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q62866" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ivan_Sutherland&amp;id=685774482" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ivan+Sutherland">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ivan+Sutherland&amp;returnto=Ivan+Sutherland&amp;oldid=685774482&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ivan_Sutherland&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A5%D9%8A%D9%81%D8%A7%D9%86_%D8%B3%D8%B0%D8%B1%D9%84%D8%A7%D9%86%D8%AF" title="إيفان سذرلاند – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Ayven_Sazerlend" title="Ayven Sazerlend – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%87%E0%A6%AD%E0%A6%BE%E0%A6%A8_%E0%A6%8F%E0%A6%A1%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1_%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1" title="আইভান এডওয়ার্ড সাদারল্যান্ড – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D1%8A%D0%B4%D1%8A%D1%80%D0%BB%D0%B0%D0%BD%D0%B4" title="Иван Съдърланд – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%DB%8C%D9%88%D8%A7%D9%86_%D8%B3%D8%A7%D8%AF%D8%B1%D9%84%D9%86%D8%AF" title="ایوان سادرلند – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%9D%B4%EB%B0%98_%EC%84%9C%EB%8D%9C%EB%9E%9C%EB%93%9C" title="이반 서덜랜드 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%90%E0%B4%B5%E0%B4%BE%E0%B5%BB_%E0%B4%B8%E0%B4%A4%E0%B5%BC%E0%B4%B2%E0%B4%BE%E0%B5%BB%E0%B4%A1%E0%B5%8D" title="ഐവാൻ സതർലാൻഡ് – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%90%E3%83%B3%E3%83%BB%E3%82%B5%E3%82%B6%E3%83%A9%E3%83%B3%E3%83%89" title="アイバン・サザランド – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B7%D0%B5%D1%80%D0%BB%D0%B5%D0%BD%D0%B4,_%D0%90%D0%B9%D0%B2%D0%B5%D0%BD" title="Сазерленд, Айвен – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%90%D1%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B0%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4" title="Ајван Садерланд – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%90%D0%B9%D0%B2%D0%B5%D0%BD_%D0%A1%D0%B0%D0%B7%D0%B5%D1%80%D0%BB%D0%B5%D0%BD%D0%B4" title="Айвен Сазерленд – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%BC%8A%E5%87%A1%C2%B7%E8%98%87%E6%BE%A4%E8%98%AD" title="伊凡·蘇澤蘭 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q62866#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 October 2015, at 22:29.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ivan_Sutherland&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":525,"wgHostname":"mw1172"}); /* @nomin */
+} );</script>
+	</body>
+</html>

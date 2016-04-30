@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Jim Gray (computer scientist) - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Jim_Gray_(computer_scientist)","wgTitle":"Jim Gray (computer scientist)","wgCurRevisionId":696340272,"wgRevisionId":696340272,"wgArticleId":308367,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hCards","Wikipedia external links cleanup from June 2013","Wikipedia spam cleanup from June 2013","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","American computer scientists","Database researchers","Scientists from California","1944 births","2007 deaths","Turing Award laureates","Fellows of the Association for Computing Machinery","Members of the United States National Academy of Engineering","Members of the United States National Academy of Sciences","Digital Equipment Corporation people","Microsoft employees","People declared dead in absentia","People lost at sea","Courant Institute of Mathematical Sciences alumni","University of California, Berkeley College of Engineering alumni"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Jim_Gray_(computer_scientist)","wgRelevantArticleId":308367,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jim_Gray_Computing_in_the_21st_Century_2006.jpg/70px-Jim_Gray_Computing_in_the_21st_Century_2006.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92606","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Jim_Gray_(computer_scientist)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Jim_Gray_computer_scientist skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Jim Gray (computer scientist)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Jim Gray</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Jim_Gray_Computing_in_the_21st_Century_2006.jpg" class="image"><img alt="Jim Gray Computing in the 21st Century 2006.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jim_Gray_Computing_in_the_21st_Century_2006.jpg/220px-Jim_Gray_Computing_in_the_21st_Century_2006.jpg" width="220" height="314" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jim_Gray_Computing_in_the_21st_Century_2006.jpg/330px-Jim_Gray_Computing_in_the_21st_Century_2006.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Jim_Gray_Computing_in_the_21st_Century_2006.jpg/440px-Jim_Gray_Computing_in_the_21st_Century_2006.jpg 2x" data-file-width="642" data-file-height="917" /></a>
+<div>Gray in 2006</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span class="nickname">James Nicholas Gray</span><br />
+<span style="display:none">(<span class="bday">1944-01-12</span>)</span>January 12, 1944<sup id="cite_ref-wisc_1-0" class="reference"><a href="#cite_note-wisc-1"><span>[</span>1<span>]</span></a></sup><br />
+<span class="birthplace"><a href="/wiki/San_Francisco,_California" title="San Francisco, California" class="mw-redirect">San Francisco, California</a><sup id="cite_ref-oralhist_2-0" class="reference"><a href="#cite_note-oralhist-2"><span>[</span>2<span>]</span></a></sup></span></td>
+</tr>
+<tr>
+<th scope="row">Disappeared</th>
+<td>January 28, 2007 (aged&#160;63)<br />
+Waters near <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a></td>
+</tr>
+<tr>
+<th scope="row">Status</th>
+<td><a href="/wiki/Dead_in_absentia" title="Dead in absentia" class="mw-redirect">Dead in absentia</a>, May 16, 2012</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">American</td>
+</tr>
+<tr>
+<th scope="row">Alma&#160;mater</th>
+<td><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> (Ph.D)</td>
+</tr>
+<tr>
+<th scope="row">Occupation</th>
+<td class="role">Computer scientist</td>
+</tr>
+<tr>
+<th scope="row">Employer</th>
+<td class="org">
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/IBM" title="IBM">IBM</a></li>
+<li><a href="/wiki/Tandem_Computers" title="Tandem Computers">Tandem Computers</a></li>
+<li><a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">DEC</a></li>
+<li><a href="/wiki/Microsoft" title="Microsoft">Microsoft</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td>Work on <a href="/wiki/Database_system" title="Database system" class="mw-redirect">database</a> and <a href="/wiki/Transaction_processing" title="Transaction processing">transaction processing</a> systems</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td>Loretta (divorced), Donna&#160;Carnes (widowed)</td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td>1 (daughter)</td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td><a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> (1998)<sup id="cite_ref-turing_3-0" class="reference"><a href="#cite_note-turing-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><b>James Nicholas "Jim" Gray</b> (born January 12, 1944; presumed lost at sea January 28, 2007; declared deceased May 16, 2012<sup id="cite_ref-JG_DecDeath_CACM072012_4-0" class="reference"><a href="#cite_note-JG_DecDeath_CACM072012-4"><span>[</span>4<span>]</span></a></sup>) was an <a href="/wiki/United_States_of_America" title="United States of America" class="mw-redirect">American</a> <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> who received the <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> in 1998 "for seminal contributions to <a href="/wiki/Database" title="Database">database</a> and <a href="/wiki/Transaction_processing" title="Transaction processing">transaction processing</a> research and technical leadership in system implementation."</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_years"><span class="tocnumber">1</span> <span class="toctext">Early years</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Research"><span class="tocnumber">2</span> <span class="toctext">Research</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Disappearance"><span class="tocnumber">3</span> <span class="toctext">Disappearance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Personal_life"><span class="tocnumber">4</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Jim_Gray_eScience_Award"><span class="tocnumber">5</span> <span class="toctext">Jim Gray eScience Award</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_years">Early years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=edit&amp;section=1" title="Edit section: Early years">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Gray was born in <a href="/wiki/San_Francisco,_California" title="San Francisco, California" class="mw-redirect">San Francisco, California</a>, the second child of a mother who was a teacher and a father in the U.S. Army; the family moved to <a href="/wiki/Rome" title="Rome">Rome</a> where Gray spent most of the first three years of his life, learning to speak Italian before English.<sup id="cite_ref-oralhist_2-1" class="reference"><a href="#cite_note-oralhist-2"><span>[</span>2<span>]</span></a></sup> The family then moved to <a href="/wiki/Virginia" title="Virginia">Virginia</a>, spending about four years there, until Gray's parents divorced, after which he returned to San Francisco with his mother.<sup id="cite_ref-oralhist_2-2" class="reference"><a href="#cite_note-oralhist-2"><span>[</span>2<span>]</span></a></sup> His father, an amateur inventor, patented a design for a ribbon cartridge for <a href="/wiki/Typewriter" title="Typewriter">typewriters</a> that earned him a substantial royalty stream.<sup id="cite_ref-oralhist_2-3" class="reference"><a href="#cite_note-oralhist-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>After being turned down for the <a href="/wiki/Air_Force_Academy" title="Air Force Academy" class="mw-redirect">Air Force Academy</a> he entered the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> as a freshman in 1961, paying $67 per semester.<sup id="cite_ref-oralhist_2-4" class="reference"><a href="#cite_note-oralhist-2"><span>[</span>2<span>]</span></a></sup> To help pay for college he worked as a <a href="/wiki/Cooperative_education" title="Cooperative education">co-op</a> for <a href="/wiki/General_Dynamics" title="General Dynamics">General Dynamics</a>, where he learned to use a <a href="/wiki/Monroe_calculator" title="Monroe calculator" class="mw-redirect">Monroe calculator</a>. Discouraged by his chemistry grades, he left Berkeley for six months, returning after an experience in industry he later described as "dreadful."<sup id="cite_ref-oralhist_2-5" class="reference"><a href="#cite_note-oralhist-2"><span>[</span>2<span>]</span></a></sup> Gray earned his <a href="/wiki/B.S." title="B.S." class="mw-redirect">B.S.</a> in Engineering Mathematics (Math and Statistics) in 1966.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>After marrying, Gray moved with his wife Loretta to <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>, his wife's home state; she got a job as a teacher and he got one at <a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a> working on a digital simulation that was to be part of <a href="/wiki/Multics" title="Multics">Multics</a>. At Bell, he worked three days a week and spent two days as a Master's student at New York University's <a href="/wiki/Courant_Institute" title="Courant Institute" class="mw-redirect">Courant Institute</a>. The couple planned to work for a year, making "enough money so that we could take off five years and go travel around the world."<sup id="cite_ref-oralhist_2-6" class="reference"><a href="#cite_note-oralhist-2"><span>[</span>2<span>]</span></a></sup> Before commencing their travel plans, they returned to Berkeley for three months. After about two months travelling, they returned again to Berkeley, their <a href="/wiki/Wanderlust" title="Wanderlust">interest in travelling</a> satisfied.<sup id="cite_ref-oralhist_2-7" class="reference"><a href="#cite_note-oralhist-2"><span>[</span>2<span>]</span></a></sup> Gray entered graduate school with Michael Harrison as his advisor. Gray got his <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Ph.D.</a> in 1969, in <a href="/wiki/Programming_language" title="Programming language">programming languages</a>, which was followed by two years of post-doctoral work for IBM.<sup id="cite_ref-oralhist_2-8" class="reference"><a href="#cite_note-oralhist-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=edit&amp;section=2" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Gray pursued his career primarily working as a researcher and <a href="/wiki/Software_design" title="Software design">software designer</a> at a number of industrial companies, including <a href="/wiki/IBM" title="IBM">IBM</a>, <a href="/wiki/Tandem_Computers" title="Tandem Computers">Tandem Computers</a>, and <a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">DEC</a>. He joined <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> in 1995 and was a Technical Fellow for the company<sup id="cite_ref-wisc_1-1" class="reference"><a href="#cite_note-wisc-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> until he was lost at sea in 2007.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>Gray contributed to several major database and transaction processing systems. <a href="/wiki/IBM_System_R" title="IBM System R">IBM's System R</a> was the precursor of the SQL relational databases that have become a standard throughout the world. For Microsoft, he worked on <a href="/wiki/TerraServer-USA" title="TerraServer-USA" class="mw-redirect">TerraServer-USA</a> and <a href="/wiki/Sloan_Digital_Sky_Survey#Data_access" title="Sloan Digital Sky Survey">Skyserver</a>.</p>
+<p>Among his best known achievements are:</p>
+<ul>
+<li><a href="/wiki/Multiple_granularity_locking" title="Multiple granularity locking">granular database locking</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></li>
+<li>two-tier transaction <a href="/wiki/Commit_(data_management)" title="Commit (data management)">commit</a> semantics</li>
+<li>the "<a href="/wiki/Five-minute_rule" title="Five-minute rule">five-minute rule</a>" for allocating storage</li>
+<li>the <a href="/wiki/OLAP_cube" title="OLAP cube">data cube</a> operator for data warehousing applications</li>
+<li>describing the requirements for reliable transaction processing (memorably called the <a href="/wiki/ACID" title="ACID">ACID</a> test) and implementing them in software.</li>
+</ul>
+<p>He assisted in the development of <a href="/wiki/Virtual_Earth" title="Virtual Earth" class="mw-redirect">Virtual Earth</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> He was also one of the co-founders of the <a href="/wiki/Conference_on_Innovative_Data_Systems_Research" title="Conference on Innovative Data Systems Research">Conference on Innovative Data Systems Research</a>.</p>
+<h2><span class="mw-headline" id="Disappearance">Disappearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=edit&amp;section=3" title="Edit section: Disappearance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Jim_Gray_on_Tenacious_2006.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jim_Gray_on_Tenacious_2006.jpg/170px-Jim_Gray_on_Tenacious_2006.jpg" width="170" height="243" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jim_Gray_on_Tenacious_2006.jpg/255px-Jim_Gray_on_Tenacious_2006.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jim_Gray_on_Tenacious_2006.jpg/340px-Jim_Gray_on_Tenacious_2006.jpg 2x" data-file-width="700" data-file-height="1001" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jim_Gray_on_Tenacious_2006.jpg" class="internal" title="Enlarge"></a></div>
+Jim Gray on the <i>Tenacious</i> in January 2006</div>
+</div>
+</div>
+<p>On Sunday, January 28, 2007, during a short solo <a href="/wiki/Sailing" title="Sailing">sailing</a> trip to the <a href="/wiki/Farallon_Islands" title="Farallon Islands">Farallon Islands</a> near <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a> to scatter his mother's ashes, Gray and his 40-foot yacht, <i>Tenacious</i>, were reported missing by his wife, Donna Carnes. The <a href="/wiki/Coast_Guard" title="Coast Guard" class="mw-redirect">Coast Guard</a> searched for four days using a <a href="/wiki/C-130_Hercules" title="C-130 Hercules" class="mw-redirect">C-130</a> plane, helicopters, and patrol boats but found no sign of the vessel.<sup id="cite_ref-sfgate_21-0" class="reference"><a href="#cite_note-sfgate-21"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-sfgate2_22-0" class="reference"><a href="#cite_note-sfgate2-22"><span>[</span>22<span>]</span></a></sup><sup id="cite_ref-sfgate4_23-0" class="reference"><a href="#cite_note-sfgate4-23"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-sfgate5_24-0" class="reference"><a href="#cite_note-sfgate5-24"><span>[</span>24<span>]</span></a></sup></p>
+<p>Gray's boat was equipped with an automatically deployable EPIRB (<a href="/wiki/Emergency_Position-Indicating_Radio_Beacon" title="Emergency Position-Indicating Radio Beacon" class="mw-redirect">Emergency Position-Indicating Radio Beacon</a>), which should have deployed and begun transmitting the instant his vessel sank. The area around the Farallon Islands where Gray was sailing is well north of the East-West ship channel used by freighters entering and leaving <a href="/wiki/San_Francisco_Bay" title="San Francisco Bay">San Francisco Bay</a>. The weather was clear that day and no ships reported striking his boat, nor were any distress radio transmissions reported.</p>
+<p>On February 1, 2007, the <a href="/wiki/DigitalGlobe" title="DigitalGlobe">DigitalGlobe</a> satellite did a scan of the area, generating thousands of images.<sup id="cite_ref-nythafner_25-0" class="reference"><a href="#cite_note-nythafner-25"><span>[</span>25<span>]</span></a></sup> The images were posted to <a href="/wiki/Amazon_Mechanical_Turk" title="Amazon Mechanical Turk">Amazon Mechanical Turk</a> in order to distribute the work of searching through them, in hopes of spotting his boat.</p>
+<p>In the immediate aftermath of the disappearance, many theories were put forward on how Gray disappeared.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></p>
+<p>On February 16, 2007, the family and friends of Jim Gray Group suspended their search,<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> but continue to follow any important leads. The family ended its underwater search May 31, 2007. Despite much effort and use of high-tech equipment above and below water, searches did not reveal any new clues.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></p>
+<p>Having been missing for five years as of May 16, 2012, Gray is legally assumed to have died at sea.<sup id="cite_ref-JG_DecDeath_CACM072012_4-1" class="reference"><a href="#cite_note-JG_DecDeath_CACM072012-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=edit&amp;section=4" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While at Berkeley, Gray and his first wife Loretta had a daughter; the couple later divorced.<sup id="cite_ref-oralhist_2-9" class="reference"><a href="#cite_note-oralhist-2"><span>[</span>2<span>]</span></a></sup> He is survived by his wife, Donna Carnes, his daughter, three grandchildren, and his sister Gail.</p>
+<p>The <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> and Gray's family hosted a tribute to him on May 31, 2008. The conference included sessions delivered by <a href="/wiki/Richard_Rashid" title="Richard Rashid">Richard Rashid</a> and David Vaskevitch.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup> Microsoft's <a href="/wiki/WorldWide_Telescope" title="WorldWide Telescope">WorldWide Telescope</a> software is dedicated to Gray. In 2008, Microsoft opened a research center in <a href="/wiki/Madison,_Wisconsin" title="Madison, Wisconsin">Madison, Wisconsin</a>, named after Jim Gray.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Jim_Gray_eScience_Award">Jim Gray eScience Award</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=edit&amp;section=5" title="Edit section: Jim Gray eScience Award">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Each year, Microsoft Research presents the Jim Gray eScience Award<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup> to a researcher who has made an outstanding contribution to the field of <a href="/wiki/Data-intensive_computing" title="Data-intensive computing">data-intensive computing</a>. Award recipients are selected for their ground-breaking, fundamental contributions to the field of eScience. Previous award winners include <a href="/wiki/Alex_Szalay" title="Alex Szalay">Alex Szalay</a> (2007), <a href="/wiki/Carole_Goble" title="Carole Goble">Carole Goble</a> (2008), Jeff Dozier (2009), <a href="/wiki/Phil_Bourne" title="Phil Bourne" class="mw-redirect">Phil Bourne</a> (2010), Mark Abbott (2011), <a href="/wiki/Antony_John_Williams" title="Antony John Williams">Antony John Williams</a> (2012), and Dr. <a href="/wiki/David_J._Lipman" title="David J. Lipman">David Lipman</a>, M.D. (2013).</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-wisc-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-wisc_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wisc_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.wisc.edu/awards/scholarships.dewitt.html">"DeWitt Undergraduate CS Scholarship: Dr. James Gray"</a>. <a href="/wiki/University_of_Wisconsin%E2%80%93Madison" title="University of Wisconsin–Madison">University of Wisconsin–Madison</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.btitle=DeWitt+Undergraduate+CS+Scholarship%3A+Dr.+James+Gray&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cs.wisc.edu%2Fawards%2Fscholarships.dewitt.html&amp;rft.pub=University+of+Wisconsin%93Madison&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-oralhist-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-oralhist_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-oralhist_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-oralhist_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-oralhist_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-oralhist_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-oralhist_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-oralhist_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-oralhist_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-oralhist_2-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-oralhist_2-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text">Oral History Interview with Jim Gray ([purl.umn.edu/107339 Synopsis] at <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a>, <a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a>. 3 January 2002. Retrieved 2010-01-19.</span></li>
+<li id="cite_note-turing-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-turing_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gray, J. (2003). <a rel="nofollow" class="external text" href="http://research.microsoft.com/pubs/68660/ms_tr_99_50_turingtalk.pdf">"What next?: A dozen information-technology research goals"</a> <span style="font-size:85%;">(PDF)</span>. <i>Journal of the ACM</i> <b>50</b>: 41–57. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F602382.602401">10.1145/602382.602401</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=What+next%3F%3A+A+dozen+information-technology+research+goals&amp;rft.aufirst=J.&amp;rft.aulast=Gray&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F68660%2Fms_tr_99_50_turingtalk.pdf&amp;rft_id=info%3Adoi%2F10.1145%2F602382.602401&amp;rft.jtitle=Journal+of+the+ACM&amp;rft.pages=41-57&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=50" class="Z3988"><span style="display:none;">&#160;</span></span> Jim Gray Turing Award lecture</span></li>
+<li id="cite_note-JG_DecDeath_CACM072012-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-JG_DecDeath_CACM072012_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-JG_DecDeath_CACM072012_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Greengard, Samuel (June 2012). <a href="/wiki/Moshe_Y._Vardi" title="Moshe Y. Vardi" class="mw-redirect">Vardi, Moshe</a>, ed. "Jim Gray Declared Dead". <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a></i> (ACM Media) <b>55</b> (7): 19. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F2209249.2209257">10.1145/2209249.2209257</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0001-0782">0001-0782</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Jim+Gray+Declared+Dead&amp;rft.aufirst=Samuel&amp;rft.aulast=Greengard&amp;rft.date=2012-06&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F2209249.2209257&amp;rft.issn=0001-0782&amp;rft.issue=7&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=19&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=55" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Gray, Jim (1998). <a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/gray_3649936.cfm">"Jim Gray - A.M. Turing Award Winner"</a>. ACM.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Jim+Gray+-+A.M.+Turing+Award+Winner&amp;rft.aufirst=Jim&amp;rft.aulast=Gray&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Famturing.acm.org%2Faward_winners%2Fgray_3649936.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.faircom.com/ace/enl_29_jimgray_t.php">"Biography of Dr. Jim Gray"</a>. <i>faircom.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Biography+of+Dr.+Jim+Gray&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.faircom.com%2Face%2Fenl_29_jimgray_t.php&amp;rft.jtitle=faircom.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><i>Transaction Processing: Concepts and Techniques</i> (with Andreas Reuter) (1993). <a href="/wiki/Special:BookSources/1558601902" class="internal mw-magiclink-isbn">ISBN 1-55860-190-2</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><i>The Benchmark Handbook: For Database and Transaction Processing Systems</i> (1991). <a href="/wiki/Morgan_Kaufmann" title="Morgan Kaufmann" class="mw-redirect">Morgan Kaufmann</a>. <a href="/wiki/Special:BookSources/9781558601598" class="internal mw-magiclink-isbn">ISBN 978-1-55860-159-8</a>.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Saade, E. (2008). <a rel="nofollow" class="external text" href="http://www.sigmod.org/record/issues/0806/p70.saade.pdf">"Search survey for S/V Tenacious"</a> <span style="font-size:85%;">(PDF)</span>. <i>ACM SIGMOD Record</i> <b>37</b> (2): 70. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1379387.1379409">10.1145/1379387.1379409</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Search+survey+for+S%2FV+Tenacious&amp;rft.aufirst=E.&amp;rft.aulast=Saade&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sigmod.org%2Frecord%2Fissues%2F0806%2Fp70.saade.pdf&amp;rft_id=info%3Adoi%2F10.1145%2F1379387.1379409&amp;rft.issue=2&amp;rft.jtitle=ACM+SIGMOD+Record&amp;rft.pages=70&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=37" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hellerstein, J. M.; Tennenhouse, D. L. (2011). <a rel="nofollow" class="external text" href="http://cacm.acm.org/magazines/2011/7/109892-searching-for-jim-gray/fulltext">"Searching for Jim Gray"</a>. <i>Communications of the ACM</i> <b>54</b> (7): 77. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1965724.1965744">10.1145/1965724.1965744</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Searching+for+Jim+Gray&amp;rft.aufirst=J.+M.&amp;rft.aulast=Hellerstein&amp;rft.au=Tennenhouse%2C+D.+L.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcacm.acm.org%2Fmagazines%2F2011%2F7%2F109892-searching-for-jim-gray%2Ffulltext&amp;rft_id=info%3Adoi%2F10.1145%2F1965724.1965744&amp;rft.issue=7&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=77&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=54" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Crawford, D. (2008). "Jim Gray". <i>Communications of the ACM</i> <b>51</b> (11): 7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1400214.1400216">10.1145/1400214.1400216</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Jim+Gray&amp;rft.aufirst=D.&amp;rft.aulast=Crawford&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F1400214.1400216&amp;rft.issue=11&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=51" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Szalay, A. S. (2008). "Jim Gray, astronomer". <i>Communications of the ACM</i> <b>51</b> (11): 58. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1400214.1400231">10.1145/1400214.1400231</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Jim+Gray%2C+astronomer&amp;rft.aufirst=A.+S.&amp;rft.aulast=Szalay&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F1400214.1400231&amp;rft.issue=11&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=58&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=51" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gray, J. (2008). "Technical perspectiveThe Polaris Tableau system". <i>Communications of the ACM</i> <b>51</b> (11): 74. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1400214.1400233">10.1145/1400214.1400233</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Technical+perspectiveThe+Polaris+Tableau+system&amp;rft.aufirst=J.&amp;rft.aulast=Gray&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F1400214.1400233&amp;rft.issue=11&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=74&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=51" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Stonebraker, M.</a>; <a href="/wiki/David_DeWitt" title="David DeWitt">Dewitt, D. J.</a> (2008). "A tribute to Jim Gray". <i>Communications of the ACM</i> <b>51</b> (11): 54. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1400214.1400230">10.1145/1400214.1400230</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=A+tribute+to+Jim+Gray&amp;rft.au=Dewitt%2C+D.+J.&amp;rft.aufirst=M.&amp;rft.aulast=Stonebraker&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F1400214.1400230&amp;rft.issue=11&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=54&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=51" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Steve Silberman (24 Jul 2007). <a rel="nofollow" class="external text" href="http://archive.wired.com/techbiz/people/magazine/15-08/ff_jimgray?currentPage=all">"Inside the High Tech Hunt for a Missing Silicon Valley Legend"</a>. <i>wired.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 Feb</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Inside+the+High+Tech+Hunt+for+a+Missing+Silicon+Valley+Legend&amp;rft.au=Steve+Silberman&amp;rft.date=2007-07-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Farchive.wired.com%2Ftechbiz%2Fpeople%2Fmagazine%2F15-08%2Fff_jimgray%3FcurrentPage%3Dall&amp;rft.jtitle=wired.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Eswaran, K. P.; Gray, J. N.; Lorie, R. A.; Traiger, I. L. (1976). "The notions of consistency and predicate locks in a database system". <i>Communications of the ACM</i> <b>19</b> (11): 624–633. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F360363.360369">10.1145/360363.360369</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=The+notions+of+consistency+and+predicate+locks+in+a+database+system&amp;rft.aufirst=K.+P.&amp;rft.au=Gray%2C+J.+N.&amp;rft.aulast=Eswaran&amp;rft.au=Lorie%2C+R.+A.&amp;rft.au=Traiger%2C+I.+L.&amp;rft.date=1976&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F360363.360369&amp;rft.issue=11&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=624-633&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.acmqueue.com/modules.php?name=Content&amp;pa=showpage&amp;pid=43">"A Conversation with Jim Gray - ACM Queue"</a>. <i>acmqueue.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=A+Conversation+with+Jim+Gray+-+ACM+Queue&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.acmqueue.com%2Fmodules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D43&amp;rft.jtitle=acmqueue.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Marianne_Winslett" title="Marianne Winslett">Winslett, Marianne</a>. <a rel="nofollow" class="external text" href="http://www.sigmod.org/sigmod/record/issues/0303/Gray_SIGMOD_Interview_Final.pdf">"Interview with Jim Gray for ACM SIGMOD Record, March 2003 as part of Distinguished Database Profiles"</a> <span style="font-size:85%;">(PDF)</span>. <i>sigmod.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Interview+with+Jim+Gray+for+ACM+SIGMOD+Record%2C+March+2003+as+part+of+Distinguished+Database+Profiles&amp;rft.aufirst=Marianne&amp;rft.aulast=Winslett&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sigmod.org%2Fsigmod%2Frecord%2Fissues%2F0303%2FGray_SIGMOD_Interview_Final.pdf&amp;rft.jtitle=sigmod.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://channel9.msdn.com/Showpost.aspx?postid=168181">Interview</a> on <a href="/wiki/MSDN" title="MSDN" class="mw-redirect">MSDN</a> <a href="/wiki/Channel_9_(discussion_forum)" title="Channel 9 (discussion forum)" class="mw-redirect">Channel 9</a>, Behind the Code, March 3, 2006</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.regdeveloper.co.uk/2006/05/30/jim_gray/">"Deconstructing databases with Jim Gray"</a>. <i>regdeveloper.co.uk</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Deconstructing+databases+with+Jim+Gray&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.regdeveloper.co.uk%2F2006%2F05%2F30%2Fjim_gray%2F&amp;rft.jtitle=regdeveloper.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sfgate-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-sfgate_21-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/01/29/BAGB5NR0GL6.DTL">"Coast Guard searches for missing SF boater: 63-year-old man failed to return from trip to Farallon Islands"</a>. <i><a href="/wiki/San_Francisco_Chronicle" title="San Francisco Chronicle">San Francisco Chronicle</a></i>. January 29, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Coast+Guard+searches+for+missing+SF+boater%3A+63-year-old+man+failed+to+return+from+trip+to+Farallon+Islands&amp;rft.date=2007-01-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sfgate.com%2Fcgi-bin%2Farticle.cgi%3Ff%3D%2Fc%2Fa%2F2007%2F01%2F29%2FBAGB5NR0GL6.DTL&amp;rft.jtitle=San+Francisco+Chronicle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sfgate2-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-sfgate2_22-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Doyle, Jim (January 30, 2007). <a rel="nofollow" class="external text" href="http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/01/30/BAGGTNR93G1.DTL&amp;type=printable">"Sea search for missing Microsoft scientist: No sign of S.F. man who set out alone for Farallon Islands in 40-foot sailboat"</a>. <i><a href="/wiki/San_Francisco_Chronicle" title="San Francisco Chronicle">San Francisco Chronicle</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Sea+search+for+missing+Microsoft+scientist%3A++No+sign+of+S.F.+man+who+set+out+alone+for+Farallon+Islands+in+40-foot+sailboat&amp;rft.aufirst=Jim&amp;rft.aulast=Doyle&amp;rft.date=2007-01-30&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fsfgate.com%2Fcgi-bin%2Farticle.cgi%3Ffile%3D%2Fc%2Fa%2F2007%2F01%2F30%2FBAGGTNR93G1.DTL%26type%3Dprintable&amp;rft.jtitle=San+Francisco+Chronicle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sfgate4-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-sfgate4_23-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Schevitz, Tanya; Rubenstein, Steve (January 31, 2007). <a rel="nofollow" class="external text" href="http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/01/31/BAGTONS9084.DTL&amp;type=printable">"Search for missing sailor extends to Humboldt"</a>. <i><a href="/wiki/San_Francisco_Chronicle" title="San Francisco Chronicle">San Francisco Chronicle</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Search+for+missing+sailor+extends+to+Humboldt&amp;rft.aufirst=Tanya&amp;rft.aulast=Schevitz&amp;rft.au=Rubenstein%2C+Steve&amp;rft.date=2007-01-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fsfgate.com%2Fcgi-bin%2Farticle.cgi%3Ffile%3D%2Fc%2Fa%2F2007%2F01%2F31%2FBAGTONS9084.DTL%26type%3Dprintable&amp;rft.jtitle=San+Francisco+Chronicle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sfgate5-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-sfgate5_24-0">^</a></b></span> <span class="reference-text"><cite class="citation news">May, Meredith; Doyle, Jim (January 31, 2007). <a rel="nofollow" class="external text" href="http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2007/01/31/MNGPMNRVD137.DTL&amp;type=printable">"Vast search off coast for data wizard"</a>. <i><a href="/wiki/San_Francisco_Chronicle" title="San Francisco Chronicle">San Francisco Chronicle</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Vast+search+off+coast+for+data+wizard&amp;rft.au=Doyle%2C+Jim&amp;rft.aufirst=Meredith&amp;rft.aulast=May&amp;rft.date=2007-01-31&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fsfgate.com%2Fcgi-bin%2Farticle.cgi%3Ffile%3D%2Fc%2Fa%2F2007%2F01%2F31%2FMNGPMNRVD137.DTL%26type%3Dprintable&amp;rft.jtitle=San+Francisco+Chronicle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nythafner-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-nythafner_25-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Hafner, Katie (February 3, 2007). <a rel="nofollow" class="external text" href="http://www.nytimes.com/2007/02/03/technology/03search.html?ex=1328158800&amp;en=e58764b50c8a4508&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss">"Silicon Valley's High-Tech Hunt for Colleague"</a>. <i><a href="/wiki/New_York_Times" title="New York Times" class="mw-redirect">New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 6,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Silicon+Valley%27s+High-Tech+Hunt+for+Colleague&amp;rft.aufirst=Katie&amp;rft.aulast=Hafner&amp;rft.date=2007-02-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2007%2F02%2F03%2Ftechnology%2F03search.html%3Fex%3D1328158800%26en%3De58764b50c8a4508%26ei%3D5090%26partner%3Drssuserland%26emc%3Drss&amp;rft.jtitle=New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news">Doyle, Jim (February 3, 2007). <a rel="nofollow" class="external text" href="http://www.sfgate.com/bayarea/article/FARALLON-ISLANDS-Missing-sailor-mystery-2652293.php">"FARALLON ISLANDS / Missing sailor mystery / Boaters' speculations range from orcas to margarita escape"</a>. <i>www.sfgate.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=FARALLON+ISLANDS+%2F+Missing+sailor+mystery+%2F+Boaters%27+speculations+range+from+orcas+to+margarita+escape&amp;rft.aufirst=Jim&amp;rft.aulast=Doyle&amp;rft.date=2007-02-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sfgate.com%2Fbayarea%2Farticle%2FFARALLON-ISLANDS-Missing-sailor-mystery-2652293.php&amp;rft.jtitle=www.sfgate.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2007/02/16/state/n181516S21.DTL&amp;hw=jim+gray&amp;sn=001&amp;sc=1000">"Friends of missing computer scientist suspend search for him"</a>. <i><a href="/wiki/San_Francisco_Chronicle" title="San Francisco Chronicle">San Francisco Chronicle</a></i>. February 16, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Friends+of+missing+computer+scientist+suspend+search+for+him&amp;rft.date=2007-02-16&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sfgate.com%2Fcgi-bin%2Farticle.cgi%3Ff%3D%2Fn%2Fa%2F2007%2F02%2F16%2Fstate%2Fn181516S21.DTL%26hw%3Djim%2Bgray%26sn%3D001%26sc%3D1000&amp;rft.jtitle=San+Francisco+Chronicle&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wired.com/techbiz/people/magazine/15-08/ff_jimgray">Inside the High-Tech Hunt for a Missing Silicon Valley Legend</a>, <a href="/wiki/Wired_Magazine" title="Wired Magazine" class="mw-redirect">Wired Magazine</a> (August 2007)</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hellerstein, J. M.; Tennenhouse, D. L. (2011). <a rel="nofollow" class="external text" href="http://cacm.acm.org/magazines/2011/7/109892-searching-for-jim-gray/fulltext">"Searching for Jim Gray"</a>. <i>Communications of the ACM</i> <b>54</b> (7): 77. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1965724.1965744">10.1145/1965724.1965744</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Searching+for+Jim+Gray&amp;rft.aufirst=J.+M.&amp;rft.aulast=Hellerstein&amp;rft.au=Tennenhouse%2C+D.+L.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcacm.acm.org%2Fmagazines%2F2011%2F7%2F109892-searching-for-jim-gray%2Ffulltext&amp;rft_id=info%3Adoi%2F10.1145%2F1965724.1965744&amp;rft.issue=7&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=77&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=54" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mturk.com/mturk/preview?groupId=J0XZ58STDWJZ5QY4F9M0">"Amazon Mechanical Turk - All HITs"</a>. <i>mturk.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Amazon+Mechanical+Turk+-+All+HITs&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mturk.com%2Fmturk%2Fpreview%3FgroupId%3DJ0XZ58STDWJZ5QY4F9M0&amp;rft.jtitle=mturk.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.openphi.net/tenacious/">"Tenacious Search"</a>. <i>openphi.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Tenacious+Search&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.openphi.net%2Ftenacious%2F&amp;rft.jtitle=openphi.net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.helpfindjim.com/index.html">Help Find Jim</a> Information to help locate Jim Gray</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.helpfindjim.com/printposter.html">Print a MISSING Poster</a> Hang a MISSING Poster in Southern California and Mexico.</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation news">Wingfield, Nick (May 18, 2012). <a rel="nofollow" class="external text" href="http://bits.blogs.nytimes.com/2012/05/18/closure-in-disappearance-of-computer-scientist-jim-gray/">"Closure in Disappearance of Computer Scientist"</a>. <i>The New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 18,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Closure+in+Disappearance+of+Computer+Scientist&amp;rft.aufirst=Nick&amp;rft.aulast=Wingfield&amp;rft.date=2012-05-18&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbits.blogs.nytimes.com%2F2012%2F05%2F18%2Fclosure-in-disappearance-of-computer-scientist-jim-gray%2F&amp;rft.jtitle=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.eecs.berkeley.edu/IPRO/JimGrayTribute">http://www.eecs.berkeley.edu/IPRO/JimGrayTribute</a></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.microsoft.com/presspass/features/2008/apr08/04-23DeWitt.mspx">http://www.microsoft.com/presspass/features/2008/apr08/04-23DeWitt.mspx</a></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://research.microsoft.com/en-us/collaboration/focus/escience/jim-gray-award.aspx">"Jim Gray eScience Award - Microsoft Research"</a>. <i>microsoft.com</i>. Microsoft<span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJim+Gray+%28computer+scientist%29&amp;rft.atitle=Jim+Gray+eScience+Award+-+Microsoft+Research&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fcollaboration%2Ffocus%2Fescience%2Fjim-gray-award.aspx&amp;rft.jtitle=microsoft.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-style ambox-external_links" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links.2C_images.2C_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>.</span> <small><i>(June 2013)</i></small></span></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/en-us/um/people/gray/">Gray's Microsoft Research home page</a>, last accessed 23 June 2013</li>
+<li><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/gray_3649936.cfm">James ("Jim") Nicholas Gray</a>, Turing Award citation</li>
+<li><a rel="nofollow" class="external text" href="http://channel9.msdn.com/Shows/Behind+The+Code/Conversation-with-scientist-engineer-and-database-legend-Jim-Gray">Video</a> Behind the Code on Channel 9, interviewed by Barbara Fox, 2005</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=ht4iMeNDYAw&amp;feature=youtu.be">Video</a> The Future of Software and Databases, expert panel discussion with Rick Cattell, Don Chamberlin, Daniela Florescu, Jim Gray and Jim Melton, Software Development 2002 conference</li>
+<li><a rel="nofollow" class="external text" href="http://purl.umn.edu/107339">Oral History Interview with Jim Gray</a>, <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a>, University of Minnesota. Oral history interview by Philip L. Frana, 3 January 2002, San Francisco, California.</li>
+<li><a rel="nofollow" class="external text" href="http://www.sqldownunder.com/Podcasts/Shows/9">The Future of Databases</a>, SQL Down Under. Interview with Dr Greg Low, 2005.</li>
+<li><a rel="nofollow" class="external text" href="http://www.theregister.co.uk/2007/04/30/jim_gray_tribute/">Tribute</a> by Mark Whitehorn for <a href="/wiki/The_Register" title="The Register">The Register</a> April 30, 2007</li>
+<li><a rel="nofollow" class="external text" href="http://www.stanford.edu/class/ee380/Abstracts/080528.html">EE380: The Search for Jim Gray</a>, Panel Discussion at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> (<a rel="nofollow" class="external text" href="http://stanford-online.stanford.edu/courses/ee380/080528-ee380-300.asx">video archive</a>) May 28, 2008</li>
+</ul>
+<p>(<a rel="nofollow" class="external text" href="http://www.sigmod.org/record/jimgray">Proceedings</a>) May 31, 2008</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://perspectives.mvdirona.com/SearchView.aspx?q=%22what%20would%20jim%20do%22">Tribute</a> by James Hamilton</li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.berkeley.edu/~yelick/294-f00/papers/Gray85.txt">Why Do Computers Stop and What Can Be Done About It?</a>, a technical report by Jim Gray, 1985</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Turing_Award_laureates" title="Template:Turing Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Turing_Award_laureates" title="Template talk:Turing Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Turing_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a> <small>(1966)</small></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Vincent Wilkes</a> <small>(1967)</small></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1968)</small></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> <small>(1969)</small></li>
+<li><a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a> <small>(1970)</small></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a> <small>(1971)</small></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a> <small>(1972)</small></li>
+<li><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a> <small>(1973)</small></li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> <small>(1974)</small></li>
+<li><a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a> / <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a> <small>(1975)</small></li>
+<li><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a> / <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> <small>(1976)</small></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> <small>(1977)</small></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a> <small>(1978)</small></li>
+<li><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a> <small>(1979)</small></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> <small>(1980)</small></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> <small>(1981)</small></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> <small>(1982)</small></li>
+<li><a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> / <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> <small>(1983)</small></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> <small>(1984)</small></li>
+<li><a href="/wiki/Richard_Karp" title="Richard Karp" class="mw-redirect">Richard Karp</a> <small>(1985)</small></li>
+<li><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a> / <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a> <small>(1986)</small></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a> <small>(1987)</small></li>
+<li><a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a> <small>(1988)</small></li>
+<li><a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a> <small>(1989)</small></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a> <small>(1990)</small></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> <small>(1991)</small></li>
+<li><a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a> <small>(1992)</small></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a> / <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a> <small>(1993)</small></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a> / <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a> <small>(1994)</small></li>
+<li><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a> <small>(1995)</small></li>
+<li><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a> <small>(1996)</small></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> <small>(1997)</small></li>
+<li><strong class="selflink">Jim Gray</strong> <small>(1998)</small></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a> <small>(1999)</small></li>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Yao</a> <small>(2000)</small></li>
+<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a> / <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a> <small>(2001)</small></li>
+<li><a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a> / <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a> / <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a> <small>(2002)</small></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> <small>(2003)</small></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a> / <a href="/wiki/Bob_Kahn" title="Bob Kahn">Bob Kahn</a> <small>(2004)</small></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a> <small>(2005)</small></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a> <small>(2006)</small></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a> / <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a> / <a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a> <small>(2007)</small></li>
+<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> <small>(2008)</small></li>
+<li><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> <small>(2009)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie G. Valiant</a> <small>(2010)</small></li>
+<li><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a> <small>(2011)</small></li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a> / <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a> <small>(2012)</small></li>
+<li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> <small>(2013)</small></li>
+<li><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n91-030419">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/41014827">41014827</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n91030419">n91030419</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000008444897X">0000 0000 8444 897X</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/172104149">172104149</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/034317503">034317503</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=80279">80279</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00467473">00467473</a></span></li>
+<li><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=skuk0002741&amp;CON_LNG=ENG">skuk0002741</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1224
+Cached time: 20160103064637
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.448 seconds
+Real time usage: 0.511 seconds
+Preprocessor visited node count: 2575/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 68877/2097152 bytes
+Template argument size: 1396/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.227/10.000 seconds
+Lua memory usage: 3.29 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  453.668      1 - -total
+ 54.50%  247.263      1 - Template:Reflist
+ 21.97%   99.666      1 - Template:Infobox_person
+ 16.86%   76.511      1 - Template:Infobox
+ 16.08%   72.957     10 - Template:Cite_journal
+ 16.04%   72.750      9 - Template:Cite_web
+ 11.66%   52.879      9 - Template:Cite_news
+  7.34%   33.279      1 - Template:External_links
+  6.76%   30.659      5 - Template:Br_separated_entries
+  6.22%   28.200      1 - Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:308367-0!*!0!!en!4!* and timestamp 20160103064636 and revision id 696340272
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jim_Gray_(computer_scientist)&amp;oldid=696340272">https://en.wikipedia.org/w/index.php?title=Jim_Gray_(computer_scientist)&amp;oldid=696340272</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Database_researchers" title="Category:Database researchers">Database researchers</a></li><li><a href="/wiki/Category:Scientists_from_California" title="Category:Scientists from California">Scientists from California</a></li><li><a href="/wiki/Category:1944_births" title="Category:1944 births">1944 births</a></li><li><a href="/wiki/Category:2007_deaths" title="Category:2007 deaths">2007 deaths</a></li><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Sciences" title="Category:Members of the United States National Academy of Sciences">Members of the United States National Academy of Sciences</a></li><li><a href="/wiki/Category:Digital_Equipment_Corporation_people" title="Category:Digital Equipment Corporation people">Digital Equipment Corporation people</a></li><li><a href="/wiki/Category:Microsoft_employees" title="Category:Microsoft employees">Microsoft employees</a></li><li><a href="/wiki/Category:People_declared_dead_in_absentia" title="Category:People declared dead in absentia">People declared dead in absentia</a></li><li><a href="/wiki/Category:People_lost_at_sea" title="Category:People lost at sea">People lost at sea</a></li><li><a href="/wiki/Category:Courant_Institute_of_Mathematical_Sciences_alumni" title="Category:Courant Institute of Mathematical Sciences alumni">Courant Institute of Mathematical Sciences alumni</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_College_of_Engineering_alumni" title="Category:University of California, Berkeley College of Engineering alumni">University of California, Berkeley College of Engineering alumni</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_June_2013" title="Category:Wikipedia external links cleanup from June 2013">Wikipedia external links cleanup from June 2013</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_June_2013" title="Category:Wikipedia spam cleanup from June 2013">Wikipedia spam cleanup from June 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jim+Gray+%28computer+scientist%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jim+Gray+%28computer+scientist%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Jim_Gray_(computer_scientist)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Jim_Gray_(computer_scientist)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Jim_Gray_(computer_scientist)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Jim_Gray_(computer_scientist)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Jim_Gray_(computer_scientist)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;oldid=696340272" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92606" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jim_Gray_%28computer_scientist%29&amp;id=696340272" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Jim+Gray+%28computer+scientist%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Jim+Gray+%28computer+scientist%29&amp;returnto=Jim+Gray+%28computer+scientist%29&amp;oldid=696340272&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Jim_Gray_(computer_scientist)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AC%D9%8A%D9%85_%D8%BA%D8%B1%D8%A7%D9%8A" title="جيم غراي – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%9C%E0%A6%BF%E0%A6%AE_%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87_(%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A7%80)" title="জিম গ্রে (কম্পিউটার বিজ্ঞানী) – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Jim_Gray" title="Jim Gray – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Jim_Gray" title="Jim Gray – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Jim_Gray" title="Jim Gray – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/James_N._Gray" title="James N. Gray – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AC%DB%8C%D9%85_%DA%AF%D8%B1%DB%8C" title="جیم گری – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/James_Gray_(informaticien)" title="James Gray (informaticien) – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%A7%90_%EA%B7%B8%EB%A0%88%EC%9D%B4" title="짐 그레이 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/James_N._Gray" title="James N. Gray – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Jim_Gray" title="Jim Gray – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-jv"><a href="//jv.wikipedia.org/wiki/James_N._Gray" title="James N. Gray – Javanese" lang="jv" hreflang="jv">Basa Jawa</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/D%C5%BEims_Grejs" title="Džims Grejs – Latvian" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4" title="ジム・グレイ – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/James_Gray" title="James Gray – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/James_Gray" title="James Gray – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Jim_Gray" title="Jim Gray – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%B9,_%D0%94%D0%B6%D0%B8%D0%BC" title="Грей, Джим – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/James_Gray" title="James Gray – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%8F%D0%B8%D0%BC_%D0%93%D1%80%D0%B5%D1%98" title="Џим Греј – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Jim_Gray" title="Jim Gray – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Jim_Gray" title="Jim Gray – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Jim_Gray" title="Jim Gray – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%B8%D0%BC_%D2%90%D1%80%D0%B5%D0%B9" title="Джим Ґрей – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E6%A0%BC%E9%9B%B7" title="詹姆斯·尼古拉·格雷 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92606#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 December 2015, at 13:41.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Jim_Gray_(computer_scientist)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1239"}); /* @nomin */
+} );</script>
+	</body>
+</html>

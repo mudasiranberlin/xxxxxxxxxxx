@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>James Hendler - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"James_Hendler","wgTitle":"James Hendler","wgCurRevisionId":695800574,"wgRevisionId":695800574,"wgArticleId":2726304,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with NLA identifiers","1957 births","Living people","Yale University alumni","Southern Methodist University alumni","Brown University alumni","American computer scientists","Artificial intelligence researchers","University of Maryland, College Park faculty","Rensselaer Polytechnic Institute faculty","Fellows of the British Computer Society","Fellows of the Association for the Advancement of Artificial Intelligence","Fellow Members of the IEEE","Fellows of the American Association for the Advancement of Science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"James_Hendler","wgRelevantArticleId":2726304,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Prof_James_Hendler-2008-11-03.JPG/100px-Prof_James_Hendler-2008-11-03.JPG","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q6135847","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/James_Hendler" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=James_Hendler&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=James_Hendler&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/James_Hendler" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-James_Hendler skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">James Hendler</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">James Alexander Hendler</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Prof_James_Hendler-2008-11-03.JPG" class="image"><img alt="Prof James Hendler-2008-11-03.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Prof_James_Hendler-2008-11-03.JPG/220px-Prof_James_Hendler-2008-11-03.JPG" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Prof_James_Hendler-2008-11-03.JPG/330px-Prof_James_Hendler-2008-11-03.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Prof_James_Hendler-2008-11-03.JPG/440px-Prof_James_Hendler-2008-11-03.JPG 2x" data-file-width="721" data-file-height="722" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1957-04-02</span>)</span> 2 April 1957 <span class="noprint ForceAgeToShow">(age&#160;58)</span><br />
+<a href="/wiki/Queens" title="Queens">Queens</a>, <a href="/wiki/New_York" title="New York">New York</a></td>
+</tr>
+<tr>
+<th scope="row">Residence</th>
+<td><a href="/wiki/Albany,_New_York" title="Albany, New York">Albany, New York</a>, <a href="/wiki/USA" title="USA" class="mw-redirect">USA</a></td>
+</tr>
+<tr>
+<th scope="row">Citizenship</th>
+<td><a href="/wiki/USA" title="USA" class="mw-redirect">USA</a></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/USA" title="USA" class="mw-redirect">USA</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a><br />
+<a href="/wiki/Semantic_web" title="Semantic web" class="mw-redirect">Semantic web</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Rensselaer_Polytechnic_Institute" title="Rensselaer Polytechnic Institute">Rensselaer Polytechnic Institute</a><br />
+<a href="/wiki/Yale_University" title="Yale University">Yale University</a>,<br />
+<a href="/wiki/Southern_Methodist_University" title="Southern Methodist University">Southern Methodist University</a><br />
+<a href="/wiki/Brown_University" title="Brown University">Brown University</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Brown_University" title="Brown University">Brown University</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><a rel="nofollow" class="external text" href="http://search.proquest.com/docview/303438400"><i>Integrating Marker-Passing and Problem-Solving: A Spreading-Activation Approach to Improved Choice in Planning</i></a>&#160;<span style="font-size:90%;">(1986)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/Eugene_Charniak" title="Eugene Charniak">Eugene Charniak</a></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a href="/wiki/Jen_Golbeck" title="Jen Golbeck">Jen Golbeck</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td>Significant Contributions to the <a href="/wiki/Semantic_Web" title="Semantic Web">Semantic Web</a><sup id="cite_ref-semwebsciam_1-0" class="reference"><a href="#cite_note-semwebsciam-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Influences</th>
+<td><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a></td>
+</tr>
+<tr>
+<th scope="row">Spouse</th>
+<td>Terry Horowit</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Website</b><br />
+<span class="url"><a rel="nofollow" class="external text" href="http://www.cs.rpi.edu/~hendler">www<wbr />.cs<wbr />.rpi<wbr />.edu<wbr />/~hendler</a></span><br />
+<span class="url"><a rel="nofollow" class="external text" href="http://twitter.com/jahendler">twitter<wbr />.com<wbr />/jahendler</a></span></td>
+</tr>
+</table>
+<p><b>James Alexander Hendler</b> (born April 2, 1957) is an <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a> researcher at <a href="/wiki/Rensselaer_Polytechnic_Institute" title="Rensselaer Polytechnic Institute">Rensselaer Polytechnic Institute</a>, <a href="/wiki/USA" title="USA" class="mw-redirect">USA</a>, and one of the originators of the <a href="/wiki/Semantic_Web" title="Semantic Web">Semantic Web</a>.<sup id="cite_ref-semwebsciam_1-1" class="reference"><a href="#cite_note-semwebsciam-1"><span>[</span>1<span>]</span></a></sup> </p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education"><span class="tocnumber">1</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Research"><span class="tocnumber">2</span> <span class="toctext">Research</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Books"><span class="tocnumber">3</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Honors"><span class="tocnumber">4</span> <span class="toctext">Honors</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Boards_and_advisory_boards"><span class="tocnumber">4.1</span> <span class="toctext">Boards and advisory boards</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=James_Hendler&amp;action=edit&amp;section=1" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hendler completed his <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Doctor of Philosophy</a> degree at <a href="/wiki/Brown_University" title="Brown University">Brown University</a> in 1986 with a thesis on <a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">automated planning and scheduling</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> He also has an MS (1981) in Cognitive Psychology from <a href="/wiki/Southern_Methodist_University" title="Southern Methodist University">Southern Methodist University</a>, a MSc (1983) from <a href="/wiki/Brown_University" title="Brown University">Brown University</a>, and a BS (1978) from <a href="/wiki/Yale_University" title="Yale University">Yale University</a>.</p>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=James_Hendler&amp;action=edit&amp;section=2" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hendler's research interests<sup id="cite_ref-googlescholar_3-0" class="reference"><a href="#cite_note-googlescholar-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-dblp_4-0" class="reference"><a href="#cite_note-dblp-4"><span>[</span>4<span>]</span></a></sup> are in the semantic web<sup id="cite_ref-semwebsciam_1-2" class="reference"><a href="#cite_note-semwebsciam-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> and artificial intelligence.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> Hendler held a longstanding position as professor at the <a href="/wiki/University_of_Maryland,_College_Park" title="University of Maryland, College Park">University of Maryland</a> where he was the Director of the Joint Institute for Knowledge Discovery and held joint appointments in the Department of Computer Science, the Institute for Advanced Computer Studies and the Institute for Systems Research. Hendler was the Director for Semantic Web and Agent Technology at the Maryland Information and Network Dynamics Laboratory. He is a Fellow of the <a href="/wiki/American_Association_for_Artificial_Intelligence" title="American Association for Artificial Intelligence" class="mw-redirect">American Association for Artificial Intelligence</a>, the <a href="/wiki/British_Computer_Society" title="British Computer Society">British Computer Society</a>, the <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">Institute of Electrical and Electronics Engineers</a> and the <a href="/wiki/Fellow_of_the_AAAS" title="Fellow of the AAAS" class="mw-redirect">AAAS</a>.</p>
+<p>On June 14, 2006, James A. Hendler was appointed senior constellation professor of the <a href="/wiki/Tetherless_World_Constellation" title="Tetherless World Constellation">Tetherless World Constellation</a> at <a href="/wiki/Rensselaer_Polytechnic_Institute" title="Rensselaer Polytechnic Institute">Rensselaer Polytechnic Institute</a>, and he became a professor at that institute starting on January 1, 2007. Hendler has appointments in Computer and Cognitive Sciences, and served as the Assistant Dean for Information Technology and Web Science from 2009 to 2012. In 2012 he became the Head of the Computer Science Department at RPI and in 2013 he became the Director of the RPI Institute for Data Exploration and Applications.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>Hendler helps lead the Tetherless World Constellation on increasing access to information at any time and place without the need for a “tether” to a specific computer or device.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> Researchers envision an increasingly web-accessible world in which personal digital assistants (PDAs), cameras, music-listening devices, cell phones, laptops, and other technologies converge to offer the user interactive information and communication. Hendler is the Chair of the Board of Directors of the <a href="/wiki/Web_Science_Trust" title="Web Science Trust">Web Science Trust</a> and a visiting professor at <a href="/wiki/DeMontfort_University" title="DeMontfort University" class="mw-redirect">DeMontfort University</a>.</p>
+<p>He is also the Editor in Chief Emeritus of <i><a href="/wiki/IEEE_Intelligent_Systems" title="IEEE Intelligent Systems">IEEE Intelligent Systems</a></i> and is the first computer scientist to serve on the Board of Reviewing Editors for <i><a href="/wiki/Science_(journal)" title="Science (journal)">Science</a></i>.</p>
+<p>He is a former member of the US Air Force Science Advisory Board and a former Chief Scientist of the Information Systems Office at the <a href="/wiki/DARPA" title="DARPA">US Defense Advanced Research Projects Agency</a> (DARPA). During his tenure there, he was responsible for projects such as the Control of Agent Based Systems (CoABS) program which led to the creation of other <a href="/wiki/Intelligent_agent" title="Intelligent agent">Agent</a>-based projects: Taskable Agent Software Kit (TASK) and <a href="/wiki/DARPA_Agent_Markup_Language" title="DARPA Agent Markup Language">DARPA's Agent Markup Language</a> (DAML) - the latter of which was involved in funding the emerging <a href="/wiki/Semantic_Web" title="Semantic Web">Semantic Web</a> area.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Hendler also serves as an "Internet Web Expert" for the U.S. government, providing guidance to the <a href="/wiki/Data.gov" title="Data.gov">Data.gov</a> project,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> and in September 2013 he was appointed as the Open Data Advisor for NY State.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> In 2015, he was appointed a member of the US Homeland Security Science and Technology Advisory Committee (HSSTAC).</p>
+<p>Hendler was co-author, with <a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a> and <a href="/wiki/Ora_Lassila" title="Ora Lassila">Ora Lassila</a>, of the article "The Semantic Web" which appeared in <a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a> in 2001.<sup id="cite_ref-semwebsciam_1-3" class="reference"><a href="#cite_note-semwebsciam-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=James_Hendler&amp;action=edit&amp;section=3" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>Web Science:Understanding the Emergence of Macro-Level Features on the World Wide Web</i>w/<a href="/wiki/Kieron_O%27Hara" title="Kieron O'Hara">Kieron O'Hara</a>, <a href="/wiki/Noshir_Contractor" title="Noshir Contractor">Noshir Contractor</a>, <a href="/wiki/Wendy_Hall" title="Wendy Hall">Wendy Hall</a>, <a href="/wiki/Nigel_Shadbolt" title="Nigel Shadbolt">Nigel Shadbolt</a>; NOW publishers, 2013 - <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1561%2F1800000017">10.1561/1800000017</a>.</li>
+<li><i>Semantic Web for the Working Ontologist</i> (w/ <a href="/wiki/Dean_Allemang" title="Dean Allemang">Dean Allemang</a>) <a href="/wiki/Morgan_Kaufmann" title="Morgan Kaufmann" class="mw-redirect">Morgan Kaufmann</a> (2008) <a href="/wiki/Special:BookSources/0123735564" class="internal mw-magiclink-isbn">ISBN 0-12-373556-4</a> (second edition, 2011).</li>
+<li><i>Spinning the Semantic Web</i> (ed) <a href="/wiki/MIT_Press" title="MIT Press">MIT Press</a> (2005) <a href="/wiki/Special:BookSources/026256212X" class="internal mw-magiclink-isbn">ISBN 0-262-56212-X</a></li>
+<li><i>Robots for Kids</i> (ed) Morgan Kaufmann (2000) <a href="/wiki/Special:BookSources/1558605975" class="internal mw-magiclink-isbn">ISBN 1-55860-597-5</a></li>
+<li><i>Massively Parallel Artificial Intelligence</i> (ed) <a href="/wiki/AAAI_Press" title="AAAI Press" class="mw-redirect">AAAI Press</a> (1994) <a href="/wiki/Special:BookSources/0262611023" class="internal mw-magiclink-isbn">ISBN 0-262-61102-3</a></li>
+<li><i>Expert Systems: The User Interface</i> (ed) Ablex Pub (1988) <a href="/wiki/Special:BookSources/0893914290" class="internal mw-magiclink-isbn">ISBN 0-89391-429-0</a></li>
+<li><i>Integrating Marker-Passing and Problem Solving.</i> Lawrence Erlbaum (1987) <a href="/wiki/Special:BookSources/0898599822" class="internal mw-magiclink-isbn">ISBN 0-89859-982-2</a></li>
+</ul>
+<h2><span class="mw-headline" id="Honors">Honors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=James_Hendler&amp;action=edit&amp;section=4" title="Edit section: Honors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>1995 – <a href="/wiki/Fulbright_Program" title="Fulbright Program">Fulbright Foundation Fellowship</a></li>
+<li>1999 - Fellow, <a href="/wiki/AAAI" title="AAAI" class="mw-redirect">AAAI</a></li>
+<li>2002 – <a href="/wiki/Department_of_the_Air_Force_Decoration_for_Exceptional_Civilian_Service" title="Department of the Air Force Decoration for Exceptional Civilian Service">Department_of_the_Air_Force_Decoration_for_Exceptional_Civilian_Service</a></li>
+<li>2005 - Robert Engelmore Memorial Lecture Prize, <a href="/wiki/AAAI" title="AAAI" class="mw-redirect">AAAI</a></li>
+<li>2007 - Fellow, <a href="/wiki/British_Computer_Society" title="British Computer Society">British Computer Society</a></li>
+<li>2009 - Fellow, <a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a></li>
+<li>2009 - Fellow, <a href="/wiki/Semantic_Technology_Institute_International" title="Semantic Technology Institute International">Semantic Technology Institute International</a></li>
+<li>2010 - Named to the "Honor Roll" of 20 most innovative US professors by <a href="/wiki/Playboy" title="Playboy">Playboy</a> magazine.</li>
+<li>2010 - Named "Internet Web Expert" for US Office of Science and Technology Policy.</li>
+<li>2012 - Fellow, <a href="/wiki/American_Association_for_the_Advancement_of_Science" title="American Association for the Advancement of Science">AAAS</a></li>
+<li>2013 - Named Open Data Advisor, New York State Government.</li>
+<li>2014 - IBM Faculty Research Award.</li>
+</ul>
+<h3><span class="mw-headline" id="Boards_and_advisory_boards">Boards and advisory boards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=James_Hendler&amp;action=edit&amp;section=5" title="Edit section: Boards and advisory boards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Radar_Networks" title="Radar Networks">Radar Networks</a>, Advisory Board, (sold to EVRI)</li>
+<li>TopQuadrant, Advisory Board<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></li>
+<li>Franz Inc, Advisory Board</li>
+<li>Recursion Inc, Advisory Board</li>
+<li>Open Data Registry, Advisory Board</li>
+<li><a href="/wiki/Bright_Hub" title="Bright Hub">Bright Hub</a>, Advisory Board</li>
+<li>SocialWire, Advisory Board</li>
+<li><a href="/wiki/Common_Crawl" title="Common Crawl">Common Crawl</a>, Advisory Board</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=James_Hendler&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-semwebsciam-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-semwebsciam_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-semwebsciam_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-semwebsciam_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-semwebsciam_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Berners-Lee, T.</a>; Hendler, J.; <a href="/wiki/Ora_Lassila" title="Ora Lassila">Lassila, O.</a> (2001). <a rel="nofollow" class="external text" href="http://www.scientificamerican.com/article.cfm?id=the-semantic-web">"The Semantic Web"</a>. <i><a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a></i> <b>2841</b> (5): 34. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fscientificamerican0501-34">10.1038/scientificamerican0501-34</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJames+Hendler&amp;rft.atitle=The+Semantic+Web&amp;rft.aufirst=T.&amp;rft.au=Hendler%2C+J.&amp;rft.au=Lassila%2C+O.&amp;rft.aulast=Berners-Lee&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.scientificamerican.com%2Farticle.cfm%3Fid%3Dthe-semantic-web&amp;rft_id=info%3Adoi%2F10.1038%2Fscientificamerican0501-34&amp;rft.issue=5&amp;rft.jtitle=Scientific+American&amp;rft.pages=34&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2841" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation thesis">Hendler, James (1986). <a rel="nofollow" class="external text" href="http://search.proquest.com/docview/303438400"><i>Integrating Marker-Passing and Problem-Solving: A Spreading-Activation Approach to Improved Choice in Planning</i></a> (PhD thesis). Brown University.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJames+Hendler&amp;rft.aufirst=James&amp;rft.aulast=Hendler&amp;rft.date=1986&amp;rft.degree=PhD&amp;rft_id=http%3A%2F%2Fsearch.proquest.com%2Fdocview%2F303438400&amp;rft.inst=Brown+University&amp;rft.title=Integrating+Marker-Passing+and+Problem-Solving%3A+A+Spreading-Activation+Approach+to+Improved+Choice+in+Planning&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-googlescholar-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-googlescholar_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="//scholar.google.com/citations?user=JNPbTdIAAAAJ">James Hendler's publications</a> indexed by <a href="/wiki/Google_Scholar" title="Google Scholar">Google Scholar</a>, a service provided by <a href="/wiki/Google" title="Google">Google</a></span></li>
+<li id="cite_note-dblp-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-dblp_4-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dblp.uni-trier.de/pers/hd/h/Hendler:James_A=">James Hendler's publications</a> indexed by the <a href="/wiki/DBLP" title="DBLP">DBLP Bibliography Server</a> at the <a href="/wiki/University_of_Trier" title="University of Trier">University of Trier</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hendler, J. (2001). "Agents and the Semantic Web". <i>IEEE Intelligent Systems</i> <b>16</b> (2): 30–37. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2F5254.920597">10.1109/5254.920597</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJames+Hendler&amp;rft.atitle=Agents+and+the+Semantic+Web&amp;rft.aufirst=J.&amp;rft.aulast=Hendler&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2F5254.920597&amp;rft.issue=2&amp;rft.jtitle=IEEE+Intelligent+Systems&amp;rft.pages=30-37&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sirin, E.; Parsia, B.; Wu, D.; Hendler, J.; Nau, D. (2004). "HTN planning for Web Service composition using SHOP2". <i>Web Semantics: Science, Services and Agents on the World Wide Web</i> <b>1</b> (4): 377. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.websem.2004.06.005">10.1016/j.websem.2004.06.005</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJames+Hendler&amp;rft.atitle=HTN+planning+for+Web+Service+composition+using+SHOP2&amp;rft.aufirst=E.&amp;rft.au=Hendler%2C+J.&amp;rft.aulast=Sirin&amp;rft.au=Nau%2C+D.&amp;rft.au=Parsia%2C+B.&amp;rft.au=Wu%2C+D.&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.websem.2004.06.005&amp;rft.issue=4&amp;rft.jtitle=Web+Semantics%3A+Science%2C+Services+and+Agents+on+the+World+Wide+Web&amp;rft.pages=377&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Wu, D.; Parsia, B.; Sirin, E.; Hendler, J.; Nau, D. (2003). "Automating DAML-S Web Services Composition Using SHOP2". <i>The Semantic Web - ISWC 2003</i>. Lecture Notes in Computer Science <b>2870</b>. p.&#160;195. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2F978-3-540-39718-2_13">10.1007/978-3-540-39718-2_13</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-540-20362-9" title="Special:BookSources/978-3-540-20362-9">978-3-540-20362-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJames+Hendler&amp;rft.atitle=Automating+DAML-S+Web+Services+Composition+Using+SHOP2&amp;rft.aufirst=D.&amp;rft.au=Hendler%2C+J.&amp;rft.aulast=Wu&amp;rft.au=Nau%2C+D.&amp;rft.au=Parsia%2C+B.&amp;rft.au=Sirin%2C+E.&amp;rft.btitle=The+Semantic+Web+-+ISWC+2003&amp;rft.date=2003&amp;rft.genre=bookitem&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-540-39718-2_13&amp;rft.isbn=978-3-540-20362-9&amp;rft.pages=195&amp;rft.series=Lecture+Notes+in+Computer+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://news.rpi.edu/content/2013/06/13/rensselaer-idea-harnessing-power-data-change-world">http://news.rpi.edu/content/2013/06/13/rensselaer-idea-harnessing-power-data-change-world</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.rpi.edu/update.do?artcenterkey=1596">"RPI Press Release"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJames+Hendler&amp;rft.btitle=RPI+Press+Release&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.rpi.edu%2Fupdate.do%3Fartcenterkey%3D1596&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.w3.org/2000/01/sw/DevelopmentProposal">"The W3C's proposal for the development of the Semantic Web under DARPA'S DAML Research Program"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJames+Hendler&amp;rft.btitle=The+W3C%27s+proposal+for+the+development+of+the+Semantic+Web+under+DARPA%27S+DAML+Research+Program&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.w3.org%2F2000%2F01%2Fsw%2FDevelopmentProposal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.data.gov/communities/people/james-hendler">"Data.gov Community Page"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJames+Hendler&amp;rft.btitle=Data.gov+Community+Page&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.data.gov%2Fcommunities%2Fpeople%2Fjames-hendler&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.governor.ny.gov/press/09202013-open-data-special-advisors">http://www.governor.ny.gov/press/09202013-open-data-special-advisors</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.topquadrant.com">http://www.topquadrant.com</a></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Semantic_Web" title="Template:Semantic Web"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Semantic_Web" title="Template talk:Semantic Web"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Semantic_Web&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Semantic_Web" title="Semantic Web">Semantic Web</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Background</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Database" title="Database">Databases</a></li>
+<li><a href="/wiki/Hypertext" title="Hypertext">Hypertext</a></li>
+<li><a href="/wiki/Internet" title="Internet">Internet</a></li>
+<li><a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">Ontologies</a></li>
+<li><a href="/wiki/Semantic_network" title="Semantic network">Semantic networks</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Sub-topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_Web" title="Data Web">Data Web</a></li>
+<li><a href="/wiki/Dataspaces" title="Dataspaces">Dataspaces</a></li>
+<li><a href="/wiki/Dereferenceable_Uniform_Resource_Identifier" title="Dereferenceable Uniform Resource Identifier">Dereferenceable URIs</a></li>
+<li><a href="/wiki/Hyperdata" title="Hyperdata">Hyperdata</a></li>
+<li><a href="/wiki/Linked_data" title="Linked data">Linked data</a></li>
+<li><a href="/wiki/Rule-based_system" title="Rule-based system">Rule-based systems</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Applications</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Semantic_advertising" title="Semantic advertising">Semantic advertising</a></li>
+<li><a href="/wiki/Semantic_analytics" title="Semantic analytics">Semantic analytics</a></li>
+<li><a href="/wiki/Semantic_broker" title="Semantic broker">Semantic broker</a></li>
+<li><a href="/wiki/Semantic_computing" title="Semantic computing">Semantic computing</a></li>
+<li><a href="/wiki/Semantic_mapper" title="Semantic mapper">Semantic mapper</a></li>
+<li><a href="/wiki/Semantic_matching" title="Semantic matching">Semantic matching</a></li>
+<li><a href="/wiki/Semantic_publishing" title="Semantic publishing">Semantic publishing</a></li>
+<li><a href="/wiki/Semantic_reasoner" title="Semantic reasoner">Semantic reasoner</a></li>
+<li><a href="/wiki/Semantic_search" title="Semantic search">Semantic search</a></li>
+<li><a href="/wiki/Semantic_service-oriented_architecture" title="Semantic service-oriented architecture">Semantic service-oriented architecture</a></li>
+<li><a href="/wiki/Semantic_wiki" title="Semantic wiki">Semantic wiki</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Collective_intelligence" title="Collective intelligence">Collective intelligence</a></li>
+<li><a href="/wiki/Description_logic" title="Description logic">Description logic</a></li>
+<li><a href="/wiki/Folksonomy" title="Folksonomy">Folksonomy</a></li>
+<li><a href="/wiki/Geotagging" title="Geotagging">Geotagging</a></li>
+<li><a href="/wiki/Information_architecture" title="Information architecture">Information architecture</a></li>
+<li><a href="/wiki/Knowledge_extraction" title="Knowledge extraction">Knowledge extraction</a></li>
+<li><a href="/wiki/Knowledge_management" title="Knowledge management">Knowledge management</a></li>
+<li><a href="/wiki/Knowledge_representation" title="Knowledge representation" class="mw-redirect">Knowledge representation</a></li>
+<li><a href="/wiki/Library_2.0" title="Library 2.0">Library 2.0</a></li>
+<li><a href="/wiki/Metadata" title="Metadata">Metadata</a></li>
+<li><a href="/wiki/Mind_map" title="Mind map">Mind mapping</a></li>
+<li><a href="/wiki/ODBC" title="ODBC" class="mw-redirect">ODBC</a></li>
+<li><a href="/wiki/Reference_(computer_science)" title="Reference (computer science)">References</a></li>
+<li><a href="/wiki/Topic_Maps" title="Topic Maps">Topic Maps</a></li>
+<li><a href="/wiki/Web_2.0" title="Web 2.0">Web 2.0</a></li>
+<li><a href="/wiki/Web_engineering" title="Web engineering">Web engineering</a></li>
+<li><a href="/wiki/Web_Science_Trust" title="Web Science Trust">Web Science Trust</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Standards</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Syntax and supporting technologies</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypertext_Transfer_Protocol" title="Hypertext Transfer Protocol">HTTP</a></li>
+<li><a href="/wiki/Internationalized_resource_identifier" title="Internationalized resource identifier">IRI</a>
+<ul>
+<li><small><a href="/wiki/Uniform_resource_identifier" title="Uniform resource identifier" class="mw-redirect">URI</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Resource_Description_Framework" title="Resource Description Framework">RDF</a>
+<ul>
+<li><small><a href="/wiki/RDF/XML" title="RDF/XML">RDF/XML</a></small></li>
+<li><small><a href="/wiki/JSON-LD" title="JSON-LD">JSON-LD</a></small></li>
+<li><small><a href="/wiki/Turtle_(syntax)" title="Turtle (syntax)">Turtle</a></small></li>
+<li><small><a href="/wiki/Notation3" title="Notation3">Notation3</a></small></li>
+<li><small><a href="/wiki/N-Triples" title="N-Triples">N-Triples</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/SPARQL" title="SPARQL">SPARQL</a></li>
+<li><a href="/wiki/XML" title="XML">XML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Schemas, ontologies and rules</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Common_logic" title="Common logic" class="mw-redirect">Common logic</a></li>
+<li><a href="/wiki/Web_Ontology_Language" title="Web Ontology Language">OWL</a></li>
+<li><a href="/wiki/RDF_Schema" title="RDF Schema">RDFS</a></li>
+<li><a href="/wiki/Rule_Interchange_Format" title="Rule Interchange Format">Rule Interchange Format</a></li>
+<li><a href="/wiki/Semantic_Web_Rule_Language" title="Semantic Web Rule Language">Semantic Web Rule Language</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Semantic annotation</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Embedded_RDF" title="Embedded RDF">eRDF</a></li>
+<li><a href="/wiki/GRDDL" title="GRDDL">GRDDL</a></li>
+<li><a href="/wiki/Microdata_(HTML)" title="Microdata (HTML)">Microdata</a></li>
+<li><a href="/wiki/Microformat" title="Microformat">Microformats</a></li>
+<li><a href="/wiki/RDFa" title="RDFa">RDFa</a></li>
+<li><a href="/wiki/SAWSDL" title="SAWSDL">SAWSDL</a></li>
+<li><a href="/wiki/Facebook_Platform" title="Facebook Platform">Facebook Platform</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Common vocabularies</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/DOAP" title="DOAP">DOAP</a></li>
+<li><a href="/wiki/Dublin_Core" title="Dublin Core">Dublin Core</a></li>
+<li><a href="/wiki/FOAF_(software)" title="FOAF (software)" class="mw-redirect">FOAF</a></li>
+<li><a href="/wiki/HAtom" title="HAtom">hAtom</a></li>
+<li><a href="/wiki/HCalendar" title="HCalendar">hCalendar</a></li>
+<li><a href="/wiki/HCard" title="HCard">hCard</a></li>
+<li><a href="/wiki/HProduct" title="HProduct">hProduct</a></li>
+<li><a href="/wiki/HRecipe" title="HRecipe">hRecipe</a></li>
+<li><a href="/wiki/HResume" title="HResume">hResume</a></li>
+<li><a href="/wiki/HReview" title="HReview">hReview</a></li>
+<li><a href="/wiki/Semantically-Interlinked_Online_Communities" title="Semantically-Interlinked Online Communities">SIOC</a></li>
+<li><a href="/wiki/Simple_Knowledge_Organization_System" title="Simple Knowledge Organization System">SKOS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n86-056933">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/107818627">107818627</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n86056933">n86056933</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000011479687X">0000 0001 1479 687X</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/115664564">115664564</a></span></li>
+<li><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><a rel="nofollow" class="external text" href="//libris.kb.se/auth/315243">315243</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/035441631">035441631</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb13481943x">cb13481943x</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb13481943x">(data)</a></span></li>
+<li><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="//nla.gov.au/anbd.aut-an52525355">52525355</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00999492">00999492</a></span></li>
+<li><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=vse2008476975&amp;CON_LNG=ENG">vse2008476975</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1065
+Cached time: 20160107171732
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.404 seconds
+Real time usage: 0.477 seconds
+Preprocessor visited node count: 1792/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 49676/2097152 bytes
+Template argument size: 2753/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.182/10.000 seconds
+Lua memory usage: 3.35 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  402.307      1 - -total
+ 42.98%  172.919      1 - Template:Reflist
+ 31.41%  126.368      1 - Template:Infobox_scientist
+ 28.80%  115.872      1 - Template:Infobox
+ 19.30%   77.651      3 - Template:Cite_journal
+ 10.29%   41.415      2 - Template:Navbox
+  9.23%   37.130      1 - Template:Authority_control
+  9.16%   36.842      4 - Template:Br_separated_entries
+  8.53%   34.328      1 - Template:Semantic_Web
+  5.28%   21.227      1 - Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2726304-0!*!0!!en!4!* and timestamp 20160107171731 and revision id 695800574
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=James_Hendler&amp;oldid=695800574">https://en.wikipedia.org/w/index.php?title=James_Hendler&amp;oldid=695800574</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1957_births" title="Category:1957 births">1957 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Yale_University_alumni" title="Category:Yale University alumni">Yale University alumni</a></li><li><a href="/wiki/Category:Southern_Methodist_University_alumni" title="Category:Southern Methodist University alumni">Southern Methodist University alumni</a></li><li><a href="/wiki/Category:Brown_University_alumni" title="Category:Brown University alumni">Brown University alumni</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Artificial_intelligence_researchers" title="Category:Artificial intelligence researchers">Artificial intelligence researchers</a></li><li><a href="/wiki/Category:University_of_Maryland,_College_Park_faculty" title="Category:University of Maryland, College Park faculty">University of Maryland, College Park faculty</a></li><li><a href="/wiki/Category:Rensselaer_Polytechnic_Institute_faculty" title="Category:Rensselaer Polytechnic Institute faculty">Rensselaer Polytechnic Institute faculty</a></li><li><a href="/wiki/Category:Fellows_of_the_British_Computer_Society" title="Category:Fellows of the British Computer Society">Fellows of the British Computer Society</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_the_Advancement_of_Artificial_Intelligence" title="Category:Fellows of the Association for the Advancement of Artificial Intelligence">Fellows of the Association for the Advancement of Artificial Intelligence</a></li><li><a href="/wiki/Category:Fellow_Members_of_the_IEEE" title="Category:Fellow Members of the IEEE">Fellow Members of the IEEE</a></li><li><a href="/wiki/Category:Fellows_of_the_American_Association_for_the_Advancement_of_Science" title="Category:Fellows of the American Association for the Advancement of Science">Fellows of the American Association for the Advancement of Science</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">Wikipedia articles with SELIBR identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=James+Hendler&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=James+Hendler" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/James_Hendler"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:James_Hendler"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/James_Hendler" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=James_Hendler&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=James_Hendler&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/James_Hendler" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/James_Hendler" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=James_Hendler&amp;oldid=695800574" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=James_Hendler&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q6135847" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=James_Hendler&amp;id=695800574" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=James+Hendler">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=James+Hendler&amp;returnto=James+Hendler&amp;oldid=695800574&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=James_Hendler&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q6135847#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 December 2015, at 18:08.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=James_Hendler&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":586,"wgHostname":"mw1065"}); /* @nomin */
+} );</script>
+	</body>
+</html>

@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Seymour Cray - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Seymour_Cray","wgTitle":"Seymour Cray","wgCurRevisionId":695029992,"wgRevisionId":695029992,"wgArticleId":29103,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from May 2010","Articles lacking in-text citations from May 2010","All articles lacking in-text citations","Articles with unsourced statements from February 2007","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","1925 births","1996 deaths","Computer designers","American electrical engineers","People from Chippewa Falls, Wisconsin","Control Data Corporation","Road accident deaths in Colorado","University of Minnesota alumni","Cray","Cray employees","Howard N. Potts Medal recipients"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Seymour_Cray","wgRelevantArticleId":29103,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Seymour_Cray-crop.jpg/70px-Seymour_Cray-crop.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92765","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Seymour_Cray" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Seymour_Cray&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Seymour_Cray&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Seymour_Cray" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Seymour_Cray skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Seymour Cray</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Seymour Roger Cray</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Seymour_Cray-crop.jpg" class="image"><img alt="Seymour Cray-crop.jpg" src="//upload.wikimedia.org/wikipedia/commons/7/70/Seymour_Cray-crop.jpg" width="150" height="213" data-file-width="150" data-file-height="213" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1925-09-28</span>)</span>September 28, 1925<br />
+<a href="/wiki/Chippewa_Falls,_Wisconsin" title="Chippewa Falls, Wisconsin">Chippewa Falls, Wisconsin</a>, US</td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>October 5, 1996<span style="display:none">(<span class="dday deathdate">1996-10-05</span>)</span> (aged&#160;71)<br />
+<a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs, Colorado</a>, US</td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Applied_mathematician" title="Applied mathematician" class="mw-redirect">Applied mathematician</a>, <a href="/wiki/Computer_science" title="Computer science">computer scientist</a>, and <a href="/wiki/Electrical_engineering" title="Electrical engineering">electrical engineer</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Engineering_Research_Associates" title="Engineering Research Associates">Engineering Research Associates</a><br />
+<a href="/wiki/Control_Data_Corporation" title="Control Data Corporation">Control Data Corporation</a><br />
+<a href="/wiki/Cray_Research" title="Cray Research" class="mw-redirect">Cray Research</a><br />
+<a href="/wiki/Cray_Computer_Corporation" title="Cray Computer Corporation" class="mw-redirect">Cray Computer Corporation</a><br />
+SRC Computers</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Supercomputer" title="Supercomputer">Supercomputers</a></td>
+</tr>
+</table>
+<p><b>Seymour Roger Cray</b> (September 28, 1925<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> – October 5, 1996<sup id="cite_ref-Lazou_2-0" class="reference"><a href="#cite_note-Lazou-2"><span>[</span>2<span>]</span></a></sup>) was an American <a href="/wiki/Electrical_engineer" title="Electrical engineer" class="mw-redirect">electrical engineer</a> and <a href="/wiki/Supercomputer" title="Supercomputer">supercomputer</a> architect who designed a series of computers that were the fastest in the world for decades, and founded <a href="/wiki/Cray_Research" title="Cray Research" class="mw-redirect">Cray Research</a> which built many of these machines. Called "the father of supercomputing,"<sup id="cite_ref-Lazou_2-1" class="reference"><a href="#cite_note-Lazou-2"><span>[</span>2<span>]</span></a></sup> Cray has been credited with creating the supercomputer industry.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> <a href="/w/index.php?title=Joel_Birnbaum&amp;action=edit&amp;redlink=1" class="new" title="Joel Birnbaum (page does not exist)">Joel Birnbaum</a>, then <a href="/wiki/Chief_technology_officer" title="Chief technology officer">chief technology officer</a> of <a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">Hewlett-Packard</a>, said of him: "It seems impossible to exaggerate the effect he had on the industry; many of the things that high performance computers now do routinely were at the farthest edge of credibility when Seymour envisioned them."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Engineering_Research_Associates"><span class="tocnumber">2.1</span> <span class="toctext">Engineering Research Associates</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Control_Data_Corporation"><span class="tocnumber">2.2</span> <span class="toctext">Control Data Corporation</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#CDC.27s_Chippewa_Falls_laboratory"><span class="tocnumber">2.2.1</span> <span class="toctext">CDC's Chippewa Falls laboratory</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Cray_Research"><span class="tocnumber">2.3</span> <span class="toctext">Cray Research</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Cray_Computer_Corporation"><span class="tocnumber">2.4</span> <span class="toctext">Cray Computer Corporation</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#SRC_Computers"><span class="tocnumber">2.5</span> <span class="toctext">SRC Computers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Technical_approaches"><span class="tocnumber">3</span> <span class="toctext">Technical approaches</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Personal_life"><span class="tocnumber">4</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Death"><span class="tocnumber">5</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Legacy"><span class="tocnumber">6</span> <span class="toctext">Legacy</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cray was born in 1925 in <a href="/wiki/Chippewa_Falls,_Wisconsin" title="Chippewa Falls, Wisconsin">Chippewa Falls, Wisconsin</a> to Seymour R. and Lillian Cray. His father was a <a href="/wiki/Civil_engineer" title="Civil engineer">civil engineer</a> who fostered Cray's interest in science and engineering. As early as the age of ten he was able to build a device out of <a href="/wiki/Erector_Set" title="Erector Set">Erector Set</a> components that converted punched <a href="/wiki/Paper_tape" title="Paper tape" class="mw-redirect">paper tape</a> into <a href="/wiki/Morse_code" title="Morse code">Morse code</a> signals. The basement of the family home was given over to the young Cray as a "laboratory".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Cray graduated from <a href="/wiki/Chippewa_Falls_High_School" title="Chippewa Falls High School">Chippewa Falls High School</a> in 1943 before being <a href="/wiki/Conscription" title="Conscription">drafted</a> for <a href="/wiki/World_War_II" title="World War II">World War II</a> as a radio operator. He saw action in <a href="/wiki/European_Theatre_of_World_War_II" title="European Theatre of World War II" class="mw-redirect">Europe</a>, and then moved to the <a href="/wiki/Asiatic-Pacific_Theater" title="Asiatic-Pacific Theater">Pacific theatre</a> where he worked on breaking <a href="/wiki/Japanese_naval_codes" title="Japanese naval codes">Japanese naval codes</a>. On his return to the <a href="/wiki/United_States" title="United States">United States</a> he received a <a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">B.Sc.</a> in <a href="/wiki/Electrical_Engineering" title="Electrical Engineering" class="mw-redirect">Electrical Engineering</a> at the <a href="/wiki/University_of_Minnesota" title="University of Minnesota">University of Minnesota</a>, graduating in 1949. He also was awarded a <a href="/wiki/Master_of_Science" title="Master of Science">M.Sc.</a> in <a href="/wiki/Applied_mathematics" title="Applied mathematics">applied mathematics</a> in 1951.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Engineering_Research_Associates">Engineering Research Associates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=3" title="Edit section: Engineering Research Associates">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1951, Cray joined <a href="/wiki/Engineering_Research_Associates" title="Engineering Research Associates">Engineering Research Associates</a> (ERA) in <a href="/wiki/Saint_Paul,_Minnesota" title="Saint Paul, Minnesota">Saint Paul, Minnesota</a>.<sup id="cite_ref-IEEECS_7-0" class="reference"><a href="#cite_note-IEEECS-7"><span>[</span>7<span>]</span></a></sup> ERA had formed out of a former <a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a> laboratory that had built codebreaking machines, a tradition ERA carried on when such work was available. ERA was introduced to computer technology during one such effort, but in other times had worked on a wide variety of basic engineering as well.</p>
+<p>Cray quickly came to be regarded as an expert on digital computer technology, especially following his design work on the <a href="/wiki/ERA_1103" title="ERA 1103" class="mw-redirect">ERA 1103</a>, the first commercially successful scientific computer.<sup id="cite_ref-IEEECS_7-1" class="reference"><a href="#cite_note-IEEECS-7"><span>[</span>7<span>]</span></a></sup> He remained at ERA when it was bought by <a href="/wiki/Remington_Rand" title="Remington Rand">Remington Rand</a> and then <a href="/wiki/Sperry_Corporation" title="Sperry Corporation">Sperry Corporation</a> in the early 1950s. At the newly formed <a href="/wiki/Sperry_Corporation#Sperry_Rand" title="Sperry Corporation">Sperry-Rand</a>, ERA became the "scientific computing" arm of their <a href="/wiki/UNIVAC" title="UNIVAC">UNIVAC</a> division.</p>
+<h3><span class="mw-headline" id="Control_Data_Corporation">Control Data Corporation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=4" title="Edit section: Control Data Corporation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When the scientific computing division was phased out in 1957, a number of employees left to form <a href="/wiki/Control_Data_Corporation" title="Control Data Corporation">Control Data Corporation</a> (CDC). Cray wanted to follow immediately, but CDC's CEO, <a href="/wiki/William_Norris_(CEO)" title="William Norris (CEO)">William Norris</a>, refused, as Cray was in the midst of completing a project for the Navy, with whom Norris was interested in maintaining a good relationship.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2010)">citation needed</span></a></i>]</sup> The project, the <a href="/wiki/Naval_Tactical_Data_System" title="Naval Tactical Data System">Naval Tactical Data System</a>, was completed early the next year, whereupon Cray left for CDC as well.</p>
+<p>By 1960 he had completed the design of the <a href="/wiki/CDC_1604" title="CDC 1604">CDC 1604</a>, an improved low-cost <a href="/wiki/ERA_1103" title="ERA 1103" class="mw-redirect">ERA 1103</a> that had impressive performance for its price range.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2010)">citation needed</span></a></i>]</sup> Even as the <a href="/wiki/CDC_1604" title="CDC 1604">CDC 1604</a> was starting to ship to customers in 1960, Cray had already moved on to designing other computers. He first worked on the design of an upgraded version (the <a href="/wiki/CDC_3000" title="CDC 3000">CDC 3000</a> series), but company management wanted these machines targeted toward 'business and commercial' data processing for average customers. Cray did not enjoy working on such 'mundane' machines, constrained to design for low-cost construction, so CDC could sell lots of them. His desire was to <i>"produce the largest [fastest] computer in the world"</i>. So after some basic design work on the CDC 3000 series, he turned that over to others and went on to work on the <a href="/wiki/CDC_6600" title="CDC 6600">CDC 6600</a>. (But several unique features of the 6600 first start to appear in the 3000 series.)</p>
+<p>Although in terms of hardware the 6600 was not on the leading edge, Cray invested considerable effort into the design of the machine in an attempt to enable it to run as fast as possible. Unlike most high-end projects, Cray realized that there was considerably more to performance than simple processor speed, that <a href="/wiki/Input/output" title="Input/output">I/O</a> bandwidth had to be maximized as well in order to avoid "starving" the processor of data to crunch. As he later noted, <i>Anyone can build a fast CPU. The trick is to build a fast system.</i><sup id="cite_ref-IEEECS_7-2" class="reference"><a href="#cite_note-IEEECS-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>The 6600 was the first commercial supercomputer, outperforming everything then available by a wide margin. While expensive, for those that needed the absolutely fastest computer available there was nothing else on the market that could compete. When other companies (namely <a href="/wiki/International_Business_Machines" title="International Business Machines" class="mw-redirect">IBM</a>) attempted to create machines with similar performance, they stumbled (<a href="/wiki/IBM_Stretch" title="IBM Stretch" class="mw-redirect">Stretch/IBM 7030</a>). Indeed, the 6600 solved a critical design problem — "imprecise interrupts"<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> — that was largely responsible for IBM's failure. He did this by replacing I/O interrupts with a polled request issued by one of 10 so-called peripheral processors, which were built-in mini-computers that did all transfers in and out of the 6600's central memory. He then further increased the challenge in the later release the 5-fold faster <a href="/wiki/CDC_7600" title="CDC 7600">CDC 7600</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2010)">citation needed</span></a></i>]</sup></p>
+<p>In 1963, in a <i>Business Week</i> article announcing the CDC 6600, Seymour Cray clearly expressed an idea that is often misattributed to <a href="/wiki/Herb_Grosch" title="Herb Grosch">Herb Grosch</a> as so-called <a href="/wiki/Grosch%27s_law" title="Grosch's law">Grosch's law</a>:</p>
+<blockquote>
+<p>Computers should obey a square law -- when the price doubles, you should get at least four times as much speed.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+</blockquote>
+<h4><span class="mw-headline" id="CDC.27s_Chippewa_Falls_laboratory">CDC's Chippewa Falls laboratory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=5" title="Edit section: CDC's Chippewa Falls laboratory">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="metadata plainlinks ambox ambox-style ambox-No_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, related reading or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, <b>but the sources of this section remain unclear because it lacks <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by introducing more precise citations.</span> <small><i>(May 2010)</i></small></span></td>
+</tr>
+</table>
+<p>During this period Cray had become increasingly annoyed at what he saw as interference from CDC management. Cray always demanded an absolutely quiet work environment with a minimum of management overhead, but as the company grew he found himself constantly interrupted by middle managers who&#160;— according to Cray&#160;— did little but gawk and use him as a sales tool by introducing him to prospective customers.</p>
+<p>Cray decided that in order to continue development he would have to move from St. Paul, far enough that it would be too long a drive for a "quick visit" and long distance telephone charges would be just enough to deter most calls, yet close enough that real visits or board meetings could be attended without too much difficulty. After some debate, Norris backed him and set up a new laboratory on land Cray owned in his hometown of Chippewa Falls. Some of the reason for the move may also have to do with Cray's worries about an impending <a href="/wiki/Nuclear_warfare" title="Nuclear warfare">nuclear war</a>, which he felt made Minneapolis a serious safety concern. His house, built a few hundred yards from the new CDC laboratory, included a huge <a href="/wiki/Fallout_shelter" title="Fallout shelter">bomb shelter</a>.</p>
+<p>The new Chippewa Lab was set up in the middle of the 6600 project, although it does not seem to have delayed the project. After the 6600 shipped, the successor <a href="/wiki/CDC_7600" title="CDC 7600">CDC 7600</a> system was the next product to be developed in Chippewa Falls, offering peak computational speeds of ten times the 6600. The failed follow-on to the 7600, the <a href="/wiki/CDC_8600" title="CDC 8600">CDC 8600</a>, was the project that finally ended his run of successes at CDC in 1972.</p>
+<p>Although the 6600 and 7600 had been huge successes in the end, both projects had almost bankrupted the company while they were being designed. The 8600 was running into similar difficulties and Cray eventually decided that the only solution was to start over fresh. This time Norris wasn't willing to take the risk, and another project within the company, the <a href="/wiki/CDC_STAR-100" title="CDC STAR-100">CDC STAR-100</a> seemed to be progressing more smoothly. Norris said he was willing to keep the project alive at a low level until the STAR was delivered, at which point full funding could be put into the 8600. Cray was unwilling to work under these conditions and left the company.</p>
+<h3><span class="mw-headline" id="Cray_Research">Cray Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=6" title="Edit section: Cray Research">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="metadata plainlinks ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(May 2010)</i></small></span></td>
+</tr>
+</table>
+<p>The split was fairly amicable, and when he started Cray Research in a new laboratory on the same Chippewa property a year later, Norris invested $300,000 in start-up money. Like CDC's organization, Cray R&amp;D was based in Chippewa Falls and business headquarters were in Minneapolis. Unlike CDC, Cray's manufacturing was also in Chippewa Falls.</p>
+<p>At first there was some question as to what exactly the new company should do. It did not seem that there would be any way for them to afford to develop a new computer, given that the now-large CDC had been unable to support more than one. When the President in charge of financing traveled to <a href="/wiki/Wall_Street" title="Wall Street">Wall Street</a> to look for <a href="/wiki/Seed_capital" title="Seed capital" class="mw-redirect">seed capital</a>, he was surprised to find that Cray's reputation was very well known. Far from struggling for some role to play in the market, the financial world was more than willing to provide Cray with all the money they would need to develop a new machine.</p>
+<p>After several years of development, their first product was released in 1976 as the <a href="/wiki/Cray-1" title="Cray-1">Cray-1</a>. As with earlier Cray designs, the Cray-1 made sure that the <i>entire</i> computer was fast, as opposed to just the processor. When it was released it easily beat almost every machine in terms of speed, including the STAR-100 that had beaten the 8600 for funding. The only machine able to perform on the same sort of level was the <a href="/wiki/ILLIAC_IV" title="ILLIAC IV">ILLIAC IV</a>, a specialized one-off machine that rarely operated near its maximum performance, except on very specific tasks. In general, the Cray-1 beat anything on the market by a wide margin.</p>
+<p>Serial number 001 was "lent" to <a href="/wiki/Los_Alamos_National_Laboratory" title="Los Alamos National Laboratory">Los Alamos</a> in 1976, and that summer the first full system was sold to the <a href="/wiki/National_Center_for_Atmospheric_Research" title="National Center for Atmospheric Research">National Center for Atmospheric Research</a> for $8.8 million. The company's early estimates had suggested that they might sell a dozen such machines, based on sales of similar machines from the CDC era, so the price was set accordingly. Eventually, well over 80 Cray-1s were sold, and the company was a huge success financially.</p>
+<p>Follow-up success was not so easy. While he worked on the <a href="/wiki/Cray-2" title="Cray-2">Cray-2</a>, other teams delivered the two-processor <a href="/wiki/Cray_X-MP" title="Cray X-MP">Cray X-MP</a>, which was another huge success and later the four-processor X-MP. When the Cray-2 was finally released after six years of development it was only marginally faster than the X-MP, largely due to very fast and large main memory, and thus sold in much smaller numbers. The Cray-2 ran at 250&#160;MHz with a very deep pipeline, making it harder to code for than the shorter pipe X-MP.</p>
+<p>As the <a href="/wiki/Cray-3" title="Cray-3">Cray-3</a> project started, he found himself once again being "bothered" too much with day-to-day tasks. In order to concentrate on design, Cray left the CEO position of Cray Research in 1980 to become an independent contractor. In 1988 Seymour moved the Cray 3 project from Chippewa Falls to a laboratory in <a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs, Colorado</a>.</p>
+<p>In 1989, Cray was faced with a repeat of history when the Cray-3 started to run into difficulties. An upgrade of the X-MP using high-speed memory from the Cray-2 was under development and seemed to be making real progress, and once again management was faced with two projects and limited budgets. They eventually decided to take the safer route, releasing the new design as the <a href="/wiki/Cray_Y-MP" title="Cray Y-MP">Cray Y-MP</a>.</p>
+<h3><span class="mw-headline" id="Cray_Computer_Corporation">Cray Computer Corporation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=7" title="Edit section: Cray Computer Corporation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="metadata plainlinks ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(May 2010)</i></small></span></td>
+</tr>
+</table>
+<p>Cray decided to spin off the Colorado Springs laboratory to form <b>Cray Computer Corporation</b>, taking the Cray-3 project with them.</p>
+<p>The 500&#160;MHz Cray-3 proved to be Cray's second major failure. In order to provide the tenfold increase in performance that he always demanded of his newest machines, Cray decided that the machine would have to be built using <a href="/wiki/Gallium_arsenide" title="Gallium arsenide">gallium arsenide</a> semiconductors. In the past Cray had always avoided using anything even near the <a href="/wiki/State_of_the_art" title="State of the art">state of the art</a>, preferring to use well-known solutions and designing a fast machine based on them. In this case, Cray was developing every part of the machine, even the chips inside it.</p>
+<p>Nevertheless the team was able to get the machine working and installed their first example at NCAR. The machine was still essentially a prototype, and the company was using the installation to debug the design. By this time a number of <a href="/wiki/Massively_parallel" title="Massively parallel" class="mw-redirect">massively parallel</a> machines were coming into the market at price/performance points the Cray-3 could not touch. Cray responded through "brute force", starting design of the <a href="/wiki/Cray-4" title="Cray-4">Cray-4</a> which would run at 1&#160;GHz and outpower these machines, regardless of price.</p>
+<p>In 1995 there had been no further sales of the Cray-3, and the ending of the <a href="/wiki/Cold_War" title="Cold War">Cold War</a> made it unlikely anyone would buy enough Cray-4s to offer a return on the development funds. The company ran out of money and filed for Chapter 11 <a href="/wiki/Bankruptcy" title="Bankruptcy">bankruptcy</a> March 24, 1995.</p>
+<h3><span class="mw-headline" id="SRC_Computers">SRC Computers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=8" title="Edit section: SRC Computers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cray had always resisted the <a href="/wiki/Massively_parallel" title="Massively parallel" class="mw-redirect">massively parallel</a> solution to high-speed computing, offering a variety of reasons that it would never work as well as one very fast processor. He famously quipped "If you were plowing a field, which would you rather use: Two strong oxen or 1024 chickens?" By the mid-1990s this argument was becoming increasingly difficult to justify, and modern <a href="/wiki/Compiler" title="Compiler">compiler</a> technology made developing programs on such machines not much more difficult than their simpler counterparts.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2007)">citation needed</span></a></i>]</sup></p>
+<p>Cray set up a new company, <b>SRC Computers</b>, and started the design of his own massively parallel machine. The new design concentrated on communications and memory performance, the bottleneck that hampered many parallel designs. Design had just started when Cray died suddenly as a result of a car accident. SRC Computers carried on development and now specializes in <a href="/wiki/Reconfigurable_computing" title="Reconfigurable computing">reconfigurable computing</a>.</p>
+<h2><span class="mw-headline" id="Technical_approaches">Technical approaches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=9" title="Edit section: Technical approaches">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cray frequently cited two important aspects to his design philosophy: remove heat, and ensure that all signals that are supposed to arrive somewhere at the same time do indeed arrive at the same time.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>His computers were equipped with built-in cooling systems, extending ultimately to coolant channels cast into the mainframes and thermally coupled to metal plates within the circuit boards, and to systems immersed in coolants. In a story he told about himself, he realized early in his career that he should interlock the computers with the cooling systems so that the computers would not operate unless the cooling systems were operational. It did not originally occur to him to interlock in the other direction until a customer reported that localized power outages had shut down their computer, but left the cooling system running&#160;— so they arrived in the morning to find the machine encased in ice.</p>
+<p><br />
+Cray addressed the problem of <a href="/wiki/Clock_skew" title="Clock skew">skew</a> by ensuring that every signal path in his later computers was the same electrical length, so that values that were to be acted upon at a particular time were indeed all valid values. When required, he would run the traces back and forth on the circuit boards until the desired length was achieved, and he even employed <a href="/wiki/Maxwell%27s_equations" title="Maxwell's equations">Maxwell's equations</a> in design of the boards to ensure that any radio frequency effects which altered the signal velocity and hence the electrical path length were accounted for.</p>
+<p>When asked what kind of CAD tools he used for the Cray-1, Cray said that he liked #3 pencils with <a href="/wiki/Graph_paper" title="Graph paper">quad paper</a> pads. Cray recommended using the backs of the pages so that the lines were not so dominant. When he was told that <a href="/wiki/Apple_Computer" title="Apple Computer" class="mw-redirect">Apple Computer</a> had just bought a Cray to help design the next <a href="/wiki/Apple_Macintosh" title="Apple Macintosh" class="mw-redirect">Apple Macintosh</a>, Cray commented that he had just bought a Macintosh to design the next Cray.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=10" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Beyond the design of computers, Cray led a "streamlined life". He avoided publicity, and there are a number of unusual tales about his life away from work (termed "Rollwagenisms", from then-CEO of Cray Research, John A. Rollwagen). He enjoyed <a href="/wiki/Skiing" title="Skiing">skiing</a>, <a href="/wiki/Wind_surfing" title="Wind surfing" class="mw-redirect">wind surfing</a>, <a href="/wiki/Tennis" title="Tennis">tennis</a>, and other sports. Another favorite pastime was digging a tunnel under his home; he attributed the secret of his success to "visits by <a href="/wiki/Elf" title="Elf">elves</a>" while he worked in the tunnel: "While I'm digging in the tunnel, the elves will often come to me with solutions to my problem."<sup id="cite_ref-pcw-elves_12-0" class="reference"><a href="#cite_note-pcw-elves-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-time-elves_13-0" class="reference"><a href="#cite_note-time-elves-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=11" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cray died on October 5, 1996 (aged 71) of head and neck injuries suffered on September 22, 1996 in a traffic collision. Another driver tried to pass Cray on <a href="/wiki/Interstate_25_in_Colorado" title="Interstate 25 in Colorado">Interstate 25</a> in <a href="/wiki/Colorado_Springs,_Colorado" title="Colorado Springs, Colorado">Colorado Springs, Colorado</a> but struck a third car that then struck Cray's <a href="/wiki/Jeep_Cherokee_(XJ)" title="Jeep Cherokee (XJ)">Jeep Cherokee</a>, causing it to roll three times. Cray underwent emergency surgery and remained in the hospital until his death two weeks later.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=12" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cray's legacy lives on in awards like the <a href="/wiki/Seymour_Cray_Computer_Engineering_Award" title="Seymour Cray Computer Engineering Award">Seymour Cray Computer Engineering Award</a>, which is sponsored by the <a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> It was established in late 1997. A crystal memento, illuminated certificate, and $10,000 honorarium are awarded to recognize innovative contributions to high performance computing systems that best exemplify the creative spirit demonstrated by Seymour Cray.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a></li>
+<li><a href="/wiki/Cray-3/SSS" title="Cray-3/SSS">Cray-3/SSS</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=14" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://pages.cs.wisc.edu/~bezenek/cray.html">Seymour Cray Obituary by John Markoff</a></span></li>
+<li id="cite_note-Lazou-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lazou_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lazou_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hoise.com/primeur/96/pr-96-oct/CL-PR-10-96-3.html">Obituary - Seymour Cray, Father of supercomputing</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cgl.ucsf.edu/home/tef/cray/tribute.html">"Tribute to Seymour Cray"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeymour+Cray&amp;rft.btitle=Tribute+to+Seymour+Cray&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cgl.ucsf.edu%2Fhome%2Ftef%2Fcray%2Ftribute.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://research.microsoft.com/users/gbell/craytalk/sld078.htm">"Quote by Joel Birnbaum"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeymour+Cray&amp;rft.btitle=Quote+by+Joel+Birnbaum&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fresearch.microsoft.com%2Fusers%2Fgbell%2Fcraytalk%2Fsld078.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Murray (1997), pp. 46-47</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Murray (1997), pp. 47-48</span></li>
+<li id="cite_note-IEEECS-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-IEEECS_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IEEECS_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-IEEECS_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.webcitation.org/5pOwR2VJX">"Tribute to Seymour Cray"</a>. IEEE Computer Society. Archived from <a rel="nofollow" class="external text" href="http://www.computer.org/portal/web/awards/seymourbio">the original</a> on 2010-05-01.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeymour+Cray&amp;rft.btitle=Tribute+to+Seymour+Cray&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computer.org%2Fportal%2Fweb%2Fawards%2Fseymourbio&amp;rft.pub=IEEE+Computer+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFSmotherman2010" class="citation">Smotherman, Mark (2010), <a rel="nofollow" class="external text" href="http://people.cs.clemson.edu/~mark/stretch.html"><i>IBM Stretch (7030) — Aggressive Uniprocessor Parallelism</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">25 May</span> 2013</span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeymour+Cray&amp;rft.aufirst=Mark&amp;rft.aulast=Smotherman&amp;rft.btitle=IBM+Stretch+%287030%29+%94+Aggressive+Uniprocessor+Parallelism&amp;rft.date=2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fpeople.cs.clemson.edu%2F~mark%2Fstretch.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">"Computers get faster than ever," Business Week (31 August 1963): p. 28.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Customer presentation by Seymour Cray, c1979</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">According to <a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> (quoted by <a href="/wiki/C._Gordon_Bell" title="C. Gordon Bell" class="mw-redirect">C. Gordon Bell</a> in his <a rel="nofollow" class="external text" href="http://research.microsoft.com/users/gbell/craytalk/sld089.htm">"Seymour Cray Perspective"</a>)</span></li>
+<li id="cite_note-pcw-elves-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-pcw-elves_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Howard, Toby (February 1997). <a rel="nofollow" class="external text" href="http://www.cs.man.ac.uk/~toby/writing/PCW/cray.htm">"Seymour Cray - An Appreciation"</a>. <i><a href="/wiki/Personal_Computer_World" title="Personal Computer World">Personal Computer World</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeymour+Cray&amp;rft.atitle=Seymour+Cray+-+An+Appreciation&amp;rft.aufirst=Toby&amp;rft.aulast=Howard&amp;rft.date=1997-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cs.man.ac.uk%2F~toby%2Fwriting%2FPCW%2Fcray.htm&amp;rft.jtitle=Personal+Computer+World&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-time-elves-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-time-elves_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.time.com/time/magazine/article/0,9171,967095,00.html">"Technology: Just Dig While You Work"</a>. <i><a href="/wiki/Time_(magazine)" title="Time (magazine)">Time</a></i>. <a href="/wiki/Time_Inc." title="Time Inc.">Time Inc.</a> 1988-03-28<span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeymour+Cray&amp;rft.atitle=Technology%3A+Just+Dig+While+You+Work&amp;rft.date=1988-03-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.time.com%2Ftime%2Fmagazine%2Farticle%2F0%2C9171%2C967095%2C00.html&amp;rft.jtitle=Time&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Jason Pepper. <a rel="nofollow" class="external text" href="http://ei.cs.vt.edu/~history/Cray.Pepper.html">"Seymour Cray"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeymour+Cray&amp;rft.au=Jason+Pepper&amp;rft.btitle=Seymour+Cray&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fei.cs.vt.edu%2F~history%2FCray.Pepper.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://awards.computer.org/ana/award/viewAwards.action">"IEEE Computer Society Award List"</a>. IEEE Computer Society<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeymour+Cray&amp;rft.btitle=IEEE+Computer+Society+Award+List&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fawards.computer.org%2Fana%2Faward%2FviewAwards.action&amp;rft.pub=IEEE+Computer+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation web">Bell, Gordon (November 10, 1997). <a rel="nofollow" class="external text" href="http://research.microsoft.com/users/gbell/craytalk/sld001.htm">"A Seymour Cray Perspective"</a>. Microsoft Research.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeymour+Cray&amp;rft.aufirst=Gordon&amp;rft.aulast=Bell&amp;rft.btitle=A+Seymour+Cray+Perspective&amp;rft.date=1997-11-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fresearch.microsoft.com%2Fusers%2Fgbell%2Fcraytalk%2Fsld001.htm&amp;rft.pub=Microsoft+Research&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Howard, Toby (February 1997). <a rel="nofollow" class="external text" href="http://www.cs.man.ac.uk/aig/staff/toby/writing/PCW/cray.htm">"Seymour Cray: An Appreciation"</a>. Personal Computer World.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeymour+Cray&amp;rft.atitle=Seymour+Cray%3A+An+Appreciation&amp;rft.aufirst=Toby&amp;rft.aulast=Howard&amp;rft.date=1997-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cs.man.ac.uk%2Faig%2Fstaff%2Ftoby%2Fwriting%2FPCW%2Fcray.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Murray, Charles J. (1997). <i>The Supermen: The Story of Seymour Cray and the Technical Wizards behind the Supercomputer</i>. John Wiley &amp; Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-04885-2" title="Special:BookSources/0-471-04885-2">0-471-04885-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeymour+Cray&amp;rft.aufirst=Charles+J.&amp;rft.aulast=Murray&amp;rft.btitle=The+Supermen%3A+The+Story+of+Seymour+Cray+and+the+Technical+Wizards+behind+the+Supercomputer&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=0-471-04885-2&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web">Pagelkopf, Don; et al. (1975). <a rel="nofollow" class="external text" href="http://purl.umn.edu/104327">"Reminiscences of computer architecture and computer design at Control Data Corporation"</a>. <i>University of Minnesota Digital Conservancy</i>. <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASeymour+Cray&amp;rft.atitle=Reminiscences+of+computer+architecture+and+computer+design+at+Control+Data+Corporation&amp;rft.aufirst=Don&amp;rft.aulast=Pagelkopf&amp;rft.date=1975&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpurl.umn.edu%2F104327&amp;rft.jtitle=University+of+Minnesota+Digital+Conservancy&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> Discussion topics include <a href="/wiki/Control_Data_Corporation" title="Control Data Corporation">Control Data Corporation</a>, <a href="/wiki/CDC_1604" title="CDC 1604">CDC 1604</a>, <a href="/wiki/CDC_6600" title="CDC 6600">CDC 6600</a>, <a href="/wiki/CDC_7600" title="CDC 7600">CDC 7600</a>, <a href="/wiki/CDC_8600" title="CDC 8600">CDC 8600</a>, <a href="/wiki/CDC_STAR-100" title="CDC STAR-100">CDC STAR-100</a> and Seymour Cray.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.cwheroes.org/archives/histories/Cray.pdf">Seymour Cray Oral History</a></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/13px-Wikiquote-logo.svg.png" width="13" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/20px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/27px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /> Quotations related to <a href="//en.wikiquote.org/wiki/Special:Search/Seymour_Cray" class="extiw" title="wikiquote:Special:Search/Seymour Cray">Seymour Cray</a> at Wikiquote</li>
+<li><a rel="nofollow" class="external text" href="http://americanhistory.si.edu/comphist/montic/cray.htm">An Imaginary Tour of a Biological Computer (Why Computer Professionals and Molecular Biologists Should Start Collaborating): Remarks of Seymour Cray to the Shannon Center for Advanced Studies, University of Virginia, May 30, 1996</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n96-083562">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/72205525">72205525</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n96083562">n96083562</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/119503867">119503867</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00720489">00720489</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1107
+Cached time: 20160106151341
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.517 seconds
+Real time usage: 0.600 seconds
+Preprocessor visited node count: 2293/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42049/2097152 bytes
+Template argument size: 2789/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Lua time usage: 0.250/10.000 seconds
+Lua memory usage: 4.1 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  506.281      1 - -total
+ 29.92%  151.488      1 - Template:Reflist
+ 23.78%  120.375      1 - Template:Infobox_scientist
+ 21.76%  110.183      1 - Template:Infobox
+ 21.63%  109.488      8 - Template:Cite_web
+ 15.05%   76.206      4 - Template:Citation_needed
+ 12.46%   63.104      4 - Template:Fix
+ 10.83%   54.819      8 - Template:Category_handler
+  8.09%   40.971      4 - Template:Br_separated_entries
+  7.92%   40.085      1 - Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29103-0!*!0!!en!4!* and timestamp 20160106151340 and revision id 695029992
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Seymour_Cray&amp;oldid=695029992">https://en.wikipedia.org/w/index.php?title=Seymour_Cray&amp;oldid=695029992</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1925_births" title="Category:1925 births">1925 births</a></li><li><a href="/wiki/Category:1996_deaths" title="Category:1996 deaths">1996 deaths</a></li><li><a href="/wiki/Category:Computer_designers" title="Category:Computer designers">Computer designers</a></li><li><a href="/wiki/Category:American_electrical_engineers" title="Category:American electrical engineers">American electrical engineers</a></li><li><a href="/wiki/Category:People_from_Chippewa_Falls,_Wisconsin" title="Category:People from Chippewa Falls, Wisconsin">People from Chippewa Falls, Wisconsin</a></li><li><a href="/wiki/Category:Control_Data_Corporation" title="Category:Control Data Corporation">Control Data Corporation</a></li><li><a href="/wiki/Category:Road_accident_deaths_in_Colorado" title="Category:Road accident deaths in Colorado">Road accident deaths in Colorado</a></li><li><a href="/wiki/Category:University_of_Minnesota_alumni" title="Category:University of Minnesota alumni">University of Minnesota alumni</a></li><li><a href="/wiki/Category:Cray" title="Category:Cray">Cray</a></li><li><a href="/wiki/Category:Cray_employees" title="Category:Cray employees">Cray employees</a></li><li><a href="/wiki/Category:Howard_N._Potts_Medal_recipients" title="Category:Howard N. Potts Medal recipients">Howard N. Potts Medal recipients</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2010" title="Category:Articles with unsourced statements from May 2010">Articles with unsourced statements from May 2010</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_May_2010" title="Category:Articles lacking in-text citations from May 2010">Articles lacking in-text citations from May 2010</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2007" title="Category:Articles with unsourced statements from February 2007">Articles with unsourced statements from February 2007</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Seymour+Cray&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Seymour+Cray" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Seymour_Cray"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Seymour_Cray"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Seymour_Cray" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Seymour_Cray&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Seymour_Cray&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Seymour_Cray" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Seymour_Cray" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Seymour_Cray&amp;oldid=695029992" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Seymour_Cray&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92765" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Seymour_Cray&amp;id=695029992" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Seymour+Cray">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Seymour+Cray&amp;returnto=Seymour+Cray&amp;oldid=695029992&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Seymour_Cray&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B3%D9%8A%D9%85%D9%88%D8%B1_%D9%83%D8%B1%D8%A7%D9%8A" title="سيمور كراي – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="//ast.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Asturian" lang="ast" hreflang="ast">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Seymur_Krey" title="Seymur Krey – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Seymour_R._Cray" title="Seymour R. Cray – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%85%D9%88%D8%B1_%DA%A9%D8%B1%DB%8C" title="سیمور کری – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A1%D7%99%D7%9E%D7%95%D7%A8_%D7%A7%D7%A8%D7%99%D7%99" title="סימור קריי – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B8%E0%B5%86%E0%B4%AF%E0%B5%8D%E0%B4%AE%E0%B5%82%E0%B5%BC_%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B5%87" title="സെയ്മൂർ ക്രേ – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%B8%E0%A5%87%E0%A4%AE%E0%A5%82%E0%A4%B0_%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A5%87" title="सेमूर क्रे – Marathi" lang="mr" hreflang="mr">मराठी</a></li><li class="interlanguage-link interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%A1%D1%8D%D0%B9%D0%BC%D1%83%D1%80_%D0%9A%D1%80%D1%8D%D0%B9" title="Сэймур Крэй – Mongolian" lang="mn" hreflang="mn">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%83%A2%E3%82%A2%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A4" title="シーモア・クレイ – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%8D%D0%B9,_%D0%A1%D0%B5%D0%B9%D0%BC%D1%83%D1%80" title="Крэй, Сеймур – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/Simor_Krej" title="Simor Krej – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D0%BC%D1%83%D1%80_%D0%9A%D1%80%D0%B5%D0%B9" title="Сеймур Крей – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-war"><a href="//war.wikipedia.org/wiki/Seymour_Cray" title="Seymour Cray – Waray" lang="war" hreflang="war">Winaray</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92765#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 December 2015, at 08:02.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Seymour_Cray&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1253"}); /* @nomin */
+} );</script>
+	</body>
+</html>

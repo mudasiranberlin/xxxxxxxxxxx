@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Edward Felten - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Edward_Felten","wgTitle":"Edward Felten","wgCurRevisionId":661962419,"wgRevisionId":661962419,"wgArticleId":442140,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with page title same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","1963 births","Living people","American bloggers","American computer scientists","People associated with computer security","Copyright activists","California Institute of Technology alumni","University of Washington alumni","Princeton University faculty","Fellows of the Association for Computing Machinery","Fellows of the American Academy of Arts and Sciences","Members of the United States National Academy of Engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Edward_Felten","wgRelevantArticleId":442140,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Edward-Felten-at-Princeton-CITP.jpg/78px-Edward-Felten-at-Princeton-CITP.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92932","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Edward_Felten" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Edward_Felten&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Edward_Felten&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Edward_Felten" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Edward_Felten skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Edward Felten</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Edward William Felten</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Edward-Felten-at-Princeton-CITP.jpg" class="image"><img alt="Edward-Felten-at-Princeton-CITP.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Edward-Felten-at-Princeton-CITP.jpg/200px-Edward-Felten-at-Princeton-CITP.jpg" width="200" height="256" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Edward-Felten-at-Princeton-CITP.jpg/300px-Edward-Felten-at-Princeton-CITP.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Edward-Felten-at-Princeton-CITP.jpg/400px-Edward-Felten-at-Princeton-CITP.jpg 2x" data-file-width="1437" data-file-height="1837" /></a>
+<div>Edward Felten</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1963-03-25</span>)</span> March 25, 1963 <span class="noprint ForceAgeToShow">(age&#160;52)</span></td>
+</tr>
+<tr>
+<th scope="row">Residence</th>
+<td><a href="/wiki/Princeton,_New_Jersey" title="Princeton, New Jersey">Princeton, New Jersey</a></td>
+</tr>
+<tr>
+<th scope="row">Citizenship</th>
+<td><a href="/wiki/United_States" title="United States">American</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category">
+<p><a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a><br /></p>
+<a href="/wiki/Public_administration" title="Public administration">public affairs</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a>, <a href="/wiki/Federal_Trade_Commission" title="Federal Trade Commission">Federal Trade Commission</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td>
+<p><a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a><br /></p>
+<a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/Edward_D._Lazowska" title="Edward D. Lazowska">Edward D. Lazowska</a> and John Zahorjan</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Secure_Digital_Music_Initiative" title="Secure Digital Music Initiative">Secure Digital Music Initiative</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/EFF_Pioneer_Award" title="EFF Pioneer Award">EFF Pioneer Award</a><sup id="cite_ref-Ref__1-0" class="reference"><a href="#cite_note-Ref_-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><b>Edward William Felten</b> (born March 25, 1963) is a Professor of <a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a> and <a href="/wiki/Public_administration" title="Public administration">Public Affairs</a> at <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a>. On November 4, 2010, he was named the Chief Technologist for the <a href="/wiki/Federal_Trade_Commission" title="Federal Trade Commission">Federal Trade Commission</a>,<sup id="cite_ref-Ref_a_2-0" class="reference"><a href="#cite_note-Ref_a-2"><span>[</span>2<span>]</span></a></sup> a position he officially assumed January 3, 2011. On May 11, 2015, he was named the Deputy U.S. Chief Technology Officer.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>Felten has done a variety of <a href="/wiki/Computer_security" title="Computer security">computer security</a> research, including groundbreaking work on proof-carrying authentication and work on security related to the <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java programming language</a>, but he is perhaps best known for his paper on the <a href="/wiki/Secure_Digital_Music_Initiative" title="Secure Digital Music Initiative">Secure Digital Music Initiative</a> (SDMI) challenge.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#United_States_v._Microsoft"><span class="tocnumber">2</span> <span class="toctext"><i>United States v. Microsoft</i></span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#The_SDMI_challenge"><span class="tocnumber">3</span> <span class="toctext">The SDMI challenge</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#SDMI_lawsuits"><span class="tocnumber">3.1</span> <span class="toctext">SDMI lawsuits</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Sony_rootkit_investigation"><span class="tocnumber">4</span> <span class="toctext">Sony rootkit investigation</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Diebold_voting_machine_analysis"><span class="tocnumber">5</span> <span class="toctext">Diebold voting machine analysis</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Sequoia_voting_machine_analysis"><span class="tocnumber">6</span> <span class="toctext">Sequoia voting machine analysis</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Cold_boot_attack"><span class="tocnumber">7</span> <span class="toctext">Cold boot attack</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Federal_Trade_Commission"><span class="tocnumber">8</span> <span class="toctext">Federal Trade Commission</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Awards"><span class="tocnumber">9</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Felten&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Felten attended the <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a> and graduated with a degree in <a href="/wiki/Physics" title="Physics">Physics</a> in 1985. He worked as a staff programmer at Caltech from 1986 to 1989 on a parallel supercomputer project at Caltech. He then enrolled as a graduate student in Computer Science at the <a href="/wiki/University_of_Washington" title="University of Washington">University of Washington</a>. He was awarded an <a href="/wiki/Master_of_Science" title="Master of Science">Master of Science</a> degree in 1991 and a <a href="/wiki/Ph.D" title="Ph.D" class="mw-redirect">Ph.D</a> in 1993. His Ph.D. thesis was on developing an automated protocol for communication between parallel processors.</p>
+<p>In 1993, he joined the faculty of <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a> in the Department of Computer Science as an Assistant Professor. He was promoted to Associate Professor in 1999 and to Professor in 2003. In 2006, he joined the <a href="/wiki/Woodrow_Wilson_School_of_Public_and_International_Affairs" title="Woodrow Wilson School of Public and International Affairs">Woodrow Wilson School of Public and International Affairs</a>, but computer science remains his home department. In 2005, he became the Director of the <a rel="nofollow" class="external text" href="http://citp.princeton.edu">Center for Information and Technology Policy</a> at <a href="/wiki/Princeton_University" title="Princeton University">Princeton</a>. He has served as a consultant to law firms, corporations, private foundations, and government agencies. His research involves computer security, and technology policy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>He lives in <a href="/wiki/Princeton,_New_Jersey" title="Princeton, New Jersey">Princeton, New Jersey</a> with his family. From 2006 to 2010, he was a member of the board of the <a href="/wiki/Electronic_Frontier_Foundation" title="Electronic Frontier Foundation">Electronic Frontier Foundation</a> (EFF). In 2007, he was inducted as a Fellow of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>.</p>
+<p>In November 2010, he was named Chief Technologist of the <a href="/wiki/Federal_Trade_Commission" title="Federal Trade Commission">Federal Trade Commission</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>On May 11, 2015, he was named Deputy U.S. Chief Technology Officer for <a href="/wiki/The_White_House" title="The White House" class="mw-redirect">The White House</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="United_States_v._Microsoft"><i>United States v. Microsoft</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Felten&amp;action=edit&amp;section=2" title="Edit section: United States v. Microsoft">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Felten was a witness for the United States government in <i><a href="/wiki/United_States_v._Microsoft" title="United States v. Microsoft" class="mw-redirect">United States v. Microsoft</a></i>, where the software company was charged with committing a variety of antitrust crimes. During the trial, Microsoft's attorneys denied that it was possible to remove the <a href="/wiki/Internet_Explorer" title="Internet Explorer">Internet Explorer</a> web browser from a <a href="/wiki/Windows_98" title="Windows 98">Windows 98</a> equipped computer without significantly impairing the operation of Windows.</p>
+<p>Citing research he had undertaken with Christian Hicks and Peter Creath, two of his former students,<sup id="cite_ref-Ind-Stand_7-0" class="reference"><a href="#cite_note-Ind-Stand-7"><span>[</span>7<span>]</span></a></sup> Felten testified that it was possible to remove Internet Explorer functionality from Windows without causing any problems with the operating system. He demonstrated his team's tool in court, showing 19 ways in which it is normally possible to access the web browser from the Windows platform that his team's tool rendered inaccessible.</p>
+<p>Microsoft argued that Felten's changes did not truly remove Internet Explorer but only made its functionality inaccessible to the end user by removing icons, shortcuts and the iexplore.exe executable file, and making changes to the system registry. This led to a debate as to what exactly constitutes the "web browser," since much of the core functionality of Internet Explorer is stored in a shared <a href="/wiki/Dynamic-link_library" title="Dynamic-link library">dynamic-link library</a>, accessible to any program running under Windows.</p>
+<p>Microsoft also argued that Felten's tool did not even completely remove web-browsing capability from the system since it was still possible to access the web through other Windows executables besides iexplore.exe, such as the Windows help system.</p>
+<h2><span class="mw-headline" id="The_SDMI_challenge">The SDMI challenge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Felten&amp;action=edit&amp;section=3" title="Edit section: The SDMI challenge">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As part of a contest in 2000, <a href="/wiki/SDMI" title="SDMI" class="mw-redirect">SDMI</a> (Secure Digital Music Initiative) invited researchers and others to try to break the <a href="/wiki/Digital_audio" title="Digital audio">digital audio</a> <a href="/wiki/Steganography" title="Steganography">watermark</a> technologies that they had devised. In a series of individual challenges, the participants were given a sample audio piece, with one of the watermarks embedded. If the participants sent back the sample with the watermark removed (and with less than an acceptable amount of <a href="/w/index.php?title=Signal_loss&amp;action=edit&amp;redlink=1" class="new" title="Signal loss (page does not exist)">signal loss</a>, though this condition was not stated by SDMI), they would win that particular challenge.</p>
+<p>Felten was an initial participant of the contest. He chose to opt out of <a href="/wiki/Confidentiality" title="Confidentiality">confidentiality</a> agreements that would have made his team eligible for the cash prize. Despite being given very little or no information about the watermarking technologies other than the audio samples and having only three weeks to work with them, Felten and his team managed to modify the files sufficiently that SDMI's automated judging system declared the watermark removed.</p>
+<p>SDMI did not accept that Felten had successfully broken the watermark according to the rules of the contest, noting that there was a requirement for files to lose no sound quality. SDMI claimed that the automated judging result was inconclusive, as a submission which simply wiped all the sounds off the file would have successfully removed the watermark but would not meet the quality requirement.</p>
+<h3><span class="mw-headline" id="SDMI_lawsuits">SDMI lawsuits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Felten&amp;action=edit&amp;section=4" title="Edit section: SDMI lawsuits">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Felten's team developed a scientific paper explaining the methods used by his team in defeating the SDMI watermarks. Planning to present the paper at the Fourth International <a href="/wiki/Information_Hiding" title="Information Hiding" class="mw-redirect">Information Hiding</a> Workshop of 2001 in <a href="/wiki/Pittsburgh,_Pennsylvania" title="Pittsburgh, Pennsylvania" class="mw-redirect">Pittsburgh</a>, Felten was threatened with legal action by SDMI,<sup id="cite_ref-SDMI-Letter_8-0" class="reference"><a href="#cite_note-SDMI-Letter-8"><span>[</span>8<span>]</span></a></sup> the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA), and <a rel="nofollow" class="external text" href="http://verance.com">Verance Corporation</a>, under the terms of the <a href="/wiki/DMCA" title="DMCA" class="mw-redirect">DMCA</a>, on the argument that one of the technologies his team had broken was currently in use in the market. Felten withdrew the presentation from the workshop, reading a brief statement about the threats instead. SDMI and other copyright holders denied that they had ever threatened to sue Felten. However, SDMI appears to have threatened legal action when spokesman <a href="/wiki/Matt_Oppenheim" title="Matt Oppenheim">Matt Oppenheim</a> warned Felten in a letter that "any disclosure of information gained from participating in the Public Challenge....could subject you and your research team to actions under the Digital Millennium Copyright Act.".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>Felten, with help from the <a href="/wiki/Electronic_Frontier_Foundation" title="Electronic Frontier Foundation">Electronic Frontier Foundation</a>, sued the groups, requesting a <a href="/wiki/Declaratory_judgement" title="Declaratory judgement" class="mw-redirect">declaratory judgement</a> ruling that their publication of the paper would be legal. The case was dismissed for a <a href="/wiki/Standing_(law)" title="Standing (law)">lack of standing</a>.<sup id="cite_ref-Hearing_Transcript_10-0" class="reference"><a href="#cite_note-Hearing_Transcript-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Felten presented his paper at the <a href="/wiki/USENIX" title="USENIX">USENIX</a> security conference in 2001. The <a href="/wiki/United_States_Department_of_Justice" title="United States Department of Justice">United States Department of Justice</a> has offered Felten and other researchers assurances that the DMCA does not threaten their work and stated that the legal threats against them were invalid.</p>
+<h2><span class="mw-headline" id="Sony_rootkit_investigation">Sony rootkit investigation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Felten&amp;action=edit&amp;section=5" title="Edit section: Sony rootkit investigation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/2005_Sony_BMG_CD_copy_protection_scandal" title="2005 Sony BMG CD copy protection scandal" class="mw-redirect">2005 Sony BMG CD copy protection scandal</a> started when security researcher <a href="/wiki/Mark_Russinovich" title="Mark Russinovich">Mark Russinovich</a> revealed on October 31, 2005 that Sony's <a href="/wiki/Extended_Copy_Protection" title="Extended Copy Protection">Extended Copy Protection</a> <a href="/wiki/Copy_protection" title="Copy protection">copy protection</a> software on the CD <i><a href="/wiki/Get_Right_with_the_Man" title="Get Right with the Man">Get Right with the Man</a></i> by <a href="/wiki/Van_Zant" title="Van Zant">Van Zant</a> contained hidden files that could damage the operating system, install <a href="/wiki/Spyware" title="Spyware">spyware</a> and make the user's computer vulnerable to attack when the CD was played on a Microsoft Windows-based PC. Sony then released a software patch to remove XCP.</p>
+<p>On November 15, 2005, Felten and <a href="/w/index.php?title=J._Alex_Halderman&amp;action=edit&amp;redlink=1" class="new" title="J. Alex Halderman (page does not exist)">J. Alex Halderman</a> showed that Sony's method for removing XCP copy protection software from the computer makes it more vulnerable to attack, as it essentially installed a <a href="/wiki/Rootkit" title="Rootkit">rootkit</a>, in the form of an <a href="/wiki/Active_X" title="Active X" class="mw-redirect">Active X</a> control used by the uninstaller, and left it on the user's machine and set so as to allow any web page visited by the user to execute arbitrary code. Felten and Halderman described the problem in a blog post:</p>
+<blockquote>
+<p>The consequences of the flaw are severe, it allows any Web page you visit to download, install, and run any code it likes on your computer. Any Web page can seize control of your computer; then it can do anything it likes. That's about as serious as a security flaw can get.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+</blockquote>
+<h2><span class="mw-headline" id="Diebold_voting_machine_analysis">Diebold voting machine analysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Felten&amp;action=edit&amp;section=6" title="Edit section: Diebold voting machine analysis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On September 13, 2006, Felten and graduate students Ariel Feldman and Alex Halderman discovered severe security flaws in a Diebold Election Systems (now <a href="/wiki/Premier_Election_Solutions" title="Premier Election Solutions">Premier Election Solutions</a>) <a href="/wiki/Voting_machine" title="Voting machine">voting machine</a>. Their findings claimed, "Malicious software running on a single voting machine can steal votes with little if any risk of detection. The malicious software can modify all of the records, audit logs, and counters kept by the voting machine, so that even careful forensic examination of these records will find nothing amiss."<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Sequoia_voting_machine_analysis">Sequoia voting machine analysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Felten&amp;action=edit&amp;section=7" title="Edit section: Sequoia voting machine analysis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In early 2008, New Jersey election officials announced that they planned to send one or more <a href="/wiki/Sequoia_Voting_Systems" title="Sequoia Voting Systems">Sequoia</a> Advantage voting machines to Ed Felten and <a href="/wiki/Andrew_Appel" title="Andrew Appel">Andrew Appel</a> (also of Princeton University) for analysis. In March 2008, Sequoia sent an e-mail to Professor Felten asserting that allowing him to examine Sequoia voting machines would violate the license agreement between Sequoia and the county which bought them, and also that Sequoia would take legal action "to stop [...] any non-compliant analysis, [...] publication of Sequoia software, its behavior, reports regarding same or any other infringement of our intellectual property." <sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> This action sparked outrage among computer technology activists.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>After examining Sequoia's machines, Felten and Appel indeed discovered grave problems with the accuracy of the machines.<sup id="cite_ref-Ref_b_16-0" class="reference"><a href="#cite_note-Ref_b-16"><span>[</span>16<span>]</span></a></sup> They also demonstrated that the machines can be hacked and compromised within minutes.<sup id="cite_ref-Ref_c_17-0" class="reference"><a href="#cite_note-Ref_c-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>Shortly after that, Sequoia's corporate Web site was hacked. Ironically, the hack was first discovered by Ed Felten. Sequoia took its Web site down on 20 March and removed the "intrusive content."<sup id="cite_ref-Dee2008_18-0" class="reference"><a href="#cite_note-Dee2008-18"><span>[</span>18<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Cold_boot_attack">Cold boot attack</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Felten&amp;action=edit&amp;section=8" title="Edit section: Cold boot attack">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In February 2008, Felten and his students were part of the team that discovered the <a href="/wiki/Cold_boot_attack" title="Cold boot attack">cold boot attack</a>, which allows someone with physical access to a computer to bypass operating system protections and extract the contents of its memory.<sup id="cite_ref-ColdBoot_19-0" class="reference"><a href="#cite_note-ColdBoot-19"><span>[</span>19<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Federal_Trade_Commission">Federal Trade Commission</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Felten&amp;action=edit&amp;section=9" title="Edit section: Federal Trade Commission">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In November 2010, Felten was named the first Chief Technologist of the <a href="/wiki/Federal_Trade_Commission" title="Federal Trade Commission">Federal Trade Commission</a>,<sup id="cite_ref-Ref_d_20-0" class="reference"><a href="#cite_note-Ref_d-20"><span>[</span>20<span>]</span></a></sup> for which he took a one-year leave of absence from Princeton University.<sup id="cite_ref-Ref_e_21-0" class="reference"><a href="#cite_note-Ref_e-21"><span>[</span>21<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Felten&amp;action=edit&amp;section=10" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> (2013)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Felten&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Ref_-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ref_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://w2.eff.org/news/archives/2005_04.php#003496">Electronic Frontier Foundation Announces Pioneer Award Winners</a> EFF, 2005</span></li>
+<li id="cite_note-Ref_a-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ref_a_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ftc.gov/opa/2010/11/cted.shtm">http://www.ftc.gov/opa/2010/11/cted.shtm</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.whitehouse.gov/blog/2015/05/11/white-house-names-dr-ed-felten-deputy-us-chief-technology-officer">https://www.whitehouse.gov/blog/2015/05/11/white-house-names-dr-ed-felten-deputy-us-chief-technology-officer</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Felten, Edward. <a rel="nofollow" class="external text" href="http://www.cs.princeton.edu/~felten/FeltenCV.pdf">"Edward Felten's Curriculum Vitae"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.aufirst=Edward&amp;rft.aulast=Felten&amp;rft.btitle=Edward+Felten%27s+Curriculum+Vitae&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cs.princeton.edu%2F~felten%2FFeltenCV.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ftc.gov/opa/2010/11/cted.shtm">"FTC Names Edward W. Felten as Agency's Chief Technologist; Eileen Harrington as Executive Director"</a>. <a href="/wiki/Federal_Trade_Commission" title="Federal Trade Commission">Federal Trade Commission</a>. 2010-11-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-11-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.btitle=FTC+Names+Edward+W.+Felten+as+Agency%27s+Chief+Technologist%3B+Eileen+Harrington+as+Executive+Director&amp;rft.date=2010-11-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fftc.gov%2Fopa%2F2010%2F11%2Fcted.shtm&amp;rft.pub=Federal+Trade+Commission&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.whitehouse.gov/blog/2015/05/11/white-house-names-dr-ed-felten-deputy-us-chief-technology-officer">"The White House Names Dr. Ed Felten as Deputy U.S. Chief Technology Officer"</a>. <a href="/wiki/The_White_House" title="The White House" class="mw-redirect">The White House</a>. 2015-05-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-05-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.btitle=The+White+House+Names+Dr.+Ed+Felten+as+Deputy+U.S.+Chief+Technology+Officer&amp;rft.date=2015-05-11&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.whitehouse.gov%2Fblog%2F2015%2F05%2F11%2Fwhite-house-names-dr-ed-felten-deputy-us-chief-technology-officer&amp;rft.pub=The+White+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ind-Stand-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ind-Stand_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Wasserman, Elizabeth (April 26, 2001). <a rel="nofollow" class="external text" href="http://www.thestandard.com/article/0,1902,24020,00.html">"Security Code-Cracking Professor Pulls 'How-To' Paper"</a>. <a href="/wiki/The_Industry_Standard" title="The Industry Standard">The Industry Standard</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.aufirst=Elizabeth&amp;rft.aulast=Wasserman&amp;rft.btitle=Security+Code-Cracking+Professor+Pulls+%27How-To%27+Paper&amp;rft.date=2001-04-26&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.thestandard.com%2Farticle%2F0%2C1902%2C24020%2C00.html&amp;rft.pub=The+Industry+Standard&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-SDMI-Letter-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-SDMI-Letter_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Oppenheim, Matthew J. (April 9, 2001). <a rel="nofollow" class="external text" href="http://www.eff.org/IP/DMCA/Felten_v_RIAA/20010409_riaa_sdmi_letter.html">"RIAA/SDMI Legal Threat Letter"</a>. <a href="/wiki/Electronic_Frontier_Foundation" title="Electronic Frontier Foundation">Electronic Frontier Foundation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.aufirst=Matthew+J.&amp;rft.aulast=Oppenheim&amp;rft.btitle=RIAA%2FSDMI+Legal+Threat+Letter&amp;rft.date=2001-04-09&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eff.org%2FIP%2FDMCA%2FFelten_v_RIAA%2F20010409_riaa_sdmi_letter.html&amp;rft.pub=Electronic+Frontier+Foundation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Greene, Thomas C. (April 23, 2001). <a rel="nofollow" class="external text" href="http://www.theregister.co.uk/2001/04/23/sdmi_cracks_revealed/">"SDMI cracks revealed"</a>. <i>Security</i>. <a href="/wiki/The_Register" title="The Register">The Register</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.atitle=SDMI+cracks+revealed&amp;rft.aufirst=Thomas+C.&amp;rft.aulast=Greene&amp;rft.date=2001-04-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.theregister.co.uk%2F2001%2F04%2F23%2Fsdmi_cracks_revealed%2F&amp;rft.jtitle=Security&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hearing_Transcript-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hearing_Transcript_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eff.org/IP/DMCA/Felten_v_RIAA/20011128_hearing_transcript.html">"Final Hearing Transcript, Felten v. RIAA"</a>. <a href="/wiki/Electronic_Frontier_Foundation" title="Electronic Frontier Foundation">Electronic Frontier Foundation</a>. November 28, 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.btitle=Final+Hearing+Transcript%2C+Felten+v.+RIAA&amp;rft.date=2001-11-28&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eff.org%2FIP%2FDMCA%2FFelten_v_RIAA%2F20011128_hearing_transcript.html&amp;rft.pub=Electronic+Frontier+Foundation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Felten, Edward; Alex Halderman (November 15, 2005). <a rel="nofollow" class="external text" href="http://www.freedom-to-tinker.com/?p=927">"Sony’s Web-Based Uninstaller Opens a Big Security Hole; Sony to Recall Discs"</a>. Freedom to Tinker<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.au=Alex+Halderman&amp;rft.aufirst=Edward&amp;rft.aulast=Felten&amp;rft.btitle=Sony%99s+Web-Based+Uninstaller+Opens+a+Big+Security+Hole%3B+Sony+to+Recall+Discs&amp;rft.date=2005-11-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.freedom-to-tinker.com%2F%3Fp%3D927&amp;rft.pub=Freedom+to+Tinker&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ariel J. Feldman, J. Alex Halderman, and Edward W. Felten (September 13, 2006). <a rel="nofollow" class="external text" href="http://itpolicy.princeton.edu/voting/ts-paper.pdf">"Security Analysis of the Diebold AccuVote-TS Voting Machine"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.atitle=Security+Analysis+of+the+Diebold+AccuVote-TS+Voting+Machine&amp;rft.au=Ariel+J.+Feldman%2C+J.+Alex+Halderman%2C+and+Edward+W.+Felten&amp;rft.date=2006-09-13&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fitpolicy.princeton.edu%2Fvoting%2Fts-paper.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Ed Felten (2008-03-17). <a rel="nofollow" class="external text" href="http://www.freedom-to-tinker.com/?p=1265">"Interesting e-mail by Sequoia"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.au=Ed+Felten&amp;rft.btitle=Interesting+e-mail+by+Sequoia&amp;rft.date=2008-03-17&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.freedom-to-tinker.com%2F%3Fp%3D1265&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.techdirt.com/articles/20080317/185348564.shtml">"E-Voting Firm Threatens Ed Felten If He Reviews Its E-Voting Machine"</a>. <a href="/wiki/Techdirt" title="Techdirt">Techdirt</a>. 2008-03-18.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.btitle=E-Voting+Firm+Threatens+Ed+Felten+If+He+Reviews+Its+E-Voting+Machine&amp;rft.date=2008-03-18&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.techdirt.com%2Farticles%2F20080317%2F185348564.shtml&amp;rft.pub=Techdirt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Cory_Doctorow" title="Cory Doctorow">Cory Doctorow</a> (2008-03-17). <a rel="nofollow" class="external text" href="http://www.boingboing.net/2008/03/17/sequoia-voting-syste.html">"Sequoia Voting Systems threatens Felten's Princeton security research team"</a>. <a href="/wiki/BoingBoing" title="BoingBoing" class="mw-redirect">BoingBoing</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.au=Cory+Doctorow&amp;rft.btitle=Sequoia+Voting+Systems+threatens+Felten%27s+Princeton+security+research+team&amp;rft.date=2008-03-17&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.boingboing.net%2F2008%2F03%2F17%2Fsequoia-voting-syste.html&amp;rft.pub=BoingBoing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ref_b-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ref_b_16-0">^</a></b></span> <span class="reference-text">Ed Felten: <a rel="nofollow" class="external text" href="http://freedom-to-tinker.com/blog/felten/nj-election-discrepancies-worse-previously-thought-contradict-sequoias-explanation">NJ Election Discrepancies Worse Than Previously Thought, Contradict Sequoia's Explanation</a>, <i>Freedom To Tinker</i>, April 4th, 2008.</span></li>
+<li id="cite_note-Ref_c-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ref_c_17-0">^</a></b></span> <span class="reference-text">Andrew Appel: <a rel="nofollow" class="external text" href="http://freedom-to-tinker.com/blog/appel/security-seals-avc-advantage-voting-machines-are-easily-defeated">Security Seals on AVC Advantage Voting Machines are Easily Defeated</a>, <i>Freedom To Tinker</i>, December 19th, 2008.</span></li>
+<li id="cite_note-Dee2008-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dee2008_18-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Dee Chisamera (2008-03-21). <a rel="nofollow" class="external text" href="http://www.efluxmedia.com/news_Sequoia_Voting_Systems_Admits_To_Hackers_Attacking_Their_Website_15405.html">"Sequoia Voting Systems Admits To Hackers Attacking Their Website"</a>. eFluxMedia.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.atitle=Sequoia+Voting+Systems+Admits+To+Hackers+Attacking+Their+Website&amp;rft.au=Dee+Chisamera&amp;rft.date=2008-03-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.efluxmedia.com%2Fnews_Sequoia_Voting_Systems_Admits_To_Hackers_Attacking_Their_Website_15405.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ColdBoot-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-ColdBoot_19-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">J. Alex Halderman, <a href="/wiki/Seth_Schoen" title="Seth Schoen">Seth D. Schoen</a>, Nadia Heninger, William Clarkson, William Paul, Joseph A. Calandrino, Ariel J. Feldman, <a href="/wiki/Jacob_Appelbaum" title="Jacob Appelbaum">Jacob Appelbaum</a>, and Edward W. Felten (2008-02-21). <a rel="nofollow" class="external text" href="http://citp.princeton.edu/memory/">"Lest We Remember: Cold Boot Attacks on Encryption Keys"</a>. <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.atitle=Lest+We+Remember%3A+Cold+Boot+Attacks+on+Encryption+Keys&amp;rft.au=J.+Alex+Halderman%2C+Seth+D.+Schoen%2C+Nadia+Heninger%2C+William+Clarkson%2C+William+Paul%2C+Joseph+A.+Calandrino%2C+Ariel+J.+Feldman%2C+Jacob+Appelbaum%2C+and+Edward+W.+Felten&amp;rft.date=2008-02-21&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcitp.princeton.edu%2Fmemory%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ref_d-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ref_d_20-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://voices.washingtonpost.com/posttech/2010/11/ftc_names_internet_security_an.html">"FTC names Princeton computer security expert as first chief technologist"</a>. <i>The Washington Post</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Felten&amp;rft.atitle=FTC+names+Princeton+computer+security+expert+as+first+chief+technologist&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fvoices.washingtonpost.com%2Fposttech%2F2010%2F11%2Fftc_names_internet_security_an.html&amp;rft.jtitle=The+Washington+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ref_e-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ref_e_21-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://thehill.com/blogs/hillicon-valley/personnel-notes/127705-princeton-prof-edward-felten-named-ftcs-first-chief-technologist">http://thehill.com/blogs/hillicon-valley/personnel-notes/127705-princeton-prof-edward-felten-named-ftcs-first-chief-technologist</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Felten&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Edward_Felten" class="extiw" title="commons:Category:Edward Felten">Edward Felten</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.cs.princeton.edu/~felten/">Edward W. Felten homepage</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.freedom-to-tinker.com/">Freedom to Tinker weblog</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.eff.org/IP/DMCA/Felten_v_RIAA/">Felten, et al. v. RIAA case archive</a> (<a href="/wiki/Electronic_Frontier_Foundation" title="Electronic Frontier Foundation">EFF</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.verance.com">Verance Corporation</a></li>
+<li><a rel="nofollow" class="external text" href="http://cyber.law.harvard.edu/msdoj/">Harvard Law School's collection of documents relating to Microsoft antitrust lawsuit</a></li>
+<li><a rel="nofollow" class="external text" href="http://itpolicy.princeton.edu/pub/sonydrm-ext.pdf">Lessons from the Sony CD DRM Episode, by J. Alex Halderman and Edward W. Felten</a></li>
+<li><a rel="nofollow" class="external text" href="http://bloggingheads.tv/diavlogs/15113">Video discussion/conversation with Felten</a> and <a href="/wiki/Will_Wilkinson" title="Will Wilkinson">Will Wilkinson</a> on <a href="/wiki/Bloggingheads.tv" title="Bloggingheads.tv">Bloggingheads.tv</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n96-092293">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/38645418">38645418</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n96092293">n96092293</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000110565871">0000 0001 1056 5871</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/173088554">173088554</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/070442304">070442304</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1220
+Cached time: 20160107104817
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.348 seconds
+Real time usage: 0.424 seconds
+Preprocessor visited node count: 1463/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 31958/2097152 bytes
+Template argument size: 878/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.153/10.000 seconds
+Lua memory usage: 2.83 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  366.069      1 - -total
+ 44.03%  161.192      1 - Template:Reflist
+ 28.39%  103.928     11 - Template:Cite_web
+ 27.28%   99.851      1 - Template:Infobox_scientist
+ 24.81%   90.814      1 - Template:Infobox
+ 15.53%   56.842      1 - Template:Commons_category
+ 14.08%   51.534      1 - Template:Commons
+ 13.41%   49.095      1 - Template:Sister_project
+ 12.55%   45.931      1 - Template:Side_box
+  8.98%   32.875      4 - Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:442140-0!*!0!!en!4!* and timestamp 20160107104817 and revision id 661962419
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Edward_Felten&amp;oldid=661962419">https://en.wikipedia.org/w/index.php?title=Edward_Felten&amp;oldid=661962419</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1963_births" title="Category:1963 births">1963 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_bloggers" title="Category:American bloggers">American bloggers</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:People_associated_with_computer_security" title="Category:People associated with computer security">People associated with computer security</a></li><li><a href="/wiki/Category:Copyright_activists" title="Category:Copyright activists">Copyright activists</a></li><li><a href="/wiki/Category:California_Institute_of_Technology_alumni" title="Category:California Institute of Technology alumni">California Institute of Technology alumni</a></li><li><a href="/wiki/Category:University_of_Washington_alumni" title="Category:University of Washington alumni">University of Washington alumni</a></li><li><a href="/wiki/Category:Princeton_University_faculty" title="Category:Princeton University faculty">Princeton University faculty</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences" title="Category:Fellows of the American Academy of Arts and Sciences">Fellows of the American Academy of Arts and Sciences</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Edward+Felten&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Edward+Felten" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Edward_Felten"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Edward_Felten"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Edward_Felten" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Edward_Felten&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Edward_Felten&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Edward_Felten" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Edward_Felten" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Edward_Felten&amp;oldid=661962419" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Edward_Felten&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92932" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Edward_Felten&amp;id=661962419" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Edward+Felten">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Edward+Felten&amp;returnto=Edward+Felten&amp;oldid=661962419&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Edward_Felten&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Edward_W._Felten" title="Edward W. Felten – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Edward_Felten" title="Edward Felten – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92932#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 May 2015, at 07:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Edward_Felten&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":518,"wgHostname":"mw1220"}); /* @nomin */
+} );</script>
+	</body>
+</html>

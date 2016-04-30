@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Manny Lehman (computer scientist) - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Manny_Lehman_(computer_scientist)","wgTitle":"Manny Lehman (computer scientist)","wgCurRevisionId":678415237,"wgRevisionId":678415237,"wgArticleId":14448893,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["1925 births","2010 deaths","Academics of Middlesex University","Academics of Imperial College London","British computer scientists","Software engineers","Software engineering researchers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Manny_Lehman_(computer_scientist)","wgRelevantArticleId":14448893,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Manny_M_Lehman","wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Manny_Lehman_(computer_scientist)","wgWikibaseItemId":"Q6751015","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Manny_Lehman_(computer_scientist)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Manny_Lehman_(computer_scientist)" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Manny_Lehman_computer_scientist skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Manny Lehman (computer scientist)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Manny_M_Lehman&amp;redirect=no" title="Manny M Lehman">Manny M Lehman</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Manny Lehman</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1925-01-24</span>)</span>January 24, 1925<br />
+<a href="/wiki/Germany" title="Germany">Germany</a></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>December 29, 2010<span style="display:none">(<span class="dday deathdate">2010-12-29</span>)</span> (aged&#160;85)<br />
+<a href="/wiki/Jerusalem,_Israel" title="Jerusalem, Israel" class="mw-redirect">Jerusalem, Israel</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Ferranti" title="Ferranti">Ferranti</a><br />
+<a href="/wiki/Ministry_of_Defense_(Israel)" title="Ministry of Defense (Israel)">Ministry of Defense (Israel)</a><br />
+<a href="/wiki/IBM" title="IBM">IBM</a><br />
+<a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College London</a><br />
+<a href="/wiki/Middlesex_University" title="Middlesex University">Middlesex University</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College London</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><i>Parallel Arithmetic Units and Their Control</i>&#160;<span style="font-size:90%;">(1957)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/K._D._Tocher" title="K. D. Tocher">K. D. Tocher</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a href="/wiki/Peter_G._Harrison" title="Peter G. Harrison">Peter G. Harrison</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Lehman%27s_laws_of_software_evolution" title="Lehman's laws of software evolution">Lehman's laws of software evolution</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/Harlan_D._Mills_Award" title="Harlan D. Mills Award" class="mw-redirect">Harlan D. Mills Award</a> (2001)<br />
+<a href="/wiki/FREng" title="FREng" class="mw-redirect">FREng</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> (2012)</td>
+</tr>
+<tr>
+<th scope="row">Spouse</th>
+<td>Chava Robinson (m. 1953)</td>
+</tr>
+</table>
+<p><b>Meir "Manny" Lehman,</b> <a href="/wiki/Fellow_of_the_Royal_Academy_of_Engineering" title="Fellow of the Royal Academy of Engineering" class="mw-redirect">FREng</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> (January 24, 1925 – December 29, 2010) was a <a href="/wiki/Professor" title="Professor">professor</a> in the School of Computing Science at <a href="/wiki/Middlesex_University" title="Middlesex University">Middlesex University</a>. From 1972 to 2002 he was a Professor and Head of the Computing Department at <a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College London</a>. His research contributions include the early realization of the <a href="/wiki/Software_evolution" title="Software evolution">software evolution</a> phenomenon and the eponymous <a href="/wiki/Lehman%27s_laws_of_software_evolution" title="Lehman's laws of software evolution">Lehman's laws of software evolution</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Awards_and_honors"><span class="tocnumber">2</span> <span class="toctext">Awards and honors</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lehman was born in <a href="/wiki/Germany" title="Germany">Germany</a> on January 24, 1925, and emigrated to <a href="/wiki/England" title="England">England</a> in 1931.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Debrett_7-0" class="reference"><a href="#cite_note-Debrett-7"><span>[</span>7<span>]</span></a></sup> He studied <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> as an undergraduate at <a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College London</a> where he was involved in the design of the Imperial College Computing Engine's Digital Computer Arithmetic Unit.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> He spent a year at <a href="/wiki/Ferranti" title="Ferranti">Ferranti</a> in London before working at <a href="/wiki/Ministry_of_Defense_(Israel)" title="Ministry of Defense (Israel)">Israel's Ministry of Defense</a> from 1957 to 1964. From 1964 to 1972 he worked at <a href="/wiki/IBM" title="IBM">IBM</a>'s research division in <a href="/wiki/Yorktown_Heights,_NY" title="Yorktown Heights, NY" class="mw-redirect">Yorktown Heights, NY</a> where he studied program evolution with <a href="/wiki/Les_Belady" title="Les Belady" class="mw-redirect">Les Belady</a>. The study of IBM's programming process gave the foundations for <a href="/wiki/Lehman%27s_laws_of_software_evolution" title="Lehman's laws of software evolution">Lehman's laws of software evolution</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> In 1972 he returned to Imperial College where he was Head of Section and later Head of Department (1979–1984). Lehman remained at Imperial for some thirty years until 2002 when he moved to the School of Computing Science at <a href="/wiki/Middlesex_University" title="Middlesex University">Middlesex University</a>. After retiring from Middlesex he moved to Jerusalem, Israel, where he died on December 29, 2010.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Awards_and_honors">Awards and honors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;action=edit&amp;section=2" title="Edit section: Awards and honors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Fellow_of_the_Royal_Academy_of_Engineering" title="Fellow of the Royal Academy of Engineering" class="mw-redirect">Fellow of the Royal Academy of Engineering</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> (1989)<sup id="cite_ref-Debrett_7-1" class="reference"><a href="#cite_note-Debrett-7"><span>[</span>7<span>]</span></a></sup></li>
+<li><a href="/wiki/Association_for_Computing_Machinery#Fellows" title="Association for Computing Machinery">Fellow of the ACM</a> (1994)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></li>
+<li><a href="/wiki/Harlan_D._Mills_Award" title="Harlan D. Mills Award" class="mw-redirect">Harlan D. Mills Award</a> (2001)<sup id="cite_ref-Mills_award_recipients_13-0" class="reference"><a href="#cite_note-Mills_award_recipients-13"><span>[</span>13<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ieeeghn.org/wiki/index.php/Oral-History:Meir_Lehman">"Meir M. Lehman: An Interview Conducted by William Aspray"</a>. IEEE History Center. 23 September 1993<span class="reference-accessdate">. Retrieved <span class="nowrap">6 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.btitle=Meir+M.+Lehman%3A+An+Interview+Conducted+by+William+Aspray&amp;rft.date=1993-09-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ieeeghn.org%2Fwiki%2Findex.php%2FOral-History%3AMeir_Lehman&amp;rft.pub=IEEE+History+Center&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.raeng.org.uk/about-us/people-council-committees/the-fellowship/list-of-fellows">"List of Fellows"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.btitle=List+of+Fellows&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.raeng.org.uk%2Fabout-us%2Fpeople-council-committees%2Fthe-fellowship%2Flist-of-fellows&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.raeng.org.uk/about-us/people-council-committees/the-fellowship/list-of-fellows">"List of Fellows"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.btitle=List+of+Fellows&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.raeng.org.uk%2Fabout-us%2Fpeople-council-committees%2Fthe-fellowship%2Flist-of-fellows&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cook, Stephen; Harrison, Rachel; <a href="/wiki/Meir_M._Lehman" title="Meir M. Lehman" class="mw-redirect">Lehman, Meir M.</a>; Wernick, Paul (November 2005). <a rel="nofollow" class="external text" href="http://www3.interscience.wiley.com/journal/112136395/abstract?CRETRY=1&amp;SRETRY=0">"Evolution in software systems: foundations of the SPE classification scheme"</a>. <i><a href="/wiki/Journal_of_Software_Maintenance_and_Evolution:_Research_and_Practice" title="Journal of Software Maintenance and Evolution: Research and Practice" class="mw-redirect">Journal of Software Maintenance and Evolution: Research and Practice</a></i> (John Wiley &amp; Sons, Ltd.) <b>18</b> (1): 1–35. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fsmr.314">10.1002/smr.314</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.atitle=Evolution+in+software+systems%3A+foundations+of+the+SPE+classification+scheme&amp;rft.aufirst=Stephen&amp;rft.au=Harrison%2C+Rachel&amp;rft.aulast=Cook&amp;rft.au=Lehman%2C+Meir+M.&amp;rft.au=Wernick%2C+Paul&amp;rft.date=2005-11&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww3.interscience.wiley.com%2Fjournal%2F112136395%2Fabstract%3FCRETRY%3D1%26SRETRY%3D0&amp;rft_id=info%3Adoi%2F10.1002%2Fsmr.314&amp;rft.issue=1&amp;rft.jtitle=Journal+of+Software+Maintenance+and+Evolution%3A+Research+and+Practice&amp;rft.pages=1-35&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Canfora, G.; Dalcher, D.; Raffo, D.; Basili, V. R.; Fernández-Ramil, J.; Rajlich, V. C.; Bennett, K.; Burd, L.; Munro, M.; Drossopoulou, S.; Boehm, B.; Eisenbach, S.; Michaelson, G.; Dalcher, D.; Ross, P.; Wernick, P. D.; Perry, D. E. (2011). "In memory of Manny Lehman, 'Father of Software Evolution<span style="padding-right:0.2em;">'</span>". <i>Journal of Software Maintenance and Evolution: Research and Practice</i> <b>23</b> (3): 137. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fsmr.537">10.1002/smr.537</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.atitle=In+memory+of+Manny+Lehman%2C+%27Father+of+Software+Evolution%27&amp;rft.au=Basili%2C+V.+R.&amp;rft.au=Bennett%2C+K.&amp;rft.au=Boehm%2C+B.&amp;rft.au=Burd%2C+L.&amp;rft.au=Dalcher%2C+D.&amp;rft.au=Dalcher%2C+D.&amp;rft.au=Drossopoulou%2C+S.&amp;rft.au=Eisenbach%2C+S.&amp;rft.au=Fern%C3%A1ndez-Ramil%2C+J.&amp;rft.aufirst=G.&amp;rft.aulast=Canfora&amp;rft.au=Michaelson%2C+G.&amp;rft.au=Munro%2C+M.&amp;rft.au=Perry%2C+D.+E.&amp;rft.au=Raffo%2C+D.&amp;rft.au=Rajlich%2C+V.+C.&amp;rft.au=Ross%2C+P.&amp;rft.au=Wernick%2C+P.+D.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fsmr.537&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Software+Maintenance+and+Evolution%3A+Research+and+Practice&amp;rft.pages=137&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=23" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Gay, Hannah (2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=x4u4ikoj1M8C&amp;pg=PA562"><i>The history of Imperial College London, 1907-2007</i></a>. <a href="/wiki/Imperial_College_Press" title="Imperial College Press">Imperial College Press</a>. p.&#160;562. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-86094-708-7" title="Special:BookSources/978-1-86094-708-7">978-1-86094-708-7</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 12,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.aufirst=Hannah&amp;rft.aulast=Gay&amp;rft.btitle=The+history+of+Imperial+College+London%2C+1907-2007&amp;rft.date=2007&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dx4u4ikoj1M8C%26pg%3DPA562&amp;rft.isbn=978-1-86094-708-7&amp;rft.pages=562&amp;rft.pub=Imperial+College+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Debrett-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Debrett_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Debrett_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.debretts.com/people/biographies/browse/l/10422/Meir%20M%20%28Manny%29+LEHMAN.aspx">"Prof Manny Lehman, FREng"</a>. <a href="/wiki/Debrett%27s" title="Debrett's">Debrett's</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.btitle=Prof+Manny+Lehman%2C+FREng&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.debretts.com%2Fpeople%2Fbiographies%2Fbrowse%2Fl%2F10422%2FMeir%2520M%2520%2528Manny%2529%2BLEHMAN.aspx&amp;rft.pub=Debrett%27s&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Gay, Hannah (2007). <i>The history of Imperial College London, 1907-2007</i>. World Scientific. p.&#160;291. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-86094-709-3" title="Special:BookSources/1-86094-709-3">1-86094-709-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.aufirst=Hannah&amp;rft.aulast=Gay&amp;rft.btitle=The+history+of+Imperial+College+London%2C+1907-2007&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=1-86094-709-3&amp;rft.pages=291&amp;rft.pub=World+Scientific&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sigsoft.org/SEN/lehman.html">"ACM Fellow Profile for Meir M. (Manny) Lehman"</a>. <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a>. 2007-05-31<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.btitle=ACM+Fellow+Profile+for+Meir+M.+%28Manny%29+Lehman&amp;rft.date=2007-05-31&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sigsoft.org%2FSEN%2Flehman.html&amp;rft.pub=ACM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Susan Eisenbach (February 4, 2011). <a rel="nofollow" class="external text" href="http://www2.imperial.ac.uk/blog/reporter/2011/02/04/obituary-professor-manny-lehman/">"Obituary: Professor Manny Lehman"</a>. <i>Reporter</i> (<a href="/wiki/Imperial_College_London" title="Imperial College London">Imperial College London</a>)<span class="reference-accessdate">. Retrieved <span class="nowrap">May 4,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.atitle=Obituary%3A+Professor+Manny+Lehman&amp;rft.au=Susan+Eisenbach&amp;rft.date=2011-02-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww2.imperial.ac.uk%2Fblog%2Freporter%2F2011%2F02%2F04%2Fobituary-professor-manny-lehman%2F&amp;rft.jtitle=Reporter&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.raeng.org.uk/about-us/people-council-committees/the-fellowship/list-of-fellows">"List of Fellows"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.btitle=List+of+Fellows&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.raeng.org.uk%2Fabout-us%2Fpeople-council-committees%2Fthe-fellowship%2Flist-of-fellows&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fellows.acm.org/homepage.cfm?srt=all">"ACM Fellows"</a>. ACM<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.btitle=ACM+Fellows&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ffellows.acm.org%2Fhomepage.cfm%3Fsrt%3Dall&amp;rft.pub=ACM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mills_award_recipients-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mills_award_recipients_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.computer.org/portal/web/awards/harlan#_118_tabs_WAR_pluginsui_INSTANCE_Wr5I_tab1">"Past recipients for Harlan D. Mills Award"</a>. <a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">April 13,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.btitle=Past+recipients+for+Harlan+D.+Mills+Award&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computer.org%2Fportal%2Fweb%2Fawards%2Fharlan%23_118_tabs_WAR_pluginsui_INSTANCE_Wr5I_tab1&amp;rft.pub=IEEE+Computer+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li>M.M. Lehman. "Programs, life cycles, and laws of software evolution", <i><a href="/wiki/Proceedings_of_the_IEEE" title="Proceedings of the IEEE">Proceedings of the IEEE</a></i>, pages 1060–1076, September 1980</li>
+<li><a href="/wiki/Laszlo_Belady" title="Laszlo Belady" class="mw-redirect">Laszlo Belady</a>, M. M. Lehman: A Model of Large Program Development. IBM Systems Journal 15(3): 225-252 (1976)</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.doc.ic.ac.uk/~mml/feast2/papers.html">FEAST Publications</a></li>
+<li><a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/search/freesrchabstract.jsp?arnumber=1456074&amp;isnumber=31293&amp;punumber=5&amp;k2dockey=1456074@ieeejrns&amp;query=%28programs++life+cycles+and+laws+of+software+evolution%29%3Cin%3Emetadata&amp;pos=1">IEEExplore</a></li>
+<li><a rel="nofollow" class="external text" href="http://archive.salon.com/tech/feature/2002/04/08/lehman/index.html">A unified theory of software evolution</a>, <a href="/wiki/Salon.com" title="Salon.com" class="mw-redirect">Salon.com</a>, 2002.</li>
+<li><cite class="citation web">William Aspray (1993). <a rel="nofollow" class="external text" href="http://www.ieeeghn.org/wiki/index.php/Oral-History:Meir_Lehman">"Meir M. Lehman, an oral history"</a>. <i>IEEE Global History Network</i>. <a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 9,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AManny+Lehman+%28computer+scientist%29&amp;rft.atitle=Meir+M.+Lehman%2C+an+oral+history&amp;rft.au=William+Aspray&amp;rft.date=1993&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ieeeghn.org%2Fwiki%2Findex.php%2FOral-History%3AMeir_Lehman&amp;rft.jtitle=IEEE+Global+History+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.mdx.ac.uk/staffpages/mml/">Manny Lehman's Home Page</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mannymlehman.com/">Lehman's official academic archive</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=135572">135572</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1175
+Cached time: 20160107171830
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.286 seconds
+Real time usage: 0.338 seconds
+Preprocessor visited node count: 1405/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 28489/2097152 bytes
+Template argument size: 917/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.158/10.000 seconds
+Lua memory usage: 2.87 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  311.512      1 - -total
+ 52.31%  162.966      1 - Template:Reflist
+ 29.83%   92.937      1 - Template:Infobox_scientist
+ 27.10%   84.412      1 - Template:Infobox
+ 24.60%   76.622      9 - Template:Cite_web
+ 12.22%   38.057      2 - Template:Cite_journal
+ 10.94%   34.090      1 - Template:Authority_control
+ 10.75%   33.484      4 - Template:Br_separated_entries
+  6.07%   18.914      2 - Template:Cite_book
+  3.28%   10.228      1 - Template:Birth_date
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14448893-0!*!0!!en!*!* and timestamp 20160107171830 and revision id 678415237
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;oldid=678415237">https://en.wikipedia.org/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;oldid=678415237</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1925_births" title="Category:1925 births">1925 births</a></li><li><a href="/wiki/Category:2010_deaths" title="Category:2010 deaths">2010 deaths</a></li><li><a href="/wiki/Category:Academics_of_Middlesex_University" title="Category:Academics of Middlesex University">Academics of Middlesex University</a></li><li><a href="/wiki/Category:Academics_of_Imperial_College_London" title="Category:Academics of Imperial College London">Academics of Imperial College London</a></li><li><a href="/wiki/Category:British_computer_scientists" title="Category:British computer scientists">British computer scientists</a></li><li><a href="/wiki/Category:Software_engineers" title="Category:Software engineers">Software engineers</a></li><li><a href="/wiki/Category:Software_engineering_researchers" title="Category:Software engineering researchers">Software engineering researchers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Manny+Lehman+%28computer+scientist%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Manny+Lehman+%28computer+scientist%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Manny_Lehman_(computer_scientist)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Manny_Lehman_(computer_scientist)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Manny_Lehman_(computer_scientist)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Manny_Lehman_(computer_scientist)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Manny_Lehman_(computer_scientist)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;oldid=678415237" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q6751015" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Manny_Lehman_%28computer_scientist%29&amp;id=678415237" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Manny+Lehman+%28computer+scientist%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Manny+Lehman+%28computer+scientist%29&amp;returnto=Manny+Lehman+%28computer+scientist%29&amp;oldid=678415237&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Meir_M._Lehman" title="Meir M. Lehman – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Meir_M._Lehman" title="Meir M. Lehman – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Meir_M._Lehman" title="Meir M. Lehman – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q6751015#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 August 2015, at 07:21.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Manny_Lehman_(computer_scientist)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":430,"wgHostname":"mw1175"}); /* @nomin */
+} );</script>
+	</body>
+</html>

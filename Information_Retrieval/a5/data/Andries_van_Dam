@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Andries van Dam - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Andries_van_Dam","wgTitle":"Andries van Dam","wgCurRevisionId":694050818,"wgRevisionId":694050818,"wgArticleId":2117158,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with BNF identifiers","1938 births","Living people","American computer scientists","Brown University faculty","Computer graphics professionals","Computer graphics researchers","Dutch emigrants to the United States","Dutch computer scientists","Fellows of the Association for Computing Machinery","People from Groningen (city)","Members of the United States National Academy of Engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Andries_van_Dam","wgRelevantArticleId":2117158,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Andries_Van_Dam_%283097760957%29.jpg/76px-Andries_Van_Dam_%283097760957%29.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2571880","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Andries_van_Dam" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Andries_van_Dam&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Andries_van_Dam&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Andries_van_Dam" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Andries_van_Dam skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Andries van Dam</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Andries_Van_Dam_(3097760957).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Andries_Van_Dam_%283097760957%29.jpg/220px-Andries_Van_Dam_%283097760957%29.jpg" width="220" height="289" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Andries_Van_Dam_%283097760957%29.jpg/330px-Andries_Van_Dam_%283097760957%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Andries_Van_Dam_%283097760957%29.jpg/440px-Andries_Van_Dam_%283097760957%29.jpg 2x" data-file-width="829" data-file-height="1088" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Andries_Van_Dam_(3097760957).jpg" class="internal" title="Enlarge"></a></div>
+Andries van Dam.</div>
+</div>
+</div>
+<p><b>Andries "Andy" van Dam</b> (born 8 December 1938 in <a href="/wiki/Groningen_(city)" title="Groningen (city)" class="mw-redirect">Groningen</a>) is a <a href="/wiki/Netherlands" title="Netherlands">Dutch</a>-born American professor of <a href="/wiki/Computer_science" title="Computer science">computer science</a> and former vice-president for research at <a href="/wiki/Brown_University" title="Brown University">Brown University</a> in <a href="/wiki/Providence,_Rhode_Island" title="Providence, Rhode Island">Providence, Rhode Island</a>. Together with <a href="/wiki/Ted_Nelson" title="Ted Nelson">Ted Nelson</a> he contributed to the first <a href="/wiki/Hypertext" title="Hypertext">hypertext</a> system, <a href="/wiki/Hypertext_Editing_System" title="Hypertext Editing System">Hypertext Editing System</a> (HES) in the late 1960s. He co-authored <i><a href="/wiki/Computer_Graphics:_Principles_and_Practice" title="Computer Graphics: Principles and Practice">Computer Graphics: Principles and Practice</a></i> along with <a href="/wiki/James_D._Foley" title="James D. Foley">J.D. Foley</a>, S.K. Feiner, and <a href="/wiki/John_F._Hughes_(computer_scientist)" title="John F. Hughes (computer scientist)" class="mw-redirect">John Hughes</a>. He also co-founded the precursor of today's <a href="/wiki/ACM_SIGGRAPH" title="ACM SIGGRAPH">ACM SIGGRAPH</a> conference.</p>
+<p>Van Dam serves on several technical boards and committees. He teaches an introductory course in computer science and courses in <a href="/wiki/Computer_graphics_(computer_science)" title="Computer graphics (computer science)">computer graphics</a> at Brown University.</p>
+<p>Van Dam received his B.S. degree with Honors in Engineering Sciences from Swarthmore College in 1960 and his M.S. and Ph.D. from the University of Pennsylvania in 1963 and 1966, respectively.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Students"><span class="tocnumber">1</span> <span class="toctext">Students</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Achievements"><span class="tocnumber">2</span> <span class="toctext">Achievements</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Students">Students</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andries_van_Dam&amp;action=edit&amp;section=1" title="Edit section: Students">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Van Dam has mentored undergraduates, other scholars, and practitioners in hypertext and computer graphics. One of his students was <a href="/wiki/Randy_Pausch" title="Randy Pausch">Randy Pausch</a>, who gained national renown during his ultimately unsuccessful two-year fight with pancreatic cancer. Pausch's <a href="/wiki/The_Last_Lecture" title="The Last Lecture">Last Lecture</a> in September 2007 was the basis for the bestseller <i>Last Lecture</i>. Van Dam was the final speaker after the hour-plus talk. He praised Pausch for his courage and leadership, calling him a role model.<sup id="cite_ref-cs.virginia_1-0" class="reference"><a href="#cite_note-cs.virginia-1"><span>[</span>1<span>]</span></a></sup> Pausch died on July 25, 2008. <a href="/wiki/Danah_boyd" title="Danah boyd">danah boyd</a>, <a href="/wiki/Scott_Draves" title="Scott Draves">Scott Draves</a>, <a href="/wiki/Dick_Bulterman" title="Dick Bulterman">Dick Bulterman</a> and <a href="/wiki/Andy_Hertzfeld" title="Andy Hertzfeld">Andy Hertzfeld</a> also were students of Andy van Dam.</p>
+<h2><span class="mw-headline" id="Achievements">Achievements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andries_van_Dam&amp;action=edit&amp;section=2" title="Edit section: Achievements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Originally appointed as a professor of <a href="/wiki/Applied_mathematics" title="Applied mathematics">applied mathematics</a>, van Dam helped to found the computer science program at Brown as a joint project between the departments of applied mathematics and <a href="/wiki/Engineering" title="Engineering">engineering</a>. When the program was promoted to a full department, van Dam served as its first chair, from 1979 to 1985. In 1995 van Dam was appointed Thomas J. Watson, Jr. University Professor of Technology and Education as well as professor of computer science.</p>
+<p>At the <a href="/wiki/University_of_Pennsylvania" title="University of Pennsylvania">University of Pennsylvania</a> in 1966, he became the second person to receive a <a href="/wiki/Ph.D." title="Ph.D." class="mw-redirect">Ph.D.</a> in Computer Science.</p>
+<p>Van Dam is perhaps most known as the co-designer, along with Ted Nelson, of the first <a href="/wiki/Hypertext" title="Hypertext">hypertext</a> system, <a href="/wiki/Hypertext_Editing_System" title="Hypertext Editing System">HES</a>, in the late 1960s. With it and its immediate successor, <a href="/wiki/FRESS" title="FRESS" class="mw-redirect">FRESS</a>, he was an early proponent of the use of hypertext in the humanities and in pedagogy. The term <i>hypertext</i> was coined by <a href="/wiki/Ted_Nelson" title="Ted Nelson">Ted Nelson</a>, who was working with him at the time.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> Van Dam's continued interest in hypertext was crucial to the development of modern markup and browsing technology, and several of his students were instrumental in the origin of XML, XSLT, and related Web standards.</p>
+<p>He is also known for co-authoring <i>Computer Graphics: Principles and Practice</i> with <a href="/wiki/James_D._Foley" title="James D. Foley">J.D. Foley</a>, S.K. Feiner, and <a href="/wiki/John_F._Hughes_(computer_scientist)" title="John F. Hughes (computer scientist)" class="mw-redirect">J.F. Hughes</a>. This popular textbook in <a href="/wiki/Computer_graphics" title="Computer graphics">computer graphics</a> and is often called the "Bible" of computer graphics.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>In 1967, van Dam co-founded ACM SICGRAPH, the precursor of today's <a href="/wiki/ACM_SIGGRAPH" title="ACM SIGGRAPH">ACM SIGGRAPH</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In 1983 he was one of the founders of <a href="/wiki/Institute_for_Research_in_Information_and_Scholarship" title="Institute for Research in Information and Scholarship">IRIS</a>, which developed a hypertext scholar's workstation.</p>
+<p>Van Dam teaches an Introduction to Computer Graphics course, as well as one first-year course every fall. He is also serving on the technical board of <a href="/wiki/Microsoft_Research" title="Microsoft Research">Microsoft Research</a>, as chairman of the Rhode Island Governor's Science and Technology Advisory Council (STAC), and as chairman of the <a href="/wiki/IEEE_James_H._Mulligan,_Jr._Education_Medal" title="IEEE James H. Mulligan, Jr. Education Medal">IEEE James H. Mulligan, Jr. Education Medal</a> committee. In 1994 he was inducted as a Fellow of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> and a chaired professorship was recently endowed in his honor at Brown University.</p>
+<p>When the Brown Center for Informational Technology was built, van Dam demanded it include showers and a Chinese restaurant. The showers were built.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>The character of Andy in the film <i><a href="/wiki/Toy_Story" title="Toy Story">Toy Story</a></i> is rumored to be named for van Dam. The filmmakers, many of whom had van Dam as a professor, wanted to pay tribute to his pioneering work in computer graphics. This story is told during admissions tours at Brown University and has made it into the IMDB trivia for Toy Story.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> van Dam denies this rumor. <i>Computer Graphics: Principles and Practice</i> appears on Andy's bookshelf in the film, which may be the origin of this rumor.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andries_van_Dam&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-cs.virginia-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-cs.virginia_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Robins, Gabriel (September 20, 2007). <a rel="nofollow" class="external text" href="http://www.cs.virginia.edu/csnews/show.php?artID=315">"Randy Pausch's Last Lecture"</a>. University of Virginia. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20071114024713/http://www.cs.virginia.edu/csnews/show.php?artID=315">Archived</a> from the original on 14 November 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndries+van+Dam&amp;rft.atitle=Randy+Pausch%27s+Last+Lecture&amp;rft.aufirst=Gabriel&amp;rft.aulast=Robins&amp;rft.date=2007-09-20&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cs.virginia.edu%2Fcsnews%2Fshow.php%3FartID%3D315&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Andries van Dam: <i><a rel="nofollow" class="external text" href="http://www.cs.brown.edu/memex/HT_87_Keynote_Address.html">Keynote '87 Keynote Address</a></i></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Cohen, Jonathan D. <a rel="nofollow" class="external text" href="http://www.cs.jhu.edu/~cohen/RendTech99/syllabus.html">"COMP 600.456: Rendering Techniques Syllabus"</a>. <a href="/wiki/Johns_Hopkins_University" title="Johns Hopkins University">Johns Hopkins University</a>. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20071021073352/http://cs.jhu.edu/~cohen/RendTech99/syllabus.html">Archived</a> from the original on 21 October 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndries+van+Dam&amp;rft.aufirst=Jonathan+D.&amp;rft.aulast=Cohen&amp;rft.btitle=COMP+600.456%3A+Rendering+Techniques+Syllabus&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cs.jhu.edu%2F~cohen%2FRendTech99%2Fsyllabus.html&amp;rft.pub=Johns+Hopkins+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">ACM SIGGRAPH: <i><a rel="nofollow" class="external text" href="http://www.siggraph.org/conferences/reports/s2004/interviews/vandam.html">Report on Andy van Dam</a></i></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">ACM SIGGRAPH: "<a rel="nofollow" class="external text" href="http://www.siggraph.org/programs/pioneers/reception">Personal Reflections on four decades of Computer Graphics</a>"</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://fellows.acm.org/homepage.cfm?alpha=V&amp;srt=alpha">ACM Fellows, V</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Chaz Firestone (December 8, 2006). <a rel="nofollow" class="external text" href="http://www.browndailyherald.com/2006/12/08/getting-clean-in-the-cit/">"Getting clean in the CIT: Faculty frequent fabled shower facility"</a>. <i>The Brown Daily Herald</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 16,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndries+van+Dam&amp;rft.atitle=Getting+clean+in+the+CIT%3A+Faculty+frequent+fabled+shower+facility&amp;rft.au=Chaz+Firestone&amp;rft.date=2006-12-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.browndailyherald.com%2F2006%2F12%2F08%2Fgetting-clean-in-the-cit%2F&amp;rft.jtitle=The+Brown+Daily+Herald&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt0114709/trivia">IMDB trivia for Toy Story page</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://archives.seul.org/linuxgames/Feb-2003/msg00004.html">http://archives.seul.org/linuxgames/Feb-2003/msg00004.html</a></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:IEEE_James_H._Mulligan,_Jr._Education_Medal" title="Template:IEEE James H. Mulligan, Jr. Education Medal"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:IEEE_James_H._Mulligan,_Jr._Education_Medal" title="Template talk:IEEE James H. Mulligan, Jr. Education Medal"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:IEEE_James_H._Mulligan,_Jr._Education_Medal&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a> <a href="/wiki/IEEE_James_H._Mulligan,_Jr._Education_Medal" title="IEEE James H. Mulligan, Jr. Education Medal">James H. Mulligan, Jr. Education Medal</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1956–1975</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Frederick_Terman" title="Frederick Terman">Frederick Terman</a> (1956)</li>
+<li><a href="/wiki/William_Littell_Everitt" title="William Littell Everitt">William Littell Everitt</a> (1957)</li>
+<li><a href="/w/index.php?title=J._F._Calvert&amp;action=edit&amp;redlink=1" class="new" title="J. F. Calvert (page does not exist)">J. F. Calvert</a> (1958)</li>
+<li><a href="/wiki/Gordon_S._Brown" title="Gordon S. Brown">Gordon S. Brown</a> (1959)</li>
+<li><a href="/wiki/Ernst_Weber_(engineer)" title="Ernst Weber (engineer)">Ernst Weber</a> (1960)</li>
+<li><a href="/w/index.php?title=George_F._Corcoran&amp;action=edit&amp;redlink=1" class="new" title="George F. Corcoran (page does not exist)">George F. Corcoran</a> (1961)</li>
+<li><a href="/wiki/Ernst_Guillemin" title="Ernst Guillemin">Ernst Guillemin</a> (1962)</li>
+<li><a href="/wiki/William_Gould_Dow" title="William Gould Dow">William Gould Dow</a> (1963)</li>
+<li><a href="/w/index.php?title=B._R._Teare,_Jr.&amp;action=edit&amp;redlink=1" class="new" title="B. R. Teare, Jr. (page does not exist)">B. R. Teare, Jr.</a> (1964)</li>
+<li><a href="/w/index.php?title=Hugh_H._Skilling&amp;action=edit&amp;redlink=1" class="new" title="Hugh H. Skilling (page does not exist)">Hugh H. Skilling</a> (1965)</li>
+<li><a href="/w/index.php?title=William_H._Huggins&amp;action=edit&amp;redlink=1" class="new" title="William H. Huggins (page does not exist)">William H. Huggins</a> (1966)</li>
+<li><a href="/wiki/John_Roy_Whinnery" title="John Roy Whinnery">John Roy Whinnery</a> (1967)</li>
+<li><a href="/w/index.php?title=Edward_C._Jordan&amp;action=edit&amp;redlink=1" class="new" title="Edward C. Jordan (page does not exist)">Edward C. Jordan</a> (1968)</li>
+<li><a href="/wiki/Donald_Pederson" title="Donald Pederson">Donald Pederson</a> (1969)</li>
+<li><a href="/wiki/Jacob_Millman" title="Jacob Millman">Jacob Millman</a> (1970)</li>
+<li><a href="/wiki/Franz_Ollendorff" title="Franz Ollendorff">Franz Ollendorff</a> (1971)</li>
+<li><a href="/wiki/Mac_Van_Valkenburg" title="Mac Van Valkenburg">Mac Van Valkenburg</a> (1972)</li>
+<li><a href="/wiki/Lotfi_A._Zadeh" title="Lotfi A. Zadeh">Lotfi A. Zadeh</a> (1973)</li>
+<li><a href="/wiki/John_G._Truxal" title="John G. Truxal">John G. Truxal</a> (1974)</li>
+<li><a href="/w/index.php?title=Charles_A._Desoer&amp;action=edit&amp;redlink=1" class="new" title="Charles A. Desoer (page does not exist)">Charles A. Desoer</a> (1975)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1976–2000</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_G._Linvill" title="John G. Linvill">John G. Linvill</a> (1976)</li>
+<li><a href="/wiki/Robert_Fano" title="Robert Fano">Robert Fano</a> (1977)</li>
+<li><a href="/w/index.php?title=Harold_A._Peterson&amp;action=edit&amp;redlink=1" class="new" title="Harold A. Peterson (page does not exist)">Harold A. Peterson</a> (1978)</li>
+<li><a href="/wiki/John_R._Ragazzini" title="John R. Ragazzini">John R. Ragazzini</a> (1979)</li>
+<li><a href="/wiki/Aldert_van_der_Ziel" title="Aldert van der Ziel">Aldert van der Ziel</a> (1980)</li>
+<li><a href="/w/index.php?title=Ernest_S._Kuh&amp;action=edit&amp;redlink=1" class="new" title="Ernest S. Kuh (page does not exist)">Ernest S. Kuh</a> (1981)</li>
+<li><a href="/wiki/King-Sun_Fu" title="King-Sun Fu">King-Sun Fu</a> (1982)</li>
+<li><a href="/wiki/Mischa_Schwartz" title="Mischa Schwartz">Mischa Schwartz</a> (1983)</li>
+<li><a href="/wiki/Athanasios_Papoulis" title="Athanasios Papoulis">Athanasios Papoulis</a> (1984)</li>
+<li><a href="/w/index.php?title=James_F._Gibbons&amp;action=edit&amp;redlink=1" class="new" title="James F. Gibbons (page does not exist)">James F. Gibbons</a> (1985)</li>
+<li><a href="/w/index.php?title=Richard_B._Adler&amp;action=edit&amp;redlink=1" class="new" title="Richard B. Adler (page does not exist)">Richard B. Adler</a> (1986)</li>
+<li><a href="/wiki/Joseph_W._Goodman" title="Joseph W. Goodman">Joseph W. Goodman</a> (1987)</li>
+<li><a href="/wiki/Alan_V._Oppenheim" title="Alan V. Oppenheim">Alan V. Oppenheim</a> (1988)</li>
+<li><a href="/wiki/Ben_G._Streetman" title="Ben G. Streetman">Ben G. Streetman</a> (1989)</li>
+<li><a href="/wiki/James_D._Meindl" title="James D. Meindl">James D. Meindl</a> (1990)</li>
+<li><a href="/wiki/Hermann_A._Haus" title="Hermann A. Haus">Hermann A. Haus</a> (1991)</li>
+<li><a href="/wiki/Ronald_W._Schafer" title="Ronald W. Schafer">Ronald W. Schafer</a> (1992)</li>
+<li><a href="/w/index.php?title=Ronald_A._Rohrer&amp;action=edit&amp;redlink=1" class="new" title="Ronald A. Rohrer (page does not exist)">Ronald A. Rohrer</a> (1993)</li>
+<li><a href="/wiki/Chung_Laung_Liu" title="Chung Laung Liu">Chung Laung Liu</a> (1994)</li>
+<li><a href="/wiki/Thomas_Kailath" title="Thomas Kailath">Thomas Kailath</a> (1995)</li>
+<li><a href="/wiki/Adel_Sedra" title="Adel Sedra">Adel Sedra</a> (1996)</li>
+<li><a href="/wiki/David_A._Hodges" title="David A. Hodges">David A. Hodges</a> (1997)</li>
+<li><a href="/w/index.php?title=Stephen_W._Director&amp;action=edit&amp;redlink=1" class="new" title="Stephen W. Director (page does not exist)">Stephen W. Director</a> (1998)</li>
+<li><strong class="selflink">Andries van Dam</strong> (1999)</li>
+<li><a href="/wiki/David_Patterson_(computer_scientist)" title="David Patterson (computer scientist)">David Patterson</a> (2000)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2001–present</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brian_Anderson_(academic)" title="Brian Anderson (academic)">Brian Anderson</a> (2001)</li>
+<li><a href="/wiki/Petar_V._Kokotovic" title="Petar V. Kokotovic">Petar V. Kokotovic</a> (2002)</li>
+<li><a href="/wiki/Yasuharu_Suematsu" title="Yasuharu Suematsu">Yasuharu Suematsu</a> (2003)</li>
+<li><a href="/w/index.php?title=Paul_R._Gray&amp;action=edit&amp;redlink=1" class="new" title="Paul R. Gray (page does not exist)">Paul R. Gray</a> (2004)</li>
+<li><a href="/wiki/Vincent_Poor" title="Vincent Poor">Vincent Poor</a> (2005)</li>
+<li><a href="/w/index.php?title=Sanjit_K._Mitra&amp;action=edit&amp;redlink=1" class="new" title="Sanjit K. Mitra (page does not exist)">Sanjit K. Mitra</a> (2006)</li>
+<li><a href="/wiki/Andrew_S._Tanenbaum" title="Andrew S. Tanenbaum">Andrew S. Tanenbaum</a> (2007)</li>
+<li><a href="/w/index.php?title=Joseph_Bordogna&amp;action=edit&amp;redlink=1" class="new" title="Joseph Bordogna (page does not exist)">Joseph Bordogna</a> (2008)</li>
+<li><a href="/wiki/Jose_B._Cruz,_Jr." title="Jose B. Cruz, Jr.">Jose B. Cruz, Jr.</a> (2009)</li>
+<li><a href="/wiki/Randy_Katz" title="Randy Katz">Randy Katz</a> (2010)</li>
+<li><a href="/wiki/Raj_Mittra" title="Raj Mittra">Raj Mittra</a> (2011)</li>
+<li><a href="/wiki/Fawwaz_T._Ulaby" title="Fawwaz T. Ulaby">Fawwaz T. Ulaby</a> (2012)</li>
+<li><a href="/wiki/J._David_Irwin" title="J. David Irwin">J. David Irwin</a> (2013)</li>
+<li><a href="/w/index.php?title=John_G._Proakis&amp;action=edit&amp;redlink=1" class="new" title="John G. Proakis (page does not exist)">John G. Proakis</a> (2014)</li>
+<li><a href="/wiki/Richard_Baraniuk" title="Richard Baraniuk">Richard Baraniuk</a> (2015)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andries_van_Dam&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.cs.brown.edu/people/avd/">Andries van Dam's Homepage</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/91944261">91944261</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000011076685X">0000 0001 1076 685X</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/034682988">034682988</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12541199j">cb12541199j</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12541199j">(data)</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1020
+Cached time: 20160101043402
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.181 seconds
+Real time usage: 0.224 seconds
+Preprocessor visited node count: 465/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19130/2097152 bytes
+Template argument size: 9/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.075/10.000 seconds
+Lua memory usage: 1.8 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  164.880      1 - -total
+ 65.43%  107.888      1 - Template:Reflist
+ 37.59%   61.983      1 - Template:Cite_document
+ 20.23%   33.359      1 - Template:Authority_control
+ 12.41%   20.455      1 - Template:IEEE_James_H._Mulligan,_Jr._Education_Medal
+ 10.44%   17.216      1 - Template:Navbox
+  8.72%   14.371      1 - Template:Cite_web
+  7.68%   12.656      1 - Template:Cite_news
+  1.71%    2.818      1 - Template:Persondata
+  1.46%    2.411      1 - Template:Column-count
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2117158-0!*!0!!en!4!* and timestamp 20160101043402 and revision id 694050818
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Andries_van_Dam&amp;oldid=694050818">https://en.wikipedia.org/w/index.php?title=Andries_van_Dam&amp;oldid=694050818</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1938_births" title="Category:1938 births">1938 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Brown_University_faculty" title="Category:Brown University faculty">Brown University faculty</a></li><li><a href="/wiki/Category:Computer_graphics_professionals" title="Category:Computer graphics professionals">Computer graphics professionals</a></li><li><a href="/wiki/Category:Computer_graphics_researchers" title="Category:Computer graphics researchers">Computer graphics researchers</a></li><li><a href="/wiki/Category:Dutch_emigrants_to_the_United_States" title="Category:Dutch emigrants to the United States">Dutch emigrants to the United States</a></li><li><a href="/wiki/Category:Dutch_computer_scientists" title="Category:Dutch computer scientists">Dutch computer scientists</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:People_from_Groningen_(city)" title="Category:People from Groningen (city)">People from Groningen (city)</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Andries+van+Dam&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Andries+van+Dam" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Andries_van_Dam"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Andries_van_Dam"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Andries_van_Dam" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Andries_van_Dam&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Andries_van_Dam&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Andries_van_Dam" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Andries_van_Dam" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Andries_van_Dam&amp;oldid=694050818" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Andries_van_Dam&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2571880" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Andries_van_Dam&amp;id=694050818" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Andries+van+Dam">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Andries+van+Dam&amp;returnto=Andries+van+Dam&amp;oldid=694050818&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Andries_van_Dam&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Andries_van_Dam" title="Andries van Dam – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Andries_van_Dam" title="Andries van Dam – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Andries_van_Dam" title="Andries van Dam – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Andries_van_Dam" title="Andries van Dam – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2571880#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 6 December 2015, at 20:24.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Andries_van_Dam&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":59,"wgHostname":"mw1042"}); /* @nomin */
+} );</script>
+	</body>
+</html>

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Hans Moravec - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hans_Moravec","wgTitle":"Hans Moravec","wgCurRevisionId":688285967,"wgRevisionId":688285967,"wgArticleId":298556,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Austrian technology writers","Roboticists","Artificial intelligence researchers","1948 births","Living people","Futurologists","Transhumanists","Acadia University alumni","Austrian people","University of Western Ontario alumni","Stanford University alumni","Austrian transhumanists","American transhumanists"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hans_Moravec","wgRelevantArticleId":298556,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["sv-se","sv","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q708003","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hans_Moravec" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hans_Moravec&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hans_Moravec&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hans_Moravec" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Hans_Moravec skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Hans Moravec</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">"Mind Children" redirects here. For use of the term by Frank Tipler, see <a href="/wiki/The_Physics_of_Immortality_(book)" title="The Physics of Immortality (book)" class="mw-redirect">The Physics of Immortality (book)</a>.</div>
+<p><b>Hans Moravec</b> (born November 30, 1948, <a href="/wiki/Kautzen" title="Kautzen">Kautzen</a>, <a href="/wiki/Austria" title="Austria">Austria</a>) is an adjunct faculty member at the <a href="/wiki/Robotics_Institute" title="Robotics Institute">Robotics Institute</a> of <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a>. He is known for his work on <a href="/wiki/Robotics" title="Robotics">robotics</a>, <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>, and writings on the impact of <a href="/wiki/Technology" title="Technology">technology</a>. Moravec also is a <a href="/wiki/Futures_studies" title="Futures studies">futurist</a> with many of his publications and predictions focusing on <a href="/wiki/Transhumanism" title="Transhumanism">transhumanism</a>. Moravec developed techniques in <a href="/wiki/Computer_vision" title="Computer vision">computer vision</a> for determining the <a href="/wiki/Region_of_interest" title="Region of interest">region of interest</a> (ROI) in a scene.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Publications"><span class="tocnumber">2</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Books"><span class="tocnumber">3</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hans_Moravec&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Moravec attended <a href="/wiki/Loyola_College_(Montreal)" title="Loyola College (Montreal)">Loyola College in Montreal</a> for two years and transferred to <a href="/wiki/Acadia_University" title="Acadia University">Acadia University</a>, where he received his <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">bachelor's degree</a> in mathematics in 1969. He received his master's degree in 1971 from the <a href="/wiki/University_of_Western_Ontario" title="University of Western Ontario">University of Western Ontario</a>. He then earned a <a href="/wiki/PhD" title="PhD" class="mw-redirect">PhD</a> from <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> in 1980 for a <a href="/wiki/Television" title="Television">TV</a>-equipped robot which was remote controlled by a large <a href="/wiki/Computer" title="Computer">computer</a>. The robot was able to negotiate cluttered <a href="/wiki/Obstacle_course" title="Obstacle course">obstacle courses</a>. Another achievement in robotics was the discovery of new approaches for robot <a href="/w/index.php?title=Spatial_representation&amp;action=edit&amp;redlink=1" class="new" title="Spatial representation (page does not exist)">spatial representation</a> such as <a href="/w/index.php?title=3D_occupancy_grids&amp;action=edit&amp;redlink=1" class="new" title="3D occupancy grids (page does not exist)">3D occupancy grids</a>. He also developed the idea of <a href="/wiki/Bush_robot" title="Bush robot">bush robots</a>.</p>
+<p>Moravec was a cofounder of SeeGrid Corporation of <a href="/wiki/Pittsburgh,_Pennsylvania" title="Pittsburgh, Pennsylvania" class="mw-redirect">Pittsburgh, Pennsylvania</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> in 2003 which is a robotics company with one of its goals being to develop a fully autonomous robot capable of navigating its environment without human intervention.</p>
+<p>He is also somewhat known for his work on <a href="/wiki/Space_tether" title="Space tether">space tethers</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hans_Moravec&amp;action=edit&amp;section=2" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>His most cited research publication is his 1988 <i><a rel="nofollow" class="external text" href="http://www.aaai.org/ojs/index.php/aimagazine/article/viewArticle/676">Sensor Fusion in Certainty Grids for Mobile Robots</a></i> which appeared in <i><a href="/wiki/AI_Magazine" title="AI Magazine" class="mw-redirect">AI Magazine</a></i>.</p>
+<h2><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hans_Moravec&amp;action=edit&amp;section=3" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In his 1988 book <i>Mind Children</i> (<a href="/wiki/Special:BookSources/0674576187" class="internal mw-magiclink-isbn">ISBN 0674576187</a>), Moravec outlines <a href="/wiki/Moore%27s_law" title="Moore's law">Moore's law</a> and predictions about the future of artificial life. Moravec outlines a timeline and a scenario in this regard,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> in that the robots will evolve into a new series of artificial species, starting around 2030-2040.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In <i>Robot: Mere Machine to Transcendent Mind</i> (<a href="/wiki/Special:BookSources/0195136306" class="internal mw-magiclink-isbn">ISBN 0195136306</a>), published in 1998, Moravec further considers the implications of evolving robot intelligence, generalizing <a href="/wiki/Moore%27s_law" title="Moore's law">Moore's law</a> to technologies predating the <a href="/wiki/Integrated_circuit" title="Integrated circuit">integrated circuit</a>, and extrapolating it to predict a coming "mind fire" of rapidly expanding <a href="/wiki/Superintelligence" title="Superintelligence">superintelligence</a>.</p>
+<p>Sir <a href="/wiki/Arthur_C._Clarke" title="Arthur C. Clarke">Arthur C. Clarke</a> wrote about this book: "<i>Robot</i> is the most awesome work of controlled imagination I have ever encountered: Hans Moravec stretched my mind until it hit the stops."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> <a href="/wiki/David_Brin" title="David Brin">David Brin</a> also praised the book: "Moravec blends hard scientific practicality with a prophet's far-seeing vision."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> On the other hand, the book was reviewed less favorably by <a href="/wiki/Colin_McGinn" title="Colin McGinn">Colin McGinn</a> for the New York Times. McGinn wrote, "Moravec … writes bizarre, confused, incomprehensible things about consciousness as an abstraction, like number, and as a mere "interpretation" of brain activity. He also loses his grip on the distinction between virtual and real reality as his speculations spiral majestically into incoherence."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hans_Moravec&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Tether_propulsion" title="Tether propulsion" class="mw-redirect">Tether propulsion</a></li>
+<li><a href="/wiki/Moravec%27s_paradox" title="Moravec's paradox">Moravec's paradox</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hans_Moravec&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.promatshow.com/press/release.aspx?id=3804">http://www.promatshow.com/press/release.aspx?id=3804</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tethers.com/MXTethers3.html">Momentum-Exchange Tethers</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Moravec, Hans (1998). <a rel="nofollow" class="external text" href="http://www.transhumanist.com/volume1/moravec.htm">"When will computer hardware match the human brain?"</a>. <i>Journal of Evolution and Technology</i> <b>1</b><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-06-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHans+Moravec&amp;rft.atitle=When+will+computer+hardware+match+the+human+brain%3F&amp;rft.aufirst=Hans&amp;rft.aulast=Moravec&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.transhumanist.com%2Fvolume1%2Fmoravec.htm&amp;rft.jtitle=Journal+of+Evolution+and+Technology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Moravec, Hans (June 1993). <a rel="nofollow" class="external text" href="http://www.frc.ri.cmu.edu/~hpm/project.archive/general.articles/1993/Robot93.html">"The Age of Robots"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-06-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHans+Moravec&amp;rft.aufirst=Hans&amp;rft.aulast=Moravec&amp;rft.btitle=The+Age+of+Robots&amp;rft.date=1993-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.frc.ri.cmu.edu%2F~hpm%2Fproject.archive%2Fgeneral.articles%2F1993%2FRobot93.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Moravec, Hans (April 2004). <a rel="nofollow" class="external text" href="http://www.frc.ri.cmu.edu/~hpm/project.archive/robot.papers/2004/Predictions.html">"Robot Predictions Evolution"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-06-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHans+Moravec&amp;rft.aufirst=Hans&amp;rft.aulast=Moravec&amp;rft.btitle=Robot+Predictions+Evolution&amp;rft.date=2004-04&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.frc.ri.cmu.edu%2F~hpm%2Fproject.archive%2Frobot.papers%2F2004%2FPredictions.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="/wiki/Special:BookSources/0195116305" class="internal mw-magiclink-isbn">ISBN 0-19-511630-5</a>: Cover praise for <i>Robot: Mere Machine to Transcendent Mind</i>, by Sir <a href="/wiki/Arthur_C._Clarke" title="Arthur C. Clarke">Arthur C. Clarke</a>, 1999</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="/wiki/Special:BookSources/0195116305" class="internal mw-magiclink-isbn">ISBN 0-19-511630-5</a>: Cover praise for <i>Robot: Mere Machine to Transcendent Mind</i>, by Dr <a href="/wiki/David_Brin" title="David Brin">David Brin</a>, 1999</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">McGinn, Colin (January 3, 1999). <a rel="nofollow" class="external text" href="http://www.nytimes.com/books/99/01/03/reviews/990103.03mcginnt.html">"Hello, HAL"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHans+Moravec&amp;rft.atitle=Hello%2C+HAL&amp;rft.aufirst=Colin&amp;rft.aulast=McGinn&amp;rft.date=1999-01-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2Fbooks%2F99%2F01%2F03%2Freviews%2F990103.03mcginnt.html&amp;rft.jtitle=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hans_Moravec&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.frc.ri.cmu.edu/~hpm/">Hans Moravec's official website at the Carnegie Mellon Robotics Center</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.frc.ri.cmu.edu/~hpm/hpm.cv.html">Hans Moravec's official biography page</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ri.cmu.edu/person.html?person_id=410">Hans Moravek's webpage at the Robotics Institute</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.frc.ri.cmu.edu/users/hpm/project.archive/robot.papers/1999/NASA.report.99/9901.NASA.summary.html">Moravec Bush Robot Final Report</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.pbs.org/wgbh/nova/robots/moravec.html">NOVA online interview with Moravec in October, 1997.</a></li>
+<li><cite class="citation web">Moravec, Hans (March 23, 2009). <a rel="nofollow" class="external text" href="http://www.scientificamerican.com/article.cfm?id=rise-of-the-robots">"Rise of the Robots--The Future of Artificial Intelligence"</a>. <i><a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHans+Moravec&amp;rft.atitle=Rise+of+the+Robots--The+Future+of+Artificial+Intelligence&amp;rft.aufirst=Hans&amp;rft.aulast=Moravec&amp;rft.date=2009-03-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.scientificamerican.com%2Farticle.cfm%3Fid%3Drise-of-the-robots&amp;rft.jtitle=Scientific+American&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n81-039515">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/79452412">79452412</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n81039515">n81039515</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000082742091">0000 0000 8274 2091</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/121479722">121479722</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/031297676">031297676</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb122540014">cb122540014</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb122540014">(data)</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00471865">00471865</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1216
+Cached time: 20160101044257
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.153 seconds
+Real time usage: 0.189 seconds
+Preprocessor visited node count: 416/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10575/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 1/500
+Lua time usage: 0.076/10.000 seconds
+Lua memory usage: 2.48 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  165.681      1 - -total
+ 49.13%   81.395      1 - Template:Reflist
+ 25.27%   41.869      1 - Template:Cite_journal
+ 22.53%   37.334      1 - Template:Authority_control
+ 18.41%   30.494      1 - Template:Redirect
+ 13.42%   22.232      3 - Template:Cite_web
+  5.47%    9.066      1 - Template:Cite_news
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:298556-0!*!0!!en!*!* and timestamp 20160101044257 and revision id 688285967
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hans_Moravec&amp;oldid=688285967">https://en.wikipedia.org/w/index.php?title=Hans_Moravec&amp;oldid=688285967</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Austrian_technology_writers" title="Category:Austrian technology writers">Austrian technology writers</a></li><li><a href="/wiki/Category:Roboticists" title="Category:Roboticists">Roboticists</a></li><li><a href="/wiki/Category:Artificial_intelligence_researchers" title="Category:Artificial intelligence researchers">Artificial intelligence researchers</a></li><li><a href="/wiki/Category:1948_births" title="Category:1948 births">1948 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Futurologists" title="Category:Futurologists">Futurologists</a></li><li><a href="/wiki/Category:Transhumanists" title="Category:Transhumanists">Transhumanists</a></li><li><a href="/wiki/Category:Acadia_University_alumni" title="Category:Acadia University alumni">Acadia University alumni</a></li><li><a href="/wiki/Category:Austrian_people" title="Category:Austrian people">Austrian people</a></li><li><a href="/wiki/Category:University_of_Western_Ontario_alumni" title="Category:University of Western Ontario alumni">University of Western Ontario alumni</a></li><li><a href="/wiki/Category:Stanford_University_alumni" title="Category:Stanford University alumni">Stanford University alumni</a></li><li><a href="/wiki/Category:Austrian_transhumanists" title="Category:Austrian transhumanists">Austrian transhumanists</a></li><li><a href="/wiki/Category:American_transhumanists" title="Category:American transhumanists">American transhumanists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hans+Moravec&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hans+Moravec" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Hans_Moravec"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Hans_Moravec"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Hans_Moravec" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Hans_Moravec&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hans_Moravec&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hans_Moravec" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hans_Moravec" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hans_Moravec&amp;oldid=688285967" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hans_Moravec&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q708003" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hans_Moravec&amp;id=688285967" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hans+Moravec">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Hans+Moravec&amp;returnto=Hans+Moravec&amp;oldid=688285967&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hans_Moravec&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Hans_Moravec" title="Hans Moravec – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Hans_Moravec" title="Hans Moravec – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Hans_Moravec" title="Hans Moravec – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%95%9C%EC%8A%A4_%EB%AA%A8%EB%9D%BC%EB%B0%B1" title="한스 모라백 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Hans_Moravec" title="Hans Moravec – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%A2%E3%83%A9%E3%83%99%E3%83%83%E3%82%AF" title="ハンス・モラベック – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Hans_Moravec" title="Hans Moravec – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Hans_Moravec" title="Hans Moravec – Occitan" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Hans_Moravec" title="Hans Moravec – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%B0%D0%B2%D0%B5%D0%BA,_%D0%A5%D0%B0%D0%BD%D1%81" title="Моравек, Ханс – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Hans_Moravec" title="Hans Moravec – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Hans_Moravec" title="Hans Moravec – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Hans_Moravec" title="Hans Moravec – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Hans_Moravec" title="Hans Moravec – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D1%81_%D0%9C%D0%BE%D1%80%D0%B0%D0%B2%D0%B5%D0%BA" title="Ханс Моравек – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%B1%89%E6%96%AF%C2%B7%E8%8E%AB%E6%8B%89%E7%BB%B4%E5%85%8B" title="汉斯·莫拉维克 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q708003#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 October 2015, at 21:52.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hans_Moravec&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1078"}); /* @nomin */
+} );</script>
+	</body>
+</html>

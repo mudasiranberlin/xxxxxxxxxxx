@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Charles E. Leiserson - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Charles_E._Leiserson","wgTitle":"Charles E. Leiserson","wgCurRevisionId":693724138,"wgRevisionId":693724138,"wgArticleId":1400884,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from July 2013","All articles needing additional references","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","American computer scientists","Theoretical computer scientists","Massachusetts Institute of Technology faculty","Fellows of the Association for Computing Machinery","Living people","Researchers in distributed computing","Yale University alumni","Carnegie Mellon University alumni","1953 births","Chief technology officers","All stub articles","Computer scientist stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Charles_E._Leiserson","wgRelevantArticleId":1400884,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Charles_E_Leiserson_2011.jpg/66px-Charles_E_Leiserson_2011.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q93028","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Charles_E._Leiserson" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Charles_E._Leiserson&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Charles_E._Leiserson&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Charles_E._Leiserson" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Charles_E_Leiserson skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Charles E. Leiserson</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-one_source" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>relies largely or entirely upon a <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">single source</a></b>. <span class="hide-when-compact">Relevant discussion may be found on the <a href="/wiki/Talk:Charles_E._Leiserson#.23" title="Talk:Charles E. Leiserson">talk page</a>. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Charles_E._Leiserson&amp;action=edit">improve this article</a> by introducing <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> to additional sources.</span> <small><i>(July 2013)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Charles E. Leiserson</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Charles_E_Leiserson_2011.jpg" class="image"><img alt="Charles E Leiserson 2011.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Charles_E_Leiserson_2011.jpg/220px-Charles_E_Leiserson_2011.jpg" width="220" height="330" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Charles_E_Leiserson_2011.jpg/330px-Charles_E_Leiserson_2011.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Charles_E_Leiserson_2011.jpg/440px-Charles_E_Leiserson_2011.jpg 2x" data-file-width="915" data-file-height="1373" /></a>
+<div>Charles E. Leiserson</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1953-11-10</span>)</span> November 10, 1953 <span class="noprint ForceAgeToShow">(age&#160;62)</span><sup id="cite_ref-BirthDate_1-0" class="reference"><a href="#cite_note-BirthDate-1"><span>[</span>1<span>]</span></a></sup><br />
+<a href="/wiki/Oslo" title="Oslo">Oslo</a>, <a href="/wiki/Norway" title="Norway">Norway</a></td>
+</tr>
+<tr>
+<th scope="row">Residence</th>
+<td><a href="/wiki/United_States" title="United States">United States</a></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/United_States" title="United States">American</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a><br />
+<a href="/wiki/Yale_University" title="Yale University">Yale University</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><i>Area-Efficient VLSI Computation</i>&#160;<span style="font-size:90%;">(1981)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/H._T._Kung" title="H. T. Kung">H. T. Kung</a><br />
+<a href="/wiki/Jon_Bentley" title="Jon Bentley">Jon Bentley</a></td>
+</tr>
+</table>
+<p><b>Charles Eric Leiserson</b> is a <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a>, specializing in the theory of <a href="/wiki/Parallel_computing" title="Parallel computing">parallel computing</a> and <a href="/wiki/Distributed_computing" title="Distributed computing">distributed computing</a>, and particularly practical applications thereof; as part of this effort, he developed the <a href="/wiki/Cilk" title="Cilk">Cilk</a> multithreaded language. He invented the <a href="/wiki/Fat-tree" title="Fat-tree" class="mw-redirect">fat-tree</a> interconnection network, a hardware-universal interconnection network used in many supercomputers, including the <a href="/wiki/Connection_Machine" title="Connection Machine">Connection Machine</a> CM5, for which he was network architect. He helped pioneer the development of VLSI theory, including the <a href="/wiki/Retiming" title="Retiming">retiming</a> method of digital optimization with <a href="/w/index.php?title=James_B._Saxe&amp;action=edit&amp;redlink=1" class="new" title="James B. Saxe (page does not exist)">James B. Saxe</a> and <a href="/wiki/Systolic_array" title="Systolic array">systolic arrays</a> with <a href="/wiki/H._T._Kung" title="H. T. Kung">H. T. Kung</a>. He conceived of the notion of <a href="/wiki/Cache-oblivious" title="Cache-oblivious" class="mw-redirect">cache-oblivious</a> algorithms, which are algorithms that have no tuning parameters for cache size or cache-line length, but nevertheless use cache near-optimally. He developed the <a href="/wiki/Cilk" title="Cilk">Cilk</a> language for multithreaded programming, which uses a provably good work-stealing algorithm for scheduling. Leiserson coauthored the standard algorithms textbook <i><a href="/wiki/Introduction_to_Algorithms" title="Introduction to Algorithms">Introduction to Algorithms</a></i> together with <a href="/wiki/Thomas_H._Cormen" title="Thomas H. Cormen">Thomas H. Cormen</a>, <a href="/wiki/Ronald_L._Rivest" title="Ronald L. Rivest" class="mw-redirect">Ronald L. Rivest</a>, and <a href="/wiki/Clifford_Stein" title="Clifford Stein">Clifford Stein</a>.</p>
+<p>Leiserson received a <a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">B.S.</a> degree in computer science and mathematics from <a href="/wiki/Yale_University" title="Yale University">Yale University</a> in 1975 and a <a href="/wiki/Ph.D." title="Ph.D." class="mw-redirect">Ph.D.</a> degree in computer science from <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a> in 1981, where his advisors were <a href="/wiki/Jon_Bentley" title="Jon Bentley">Jon Bentley</a> and <a href="/wiki/H._T._Kung" title="H. T. Kung">H. T. Kung</a>.</p>
+<p>He then joined the faculty of the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a>, where he is now a <a href="/wiki/Professor" title="Professor">Professor</a>. In addition, he is a principal in the Theory of Computation research group in the <a href="/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory" title="MIT Computer Science and Artificial Intelligence Laboratory">MIT Computer Science and Artificial Intelligence Laboratory</a>, and he was formerly Director of Research and Director of System Architecture for <a href="/wiki/Akamai_Technologies" title="Akamai Technologies">Akamai Technologies</a>. He was Founder and Chief Technology Officer of <a href="/w/index.php?title=Cilk_Arts,_Inc.&amp;action=edit&amp;redlink=1" class="new" title="Cilk Arts, Inc. (page does not exist)">Cilk Arts, Inc.</a>, a start-up that developed <a href="/wiki/Cilk" title="Cilk">Cilk</a> technology for <a href="/wiki/Multi-core_(computing)" title="Multi-core (computing)" class="mw-redirect">multicore computing</a> applications. (<a href="/w/index.php?title=Cilk_Arts,_Inc.&amp;action=edit&amp;redlink=1" class="new" title="Cilk Arts, Inc. (page does not exist)">Cilk Arts, Inc.</a> was acquired by <a href="/wiki/Intel" title="Intel">Intel</a> in 2009.)</p>
+<p>Leiserson's <a href="/wiki/Dissertation" title="Dissertation" class="mw-redirect">dissertation</a>, <i>Area-Efficient VLSI Computation</i>, won the first <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> Doctoral Dissertation Award. In 1985, the <a href="/wiki/National_Science_Foundation" title="National Science Foundation">National Science Foundation</a> awarded him a <a href="/wiki/Presidential_Young_Investigator_Award" title="Presidential Young Investigator Award">Presidential Young Investigator Award</a>. He is a <a href="/wiki/Fellow" title="Fellow">Fellow</a> of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> (ACM), the <a href="/wiki/American_Association_for_the_Advancement_of_Science" title="American Association for the Advancement of Science">American Association for the Advancement of Science</a> (AAAS), the <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">Institute of Electrical and Electronics Engineers</a> (IEEE), and the <a href="/wiki/Society_for_Industrial_and_Applied_Mathematics" title="Society for Industrial and Applied Mathematics">Society for Industrial and Applied Mathematics</a> (SIAM). He received the 2014 Taylor L. Booth Education Award from the <a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a> "for worldwide computer science education impact through writing a best-selling algorithms textbook, and developing courses on algorithms and parallel programming." He received the 2014 ACM-IEEE Computer Society Ken Kennedy Award for his "enduring influence on parallel computing systems and their adoption into mainstream use through scholarly research and development." He was also cited for "distinguished mentoring of computer science leaders and students." He received the 2013 ACM Paris Kanellakis Theory and Practice Award for "contributions to robust parallel and distributed computing."</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#See_also"><span class="tocnumber">1</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Further_reading"><span class="tocnumber">3</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_E._Leiserson&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Thinking_Machines_Corporation" title="Thinking Machines Corporation">Thinking Machines Corporation</a></li>
+<li><a href="/wiki/Thomas_H._Cormen" title="Thomas H. Cormen">Thomas H. Cormen</a></li>
+<li><a href="/wiki/Ronald_L._Rivest" title="Ronald L. Rivest" class="mw-redirect">Ronald L. Rivest</a></li>
+<li><a href="/wiki/Clifford_Stein" title="Clifford Stein">Clifford Stein</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_E._Leiserson&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-BirthDate-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-BirthDate_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://people.csail.mit.edu/cel/resume/index.html">Resume</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_E._Leiserson&amp;action=edit&amp;section=3" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book"><a href="/wiki/Thomas_H._Cormen" title="Thomas H. Cormen">Cormen, Thomas H.</a>; Leiserson, Charles E.; <a href="/wiki/Ronald_L._Rivest" title="Ronald L. Rivest" class="mw-redirect">Rivest, Ronald L.</a> (1990). <i><a href="/wiki/Introduction_to_Algorithms" title="Introduction to Algorithms">Introduction to Algorithms</a></i> (first ed.). MIT Press and McGraw-Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-03141-8" title="Special:BookSources/0-262-03141-8">0-262-03141-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+E.+Leiserson&amp;rft.aufirst=Thomas+H.&amp;rft.aulast=Cormen&amp;rft.au=Leiserson%2C+Charles+E.&amp;rft.au=Rivest%2C+Ronald+L.&amp;rft.btitle=Introduction+to+Algorithms&amp;rft.date=1990&amp;rft.edition=first&amp;rft.genre=book&amp;rft.isbn=0-262-03141-8&amp;rft.pub=MIT+Press+and+McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Thomas_H._Cormen" title="Thomas H. Cormen">Cormen, Thomas H.</a>; Leiserson, Charles E.; <a href="/wiki/Ronald_L._Rivest" title="Ronald L. Rivest" class="mw-redirect">Rivest, Ronald L.</a>; <a href="/wiki/Clifford_Stein" title="Clifford Stein">Stein, Clifford</a> (2001). <i><a href="/wiki/Introduction_to_Algorithms" title="Introduction to Algorithms">Introduction to Algorithms</a></i> (second ed.). MIT Press and McGraw-Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-53196-8" title="Special:BookSources/0-262-53196-8">0-262-53196-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+E.+Leiserson&amp;rft.aufirst=Thomas+H.&amp;rft.aulast=Cormen&amp;rft.au=Leiserson%2C+Charles+E.&amp;rft.au=Rivest%2C+Ronald+L.&amp;rft.au=Stein%2C+Clifford&amp;rft.btitle=Introduction+to+Algorithms&amp;rft.date=2001&amp;rft.edition=second&amp;rft.genre=book&amp;rft.isbn=0-262-53196-8&amp;rft.pub=MIT+Press+and+McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Thomas_H._Cormen" title="Thomas H. Cormen">Cormen, Thomas H.</a>; Leiserson, Charles E.; <a href="/wiki/Ronald_L._Rivest" title="Ronald L. Rivest" class="mw-redirect">Rivest, Ronald L.</a>; <a href="/wiki/Clifford_Stein" title="Clifford Stein">Stein, Clifford</a> (2009). <i><a href="/wiki/Introduction_to_Algorithms" title="Introduction to Algorithms">Introduction to Algorithms</a></i> (third ed.). MIT Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780-262-03384-8" title="Special:BookSources/9780-262-03384-8">9780-262-03384-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACharles+E.+Leiserson&amp;rft.aufirst=Thomas+H.&amp;rft.aulast=Cormen&amp;rft.au=Leiserson%2C+Charles+E.&amp;rft.au=Rivest%2C+Ronald+L.&amp;rft.au=Stein%2C+Clifford&amp;rft.btitle=Introduction+to+Algorithms&amp;rft.date=2009&amp;rft.edition=third&amp;rft.genre=book&amp;rft.isbn=9780-262-03384-8&amp;rft.pub=MIT+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_E._Leiserson&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://supertech.csail.mit.edu/~cel/">Home page</a>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://supertech.csail.mit.edu/~cel/bio.html">Brief Biography</a></li>
+</ul>
+</li>
+<li><a rel="nofollow" class="external text" href="http://web.mit.edu/echemi/www/leiserson.html">Charles Leiserson Playlist</a> Appearance on WMBR's <i><a rel="nofollow" class="external text" href="http://web.mit.edu/echemi/www/index.html">Dinnertime Sampler</a></i> radio show October 27, 2004</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Kanellakis_Award_laureates" title="Template:Kanellakis Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Kanellakis_Award_laureates" title="Template talk:Kanellakis Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Kanellakis_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%">Winners of the <a href="/wiki/Paris_Kanellakis_Award" title="Paris Kanellakis Award">Paris Kanellakis Theory and Practice Award</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Adleman</a>, <a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Diffie</a>, <a href="/wiki/Martin_Hellman" title="Martin Hellman">Hellman</a>, <a href="/wiki/Ralph_Merkle" title="Ralph Merkle">Merkle</a>, <a href="/wiki/Ron_Rivest" title="Ron Rivest">Rivest</a>, <a href="/wiki/Adi_Shamir" title="Adi Shamir">Shamir</a> <small>(1996)</small></li>
+<li><a href="/wiki/Abraham_Lempel" title="Abraham Lempel">Lempel</a>, <a href="/wiki/Jacob_Ziv" title="Jacob Ziv">Ziv</a> <small>(1997)</small></li>
+<li><a href="/wiki/Randal_Bryant" title="Randal Bryant">Bryant</a>, <a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Clarke</a>, <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">Emerson</a>, <a href="/w/index.php?title=Kenneth_L._McMillan&amp;action=edit&amp;redlink=1" class="new" title="Kenneth L. McMillan (page does not exist)">McMillan</a> <small>(1998)</small></li>
+<li><a href="/wiki/Daniel_Sleator" title="Daniel Sleator">Sleator</a>, <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Tarjan</a> <small>(1999)</small></li>
+<li><a href="/wiki/Narendra_Karmarkar" title="Narendra Karmarkar">Karmarkar</a> <small>(2000)</small></li>
+<li><a href="/wiki/Eugene_Myers" title="Eugene Myers">Myers</a> <small>(2001)</small></li>
+<li><a href="/wiki/Peter_Franaszek" title="Peter Franaszek">Franaszek</a> <small>(2002)</small></li>
+<li><a href="/wiki/Gary_Miller_(computer_scientist)" title="Gary Miller (computer scientist)">Miller</a>, <a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Rabin</a>, <a href="/wiki/Robert_M._Solovay" title="Robert M. Solovay">Solovay</a>, <a href="/wiki/Volker_Strassen" title="Volker Strassen">Strassen</a> <small>(2003)</small></li>
+<li><a href="/wiki/Yoav_Freund" title="Yoav Freund">Freund</a>, <a href="/wiki/Robert_Schapire" title="Robert Schapire">Schapire</a> <small>(2004)</small></li>
+<li><a href="/wiki/Gerard_J._Holzmann" title="Gerard J. Holzmann">Holzmann</a>, <a href="/w/index.php?title=Robert_Kurshan&amp;action=edit&amp;redlink=1" class="new" title="Robert Kurshan (page does not exist)">Kurshan</a>, <a href="/wiki/Moshe_Vardi" title="Moshe Vardi">Vardi</a>, <a href="/wiki/Pierre_Wolper" title="Pierre Wolper">Wolper</a> <small>(2005)</small></li>
+<li><a href="/w/index.php?title=Robert_Brayton&amp;action=edit&amp;redlink=1" class="new" title="Robert Brayton (page does not exist)">Brayton</a> <small>(2006)</small></li>
+<li><a href="/wiki/Bruno_Buchberger" title="Bruno Buchberger">Buchberger</a> <small>(2007)</small></li>
+<li><a href="/wiki/Corinna_Cortes" title="Corinna Cortes">Cortes</a>, <a href="/wiki/Vladimir_Vapnik" title="Vladimir Vapnik">Vapnik</a> <small>(2008)</small></li>
+<li><a href="/wiki/Mihir_Bellare" title="Mihir Bellare">Bellare</a>, <a href="/wiki/Phillip_Rogaway" title="Phillip Rogaway">Rogaway</a> <small>(2009)</small></li>
+<li><a href="/wiki/Kurt_Mehlhorn" title="Kurt Mehlhorn">Mehlhorn</a> <small>(2010)</small></li>
+<li><a href="/wiki/Hanan_Samet" title="Hanan Samet">Samet</a> <small>(2011)</small></li>
+<li><a href="/wiki/Andrei_Broder" title="Andrei Broder">Broder</a>, <a href="/wiki/Moses_Charikar" title="Moses Charikar">Charikar</a>, <a href="/wiki/Piotr_Indyk" title="Piotr Indyk">Indyk</a> <small>(2012)</small></li>
+<li><a href="/w/index.php?title=Robert_D._Blumofe&amp;action=edit&amp;redlink=1" class="new" title="Robert D. Blumofe (page does not exist)">Blumofe</a>, <strong class="selflink">Leiserson</strong> <small>(2013)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n82-163319">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/32081339">32081339</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n82163319">n82163319</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000116158118">0000 0001 1615 8118</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/140222847">140222847</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/033030898">033030898</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12393913c">cb12393913c</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12393913c">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=50312">50312</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><br /></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><big><b>P&#160;≟&#160;NP</b></big>&#160;</td>
+<td><i>This biographical article relating to a <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Charles_E._Leiserson&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Compu-scientist-stub" title="Template:Compu-scientist-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Compu-scientist-stub" title="Template talk:Compu-scientist-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Compu-scientist-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1059
+Cached time: 20160107122928
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.277 seconds
+Real time usage: 0.420 seconds
+Preprocessor visited node count: 893/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 28002/2097152 bytes
+Template argument size: 658/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.134/10.000 seconds
+Lua memory usage: 2.79 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  352.102      1 - -total
+ 29.07%  102.354      1 - Template:Infobox_scientist
+ 25.64%   90.274      1 - Template:Infobox
+ 21.86%   76.974      1 - Template:One_source
+ 21.02%   73.997      3 - Template:Cite_book
+ 14.99%   52.764      1 - Template:Ambox
+ 11.00%   38.740      1 - Template:Authority_control
+ 10.15%   35.726      4 - Template:Br_separated_entries
+  8.59%   30.233      1 - Template:Kanellakis_Award_laureates
+  5.25%   18.499      1 - Template:Compu-scientist-stub
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1400884-0!*!0!!en!4!* and timestamp 20160107122928 and revision id 693724138
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Charles_E._Leiserson&amp;oldid=693724138">https://en.wikipedia.org/w/index.php?title=Charles_E._Leiserson&amp;oldid=693724138</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Theoretical_computer_scientists" title="Category:Theoretical computer scientists">Theoretical computer scientists</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_faculty" title="Category:Massachusetts Institute of Technology faculty">Massachusetts Institute of Technology faculty</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Researchers_in_distributed_computing" title="Category:Researchers in distributed computing">Researchers in distributed computing</a></li><li><a href="/wiki/Category:Yale_University_alumni" title="Category:Yale University alumni">Yale University alumni</a></li><li><a href="/wiki/Category:Carnegie_Mellon_University_alumni" title="Category:Carnegie Mellon University alumni">Carnegie Mellon University alumni</a></li><li><a href="/wiki/Category:1953_births" title="Category:1953 births">1953 births</a></li><li><a href="/wiki/Category:Chief_technology_officers" title="Category:Chief technology officers">Chief technology officers</a></li><li><a href="/wiki/Category:Computer_scientist_stubs" title="Category:Computer scientist stubs">Computer scientist stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2013" title="Category:Articles needing additional references from July 2013">Articles needing additional references from July 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Charles+E.+Leiserson&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Charles+E.+Leiserson" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Charles_E._Leiserson"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Charles_E._Leiserson"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Charles_E._Leiserson" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Charles_E._Leiserson&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Charles_E._Leiserson&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Charles_E._Leiserson" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Charles_E._Leiserson" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Charles_E._Leiserson&amp;oldid=693724138" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Charles_E._Leiserson&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q93028" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Charles_E._Leiserson&amp;id=693724138" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Charles+E.+Leiserson">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Charles+E.+Leiserson&amp;returnto=Charles+E.+Leiserson&amp;oldid=693724138&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Charles_E._Leiserson&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Charles_E._Leiserson" title="Charles E. Leiserson – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Charles_E._Leiserson" title="Charles E. Leiserson – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Charles_E._Leiserson" title="Charles E. Leiserson – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Charles_E._Leiserson" title="Charles E. Leiserson – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Charles_Eric_Leiserson" title="Charles Eric Leiserson – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B9%D0%B7%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A7%D0%B0%D1%80%D0%BB%D1%8C%D0%B7_%D0%AD%D1%80%D0%B8%D0%BA" title="Лейзерсон, Чарльз Эрик – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Charles_Eric_Leiserson" title="Charles Eric Leiserson – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q93028#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 December 2015, at 13:08.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Charles_E._Leiserson&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":548,"wgHostname":"mw1059"}); /* @nomin */
+} );</script>
+	</body>
+</html>

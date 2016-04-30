@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Paul Vixie - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Paul_Vixie","wgTitle":"Paul Vixie","wgCurRevisionId":691640037,"wgRevisionId":691640037,"wgArticleId":23309,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing cite templates with deprecated parameters","Articles with hCards","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Year of birth missing (living people)","Living people","Writers from California","American computer scientists","Free software programmers","American technology writers","Computer science writers","Digital Equipment Corporation people","Unix people","Chief technology officers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Paul_Vixie","wgRelevantArticleId":23309,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Vixie.jpg/100px-Vixie.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92777","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Paul_Vixie" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Paul_Vixie&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Paul_Vixie&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Paul_Vixie" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Paul_Vixie skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Paul Vixie</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Paul Vixie</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Vixie.jpg" class="image"><img alt="Vixie.jpg" src="//upload.wikimedia.org/wikipedia/commons/7/70/Vixie.jpg" width="147" height="146" data-file-width="147" data-file-height="146" /></a></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category"><a href="/wiki/United_States" title="United States">American</a></td>
+</tr>
+<tr>
+<th scope="row">Occupation</th>
+<td class="role">Founder/CEO of Farsight Security, Inc.,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Internet_Systems_Consortium" title="Internet Systems Consortium">ISC</a>, <a href="/wiki/BIND" title="BIND">BIND</a>, <a href="/wiki/Mail_Abuse_Prevention_System" title="Mail Abuse Prevention System">MAPS</a>, <a href="/wiki/Vixie_cron" title="Vixie cron" class="mw-redirect">Vixie cron</a></td>
+</tr>
+</table>
+<p><b>Paul Vixie</b> is an American <a href="/wiki/List_of_Internet_pioneers" title="List of Internet pioneers">Internet pioneer</a>, the author of several <a href="/wiki/Request_for_Comments" title="Request for Comments">RFCs</a> and some <a href="/wiki/Unix" title="Unix">Unix</a> software.</p>
+<p>Vixie attended <a href="/wiki/George_Washington_High_School_(San_Francisco)" title="George Washington High School (San Francisco)">George Washington High School</a> in <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a>, <a href="/wiki/California" title="California">California</a>. He received a Ph.D in computer science from <a href="/wiki/Keio_University" title="Keio University">Keio University</a> in 2011.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>He authored the standard <a href="/wiki/Unix" title="Unix">UNIX</a> system programs <i>SENDS</i>, <i>proxynet</i>, <i>rtty</i> and <a href="/wiki/Vixie_cron" title="Vixie cron" class="mw-redirect">Vixie cron</a>. At one point he ran his own consulting business, Vixie Enterprises.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Realisations"><span class="tocnumber">2</span> <span class="toctext">Realisations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Publications"><span class="tocnumber">3</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Vixie&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After he left <a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">Digital Equipment Corporation</a> (DEC) in 1994, he founded <a href="/wiki/Internet_Software_Consortium" title="Internet Software Consortium" class="mw-redirect">Internet Software Consortium</a> (ISC) together with <a href="/wiki/Rick_Adams_(Internet_pioneer)" title="Rick Adams (Internet pioneer)">Rick Adams</a> and <a href="/wiki/Carl_Malamud" title="Carl Malamud">Carl Malamud</a> to support BIND and other software for the <a href="/wiki/Internet" title="Internet">Internet</a>. The activities of ISC were assumed by a new company, <a href="/wiki/Internet_Systems_Consortium" title="Internet Systems Consortium">Internet Systems Consortium</a> in 2004. Although ISC operates the F <a href="/wiki/Root_server" title="Root server" class="mw-redirect">root server</a>, Vixie at one point joined the <a href="/wiki/Open_Root_Server_Network" title="Open Root Server Network">Open Root Server Network</a> (ORSN) project and operated their L root server.</p>
+<p>In 1995 he cofounded the <a href="/wiki/Palo_Alto" title="Palo Alto" class="mw-redirect">Palo Alto</a> Internet Exchange (<a href="/wiki/PAIX" title="PAIX">PAIX</a>) and, after Metromedia Fiber Network (MFN) bought it in 1999, served as the chief technology officer to MFN / <a href="/wiki/AboveNet" title="AboveNet">AboveNet</a> and later as the president of PAIX.</p>
+<p>In 1998 he cofounded <a href="/wiki/Mail_Abuse_Prevention_System" title="Mail Abuse Prevention System">Mail Abuse Prevention System</a> (MAPS), a <a href="/wiki/California" title="California">California</a> non-profit company with the goal of stopping <a href="/wiki/E-mail_spam" title="E-mail spam" class="mw-redirect">email abuse</a>.</p>
+<p>Vixie stated in 2002 that he "now hold[s] the record for 'most <a href="/wiki/CERT_Coordination_Center" title="CERT Coordination Center">CERT</a> advisories due to a single author.'"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In 2008, Vixie served as a judge for the <a href="/wiki/Mozilla_Foundation" title="Mozilla Foundation">Mozilla Foundation</a>'s "Download Day", an attempt to set a <a href="/wiki/Guinness_World_Record" title="Guinness World Record" class="mw-redirect">Guinness World Record</a> for most downloads in a single day for a new piece of software.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Vixie served on the Board of Trustees of the <a href="/wiki/American_Registry_for_Internet_Numbers" title="American Registry for Internet Numbers">American Registry for Internet Numbers</a> (ARIN) from 2005 to 2013, and served as chairman in 2009 and 2010.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Vixie also serves on the Security and Stability Advisory Committee of <a href="/wiki/ICANN" title="ICANN">ICANN</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>In 2013, after nearly 20 years at ISC, he founded a new company, Farsight Security, Inc. spinning off the Security Business Unit from ISC.<sup id="cite_ref-farsight_9-0" class="reference"><a href="#cite_note-farsight-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>In 2014, Vixie was inducted into the <a href="/wiki/Internet_Hall_of_Fame" title="Internet Hall of Fame">Internet Hall of Fame</a> as an Innovator.<sup id="cite_ref-ihof_10-0" class="reference"><a href="#cite_note-ihof-10"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Realisations">Realisations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Vixie&amp;action=edit&amp;section=2" title="Edit section: Realisations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/BIND" title="BIND">BIND</a></li>
+<li><a href="/wiki/Crontab" title="Crontab" class="mw-redirect">crontab</a></li>
+<li><a href="/wiki/Sendmail" title="Sendmail">sendmail</a></li>
+</ul>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Vixie&amp;action=edit&amp;section=3" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Vixie, Paul; Avolio, Frederick M. (1995). <i>Sendmail: Theory and Practice</i>. Maynard, Mass: Digital Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55558-127-7" title="Special:BookSources/1-55558-127-7">1-55558-127-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Vixie&amp;rft.au=Avolio%2C+Frederick+M.&amp;rft.aufirst=Paul&amp;rft.aulast=Vixie&amp;rft.btitle=Sendmail%3A+Theory+and+Practice&amp;rft.date=1995&amp;rft.genre=book&amp;rft.isbn=1-55558-127-7&amp;rft.place=Maynard%2C+Mass&amp;rft.pub=Digital+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Vixie&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.farsightsecurity.com">Farsight Security</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.linkedin.com/in/paulvixie">Paul Vixie's LinkedIN page</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://plus.google.com/106684394261860468438/about">Google+ Profile</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Vixie, Paul (2002-02-26). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20030320132053/http://www.cctec.com/maillists/nanog/historical/0202/msg00482.html">"Re: Malformed SNMP Packet log/trace"</a>. <i>North American Network Operations Group mailing list</i>. Archived from <a rel="nofollow" class="external text" href="http://www.cctec.com/maillists/nanog/historical/0202/msg00482.html">the original</a> on 2003-03-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-03-07</span></span>. <q>note that i hold the single-author record for total CERT advisories, proving that in my copious youth i knew how to sling code but not how to manage risk.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Vixie&amp;rft.atitle=Re%3A+Malformed+SNMP+Packet+log%2Ftrace&amp;rft.aufirst=Paul&amp;rft.aulast=Vixie&amp;rft.date=2002-02-26&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cctec.com%2Fmaillists%2Fnanog%2Fhistorical%2F0202%2Fmsg00482.html&amp;rft.jtitle=North+American+Network+Operations+Group+mailing+list&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Graff, Mark G.; Kenneth R. "van" Wyk (2003). <i>Secure Coding: Principles and Practices</i>. O'Reilly. pp.&#160;"Advance Praise" section. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-596-00242-4" title="Special:BookSources/0-596-00242-4">0-596-00242-4</a>. <q>If this book had existed when I was learning C in the early 1980s, then I might not now hold the record for 'most CERT advisories due to a single author.' Anyone who wants a coding job at ISC in the future should be prepared to demonstrate that they have read and understand <i>Secure Coding</i>.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Vixie&amp;rft.aufirst=Mark+G.&amp;rft.aulast=Graff&amp;rft.btitle=Secure+Coding%3A+Principles+and+Practices&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=0-596-00242-4&amp;rft.pages=%22Advance+Praise%22+section&amp;rft.pub=O%27Reilly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Cite uses deprecated parameter <code style="color:inherit; border:inherit; padding:inherit;">|coauthors=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.spreadfirefox.com/en-US/worldrecord/faq">Paul Vixie listed as a judge on the Firefox 3 2008 Download Day</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.arin.net/about_us/bot_former.html">Former Members of the Board of Trustees</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.icann.org/en/committees/security/">SSAC Membership</a></span></li>
+<li id="cite_note-farsight-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-farsight_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.isc.org/blogs/isc-spins-off-its-security-business-unit/">"ISC Spins Off Its Security Business Unit"</a>. Internet Systems Consortium<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Vixie&amp;rft.btitle=ISC+Spins+Off+Its+Security+Business+Unit&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.isc.org%2Fblogs%2Fisc-spins-off-its-security-business-unit%2F&amp;rft.pub=Internet+Systems+Consortium&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ihof-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-ihof_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://internethalloffame.org/blog/2014/04/08/internet-hall-fame-announces-2014-inductees">"Internet Hall of Fame Announces 2014 Inductees"</a>. ISOC<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-04-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Vixie&amp;rft.btitle=Internet+Hall+of+Fame+Announces+2014+Inductees&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Finternethalloffame.org%2Fblog%2F2014%2F04%2F08%2Finternet-hall-fame-announces-2014-inductees&amp;rft.pub=ISOC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Vixie&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Special:Search/Paul_Vixie" class="extiw" title="q:Special:Search/Paul Vixie">Paul Vixie</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.circleid.com/members/620/">Paul Vixie's CircleID Page</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Internet_Hall_of_Fame" title="Template:Internet Hall of Fame"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Internet_Hall_of_Fame" title="Template talk:Internet Hall of Fame"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Internet_Hall_of_Fame&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Internet_Hall_of_Fame" title="Internet Hall of Fame">Internet Hall of Fame</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">Pioneers</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2012</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Paul_Baran" title="Paul Baran">Paul Baran</a><sup>†</sup></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a></li>
+<li><a href="/wiki/Danny_Cohen_(engineer)" title="Danny Cohen (engineer)">Danny Cohen</a></li>
+<li><a href="/wiki/Steve_Crocker" title="Steve Crocker">Steve Crocker</a></li>
+<li><a href="/wiki/Donald_Davies" title="Donald Davies">Donald Davies</a><sup>†</sup></li>
+<li><a href="/wiki/Elizabeth_J._Feinler" title="Elizabeth J. Feinler">Elizabeth J. Feinler</a></li>
+<li><a href="/wiki/Charles_Herzfeld" title="Charles Herzfeld" class="mw-redirect">Charles Herzfeld</a></li>
+<li><a href="/wiki/Bob_Kahn" title="Bob Kahn">Robert Kahn</a></li>
+<li><a href="/wiki/Peter_T._Kirstein" title="Peter T. Kirstein">Peter T. Kirstein</a></li>
+<li><a href="/wiki/Leonard_Kleinrock" title="Leonard Kleinrock">Leonard Kleinrock</a></li>
+<li><a href="/wiki/John_Klensin" title="John Klensin">John Klensin</a></li>
+<li><a href="/wiki/Jon_Postel" title="Jon Postel">Jon Postel</a><sup>†</sup></li>
+<li><a href="/wiki/Louis_Pouzin" title="Louis Pouzin">Louis Pouzin</a></li>
+<li><a href="/wiki/Lawrence_Roberts_(scientist)" title="Lawrence Roberts (scientist)">Lawrence Roberts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2013</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/David_D._Clark" title="David D. Clark">David Clark</a></li>
+<li><a href="/wiki/David_J._Farber" title="David J. Farber">David Farber</a></li>
+<li><a href="/w/index.php?title=Howard_Frank_(Internet)&amp;action=edit&amp;redlink=1" class="new" title="Howard Frank (Internet) (page does not exist)">Howard Frank</a></li>
+<li><a href="/w/index.php?title=Kanchana_Kanchanasut&amp;action=edit&amp;redlink=1" class="new" title="Kanchana Kanchanasut (page does not exist)">Kanchana Kanchanasut</a></li>
+<li><a href="/wiki/J._C._R._Licklider" title="J. C. R. Licklider">J. C. R. Licklider</a><sup>†</sup></li>
+<li><a href="/wiki/Robert_Metcalfe" title="Robert Metcalfe">Bob Metcalfe</a></li>
+<li><a href="/wiki/Jun_Murai" title="Jun Murai">Jun Murai</a></li>
+<li><a href="/wiki/Kees_Neggers" title="Kees Neggers">Kees Neggers</a></li>
+<li><a href="/wiki/Nii_Quaynor" title="Nii Quaynor">Nii Quaynor</a></li>
+<li><a href="/wiki/Glenn_Ricart" title="Glenn Ricart">Glenn Ricart</a></li>
+<li><a href="/wiki/Robert_Taylor_(computer_scientist)" title="Robert Taylor (computer scientist)">Robert Taylor</a></li>
+<li><a href="/wiki/Stephen_Wolff" title="Stephen Wolff">Stephen Wolff</a></li>
+<li><a href="/w/index.php?title=Werner_Zorn&amp;action=edit&amp;redlink=1" class="new" title="Werner Zorn (page does not exist)">Werner Zorn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2014</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a><sup>†</sup></li>
+<li>Susan Estrada</li>
+<li>Frank Heart</li>
+<li><a href="/wiki/Dennis_Jennings_(Internet_pioneer)" title="Dennis Jennings (Internet pioneer)">Dennis Jennings</a></li>
+<li><a href="/wiki/Rolf_Nordhagen_(physicist)" title="Rolf Nordhagen (physicist)">Rolf Nordhagen</a><sup>†</sup></li>
+<li><a href="/wiki/Radia_Perlman" title="Radia Perlman">Radia Perlman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">Global connectors</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2012</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Randy_Bush_(scientist)" title="Randy Bush (scientist)">Randy Bush</a></li>
+<li><a href="/w/index.php?title=Kilnam_Chon&amp;action=edit&amp;redlink=1" class="new" title="Kilnam Chon (page does not exist)">Kilnam Chon</a></li>
+<li><a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a></li>
+<li><a href="/wiki/Nancy_Hafkin" title="Nancy Hafkin">Nancy Hafkin</a></li>
+<li><a href="/w/index.php?title=Geoff_Huston_(internet)&amp;action=edit&amp;redlink=1" class="new" title="Geoff Huston (internet) (page does not exist)">Geoff Huston</a></li>
+<li><a href="/wiki/Brewster_Kahle" title="Brewster Kahle">Brewster Kahle</a></li>
+<li><a href="/w/index.php?title=Daniel_Karrenberg&amp;action=edit&amp;redlink=1" class="new" title="Daniel Karrenberg (page does not exist)">Daniel Karrenberg</a></li>
+<li><a href="/w/index.php?title=Toru_Takahashi_(internet)&amp;action=edit&amp;redlink=1" class="new" title="Toru Takahashi (internet) (page does not exist)">Toru Takahashi</a></li>
+<li><a href="/w/index.php?title=Tan_Tin_Wee&amp;action=edit&amp;redlink=1" class="new" title="Tan Tin Wee (page does not exist)">Tan Tin Wee</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2013</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Karen_Banks&amp;action=edit&amp;redlink=1" class="new" title="Karen Banks (page does not exist)">Karen Banks</a></li>
+<li><a href="/w/index.php?title=Gihan_Dias&amp;action=edit&amp;redlink=1" class="new" title="Gihan Dias (page does not exist)">Gihan Dias</a></li>
+<li><a href="/w/index.php?title=Anriette_Esterhuysen&amp;action=edit&amp;redlink=1" class="new" title="Anriette Esterhuysen (page does not exist)">Anriette Esterhuysen</a></li>
+<li><a href="/w/index.php?title=Steve_Goldstein_(NSF)&amp;action=edit&amp;redlink=1" class="new" title="Steve Goldstein (NSF) (page does not exist)">Steve Goldstein</a></li>
+<li><a href="/w/index.php?title=Teus_Hagen&amp;action=edit&amp;redlink=1" class="new" title="Teus Hagen (page does not exist)">Teus Hagen</a></li>
+<li><a href="/w/index.php?title=Ida_Holz&amp;action=edit&amp;redlink=1" class="new" title="Ida Holz (page does not exist)">Ida Holz</a></li>
+<li><a href="/w/index.php?title=Qiheng_Hu&amp;action=edit&amp;redlink=1" class="new" title="Qiheng Hu (page does not exist)">Qiheng Hu</a></li>
+<li><a href="/w/index.php?title=Haruhisa_Ishida&amp;action=edit&amp;redlink=1" class="new" title="Haruhisa Ishida (page does not exist)">Haruhisa Ishida</a><sup>†</sup></li>
+<li><a href="/w/index.php?title=Barry_Leiner&amp;action=edit&amp;redlink=1" class="new" title="Barry Leiner (page does not exist)">Barry Leiner</a><sup>†</sup></li>
+<li><a href="/wiki/George_Sadowsky" title="George Sadowsky">George Sadowsky</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2014</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Dai Davies</li>
+<li><a href="/w/index.php?title=Demi_Getschko&amp;action=edit&amp;redlink=1" class="new" title="Demi Getschko (page does not exist)">Demi Getschko</a></li>
+<li><a href="/w/index.php?title=Masaki_Hirabaru&amp;action=edit&amp;redlink=1" class="new" title="Masaki Hirabaru (page does not exist)">Masaki Hirabaru</a><sup>†</sup></li>
+<li><a href="/w/index.php?title=Erik_Huizer&amp;action=edit&amp;redlink=1" class="new" title="Erik Huizer (page does not exist)">Erik Huizer</a></li>
+<li><a href="/w/index.php?title=Steven_Huter&amp;action=edit&amp;redlink=1" class="new" title="Steven Huter (page does not exist)">Steven Huter</a></li>
+<li><a href="/wiki/Abhaya_Induruwa" title="Abhaya Induruwa">Abhaya Induruwa</a></li>
+<li><a href="/wiki/Dorcas_Muthoni" title="Dorcas Muthoni">Dorcas Muthoni</a></li>
+<li><a href="/wiki/Mahabir_Pun" title="Mahabir Pun">Mahabir Pun</a></li>
+<li><a href="/w/index.php?title=Srinivasan_Ramani&amp;action=edit&amp;redlink=1" class="new" title="Srinivasan Ramani (page does not exist)">Srinivasan Ramani</a></li>
+<li><a href="/w/index.php?title=Michael_Roberts_(internet)&amp;action=edit&amp;redlink=1" class="new" title="Michael Roberts (internet) (page does not exist)">Michael Roberts</a></li>
+<li><a href="/wiki/Ben_Segal" title="Ben Segal" class="mw-redirect">Ben Segal</a></li>
+<li><a href="/w/index.php?title=Douglas_Van_Houweling&amp;action=edit&amp;redlink=1" class="new" title="Douglas Van Houweling (page does not exist)">Douglas Van Houweling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">Innovators</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2012</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mitchell_Baker" title="Mitchell Baker">Mitchell Baker</a></li>
+<li><a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a></li>
+<li><a href="/wiki/Robert_Cailliau" title="Robert Cailliau">Robert Cailliau</a></li>
+<li><a href="/wiki/Van_Jacobson" title="Van Jacobson">Van Jacobson</a></li>
+<li><a href="/wiki/Lawrence_Landweber" title="Lawrence Landweber">Lawrence Landweber</a></li>
+<li><a href="/wiki/Paul_Mockapetris" title="Paul Mockapetris">Paul Mockapetris</a></li>
+<li><a href="/wiki/Craig_Newmark" title="Craig Newmark">Craig Newmark</a></li>
+<li><a href="/wiki/Raymond_Tomlinson" title="Raymond Tomlinson" class="mw-redirect">Raymond Tomlinson</a></li>
+<li><a href="/wiki/Linus_Torvalds" title="Linus Torvalds">Linus Torvalds</a></li>
+<li><a href="/wiki/Philip_Zimmermann" title="Philip Zimmermann" class="mw-redirect">Philip Zimmermann</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2013</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Marc_Andreessen" title="Marc Andreessen">Marc Andreessen</a></li>
+<li><a href="/wiki/John_Perry_Barlow" title="John Perry Barlow">John Perry Barlow</a></li>
+<li><a href="/wiki/Fran%C3%A7ois_Fl%C3%BCckiger" title="François Flückiger" class="mw-redirect">François Flückiger</a></li>
+<li><a href="/w/index.php?title=Stephen_Kent_(network_security)&amp;action=edit&amp;redlink=1" class="new" title="Stephen Kent (network security) (page does not exist)">Stephen Kent</a></li>
+<li><a href="/w/index.php?title=Anne-Marie_Eklund_L%C3%B6winder&amp;action=edit&amp;redlink=1" class="new" title="Anne-Marie Eklund Löwinder (page does not exist)">Anne-Marie Eklund Löwinder</a></li>
+<li><a href="/wiki/Henning_Schulzrinne" title="Henning Schulzrinne">Henning Schulzrinne</a></li>
+<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Richard Stallman</a></li>
+<li><a href="/wiki/Aaron_Swartz" title="Aaron Swartz">Aaron Swartz</a><sup>†</sup></li>
+<li><a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2014</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eric_Allman" title="Eric Allman">Eric Allman</a></li>
+<li><a href="/wiki/Eric_Bina" title="Eric Bina">Eric Bina</a></li>
+<li><a href="/wiki/Karlheinz_Brandenburg" title="Karlheinz Brandenburg">Karlheinz Brandenburg</a></li>
+<li><a href="/wiki/John_Cioffi" title="John Cioffi">John Cioffi</a></li>
+<li>Hualin Qian</li>
+<li><strong class="selflink">Paul Vixie</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n94-061099">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/78010334">78010334</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n94061099">n94061099</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000032233475">0000 0000 3223 3475</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1023
+Cached time: 20160101034345
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.372 seconds
+Real time usage: 0.440 seconds
+Preprocessor visited node count: 2733/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73728/2097152 bytes
+Template argument size: 8858/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Lua time usage: 0.151/10.000 seconds
+Lua memory usage: 2.72 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  372.980      1 - -total
+ 32.78%  122.265      1 - Template:Infobox_person
+ 23.78%   88.697      1 - Template:Internet_Hall_of_Fame
+ 23.72%   88.480      1 - Template:Infobox
+ 22.74%   84.831      1 - Template:Navbox_with_collapsible_groups
+ 17.11%   63.805      1 - Template:Reflist
+ 14.54%   54.230      2 - Template:Cite_book
+ 10.60%   39.519      3 - Template:Navbox_subgroup
+  8.41%   31.367      3 - Template:Navbox
+  8.12%   30.293      3 - Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23309-0!*!0!!en!4!* and timestamp 20160101034345 and revision id 691640037
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Paul_Vixie&amp;oldid=691640037">https://en.wikipedia.org/w/index.php?title=Paul_Vixie&amp;oldid=691640037</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Writers_from_California" title="Category:Writers from California">Writers from California</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Free_software_programmers" title="Category:Free software programmers">Free software programmers</a></li><li><a href="/wiki/Category:American_technology_writers" title="Category:American technology writers">American technology writers</a></li><li><a href="/wiki/Category:Computer_science_writers" title="Category:Computer science writers">Computer science writers</a></li><li><a href="/wiki/Category:Digital_Equipment_Corporation_people" title="Category:Digital Equipment Corporation people">Digital Equipment Corporation people</a></li><li><a href="/wiki/Category:Unix_people" title="Category:Unix people">Unix people</a></li><li><a href="/wiki/Category:Chief_technology_officers" title="Category:Chief technology officers">Chief technology officers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_cite_templates_with_deprecated_parameters" title="Category:Pages containing cite templates with deprecated parameters">Pages containing cite templates with deprecated parameters</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Year_of_birth_missing_(living_people)" title="Category:Year of birth missing (living people)">Year of birth missing (living people)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Paul+Vixie&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Paul+Vixie" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Paul_Vixie"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Paul_Vixie"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Paul_Vixie" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Paul_Vixie&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Paul_Vixie&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Paul_Vixie" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Paul_Vixie" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Paul_Vixie&amp;oldid=691640037" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Paul_Vixie&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92777" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Paul_Vixie&amp;id=691640037" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Paul+Vixie">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Paul+Vixie&amp;returnto=Paul+Vixie&amp;oldid=691640037&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Paul_Vixie&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Paul_Vixie" title="Paul Vixie – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Paul_Vixie" title="Paul Vixie – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%BE%D9%84_%D9%88%DB%8C%DA%A9%D8%B3%DB%8C" title="پل ویکسی – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Paul_Vixie" title="Paul Vixie – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Paul_Vixie" title="Paul Vixie – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Paul_Vixie" title="Paul Vixie – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%BC" title="ポール・ヴィクシー – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Paul_Vixie" title="Paul Vixie – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Paul_Vixie" title="Paul Vixie – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92777#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 November 2015, at 05:33.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Paul_Vixie&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1236"}); /* @nomin */
+} );</script>
+	</body>
+</html>

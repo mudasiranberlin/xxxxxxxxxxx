@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Edward Yourdon - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Edward_Yourdon","wgTitle":"Edward Yourdon","wgCurRevisionId":668949616,"wgRevisionId":668949616,"wgArticleId":1250279,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with local link same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with BNF identifiers","1944 births","American technology writers","American computer programmers","Living people","Massachusetts Institute of Technology alumni","Software engineering researchers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Edward_Yourdon","wgRelevantArticleId":1250279,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Yourdon%2C_Edward_%282008%29.jpg/100px-Yourdon%2C_Edward_%282008%29.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2497863","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Edward_Yourdon" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Edward_Yourdon&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Edward_Yourdon&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Edward_Yourdon" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Edward_Yourdon skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Edward Yourdon</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Edward Yourdon</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Yourdon,_Edward_(2008).jpg" class="image"><img alt="Yourdon, Edward (2008).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Yourdon%2C_Edward_%282008%29.jpg/220px-Yourdon%2C_Edward_%282008%29.jpg" width="220" height="146" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Yourdon%2C_Edward_%282008%29.jpg/330px-Yourdon%2C_Edward_%282008%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Yourdon%2C_Edward_%282008%29.jpg/440px-Yourdon%2C_Edward_%282008%29.jpg 2x" data-file-width="4085" data-file-height="2713" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1944-04-30</span>)</span> April 30, 1944 <span class="noprint ForceAgeToShow">(age&#160;71)</span></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td>American</td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_science" title="Computer science">Computer science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td>YOURDON Inc., <a href="/wiki/Cutter_Consortium" title="Cutter Consortium">Cutter Consortium</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Structured_programming" title="Structured programming">Structured programming</a><br />
+<a href="/wiki/Structured_systems_analysis_and_design_method" title="Structured systems analysis and design method">structured systems analysis and design method</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td>Computer Hall of Fame</td>
+</tr>
+</table>
+<p><b>Edward Nash Yourdon</b> (born 30 April 1944) is an American <a href="/wiki/Software_engineer" title="Software engineer">software engineer</a>, <a href="/wiki/Consultant" title="Consultant">computer consultant</a>, author and lecturer, and pioneer in the <a href="/wiki/Software_engineering_methodology" title="Software engineering methodology" class="mw-redirect">software engineering methodology</a>. He is known as one of the lead developers of the <a href="/wiki/Structured_analysis" title="Structured analysis">structured analysis</a> techniques of the 1970s and as a co-developer of the Yourdon/Whitehead method for <a href="/wiki/Object-oriented" title="Object-oriented" class="mw-redirect">object-oriented</a> analysis/design in the late 1980s and the Coad/Yourdon methodology for object-oriented analysis/design in the 1990s.<sup id="cite_ref-bio99_1-0" class="reference"><a href="#cite_note-bio99-1"><span>[</span>1<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Work"><span class="tocnumber">2</span> <span class="toctext">Work</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Yourdon_Inc."><span class="tocnumber">2.1</span> <span class="toctext">Yourdon Inc.</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Yourdon_Structured_Method"><span class="tocnumber">2.2</span> <span class="toctext">Yourdon Structured Method</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Year_2000_problem"><span class="tocnumber">2.3</span> <span class="toctext">Year 2000 problem</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Current"><span class="tocnumber">2.4</span> <span class="toctext">Current</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Publications"><span class="tocnumber">3</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Yourdon&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Yourdon obtained his <a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">B.S.</a> in <a href="/wiki/Applied_mathematics" title="Applied mathematics">applied mathematics</a> from <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> (MIT) in 1965, and has done graduate work in <a href="/wiki/Electrical_engineering" title="Electrical engineering">electrical engineering</a> and <a href="/wiki/Computer_science" title="Computer science">computer science</a> at MIT and the <a href="/wiki/Polytechnic_Institute_of_New_York_University" title="Polytechnic Institute of New York University" class="mw-redirect">Polytechnic Institute of New York</a>.</p>
+<p>In 1964 Yourdon started working at <a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">Digital Equipment Corporation</a> developing <a href="/wiki/FORTRAN" title="FORTRAN" class="mw-redirect">FORTRAN</a> programs for the <a href="/wiki/PDP-5" title="PDP-5" class="mw-redirect">PDP-5</a> minicomputer and later <a href="/wiki/Assembly_language" title="Assembly language">assembler</a> for the <a href="/wiki/PDP-8" title="PDP-8">PDP-8</a>. Later in the 1960s and early 1970s after working at a small consulting firm and as independent consultant, in 1974 Yourdon founded his own consulting firm, YOURDON Inc. to provide educational, publishing, and consulting services.<sup id="cite_ref-bio99_1-1" class="reference"><a href="#cite_note-bio99-1"><span>[</span>1<span>]</span></a></sup> After he sold this firm in 1986 he served on the Board of multiple IT consultancy corporations, and was advisor on several research project in the software industry throughout the 1990s.</p>
+<p>In June 1997, Yourdon was inducted into the <a href="/w/index.php?title=Computer_Hall_of_Fame&amp;action=edit&amp;redlink=1" class="new" title="Computer Hall of Fame (page does not exist)">Computer Hall of Fame</a>, along with such notables as <a href="/wiki/Charles_Babbage" title="Charles Babbage">Charles Babbage</a>, <a href="/wiki/James_Martin_(author)" title="James Martin (author)">James Martin</a>, <a href="/wiki/Grace_Hopper" title="Grace Hopper">Grace Hopper</a>, and <a href="/wiki/Gerald_Weinberg" title="Gerald Weinberg">Gerald Weinberg</a>.<sup id="cite_ref-CHFYourdon_2-0" class="reference"><a href="#cite_note-CHFYourdon-2"><span>[</span>2<span>]</span></a></sup> In December 1999 the <i>Crosstalk: The Journal of Defense Software Engineering,</i> named him one of the ten most influential people in the software field.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>In the late 1990s, Yourdon became the center of controversy over his beliefs that <a href="/wiki/Y2K" title="Y2K" class="mw-redirect">Y2K</a>-related computer problems could result in severe software failures that would culminate in widespread social collapse.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Due to the efforts of Yourdon and thousands of dedicated technologists, developers and project managers, these potential critical system failure points were successfully remediated, thus avoiding the problems Yourdon and others identified early enough to make a difference.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In the new millennium, Yourdon became Faculty Fellow at the Information Systems Research Center of the <a href="/wiki/University_of_North_Texas" title="University of North Texas">University of North Texas</a> as well as Fellow of the Business Technology Trends Council for the <a href="/wiki/Cutter_Consortium" title="Cutter Consortium">Cutter Consortium</a>, where he also was editor of the Cutter IT Journal.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Work">Work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Yourdon&amp;action=edit&amp;section=2" title="Edit section: Work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After developing <a href="/wiki/Structured_analysis" title="Structured analysis">structured analysis</a> techniques of the 1970s, and <a href="/wiki/Object-oriented" title="Object-oriented" class="mw-redirect">object-oriented</a> analysis/design in the late 1980s and 1990s, in the new millennium Yourdon has specialized in <a href="/wiki/Project_management" title="Project management">project management</a>, <a href="/wiki/Software_engineering_methodologies" title="Software engineering methodologies" class="mw-redirect">software engineering methodologies</a>, and <a href="/wiki/Web_2.0" title="Web 2.0">Web 2.0</a> development.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> He also founded and published <a href="/wiki/American_Programmer" title="American Programmer" class="mw-redirect">American Programmer</a> magazine (now titled <i>Cutter IT Journal</i>). He is the author of the book <i><a href="/wiki/Decline_and_Fall_of_the_American_Programmer" title="Decline and Fall of the American Programmer">Decline and Fall of the American Programmer</a></i>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Ed_Yourdon_(1970s).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ed_Yourdon_%281970s%29.jpg/170px-Ed_Yourdon_%281970s%29.jpg" width="170" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ed_Yourdon_%281970s%29.jpg/255px-Ed_Yourdon_%281970s%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ed_Yourdon_%281970s%29.jpg/340px-Ed_Yourdon_%281970s%29.jpg 2x" data-file-width="975" data-file-height="1147" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ed_Yourdon_(1970s).jpg" class="internal" title="Enlarge"></a></div>
+Ed Yourdon, 1970s.</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Yourdon_Inc.">Yourdon Inc.</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Yourdon&amp;action=edit&amp;section=3" title="Edit section: Yourdon Inc.">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1974, Yourdon founded the consulting firm Yourdon Inc. in New York, which provided consulting, educational and publishing in the field of <a href="/wiki/Software_engineering" title="Software engineering">software engineering</a>. In the early 1990s, the company had multiple offices in North America and Europe and a staff of 150 people. They trained over 250,000 people in the topics of structured programming, structured design, structured analysis, logical data modeling and project management.<sup id="cite_ref-bio99_1-2" class="reference"><a href="#cite_note-bio99-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>In 1986, Yourdon sold the consulting company. It later became part of the French software company <a href="/w/index.php?title=CGI_Informatique&amp;action=edit&amp;redlink=1" class="new" title="CGI Informatique (page does not exist)">CGI Informatique</a>, which is now itself part of <a href="/wiki/IBM" title="IBM">IBM</a>. The publishing division had published over 150 books on software engineering topics before it became part of Prentice Hall.<sup id="cite_ref-bio99_1-3" class="reference"><a href="#cite_note-bio99-1"><span>[</span>1<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Yourdon_Structured_Method">Yourdon Structured Method</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Yourdon&amp;action=edit&amp;section=4" title="Edit section: Yourdon Structured Method">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the 1980s Yourdon developed the Yourdon Structured Method (YSM) in <a href="/wiki/SSADM" title="SSADM" class="mw-redirect">SSADM</a> based on the <a href="/wiki/Function_model" title="Function model">functional structuring</a>. The method supports two distinct design phases: analysis and design. YSM includes three discrete steps: the feasibility study; essential modeling; and implementation modeling.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> It offers a series of models:<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<ul>
+<li>The behavioral model: states that system behavior can be described in three ways: Functions, dynamics and relationships.</li>
+<li>The processor environment model (PEM): describes the allocation of computing functions in processor hardware.</li>
+<li>The software environment model (SEM): defines the software architecture and its effects from each processor.</li>
+<li>The code organizational model (COM): shows the modular structure of each task</li>
+</ul>
+<p>The Yourdon Structured Method (YSM) and <a href="/wiki/Structured_Analysis_and_Design_Technique" title="Structured Analysis and Design Technique">Structured Analysis and Design Technique</a> (SADT) are examples of <a href="/wiki/Structured_design" title="Structured design" class="mw-redirect">structured design</a> methods.</p>
+<h3><span class="mw-headline" id="Year_2000_problem">Year 2000 problem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Yourdon&amp;action=edit&amp;section=5" title="Edit section: Year 2000 problem">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the late 1990s, he was one of the leading proponents of the theory that the '<a href="/wiki/Year_2000_problem" title="Year 2000 problem">Y2K Bug</a>' could lead to a collapse of civilization, or at least protracted economic depression and technological breakdown on a wide scale. He wrote several books on the subject, including <i>Time Bomb 2000</i> (<a href="/wiki/Special:BookSources/0130205192" class="internal mw-magiclink-isbn">ISBN 0-13-020519-2</a>), and produced at least one video putting forth that theory (and offering advice on how to survive the coming crisis).</p>
+<h3><span class="mw-headline" id="Current">Current</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Yourdon&amp;action=edit&amp;section=6" title="Edit section: Current">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Yourdon currently serves as an internationally recognized expert witness and computer consultant specializing in project management, software engineering methodologies, and Web 2.0 development.</p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Yourdon&amp;action=edit&amp;section=7" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Yourdon has authored over 550 technical articles and authored or coauthored 26 computer books since 1967. A selection:</p>
+<ul>
+<li>1967. <i>Real-Time Systems Design</i>. Information &amp; Systems Press.</li>
+<li>1972. <i>Design of On-Line Computer Systems</i>. Prentice Hall.</li>
+<li><cite class="citation book">Yourdon, Edward; <a href="/wiki/Larry_Constantine" title="Larry Constantine">Constantine, Larry L.</a> (1979) [1975]. <i>Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design</i>. Yourdon Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-13-854471-9" title="Special:BookSources/0-13-854471-9">0-13-854471-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Yourdon&amp;rft.au=Constantine%2C+Larry+L.&amp;rft.aufirst=Edward&amp;rft.aulast=Yourdon&amp;rft.btitle=Structured+Design%3A+Fundamentals+of+a+Discipline+of+Computer+Program+and+Systems+Design&amp;rft.date=1979&amp;rft.genre=book&amp;rft.isbn=0-13-854471-9&amp;rft.pub=Yourdon+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>1975. <i>Techniques of Program Structure and Design</i>. Prentice Hall.</li>
+<li>1976. <i>Learning to Program in Structured COBOL, Part I and II</i>. With C. Gane and T. Sarson and T. Lister. Prentice Hall.</li>
+<li>1978. <i>Learning to Program in Structured COBOL, Part II</i>. With Timothy Lister. Prentice Hall.</li>
+<li>1979. <i>Classics in Software Engineering</i> . Prentice Hall.</li>
+<li>1982. <i>Writings of the Revolution</i>. Prentice Hall.</li>
+<li>1988. <i>Managing the System Life Cycle</i>. 2nd ed. Prentice Hall.</li>
+<li>1989. <i>Modern Structured Analysis</i>. Prentice Hall.</li>
+<li>1992. <i><a href="/wiki/Decline_and_Fall_of_the_American_Programmer" title="Decline and Fall of the American Programmer">Decline and Fall of the American Programmer</a></i>. Prentice Hall.</li>
+<li>1994. <i>Object-Oriented Systems Development: An Integrated Approach</i>. Prentice Hall.</li>
+<li>1996. <i>Case Studies in Object-Oriented Analysis and Design</i>. With Carl Argila. Prentice-Hall.</li>
+<li>1996. <i><a href="/wiki/Rise_and_Resurrection_of_the_American_Programmer" title="Rise and Resurrection of the American Programmer">Rise and Resurrection of the American Programmer</a></i>. Prentice-Hall.</li>
+<li>1999. <i>The Complete Y2K Home Preparation Guide</i>. With Robert Roskind. Prentice Hall.</li>
+<li>1999. <i>Time Bomb 2000: What the Y2K Computer Crisis means for you!'. With Jennifer Yourdon. Prentice Hall.</i></li>
+<li>1999. <i>The Y2K Financial Survival Guide</i>. With Jennifer Yourdon and Peter G. Gordon. Prentice Hall.</li>
+<li>2001. <i>Managing High-Intensity Internet Projects</i>. Prentice Hall</li>
+<li>2002. <i>Byte Wars: The Impact of September 11 on Information Technology</i>. Prentice Hall</li>
+<li>2003. <i>Death March (2nd edition)</i>. Prentice Hall</li>
+<li>2004. <i>Outsourcing: Competing in the Global Productivity Race</i>. Prentice Hall</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Yourdon&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-bio99-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-bio99_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bio99_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bio99_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-bio99_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lanl.gov/orgs/pa/News/Yourdonbio.pdf">EDWARD YOURDON</a> Biography at lanl.gov. Accessed 8 June 2011.</span></li>
+<li id="cite_note-CHFYourdon-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-CHFYourdon_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.computerhalloffame.org/index.php?option=com_content&amp;view=article&amp;id=15&amp;Itemid=53">"Edward Yourdon"</a>. Computer Hall of Fame<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Yourdon&amp;rft.btitle=Edward+Yourdon&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computerhalloffame.org%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D15%26Itemid%3D53&amp;rft.pub=Computer+Hall+of+Fame&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.yourdon.com/PDF/yourdoncv.pdf">Yourdon CV, 2007, revision 51407</a>, retrieved online: 2009-05-16</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.time.com/time/world/article/0,8599,2054201,00.html">TIME January 18, 1999</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eweek.com/c/a/Security/Some-Perspective-5-Years-After-Y2K/">'Some Perspective Five Years after Y2K', eweek.com, January 3, 2005</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cutter.com/itjournal.html">Cutter IT Journal website</a>. Accessed 17 Nov 2008.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.yourdon.com/?loc=aboutme">About Ed Yourdon</a> at yourdon.com, 2007. Accessed Oct 26, 2009.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Alan M. Davis, Marilyn D. Weidner (1993). <i>Software Requirements: Objects, Functions, and States</i>. Page 486.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Jim Cooling (2003). <i>Software Engineering for Real-time Systems</i>. p.510-517.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edward_Yourdon&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Ed_Yourdon" class="extiw" title="commons:Category:Ed Yourdon">Ed Yourdon</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.yourdon.com/">"Ed Yourdon"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdward+Yourdon&amp;rft.btitle=Ed+Yourdon&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.yourdon.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.yourdon.com/strucanalysis/wiki/index.php?title=Introduction">Structured Analysis Wiki</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Software_engineering" title="Template:Software engineering"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Software_engineering" title="Template talk:Software engineering"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Software_engineering&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Software_engineering" title="Software engineering">Software engineering</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_programming" title="Computer programming">Computer programming</a></li>
+<li><a href="/wiki/Requirements_engineering" title="Requirements engineering">Requirements engineering</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Software_testing" title="Software testing">Software testing</a></li>
+<li><a href="/wiki/Systems_analysis" title="Systems analysis">Systems analysis</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_modeling" title="Data modeling">Data modeling</a></li>
+<li><a href="/wiki/Enterprise_architecture" title="Enterprise architecture">Enterprise architecture</a></li>
+<li><a href="/wiki/Functional_specification" title="Functional specification">Functional specification</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Orthogonality_(programming)" title="Orthogonality (programming)">Orthogonality</a></li>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Software" title="Software">Software</a></li>
+<li><a href="/wiki/Software_archaeology" title="Software archaeology">Software archaeology</a></li>
+<li><a href="/wiki/Software_architecture" title="Software architecture">Software architecture</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Software_development_methodology" title="Software development methodology" class="mw-redirect">Software development methodology</a></li>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+<li><a href="/wiki/Software_quality_assurance" title="Software quality assurance">Software quality assurance</a></li>
+<li><a href="/wiki/Software_verification_and_validation" title="Software verification and validation">Software verification and validation</a></li>
+<li><a href="/wiki/Structured_analysis" title="Structured analysis">Structured analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Orientations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Aspect-oriented_software_development" title="Aspect-oriented software development">Aspect-oriented</a></li>
+<li><a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object orientation</a></li>
+<li><a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">Ontology</a></li>
+<li><a href="/wiki/Service-oriented_architecture" title="Service-oriented architecture">Service orientation</a></li>
+<li><a href="/wiki/Systems_development_life_cycle" title="Systems development life cycle">SDLC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Models</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Developmental</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Enterprise_Unified_Process" title="Enterprise Unified Process">EUP</a></li>
+<li><a href="/wiki/Executable_UML" title="Executable UML">Executable UML</a></li>
+<li><a href="/wiki/Incremental_build_model" title="Incremental build model">Incremental model</a></li>
+<li><a href="/wiki/Iterative_and_incremental_development" title="Iterative and incremental development">Iterative model</a></li>
+<li><a href="/wiki/Software_prototyping" title="Software prototyping">Prototype model</a></li>
+<li><a href="/wiki/Rapid_application_development" title="Rapid application development">RAD</a></li>
+<li><a href="/wiki/Unified_Process" title="Unified Process">UP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Other</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO/IEC_15504" title="ISO/IEC 15504">SPICE</a></li>
+<li><a href="/wiki/Capability_Maturity_Model_Integration" title="Capability Maturity Model Integration">CMMI</a></li>
+<li><a href="/wiki/Data_model" title="Data model">Data model</a></li>
+<li><a href="/wiki/Entity%E2%80%93relationship_model" title="Entity–relationship model">ER model</a></li>
+<li><a href="/wiki/Function_model" title="Function model">Function model</a></li>
+<li><a href="/wiki/Information_model" title="Information model">Information model</a></li>
+<li><a href="/wiki/Metamodeling" title="Metamodeling">Metamodeling</a></li>
+<li><a href="/wiki/Object_model" title="Object model">Object model</a></li>
+<li><a href="/wiki/Systems_modeling" title="Systems modeling">Systems model</a></li>
+<li><a href="/wiki/View_model" title="View model">View model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Languages</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/IDEF" title="IDEF">IDEF</a></li>
+<li><a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">UML</a></li>
+<li><a href="/wiki/Systems_Modeling_Language" title="Systems Modeling Language">SysML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Software<br />
+engineers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kent_Beck" title="Kent Beck">Kent Beck</a></li>
+<li><a href="/wiki/Grady_Booch" title="Grady Booch">Grady Booch</a></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a></li>
+<li><a href="/wiki/Barry_Boehm" title="Barry Boehm">Barry Boehm</a></li>
+<li><a href="/wiki/Ward_Cunningham" title="Ward Cunningham">Ward Cunningham</a></li>
+<li><a href="/wiki/Tom_DeMarco" title="Tom DeMarco">Tom DeMarco</a></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a></li>
+<li><a href="/wiki/Martin_Fowler" title="Martin Fowler">Martin Fowler</a></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">C. A. R. Hoare</a></li>
+<li><a href="/wiki/Watts_Humphrey" title="Watts Humphrey">Watts Humphrey</a></li>
+<li><a href="/wiki/Michael_A._Jackson" title="Michael A. Jackson">Michael A. Jackson</a></li>
+<li><a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Ivar Jacobson</a></li>
+<li><a href="/wiki/Stephen_J._Mellor" title="Stephen J. Mellor">Stephen J. Mellor</a></li>
+<li><a href="/wiki/Bertrand_Meyer" title="Bertrand Meyer">Bertrand Meyer</a></li>
+<li><a href="/wiki/David_Parnas" title="David Parnas">David Parnas</a></li>
+<li><a href="/wiki/Winston_W._Royce" title="Winston W. Royce">Winston W. Royce</a></li>
+<li><a href="/wiki/James_Rumbaugh" title="James Rumbaugh">James Rumbaugh</a></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a></li>
+<li><strong class="selflink">Edward Yourdon</strong></li>
+<li><a href="/wiki/Victor_Basili" title="Victor Basili">Victor Basili</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related fields</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_science" title="Computer science">Computer science</a></li>
+<li><a href="/wiki/Computer_engineering" title="Computer engineering">Computer engineering</a></li>
+<li><a href="/wiki/Project_management" title="Project management">Project management</a></li>
+<li><a href="/wiki/Risk_management" title="Risk management">Risk management</a></li>
+<li><a href="/wiki/Systems_engineering" title="Systems engineering">Systems engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Software_engineering" title="Category:Software engineering">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="//commons.wikimedia.org/wiki/Software_engineering" class="extiw" title="commons:Software engineering">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n79-081543">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/29681125">29681125</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n79081543">n79081543</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000083682035">0000 0000 8368 2035</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/035102527">035102527</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb13474974q">cb13474974q</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb13474974q">(data)</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00461668">00461668</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1091
+Cached time: 20160106212838
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.311 seconds
+Real time usage: 0.381 seconds
+Preprocessor visited node count: 1499/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37894/2097152 bytes
+Template argument size: 1408/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 2.66 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  306.593      1 - -total
+ 33.55%  102.866      1 - Template:Infobox_scientist
+ 29.41%   90.181      1 - Template:Infobox
+ 18.11%   55.511      2 - Template:Navbox
+ 16.12%   49.420      1 - Template:Software_engineering
+ 13.43%   41.176      1 - Template:Cite_book
+ 12.21%   37.443      1 - Template:Commons_category
+  9.73%   29.839      4 - Template:Br_separated_entries
+  8.62%   26.436      1 - Template:Reflist
+  8.18%   25.087      1 - Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1250279-0!*!0!!en!4!* and timestamp 20160106212837 and revision id 668949616
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Edward_Yourdon&amp;oldid=668949616">https://en.wikipedia.org/w/index.php?title=Edward_Yourdon&amp;oldid=668949616</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1944_births" title="Category:1944 births">1944 births</a></li><li><a href="/wiki/Category:American_technology_writers" title="Category:American technology writers">American technology writers</a></li><li><a href="/wiki/Category:American_computer_programmers" title="Category:American computer programmers">American computer programmers</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_alumni" title="Category:Massachusetts Institute of Technology alumni">Massachusetts Institute of Technology alumni</a></li><li><a href="/wiki/Category:Software_engineering_researchers" title="Category:Software engineering researchers">Software engineering researchers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Edward+Yourdon&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Edward+Yourdon" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Edward_Yourdon"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Edward_Yourdon"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Edward_Yourdon" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Edward_Yourdon&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Edward_Yourdon&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Edward_Yourdon" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Edward_Yourdon" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Edward_Yourdon&amp;oldid=668949616" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Edward_Yourdon&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2497863" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Edward_Yourdon&amp;id=668949616" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Edward+Yourdon">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Edward+Yourdon&amp;returnto=Edward+Yourdon&amp;oldid=668949616&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Edward_Yourdon&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Edward_Yourdon" title="Edward Yourdon – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A8%E3%83%BC%E3%83%89%E3%83%B3" title="エドワード・ヨードン – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Edward_Yourdon" title="Edward Yourdon – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%99%D0%BE%D1%80%D0%B4%D0%B0%D0%BD,_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4" title="Йордан, Эдвард – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%84%9B%E5%BE%B7%E8%8F%AF%C2%B7%E5%B0%A4%E7%99%BB" title="愛德華·尤登 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2497863#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 June 2015, at 20:26.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Edward_Yourdon&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":490,"wgHostname":"mw1091"}); /* @nomin */
+} );</script>
+	</body>
+</html>

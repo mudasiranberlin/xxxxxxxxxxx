@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Larry Wall - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Larry_Wall","wgTitle":"Larry Wall","wgCurRevisionId":697296572,"wgRevisionId":697296572,"wgArticleId":17519,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from October 2012","BLP articles lacking sources from June 2011","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from March 2012","Spoken articles","Articles with hAudio microformats","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","1954 births","Living people","American computer programmers","Free software programmers","Perl writers","Programming language designers","Seattle Pacific University alumni","University of California, Berkeley alumni","American Christians","American members of the Church of the Nazarene","O'Reilly writers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Larry_Wall","wgRelevantArticleId":17519,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Larry_Wall_YAPC_2007.jpg/71px-Larry_Wall_YAPC_2007.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92597","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Larry_Wall" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Larry_Wall&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Larry_Wall&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Larry_Wall" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Larry_Wall skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-spoken-icon" class="mw-indicator"><a href="/wiki/File:Larry_Wall.ogg" title="Listen to this article"><img alt="Listen to this article" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/20px-Sound-icon.svg.png" width="20" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/30px-Sound-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/40px-Sound-icon.svg.png 2x" data-file-width="128" data-file-height="96" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Larry Wall</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-BLP_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biographical article</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help by adding <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Defamation" title="Defamation">libelous</a> or harmful.</span> <small><i>(June 2011)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Larry Wall</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Larry_Wall_YAPC_2007.jpg" class="image"><img alt="Larry Wall YAPC 2007.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Larry_Wall_YAPC_2007.jpg/220px-Larry_Wall_YAPC_2007.jpg" width="220" height="309" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Larry_Wall_YAPC_2007.jpg/330px-Larry_Wall_YAPC_2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b3/Larry_Wall_YAPC_2007.jpg 2x" data-file-width="411" data-file-height="578" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1954-09-27</span>)</span> September 27, 1954 <span class="noprint ForceAgeToShow">(age&#160;61)</span><br />
+<span class="birthplace"><a href="/wiki/Los_Angeles,_California" title="Los Angeles, California" class="mw-redirect">Los Angeles, California</a>, US</span></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">American</td>
+</tr>
+<tr>
+<th scope="row">Alma&#160;mater</th>
+<td>
+<p><a href="/wiki/Seattle_Pacific_University" title="Seattle Pacific University">Seattle Pacific University</a></p>
+<a href="/wiki/UC_Berkeley" title="UC Berkeley" class="mw-redirect">UC Berkeley</a></td>
+</tr>
+<tr>
+<th scope="row">Occupation</th>
+<td class="role">Computer programmer, author</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Perl" title="Perl">Perl</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td>Gloria Wall</td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td>4</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.wall.org/~larry/">www<wbr />.wall<wbr />.org<wbr />/~larry<wbr />/</a></span></td>
+</tr>
+</table>
+<p><b>Larry Wall</b> (born September 27, 1954) is a <a href="/wiki/Computer_programmer" title="Computer programmer" class="mw-redirect">computer programmer</a> and author, most widely known as the creator of the <a href="/wiki/Perl" title="Perl">Perl</a> <a href="/wiki/Programming_language" title="Programming language">programming language</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Personal_life"><span class="tocnumber">1</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Accomplishments"><span class="tocnumber">2</span> <span class="toctext">Accomplishments</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Larry_Wall&amp;action=edit&amp;section=1" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wall grew up in <a href="/wiki/Los_Angeles" title="Los Angeles">Los Angeles</a> and then <a href="/wiki/Bremerton,_Washington" title="Bremerton, Washington">Bremerton, Washington</a>, before starting higher education at <a href="/wiki/Seattle_Pacific_University" title="Seattle Pacific University">Seattle Pacific University</a> in 1976, majoring in chemistry and music and later <a href="/wiki/Pre-medicine" title="Pre-medicine" class="mw-redirect">pre-medicine</a> with a hiatus of several years working in the university's computing center before graduating with a bachelor's degree in Natural and Artificial Languages.<sup id="cite_ref-lj_1-0" class="reference"><a href="#cite_note-lj-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>While in graduate school at the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a>, Wall and his wife were studying <a href="/wiki/Linguistics" title="Linguistics">linguistics</a> with the intention of finding an unwritten language, perhaps in Africa, and creating a <a href="/wiki/Writing_system" title="Writing system">writing system</a> for it. They would then use this new writing system to translate various texts into the language, among them the Bible.<sup id="cite_ref-tri_2-0" class="reference"><a href="#cite_note-tri-2"><span>[</span>2<span>]</span></a></sup> Due to health reasons these plans were cancelled, and they remained in the United States, where Larry instead joined the <a href="/wiki/NASA" title="NASA">NASA</a> <a href="/wiki/Jet_Propulsion_Laboratory" title="Jet Propulsion Laboratory">Jet Propulsion Laboratory</a> after he finished graduate school.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>Wall is an active member of the <a href="/wiki/Church_of_the_Nazarene" title="Church of the Nazarene">Church of the Nazarene</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Accomplishments">Accomplishments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Larry_Wall&amp;action=edit&amp;section=2" title="Edit section: Accomplishments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wall is the author of the <a href="/wiki/Rn_(newsreader)" title="Rn (newsreader)"><code>rn</code></a> <a href="/wiki/Usenet_client" title="Usenet client" class="mw-redirect">Usenet client</a> and the widely used <a href="/wiki/Patch_(Unix)" title="Patch (Unix)"><code>patch</code></a> program. He has won the <a href="/wiki/International_Obfuscated_C_Code_Contest" title="International Obfuscated C Code Contest">International Obfuscated C Code Contest</a> twice and was the recipient of the first <a href="/wiki/Free_Software_Foundation" title="Free Software Foundation">Free Software Foundation</a> <a href="/wiki/Award_for_the_Advancement_of_Free_Software" title="Award for the Advancement of Free Software" class="mw-redirect">Award for the Advancement of Free Software</a> in 1998.<sup id="cite_ref-tri_2-1" class="reference"><a href="#cite_note-tri-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>Beyond his technical skills, Wall has a reputation for his wit and often sarcastic sense of humour,<sup id="cite_ref-www.perl.com.2Fpub.2Fa.2F1999.2F03.2Fpm.ht_5-0" class="reference"><a href="#cite_note-www.perl.com.2Fpub.2Fa.2F1999.2F03.2Fpm.ht-5"><span>[</span>5<span>]</span></a></sup> which he displays in the comments to his <a href="/wiki/Source_code" title="Source code">source code</a> or on <a href="/wiki/Usenet" title="Usenet">Usenet</a>. For example: "We all agree on the necessity of compromise. We just can't agree on when it's necessary to compromise"<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> and:</p>
+<blockquote class="templatequote">
+<p>For example, it's been several decades now since a certain set of Bible translations came out, and you'll notice a pattern: the New English Bible, the New American Standard Bible, and the New International Version, to name a few. It's really funny. I suspect we'll still be calling them "new this" and "new that" a hundred years from now. Much like New College at Oxford. Do you know when New College was founded? Any guesses? New College was new in 1379.<sup id="cite_ref-www.perl.com.2Fpub.2Fa.2F1999.2F03.2Fpm.ht_5-1" class="reference"><a href="#cite_note-www.perl.com.2Fpub.2Fa.2F1999.2F03.2Fpm.ht-5"><span>[</span>5<span>]</span></a></sup></p>
+</blockquote>
+<p>Wall developed the Perl interpreter and language while working for <a href="/wiki/System_Development_Corporation" title="System Development Corporation">System Development Corporation</a>, which later became part of <a href="/wiki/Unisys" title="Unisys">Unisys</a>.<sup id="cite_ref-orn_7-0" class="reference"><a href="#cite_note-orn-7"><span>[</span>7<span>]</span></a></sup> He is the co-author of <i><a href="/wiki/Programming_Perl" title="Programming Perl">Programming Perl</a></i> (often referred to as the <i>Camel Book</i> and published by O'Reilly), which is the definitive resource for Perl programmers; and edited the <i><a href="/wiki/Perl_Cookbook" title="Perl Cookbook">Perl Cookbook</a></i>. He then became employed full-time by <a href="/wiki/O%27Reilly_Media" title="O'Reilly Media">O'Reilly Media</a> to further develop Perl and write books on the subject.<sup id="cite_ref-orn_7-1" class="reference"><a href="#cite_note-orn-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Wall's training as a linguist is apparent in his books, interviews, and lectures. He often compares Perl to a natural language and explains his decisions in Perl's design with linguistic rationale. He also often uses linguistic terms for Perl language constructs, so instead of traditional terms such as "variable", "function", and "accessor" he sometimes says "<a href="/wiki/Noun" title="Noun">noun</a>", "<a href="/wiki/Verb" title="Verb">verb</a>", and "<a href="/wiki/Topic_(linguistics)" title="Topic (linguistics)" class="mw-redirect">topicalizer</a>".</p>
+<p>Wall's Christian faith has influenced some of the terminology of Perl, such as the name itself, a biblical reference to the "pearl of great price" (<a href="/wiki/Gospel_of_Matthew" title="Gospel of Matthew">Matthew</a> 13:46).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> Similar references are the function name <i>bless</i>, and the organization of <a href="/wiki/Perl_6" title="Perl 6">Perl 6</a> design documents with categories such as <i><a href="/wiki/Apocalypse" title="Apocalypse">apocalypse</a></i> and <i><a href="/wiki/Exegesis" title="Exegesis">exegesis</a></i>. Wall has also alluded to his faith when he has spoken at conferences, including a rather straightforward statement of his beliefs at the August 1997 Perl Conference and a discussion of <i><a href="/wiki/Pilgrim%27s_Progress" title="Pilgrim's Progress" class="mw-redirect">Pilgrim's Progress</a></i> at the <a href="/wiki/YAPC" title="YAPC" class="mw-redirect">YAPC</a> (Yet Another Perl Conference) in June 2000.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2012)">citation needed</span></a></i>]</sup></p>
+<p>Wall continues to oversee further development of Perl and serves as the <a href="/wiki/Benevolent_dictator_for_life" title="Benevolent dictator for life">benevolent dictator for life</a> of the Perl project. His role in Perl is best conveyed by the so-called <i>2 Rules</i>, taken from the official Perl documentation:</p>
+<ol>
+<li>Larry is always by definition right about how Perl should behave. This means he has final veto power on the core functionality.</li>
+<li>Larry is allowed to change his mind about any matter at a later date, regardless of whether he previously invoked Rule 1.</li>
+</ol>
+<dl>
+<dd>
+<dl>
+<dd>Got that? Larry is always right, even when he was wrong.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Larry_Wall&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Nuvola_apps_emacs_vector.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nuvola_apps_emacs_vector.svg/28px-Nuvola_apps_emacs_vector.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nuvola_apps_emacs_vector.svg/42px-Nuvola_apps_emacs_vector.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nuvola_apps_emacs_vector.svg/56px-Nuvola_apps_emacs_vector.svg.png 2x" data-file-width="160" data-file-height="160" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Free_software" title="Portal:Free software">Free software portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/List_of_computer_scientists" title="List of computer scientists">List of computer scientists</a></li>
+<li><a href="/wiki/List_of_programmers" title="List of programmers">List of programmers</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Larry_Wall&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-lj-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-lj_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Marjorie Richardson (May 1, 1999). <a rel="nofollow" class="external text" href="http://www.linuxjournal.com/article/3394">"Larry Wall, the Guru of Perl"</a>. <a href="/wiki/Linux_Journal" title="Linux Journal">Linux Journal</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 12,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarry+Wall&amp;rft.au=Marjorie+Richardson&amp;rft.btitle=Larry+Wall%2C+the+Guru+of+Perl&amp;rft.date=1999-05-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.linuxjournal.com%2Farticle%2F3394&amp;rft.pub=Linux+Journal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-tri-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-tri_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tri_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://twit.tv/shows/triangulation/episodes/225/">Larry Wall</a> interviewed on the TV show Triangulation on the <a href="/wiki/TWiT.tv" title="TWiT.tv">TWiT.tv</a> network</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Sims, David (April 8, 1998). <a rel="nofollow" class="external text" href="http://web.archive.org/web/19981205141959/http://www.techweb.com/wire/story/TWB19980408S0020">"Q&amp;A With Larry Wall, Creator of Perl"</a>. TechWeb. Archived from <a rel="nofollow" class="external text" href="http://www.techweb.com/wire/story/TWB19980408S0020">the original</a> on December 5, 1998<span class="reference-accessdate">. Retrieved <span class="nowrap">August 15,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarry+Wall&amp;rft.aufirst=David&amp;rft.aulast=Sims&amp;rft.btitle=Q%26A+With+Larry+Wall%2C+Creator+of+Perl&amp;rft.date=1998-04-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.techweb.com%2Fwire%2Fstory%2FTWB19980408S0020&amp;rft.pub=TechWeb&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://blogs.discovermagazine.com/gnxp/2008/07/larry-wall-fundamentalist-non-creationist-programmer">http://blogs.discovermagazine.com/gnxp/2008/07/larry-wall-fundamentalist-non-creationist-programmer</a></span></li>
+<li id="cite_note-www.perl.com.2Fpub.2Fa.2F1999.2F03.2Fpm.ht-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-www.perl.com.2Fpub.2Fa.2F1999.2F03.2Fpm.ht_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-www.perl.com.2Fpub.2Fa.2F1999.2F03.2Fpm.ht_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFWall1999" class="citation">Wall, Larry (March 3, 1999), <a rel="nofollow" class="external text" href="http://www.perl.com/pub/a/1999/03/pm.html"><i>Perl, the first postmodern computer language</i></a>, San Jose Convention Center, San Jose, CA, USA: O’Reilly Media<span class="reference-accessdate">, retrieved <span class="nowrap">November 19,</span> 2007</span>, <q>The following is the text of Larry Wall's talk at Linux World on Wednesday, March 3. He explains why Perl is a fitting language for the postmodern era. As a member of the audience commented: "Another mindbender from Larry."</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarry+Wall&amp;rft.aufirst=Larry&amp;rft.aulast=Wall&amp;rft.btitle=Perl%2C+the+first+postmodern+computer+language&amp;rft.date=1999-03-03&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.perl.com%2Fpub%2Fa%2F1999%2F03%2Fpm.html&amp;rft.place=San+Jose+Convention+Center%2C+San+Jose%2C+CA%2C+USA&amp;rft.pub=O%99Reilly+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://groups.google.com/group/comp.lang.perl/msg/0754ced5084b5ced">"Usenet article on comp.lang.perl"</a>. November 14, 1991<span class="reference-accessdate">. Retrieved <span class="nowrap">June 15,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarry+Wall&amp;rft.btitle=Usenet+article+on+comp.lang.perl&amp;rft.date=1991-11-14&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgroups.google.com%2Fgroup%2Fcomp.lang.perl%2Fmsg%2F0754ced5084b5ced&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-orn-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-orn_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-orn_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.oreillynet.com/pub/au/148">"Larry Wall"</a>. O’Reilly net<span class="reference-accessdate">. Retrieved <span class="nowrap">January 12,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarry+Wall&amp;rft.btitle=Larry+Wall&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.oreillynet.com%2Fpub%2Fau%2F148&amp;rft.pub=O%99Reilly+net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFSilberman2000" class="citation">Silberman, Steve (2000), <a rel="nofollow" class="external text" href="http://www.wired.com/wired/archive/8.10/cruise.html?pg=3">"Scripting on the Lido Deck"</a>, <i>Wired (magazine)</i> <b>8.10</b></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarry+Wall&amp;rft.atitle=Scripting+on+the+Lido+Deck&amp;rft.aufirst=Steve&amp;rft.aulast=Silberman&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.wired.com%2Fwired%2Farchive%2F8.10%2Fcruise.html%3Fpg%3D3&amp;rft.jtitle=Wired+%28magazine%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8.10" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://perldoc.perl.org/perlhack.html#DESCRIPTION"><i>Perl 5.10.0 Documentation&#160;– perlhack</i></a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarry+Wall&amp;rft.btitle=Perl+5.10.0+Documentation+%93+perlhack&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fperldoc.perl.org%2Fperlhack.html%23DESCRIPTION&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://faq.perl.org/p5pfaq.html#What_is_Rule_1_"><i>perl 5 porters FAQ</i></a></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALarry+Wall&amp;rft.btitle=perl+5+porters+FAQ&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffaq.perl.org%2Fp5pfaq.html%23What_is_Rule_1_&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Larry_Wall&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Larry_Wall" class="extiw" title="q:Larry Wall">Larry Wall</a></b></i></td>
+</tr>
+</table>
+<div id="section_SpokenWikipedia" class="infobox sisterproject plainlinks haudio">
+<div style="text-align: center; white-space:nowrap"><b>Listen to this article</b> (<a href="/wiki/File:Larry_Wall.ogg" title="File:Larry Wall.ogg">info/dl</a>)
+<div class="center">
+<div class="floatnone">
+<div class="mediaContainer" style="width:200px"><audio id="mwe_player_0" poster="/static/1.27.0-wmf.9/resources/assets/file-type-icons/fileicon-ogg.png" controls="" preload="none" style="width:200px" class="kskin" data-durationhint="201.31138321995" data-startoffset="1.6079818594104" data-mwtitle="Larry_Wall.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/5/5c/Larry_Wall.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (53 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="52955"></source>Sorry, your browser either has JavaScript disabled or does not have any supported player.<br />
+You can <a href="//upload.wikimedia.org/wikipedia/commons/5/5c/Larry_Wall.ogg">download the clip</a> or <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:TimedMediaHandler/Client_download">download a player</a> to play the clip in your browser.</audio></div>
+</div>
+</div>
+</div>
+<p><br /></p>
+<div style="float: left; margin-left: 5px;">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/45px-Sound-icon.svg.png" title="Spoken Wikipedia" width="45" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/68px-Sound-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sound-icon.svg/90px-Sound-icon.svg.png 2x" data-file-width="128" data-file-height="96" /></div>
+</div>
+<div style="font-size: xx-small; line-height: 1.6em; margin-left: 60px;">This audio file was created from a revision of the "<span class="fn">Larry Wall</span>" article dated 2006-06-27, and does not reflect subsequent edits to the article. (<a href="/wiki/Wikipedia:Media_help" title="Wikipedia:Media help">Audio help</a>)</div>
+<div style="text-align: center; clear: both"><b><a href="/wiki/Wikipedia:Spoken_articles" title="Wikipedia:Spoken articles">More spoken articles</a></b></div>
+</div>
+<ul>
+<li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://www.wall.org">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.softpanorama.org/People/Wall/index.shtml">Slightly Skeptical View on Larry Wall and Perl (Softpanorama Larry Wall's page)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.perl.com/pub/a/1999/03/pm.html"><i>Perl, the first Postmodern Language</i></a></li>
+<li>State of the Onion keynotes:
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.wall.org/~larry/keynote/keynote.html">1997</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.perl.com/pub/a/1998/08/show/onion.html">1998</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.perl.com/pub/a/1999/08/onion/talk1.html">1999</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.perl.com/pub/a/2000/10/23/soto2000.html">2000</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.perl.com/pub/a/2001/07/25/onion.html">2001</a></li>
+<li><a rel="nofollow" class="external text" href="http://dev.perl.org/perl6/talks/2002/onion2002/2002.txt.htm">2002</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.perl.com/pub/a/2003/07/16/soto2003.html">2003</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.perl.com/pub/a/2004/08/18/onion.html">2004</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.perl.com/pub/a/2005/09/22/onion.html">2005</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.perl.com/pub/a/2006/09/21/onion.html">2006</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.perl.com/pub/a/2007/12/06/soto-11.html">2007</a></li>
+</ul>
+</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Perl" title="Template:Perl"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Perl" title="Template talk:Perl"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Perl&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Perl" title="Perl">Perl</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">People</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Larry Wall</strong></li>
+<li><a href="/wiki/Randal_L._Schwartz" title="Randal L. Schwartz">Randal L. Schwartz</a></li>
+<li><a href="/wiki/Damian_Conway" title="Damian Conway">Damian Conway</a></li>
+<li><a href="/wiki/Allison_Randal" title="Allison Randal">Allison Randal</a></li>
+<li><a href="/wiki/Audrey_Tang" title="Audrey Tang">Audrey Tang</a></li>
+<li><a href="/wiki/Sean_M._Burke" title="Sean M. Burke">Sean M. Burke</a></li>
+<li><a href="/wiki/Chromatic_(programmer)" title="Chromatic (programmer)">chromatic</a></li>
+<li><a href="/wiki/Adam_Kennedy_(programmer)" title="Adam Kennedy (programmer)">Adam Kennedy</a></li>
+<li><a href="/wiki/Brian_d_foy" title="Brian d foy">brian d foy</a></li>
+<li><a href="/wiki/Mark_Jason_Dominus" title="Mark Jason Dominus">Mark Jason Dominus</a></li>
+<li><a href="/wiki/Jesse_Vincent" title="Jesse Vincent">Jesse Vincent</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Things</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CPAN" title="CPAN">CPAN</a></li>
+<li><a href="/wiki/Perl_Foundation" title="Perl Foundation">Perl Foundation</a>
+<ul>
+<li><a href="/wiki/Perl_Mongers" title="Perl Mongers">Perl Mongers</a></li>
+<li><a href="/wiki/PerlMonks" title="PerlMonks">PerlMonks</a></li>
+<li><a href="/wiki/CPAN" title="CPAN">archives</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Perl_module" title="Perl module">module</a></li>
+<li><a href="/wiki/Perl_virtual_machine" title="Perl virtual machine">Perl VM</a></li>
+<li><a href="/wiki/Parrot_virtual_machine" title="Parrot virtual machine">Parrot</a></li>
+<li><a href="/wiki/Yet_Another_Perl_Conference" title="Yet Another Perl Conference">YAPC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Frameworks</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BioPerl" title="BioPerl">Bioperl</a></li>
+<li><a href="/wiki/Catalyst_(software)" title="Catalyst (software)">Catalyst</a></li>
+<li><a href="/wiki/Dancer_(software)" title="Dancer (software)">Dancer</a></li>
+<li><a href="/wiki/Perl_DBI" title="Perl DBI">DBI</a></li>
+<li><a href="/wiki/DBIx::Class" title="DBIx::Class">DBIx::Class</a></li>
+<li><a href="/wiki/Library_for_WWW_in_Perl" title="Library for WWW in Perl">LWP</a></li>
+<li><a href="/wiki/Mason_(Perl)" title="Mason (Perl)">Mason</a></li>
+<li><a href="/wiki/Maypole_framework" title="Maypole framework" class="mw-redirect">Maypole</a></li>
+<li><a href="/wiki/Mojolicious" title="Mojolicious">Mojolicious</a></li>
+<li><a href="/wiki/Moose_(Perl)" title="Moose (Perl)">Moose</a></li>
+<li><a href="/wiki/Plack_(software)" title="Plack (software)">Plack</a></li>
+<li><a href="/wiki/PSGI" title="PSGI">PSGI</a></li>
+<li><a href="/wiki/Template_Toolkit" title="Template Toolkit">Template Toolkit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Software</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amavis" title="Amavis">Amavis</a></li>
+<li><a href="/wiki/Argus_(monitoring_software)" title="Argus (monitoring software)">Argus</a></li>
+<li><a href="/wiki/Anti-Spam_SMTP_Proxy" title="Anti-Spam SMTP Proxy">@SSP</a></li>
+<li><a href="/wiki/AWStats" title="AWStats">AWStats</a></li>
+<li><a href="/wiki/BackupPC" title="BackupPC">BackupPC</a></li>
+<li><a href="/wiki/Bricolage_(software)" title="Bricolage (software)">Bricolage</a></li>
+<li><a href="/wiki/Bugzilla" title="Bugzilla">Bugzilla</a></li>
+<li><a href="/wiki/Dada_Mail" title="Dada Mail">Dada Mail</a></li>
+<li><a href="/wiki/Make_(software)#Modern_versions" title="Make (software)">Makepp</a></li>
+<li><a href="/wiki/Movable_Type" title="Movable Type">Movable Type</a></li>
+<li><a href="/wiki/Munin_(network_monitoring_application)" title="Munin (network monitoring application)" class="mw-redirect">Munin</a></li>
+<li><a href="/wiki/OTRS" title="OTRS">OTRS</a></li>
+<li><a href="/wiki/SpamAssassin" title="SpamAssassin">SpamAssassin</a></li>
+<li><a href="/wiki/TWiki" title="TWiki">TWiki</a>/<a href="/wiki/Foswiki" title="Foswiki">Foswiki</a></li>
+<li><a href="/wiki/W3Perl" title="W3Perl">W3Perl</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/Outline_of_Perl" title="Outline of Perl">Outline</a></b></li>
+<li><b><a href="/wiki/Category:Perl" title="Category:Perl">Category</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n94-024390">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/91402770">91402770</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n94024390">n94024390</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000110763894">0000 0001 1076 3894</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/138937079">138937079</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/034802061">034802061</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12551776r">cb12551776r</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12551776r">(data)</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00476771">00476771</a></span></li>
+<li><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0166029&amp;CON_LNG=ENG">xx0166029</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1085
+Cached time: 20160106063337
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.439 seconds
+Real time usage: 0.546 seconds
+Preprocessor visited node count: 1890/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43335/2097152 bytes
+Template argument size: 2344/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Lua time usage: 0.183/10.000 seconds
+Lua memory usage: 4.62 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  468.041      1 - -total
+ 26.99%  126.324      1 - Template:Reflist
+ 24.56%  114.948      1 - Template:Infobox_person
+ 17.47%   81.772      1 - Template:Infobox
+ 13.77%   64.455      4 - Template:Cite_web
+  9.37%   43.865      1 - Template:BLP_sources
+  8.35%   39.078      1 - Template:Ambox
+  8.09%   37.879      1 - Template:Use_mdy_dates
+  7.90%   36.970      4 - Template:Citation
+  6.14%   28.753      5 - Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17519-0!*!0!!en!4!* and timestamp 20160106063337 and revision id 697296572
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Larry_Wall&amp;oldid=697296572">https://en.wikipedia.org/w/index.php?title=Larry_Wall&amp;oldid=697296572</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1954_births" title="Category:1954 births">1954 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_computer_programmers" title="Category:American computer programmers">American computer programmers</a></li><li><a href="/wiki/Category:Free_software_programmers" title="Category:Free software programmers">Free software programmers</a></li><li><a href="/wiki/Category:Perl_writers" title="Category:Perl writers">Perl writers</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:Seattle_Pacific_University_alumni" title="Category:Seattle Pacific University alumni">Seattle Pacific University alumni</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_alumni" title="Category:University of California, Berkeley alumni">University of California, Berkeley alumni</a></li><li><a href="/wiki/Category:American_Christians" title="Category:American Christians">American Christians</a></li><li><a href="/wiki/Category:American_members_of_the_Church_of_the_Nazarene" title="Category:American members of the Church of the Nazarene">American members of the Church of the Nazarene</a></li><li><a href="/wiki/Category:O%27Reilly_writers" title="Category:O'Reilly writers">O'Reilly writers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_October_2012" title="Category:Use mdy dates from October 2012">Use mdy dates from October 2012</a></li><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_June_2011" title="Category:BLP articles lacking sources from June 2011">BLP articles lacking sources from June 2011</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2012" title="Category:Articles with unsourced statements from March 2012">Articles with unsourced statements from March 2012</a></li><li><a href="/wiki/Category:Spoken_articles" title="Category:Spoken articles">Spoken articles</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Larry+Wall&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Larry+Wall" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Larry_Wall"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Larry_Wall"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Larry_Wall" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Larry_Wall&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Larry_Wall&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Larry_Wall" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Larry_Wall" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Larry_Wall&amp;oldid=697296572" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Larry_Wall&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92597" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Larry_Wall&amp;id=697296572" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Larry+Wall">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Larry+Wall&amp;returnto=Larry+Wall&amp;oldid=697296572&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Larry_Wall&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%84%D8%A7%D8%B1%D9%8A_%D9%88%D9%88%D9%84" title="لاري وول – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0%E0%A6%BF_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B2" title="ল্যারি ওয়াল – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%84%D8%B1%DB%8C_%D9%88%D8%A7%D9%84" title="لری وال – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%9E%98%EB%A6%AC_%EC%9B%94" title="래리 월 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9C%D7%90%D7%A8%D7%99_%D7%95%D7%95%D7%9C" title="לארי וול – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Laris_Volas" title="Laris Volas – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B2%E0%B4%BE%E0%B4%B1%E0%B4%BF_%E0%B4%B5%E0%B4%BE%E0%B5%BE" title="ലാറി വാൾ – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB" title="ラリー・ウォール – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-or"><a href="//or.wikipedia.org/wiki/%E0%AC%B2%E0%AD%8D%E0%AD%9F%E0%AC%BE%E0%AC%B0%E0%AD%80_%E0%AD%B1%E0%AC%BE%E0%AC%B2%E0%AD%8D%E2%80%8C" title="ଲ୍ୟାରୀ ୱାଲ୍‌ – Oriya" lang="or" hreflang="or">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BB%D0%BB,_%D0%9B%D0%B0%D1%80%D1%80%D0%B8" title="Уолл, Ларри – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9B%D0%B0%D1%80%D0%B8_%D0%92%D0%BE%D0%BB" title="Лари Вол – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%81%E0%B8%A5%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B5_%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B9%8C" title="แลร์รี วอลล์ – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Larry_Wall" title="Larry Wall – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9B%D0%B0%D1%80%D1%96_%D0%92%D0%BE%D0%BB%D0%BB" title="Ларі Волл – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%8B%89%E9%87%8C%C2%B7%E6%B2%83%E5%B0%94" title="拉里·沃尔 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92597#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 December 2015, at 15:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Larry_Wall&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1241"}); /* @nomin */
+} );</script>
+	</body>
+</html>

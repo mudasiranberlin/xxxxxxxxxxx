@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Martin Fowler - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Martin_Fowler","wgTitle":"Martin Fowler","wgCurRevisionId":689553293,"wgRevisionId":689553293,"wgArticleId":20286,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from May 2015","Use British English from May 2015","Articles with hCards","Commons category with page title same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Living people","1963 births","Alumni of University College London","British software engineers","British bloggers","British technology writers","Extreme programming","People from Walsall","People educated at Queen Mary's Grammar School","British expatriates in the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Martin_Fowler","wgRelevantArticleId":20286,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Webysther_20150414193208_-_Martin_Fowler.jpg/79px-Webysther_20150414193208_-_Martin_Fowler.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q74894","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Martin_Fowler" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Martin_Fowler&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Martin_Fowler&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Martin_Fowler" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Martin_Fowler skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Martin Fowler</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other people named Martin Fowler, see <a href="/wiki/Martin_Fowler_(disambiguation)" title="Martin Fowler (disambiguation)" class="mw-disambig">Martin Fowler (disambiguation)</a>.</div>
+<table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Martin Fowler</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Webysther_20150414193208_-_Martin_Fowler.jpg" class="image"><img alt="Webysther 20150414193208 - Martin Fowler.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Webysther_20150414193208_-_Martin_Fowler.jpg/220px-Webysther_20150414193208_-_Martin_Fowler.jpg" width="220" height="278" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Webysther_20150414193208_-_Martin_Fowler.jpg/330px-Webysther_20150414193208_-_Martin_Fowler.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Webysther_20150414193208_-_Martin_Fowler.jpg/440px-Webysther_20150414193208_-_Martin_Fowler.jpg 2x" data-file-width="3168" data-file-height="4001" /></a>
+<div>Talk at <a href="/wiki/University_of_S%C3%A3o_Paulo" title="University of São Paulo">University of São Paulo</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a> in 2015</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>1963 (age&#160;52–53)<br />
+<span class="birthplace"><a href="/wiki/Walsall" title="Walsall">Walsall</a>, <a href="/wiki/England" title="England">England</a></span></td>
+</tr>
+<tr>
+<th scope="row">Residence</th>
+<td class="label"><a href="/wiki/Melrose,_Massachusetts" title="Melrose, Massachusetts">Melrose</a>, Massachusetts</td>
+</tr>
+<tr>
+<th scope="row">Education</th>
+<td><a href="/wiki/University_College_London" title="University College London">University College London</a> <span class="nowrap">(<a href="/wiki/BSc" title="BSc" class="mw-redirect">BSc</a>, 1986)</span><sup id="cite_ref-mfbio_1-0" class="reference"><a href="#cite_note-mfbio-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Occupation</th>
+<td class="role">Software engineer, author, public speaker</td>
+</tr>
+<tr>
+<th scope="row">Employer</th>
+<td class="org"><a href="/wiki/ThoughtWorks" title="ThoughtWorks">ThoughtWorks</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://martinfowler.com/">martinfowler<wbr />.com</a></span></td>
+</tr>
+</table>
+<p><b>Martin Fowler</b> (born 1963) is a British <a href="/wiki/Software_engineer" title="Software engineer">software engineer</a>, author and international public speaker on software development, specializing in <a href="/wiki/Object_oriented_programming" title="Object oriented programming" class="mw-redirect">object-oriented</a> analysis and design, <a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">UML</a>, <a href="/wiki/Design_pattern_(computer_science)" title="Design pattern (computer science)" class="mw-redirect">patterns</a>, and <a href="/wiki/Agile_software_development" title="Agile software development">agile software development</a> methodologies, including <a href="/wiki/Extreme_programming" title="Extreme programming">extreme programming</a>.</p>
+<p>His 1999 book <i>Refactoring</i> popularized the practice of <a href="/wiki/Code_refactoring" title="Code refactoring">code refactoring</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> In 2004 he introduced <a href="/w/index.php?title=Presentation_Model&amp;action=edit&amp;redlink=1" class="new" title="Presentation Model (page does not exist)">Presentation Model</a> (PM), an <a href="/wiki/Architectural_pattern" title="Architectural pattern">architectural pattern</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Publications"><span class="tocnumber">2</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Fowler&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fowler was born and grew up in <a href="/wiki/Walsall,_England" title="Walsall, England" class="mw-redirect">Walsall, England</a>, where he went to <a href="/wiki/Queen_Mary%27s_Grammar_School" title="Queen Mary's Grammar School">Queen Mary's Grammar School</a> for his secondary education. He graduated at <a href="/wiki/University_College_London" title="University College London">University College London</a> in 1986. In 1994 he moved to the <a href="/wiki/United_States" title="United States">United States</a>, where he lives near <a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a> in the suburb of <a href="/wiki/Melrose,_Massachusetts" title="Melrose, Massachusetts">Melrose</a>.<sup id="cite_ref-mfbio_1-1" class="reference"><a href="#cite_note-mfbio-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Fowler started working with software in the early 1980s. Out of college in 1986 he started working in software development for <a href="/wiki/Coopers_%26_Lybrand" title="Coopers &amp; Lybrand" class="mw-redirect">Coopers &amp; Lybrand</a> until 1991.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> In 2000 he joined <a href="/wiki/ThoughtWorks" title="ThoughtWorks">ThoughtWorks</a>, a systems integration and consulting company,<sup id="cite_ref-mfbio_1-2" class="reference"><a href="#cite_note-mfbio-1"><span>[</span>1<span>]</span></a></sup> where he serves as Chief Scientist.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Fowler has written eight books on the topic of software development (see <i><a href="#Publications">Publications</a></i>). He is a member of the <i><a href="/wiki/Agile_Alliance" title="Agile Alliance" class="mw-redirect">Agile Alliance</a></i> and helped create the <a href="/wiki/Agile_software_development#The_Agile_Manifesto" title="Agile software development">Manifesto for Agile Software Development</a> in 2001, along with 16 fellow signatories.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> He maintains a <i><a href="/wiki/Bliki" title="Bliki" class="mw-redirect">bliki</a></i>, a mix of <a href="/wiki/Blog" title="Blog">blog</a> and <a href="/wiki/Wiki" title="Wiki">wiki</a>. He popularized the term <a href="/wiki/Dependency_Injection" title="Dependency Injection" class="mw-redirect">Dependency Injection</a> as a form of <a href="/wiki/Inversion_of_Control" title="Inversion of Control" class="mw-redirect">Inversion of Control</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Fowler&amp;action=edit&amp;section=2" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>1996. <i>Analysis Patterns: Reusable Object Models</i>. Addison-Wesley. <a href="/wiki/Special:BookSources/0201895420" class="internal mw-magiclink-isbn">ISBN 0-201-89542-0</a>.</li>
+<li>1997. <i>UML Distilled: A Brief Guide to the Standard Object Modeling Language</i>. Addison-Wesley. <a href="/wiki/Special:BookSources/9780201325638" class="internal mw-magiclink-isbn">ISBN 978-0-201-32563-8</a>.</li>
+<li>1999. <i>Refactoring: Improving the Design of Existing Code</i>, With <a href="/wiki/Kent_Beck" title="Kent Beck">Kent Beck</a>, John Brant, <a href="/wiki/William_Opdyke" title="William Opdyke">William Opdyke</a>, and Don Roberts (June 1999). Addison-Wesley. <a href="/wiki/Special:BookSources/0201485672" class="internal mw-magiclink-isbn">ISBN 0-201-48567-2</a>.</li>
+<li>2000. <i>Planning Extreme Programming</i>. With <a href="/wiki/Kent_Beck" title="Kent Beck">Kent Beck</a>. Addison-Wesley. <a href="/wiki/Special:BookSources/0201710919" class="internal mw-magiclink-isbn">ISBN 0-201-71091-9</a>.</li>
+<li>2002. <i>Patterns of Enterprise Application Architecture</i>. With David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, and Randy Stafford. Addison-Wesley. <a href="/wiki/Special:BookSources/0321127420" class="internal mw-magiclink-isbn">ISBN 0-321-12742-0</a>.</li>
+<li>2010. <i>Domain-Specific Languages</i>. With Rebecca Parsons. Addison-Wesley. <a href="/wiki/Special:BookSources/9780321712943" class="internal mw-magiclink-isbn">ISBN 978-0-321-71294-3</a>.</li>
+<li>2012. <i>NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence</i>. With Pramod Sadalage. Addison-Wesley. <a href="/wiki/Special:BookSources/9780321826626" class="internal mw-magiclink-isbn">ISBN 978-0-321-82662-6</a>.</li>
+<li>2013. <i>Refactoring: Ruby Edition</i>. With <a href="/wiki/Kent_Beck" title="Kent Beck">Kent Beck</a>, Shane Harvie, and Jay Fields. Addison-Wesley. <a href="/wiki/Special:BookSources/9780321984135" class="internal mw-magiclink-isbn">ISBN 978-0-321-98413-5</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Fowler&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-mfbio-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-mfbio_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mfbio_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mfbio_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://martinfowler.com/aboutMe.html">Martin Fowler</a> at martinfowler.com. Retrieved 2012-11-15.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Stephane Faroult; Pascal L'Hermite (2008). <i>Refactoring SQL Applications.</i> O'Reilly Media. p. 8. <a href="/wiki/Special:BookSources/9780596551773" class="internal mw-magiclink-isbn">ISBN 978-0-596-55177-3</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Stephen Chin; Dean Iverson; Oswald Campesato; Paul Trani (2011). <i>Pro Android Flash</i>. Apress. p. 300. <a href="/wiki/Special:BookSources/9781430232322" class="internal mw-magiclink-isbn">ISBN 978-1-4302-3232-2</a>.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">James A. Highsmith (2002). <i>Agile Software Development Ecosystems</i>. Addison-Wesley Professional. p. 133. <a href="/wiki/Special:BookSources/9780201760439" class="internal mw-magiclink-isbn">ISBN 978-0-201-76043-9</a>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.thoughtworks.com/profiles/martin-fowler">Martin Fowler | ThoughtWorks</a>. Retrieved 2015-03-30.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://agilemanifesto.org/">Manifesto for Agile Software Development</a>. Retrieved 2012-12-10.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Kamil Piętak; Marek Kisiel-Dorohinicki (2013). "Agent-Based Framework Facilitating Component-Based Implementation of Distributed Computational Intelligence Systems". In Ngoc-Thanh Nguyen; Joanna Kołodziej; Tadeusz Burczyński et al. <i><a rel="nofollow" class="external text" href="http://books.google.com/books?id=EJS6BQAAQBAJ&amp;pg=PA38">Transactions on Computational Collective Intelligence X</a></i>. Springer. p. 38. <a href="/wiki/Special:BookSources/9783642384967" class="internal mw-magiclink-isbn">ISBN 978-3-642-38496-7</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Martin Fowler (2004) "<a rel="nofollow" class="external text" href="http://martinfowler.com/articles/injection.html">Inversion of Control Containers and the Dependency Injection pattern</a>". Retrieved 2012-11-15.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Fowler&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Special:Search/Martin_Fowler" class="extiw" title="q:Special:Search/Martin Fowler">Martin Fowler</a></b></i></td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Martin_Fowler" class="extiw" title="commons:Category:Martin Fowler">Martin Fowler</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://martinfowler.com/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.artima.com/intv/martin.html">A Conversation with Martin Fowler</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Software_engineering" title="Template:Software engineering"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Software_engineering" title="Template talk:Software engineering"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Software_engineering&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Software_engineering" title="Software engineering">Software engineering</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_programming" title="Computer programming">Computer programming</a></li>
+<li><a href="/wiki/Requirements_engineering" title="Requirements engineering">Requirements engineering</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Software_testing" title="Software testing">Software testing</a></li>
+<li><a href="/wiki/Systems_analysis" title="Systems analysis">Systems analysis</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_modeling" title="Data modeling">Data modeling</a></li>
+<li><a href="/wiki/Enterprise_architecture" title="Enterprise architecture">Enterprise architecture</a></li>
+<li><a href="/wiki/Functional_specification" title="Functional specification">Functional specification</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Orthogonality_(programming)" title="Orthogonality (programming)">Orthogonality</a></li>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Software" title="Software">Software</a></li>
+<li><a href="/wiki/Software_archaeology" title="Software archaeology">Software archaeology</a></li>
+<li><a href="/wiki/Software_architecture" title="Software architecture">Software architecture</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Software_development_methodology" title="Software development methodology" class="mw-redirect">Software development methodology</a></li>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+<li><a href="/wiki/Software_quality_assurance" title="Software quality assurance">Software quality assurance</a></li>
+<li><a href="/wiki/Software_verification_and_validation" title="Software verification and validation">Software verification and validation</a></li>
+<li><a href="/wiki/Structured_analysis" title="Structured analysis">Structured analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Orientations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Aspect-oriented_software_development" title="Aspect-oriented software development">Aspect-oriented</a></li>
+<li><a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object orientation</a></li>
+<li><a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">Ontology</a></li>
+<li><a href="/wiki/Service-oriented_architecture" title="Service-oriented architecture">Service orientation</a></li>
+<li><a href="/wiki/Systems_development_life_cycle" title="Systems development life cycle">SDLC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Models</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Developmental</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Enterprise_Unified_Process" title="Enterprise Unified Process">EUP</a></li>
+<li><a href="/wiki/Executable_UML" title="Executable UML">Executable UML</a></li>
+<li><a href="/wiki/Incremental_build_model" title="Incremental build model">Incremental model</a></li>
+<li><a href="/wiki/Iterative_and_incremental_development" title="Iterative and incremental development">Iterative model</a></li>
+<li><a href="/wiki/Software_prototyping" title="Software prototyping">Prototype model</a></li>
+<li><a href="/wiki/Rapid_application_development" title="Rapid application development">RAD</a></li>
+<li><a href="/wiki/Unified_Process" title="Unified Process">UP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Other</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO/IEC_15504" title="ISO/IEC 15504">SPICE</a></li>
+<li><a href="/wiki/Capability_Maturity_Model_Integration" title="Capability Maturity Model Integration">CMMI</a></li>
+<li><a href="/wiki/Data_model" title="Data model">Data model</a></li>
+<li><a href="/wiki/Entity%E2%80%93relationship_model" title="Entity–relationship model">ER model</a></li>
+<li><a href="/wiki/Function_model" title="Function model">Function model</a></li>
+<li><a href="/wiki/Information_model" title="Information model">Information model</a></li>
+<li><a href="/wiki/Metamodeling" title="Metamodeling">Metamodeling</a></li>
+<li><a href="/wiki/Object_model" title="Object model">Object model</a></li>
+<li><a href="/wiki/Systems_modeling" title="Systems modeling">Systems model</a></li>
+<li><a href="/wiki/View_model" title="View model">View model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Languages</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/IDEF" title="IDEF">IDEF</a></li>
+<li><a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">UML</a></li>
+<li><a href="/wiki/Systems_Modeling_Language" title="Systems Modeling Language">SysML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Software<br />
+engineers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kent_Beck" title="Kent Beck">Kent Beck</a></li>
+<li><a href="/wiki/Grady_Booch" title="Grady Booch">Grady Booch</a></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a></li>
+<li><a href="/wiki/Barry_Boehm" title="Barry Boehm">Barry Boehm</a></li>
+<li><a href="/wiki/Ward_Cunningham" title="Ward Cunningham">Ward Cunningham</a></li>
+<li><a href="/wiki/Tom_DeMarco" title="Tom DeMarco">Tom DeMarco</a></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a></li>
+<li><strong class="selflink">Martin Fowler</strong></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">C. A. R. Hoare</a></li>
+<li><a href="/wiki/Watts_Humphrey" title="Watts Humphrey">Watts Humphrey</a></li>
+<li><a href="/wiki/Michael_A._Jackson" title="Michael A. Jackson">Michael A. Jackson</a></li>
+<li><a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Ivar Jacobson</a></li>
+<li><a href="/wiki/Stephen_J._Mellor" title="Stephen J. Mellor">Stephen J. Mellor</a></li>
+<li><a href="/wiki/Bertrand_Meyer" title="Bertrand Meyer">Bertrand Meyer</a></li>
+<li><a href="/wiki/David_Parnas" title="David Parnas">David Parnas</a></li>
+<li><a href="/wiki/Winston_W._Royce" title="Winston W. Royce">Winston W. Royce</a></li>
+<li><a href="/wiki/James_Rumbaugh" title="James Rumbaugh">James Rumbaugh</a></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a></li>
+<li><a href="/wiki/Edward_Yourdon" title="Edward Yourdon">Edward Yourdon</a></li>
+<li><a href="/wiki/Victor_Basili" title="Victor Basili">Victor Basili</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related fields</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_science" title="Computer science">Computer science</a></li>
+<li><a href="/wiki/Computer_engineering" title="Computer engineering">Computer engineering</a></li>
+<li><a href="/wiki/Project_management" title="Project management">Project management</a></li>
+<li><a href="/wiki/Risk_management" title="Risk management">Risk management</a></li>
+<li><a href="/wiki/Systems_engineering" title="Systems engineering">Systems engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Software_engineering" title="Category:Software engineering">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="//commons.wikimedia.org/wiki/Software_engineering" class="extiw" title="commons:Software engineering">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n97-040648">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/5145169">5145169</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n97040648">n97040648</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000110363508">0000 0001 1036 3508</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/115868321">115868321</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/059300388">059300388</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb144035177">cb144035177</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb144035177">(data)</a></span></li>
+<li><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=mzk2003175444&amp;CON_LNG=ENG">mzk2003175444</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1121
+Cached time: 20160106133101
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.324 seconds
+Real time usage: 0.395 seconds
+Preprocessor visited node count: 1868/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38137/2097152 bytes
+Template argument size: 1967/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.094/10.000 seconds
+Lua memory usage: 2.25 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  319.215      1 - -total
+ 36.07%  115.148      1 - Template:Infobox_person
+ 24.86%   79.367      1 - Template:Infobox
+ 18.31%   58.451      2 - Template:Navbox
+ 15.86%   50.617      1 - Template:Software_engineering
+ 12.48%   39.835      1 - Template:Use_dmy_dates
+  8.85%   28.243      1 - Template:Authority_control
+  7.06%   22.521      1 - Template:Wikidata_image
+  6.18%   19.727      2 - Template:DMCA
+  5.91%   18.872      5 - Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:20286-0!*!0!!en!4!* and timestamp 20160106133100 and revision id 689553293
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Martin_Fowler&amp;oldid=689553293">https://en.wikipedia.org/w/index.php?title=Martin_Fowler&amp;oldid=689553293</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:1963_births" title="Category:1963 births">1963 births</a></li><li><a href="/wiki/Category:Alumni_of_University_College_London" title="Category:Alumni of University College London">Alumni of University College London</a></li><li><a href="/wiki/Category:British_software_engineers" title="Category:British software engineers">British software engineers</a></li><li><a href="/wiki/Category:British_bloggers" title="Category:British bloggers">British bloggers</a></li><li><a href="/wiki/Category:British_technology_writers" title="Category:British technology writers">British technology writers</a></li><li><a href="/wiki/Category:Extreme_programming" title="Category:Extreme programming">Extreme programming</a></li><li><a href="/wiki/Category:People_from_Walsall" title="Category:People from Walsall">People from Walsall</a></li><li><a href="/wiki/Category:People_educated_at_Queen_Mary%27s_Grammar_School" title="Category:People educated at Queen Mary's Grammar School">People educated at Queen Mary's Grammar School</a></li><li><a href="/wiki/Category:British_expatriates_in_the_United_States" title="Category:British expatriates in the United States">British expatriates in the United States</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_May_2015" title="Category:Use dmy dates from May 2015">Use dmy dates from May 2015</a></li><li><a href="/wiki/Category:Use_British_English_from_May_2015" title="Category:Use British English from May 2015">Use British English from May 2015</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Martin+Fowler&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Martin+Fowler" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Martin_Fowler"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Martin_Fowler"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Martin_Fowler" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Martin_Fowler&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Martin_Fowler&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Martin_Fowler" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Martin_Fowler" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Martin_Fowler&amp;oldid=689553293" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Martin_Fowler&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q74894" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Martin_Fowler&amp;id=689553293" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Martin+Fowler">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Martin+Fowler&amp;returnto=Martin+Fowler&amp;oldid=689553293&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Martin_Fowler&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD_%D0%A4%D0%B0%D1%83%D0%BB%D1%8A%D1%80" title="Мартин Фаулър – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Martin_Fowler" title="Martin Fowler – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Martin_Fowler" title="Martin Fowler – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Martin_Fowler" title="Martin Fowler – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D8%AA%DB%8C%D9%86_%D9%81%D9%88%D9%84%D8%B1" title="مارتین فولر – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Martin_Fowler" title="Martin Fowler – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Martin_Fowler" title="Martin Fowler – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Martin_Fowler" title="Martin Fowler – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A1%E3%82%A6%E3%83%A9%E3%83%BC" title="マーティン・ファウラー – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Martin_Fowler" title="Martin Fowler – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Martin_Fowler" title="Martin Fowler – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%83%D0%BB%D0%B5%D1%80,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD" title="Фаулер, Мартин – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Martin_Fowler" title="Martin Fowler – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D1%96%D0%BD_%D0%A4%D0%B0%D1%83%D0%BB%D0%B5%D1%80" title="Мартін Фаулер – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%A9%AC%E4%B8%81%C2%B7%E7%A6%8F%E5%8B%92" title="马丁·福勒 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q74894#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 November 2015, at 23:04.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Martin_Fowler&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1113"}); /* @nomin */
+} );</script>
+	</body>
+</html>

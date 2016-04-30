@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Silvio Micali - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Silvio_Micali","wgTitle":"Silvio Micali","wgCurRevisionId":678353845,"wgRevisionId":678353845,"wgArticleId":1385119,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","1954 births","Living people","Theoretical computer scientists","Italian computer scientists","American computer scientists","American people of Italian descent","Modern cryptographers","Gödel Prize laureates","Massachusetts Institute of Technology faculty","University of California, Berkeley alumni","Members of the United States National Academy of Engineering","Members of the United States National Academy of Sciences","Turing Award laureates","IACR fellows"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Silvio_Micali","wgRelevantArticleId":1385119,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silvio_Micali_IMG_0459.jpg/100px-Silvio_Micali_IMG_0459.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-gb","en","pt-br","pt"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q93080","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Silvio_Micali" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Silvio_Micali&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Silvio_Micali&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Silvio_Micali" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Silvio_Micali skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Silvio Micali</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Silvio Micali</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Silvio_Micali_IMG_0459.jpg" class="image"><img alt="Silvio Micali IMG 0459.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silvio_Micali_IMG_0459.jpg/220px-Silvio_Micali_IMG_0459.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silvio_Micali_IMG_0459.jpg/330px-Silvio_Micali_IMG_0459.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silvio_Micali_IMG_0459.jpg/440px-Silvio_Micali_IMG_0459.jpg 2x" data-file-width="3744" data-file-height="3744" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1954-10-13</span>)</span> October 13, 1954 <span class="noprint ForceAgeToShow">(age&#160;61)</span><br />
+<a href="/wiki/Palermo" title="Palermo">Palermo</a>, <a href="/wiki/Italy" title="Italy">Italy</a></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/Italian_American" title="Italian American" class="mw-redirect">Italian American</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a><br />
+<a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory" title="MIT Computer Science and Artificial Intelligence Laboratory">MIT Computer Science and Artificial Intelligence Laboratory</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/La_Sapienza_University_of_Rome" title="La Sapienza University of Rome" class="mw-redirect">La Sapienza University of Rome</a><br />
+<a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><a rel="nofollow" class="external text" href="http://search.proquest.com/docview/303128130"><i>Randomness versus Hardness</i></a>&#160;<span style="font-size:90%;">(1983)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a><sup id="cite_ref-mathgene_1-0" class="reference"><a href="#cite_note-mathgene-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a href="/wiki/Mihir_Bellare" title="Mihir Bellare">Mihir Bellare</a><br />
+<a href="/wiki/Rafail_Ostrovsky" title="Rafail Ostrovsky">Rafail Ostrovsky</a><br />
+<a href="/wiki/Phillip_Rogaway" title="Phillip Rogaway">Phillip Rogaway</a><br />
+<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-mathgene_1-1" class="reference"><a href="#cite_note-mathgene-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Goldwasser%E2%80%93Micali_cryptosystem" title="Goldwasser–Micali cryptosystem">Goldwasser–Micali cryptosystem</a><br />
+<a href="/wiki/Zero-knowledge_proof" title="Zero-knowledge proof">Zero-knowledge proof</a><sup id="cite_ref-turing_3-0" class="reference"><a href="#cite_note-turing-3"><span>[</span>3<span>]</span></a></sup><br />
+<a href="/wiki/Pseudorandom_function_family" title="Pseudorandom function family">Pseudorandom Functions</a><br />
+<a href="/wiki/Peppercoin" title="Peppercoin">Peppercoin</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/G%C3%B6del_Prize" title="Gödel Prize">Gödel Prize</a> (1993)<br />
+<a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> <small>(2012)</small><sup id="cite_ref-turing_3-1" class="reference"><a href="#cite_note-turing-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Website</b><br />
+<span class="url"><a rel="nofollow" class="external text" href="http://people.csail.mit.edu/silvio">people<wbr />.csail<wbr />.mit<wbr />.edu<wbr />/silvio</a></span></td>
+</tr>
+</table>
+<p><b>Silvio Micali</b> (born October 13, 1954) is an <a href="/wiki/Palermo" title="Palermo">Italian</a>-born <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> at <a href="/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory" title="MIT Computer Science and Artificial Intelligence Laboratory">MIT Computer Science and Artificial Intelligence Laboratory</a> and a <a href="/wiki/Professor" title="Professor">professor</a> of computer science in <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a>'s Department of Electrical Engineering and Computer Science since 1983. His research centers on the theory of <a href="/wiki/Cryptography" title="Cryptography">cryptography</a> and <a href="/wiki/Information_security" title="Information security">information security</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-dblp_14-0" class="reference"><a href="#cite_note-dblp-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-acm_15-0" class="reference"><a href="#cite_note-acm-15"><span>[</span>15<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education"><span class="tocnumber">1</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Research"><span class="tocnumber">2</span> <span class="toctext">Research</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Awards"><span class="tocnumber">3</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Silvio_Micali&amp;action=edit&amp;section=1" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Micali graduated in mathematics at <a href="/wiki/La_Sapienza_University_of_Rome" title="La Sapienza University of Rome" class="mw-redirect">La Sapienza University of Rome</a> in 1978 and earned a <a href="/wiki/Ph.D." title="Ph.D." class="mw-redirect">Ph.D.</a> degree in computer science from the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> in 1982;<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> his PhD thesis adviser was <a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a>.<sup id="cite_ref-mathgene_1-2" class="reference"><a href="#cite_note-mathgene-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Silvio_Micali&amp;action=edit&amp;section=2" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Micali is best known for some of his fundamental early work on <a href="/wiki/Public-key_cryptosystem" title="Public-key cryptosystem" class="mw-redirect">public-key cryptosystems</a>, <a href="/wiki/Pseudorandom_function" title="Pseudorandom function" class="mw-redirect">pseudorandom functions</a>, <a href="/wiki/Digital_signature" title="Digital signature">digital signatures</a>, <a href="/wiki/Oblivious_transfer" title="Oblivious transfer">oblivious transfer</a>, <a href="/wiki/Secure_multiparty_computation" title="Secure multiparty computation" class="mw-redirect">secure multiparty computation</a>, and is one of the co-inventors of <a href="/wiki/Zero-knowledge_proof" title="Zero-knowledge proof">zero-knowledge proofs</a>.<sup id="cite_ref-noninteractive_17-0" class="reference"><a href="#cite_note-noninteractive-17"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Silvio_Micali&amp;action=edit&amp;section=3" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Micali won the <a href="/wiki/G%C3%B6del_Prize" title="Gödel Prize">Gödel Prize</a> in 1993.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> In 2007, he was selected to be a member of the <a href="/wiki/United_States_National_Academy_of_Sciences" title="United States National Academy of Sciences" class="mw-redirect">National Academy of Sciences</a> and a Fellow of the <a href="/wiki/International_Association_for_Cryptologic_Research" title="International Association for Cryptologic Research">IACR</a>. He is also a member of the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> and the <a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">American Academy of Arts and Sciences</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> He received the <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a><sup id="cite_ref-turing_3-2" class="reference"><a href="#cite_note-turing-3"><span>[</span>3<span>]</span></a></sup> for the year 2012 along with <a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a> for their work in the field of cryptography.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Silvio_Micali&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-mathgene-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-mathgene_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mathgene_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mathgene_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=77138">Silvio Micali</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://people.csail.mit.edu/silvio/CV.pdf">http://people.csail.mit.edu/silvio/CV.pdf</a></span></li>
+<li id="cite_note-turing-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-turing_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-turing_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-turing_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Savage, N. (2013). "Proofs probable: Shafi Goldwasser and Silvio Micali laid the foundations for modern cryptography, with contributions including interactive and zero-knowledge proofs". <i>Communications of the ACM</i> <b>56</b> (6): 22. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F2461256.2461265">10.1145/2461256.2461265</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.atitle=Proofs+probable%3A+Shafi+Goldwasser+and+Silvio+Micali+laid+the+foundations+for+modern+cryptography%2C+with+contributions+including+interactive+and+zero-knowledge+proofs&amp;rft.aufirst=N.&amp;rft.aulast=Savage&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F2461256.2461265&amp;rft.issue=6&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=22&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=56" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fischer, M. J.; Micali, S.; Rackoff, C. (1996). "A secure protocol for the oblivious transfer (extended abstract)". <i>Journal of Cryptology</i> <b>9</b> (3). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF00208002">10.1007/BF00208002</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.atitle=A+secure+protocol+for+the+oblivious+transfer+%28extended+abstract%29&amp;rft.aufirst=M.+J.&amp;rft.aulast=Fischer&amp;rft.au=Micali%2C+S.&amp;rft.au=Rackoff%2C+C.&amp;rft.date=1996&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF00208002&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Cryptology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Oded_Goldreich" title="Oded Goldreich">Goldreich, O.</a>; Micali, S.; <a href="/wiki/Avi_Wigderson" title="Avi Wigderson">Wigderson, A.</a> (July 1991). <a rel="nofollow" class="external text" href="http://www.wisdom.weizmann.ac.il/~oded/X/gmw1j.pdf">"Proofs that yield nothing but their validity or all languages in NP have zero-knowledge proof systems"</a> <span style="font-size:85%;">(PDF)</span>. <i>Journal of the ACM</i> <b>38</b> (3): 690. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F116825.116852">10.1145/116825.116852</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.atitle=Proofs+that+yield+nothing+but+their+validity+or+all+languages+in+NP+have+zero-knowledge+proof+systems&amp;rft.aufirst=O.&amp;rft.aulast=Goldreich&amp;rft.au=Micali%2C+S.&amp;rft.au=Wigderson%2C+A.&amp;rft.date=1991-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.wisdom.weizmann.ac.il%2F~oded%2FX%2Fgmw1j.pdf&amp;rft_id=info%3Adoi%2F10.1145%2F116825.116852&amp;rft.issue=3&amp;rft.jtitle=Journal+of+the+ACM&amp;rft.pages=690&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=38" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Blum, M.; De Santis, A.; Micali, S.; Persiano, G. (1991). "Noninteractive Zero-Knowledge". <i>SIAM Journal on Computing</i> <b>20</b> (6): 1084. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1137%2F0220068">10.1137/0220068</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.atitle=Noninteractive+Zero-Knowledge&amp;rft.au=De+Santis%2C+A.&amp;rft.aufirst=M.&amp;rft.aulast=Blum&amp;rft.au=Micali%2C+S.&amp;rft.au=Persiano%2C+G.&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1137%2F0220068&amp;rft.issue=6&amp;rft.jtitle=SIAM+Journal+on+Computing&amp;rft.pages=1084&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ben-Or, M.; Goldreich, O.; Micali, S.; Rivest, R. L. (1990). "A fair protocol for signing contracts". <i>IEEE Transactions on Information Theory</i> <b>36</b>: 40. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2F18.50372">10.1109/18.50372</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.atitle=A+fair+protocol+for+signing+contracts&amp;rft.aufirst=M.&amp;rft.au=Goldreich%2C+O.&amp;rft.aulast=Ben-Or&amp;rft.au=Micali%2C+S.&amp;rft.au=Rivest%2C+R.+L.&amp;rft.date=1990&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2F18.50372&amp;rft.jtitle=IEEE+Transactions+on+Information+Theory&amp;rft.pages=40&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=36" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Goldwasser, S.</a>; Micali, S.; <a href="/wiki/Charles_Rackoff" title="Charles Rackoff">Rackoff, C.</a> (1989). <a rel="nofollow" class="external text" href="http://crypto.cs.mcgill.ca/~crepeau/COMP647/2007/TOPIC02/GMR89.pdf">"The Knowledge Complexity of Interactive Proof Systems"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/SIAM_Journal_on_Computing" title="SIAM Journal on Computing">SIAM J. Comput.</a></i> <b>18</b> (1): 186–208. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1137%2F0218012">10.1137/0218012</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.atitle=The+Knowledge+Complexity+of+Interactive+Proof+Systems&amp;rft.aufirst=S.&amp;rft.aulast=Goldwasser&amp;rft.au=Micali%2C+S.&amp;rft.au=Rackoff%2C+C.&amp;rft.date=1989&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcrypto.cs.mcgill.ca%2F~crepeau%2FCOMP647%2F2007%2FTOPIC02%2FGMR89.pdf&amp;rft_id=info%3Adoi%2F10.1137%2F0218012&amp;rft.issue=1&amp;rft.jtitle=SIAM+J.+Comput.&amp;rft.pages=186-208&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Goldwasser, S.</a>; Micali, S.; <a href="/wiki/Ron_Rivest" title="Ron Rivest">Rivest, R. L.</a> (1988). "A Digital Signature Scheme Secure Against Adaptive Chosen-Message Attacks". <i>SIAM Journal on Computing</i> <b>17</b> (2): 281. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1137%2F0217017">10.1137/0217017</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.atitle=A+Digital+Signature+Scheme+Secure+Against+Adaptive+Chosen-Message+Attacks&amp;rft.aufirst=S.&amp;rft.aulast=Goldwasser&amp;rft.au=Micali%2C+S.&amp;rft.au=Rivest%2C+R.+L.&amp;rft.date=1988&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1137%2F0217017&amp;rft.issue=2&amp;rft.jtitle=SIAM+Journal+on+Computing&amp;rft.pages=281&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=17" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Micali, S.; Rackoff, C.; Sloan, B. (1988). "The Notion of Security for Probabilistic Cryptosystems". <i>SIAM Journal on Computing</i> <b>17</b> (2): 412. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1137%2F0217025">10.1137/0217025</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.atitle=The+Notion+of+Security+for+Probabilistic+Cryptosystems&amp;rft.aufirst=S.&amp;rft.aulast=Micali&amp;rft.au=Rackoff%2C+C.&amp;rft.au=Sloan%2C+B.&amp;rft.date=1988&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1137%2F0217025&amp;rft.issue=2&amp;rft.jtitle=SIAM+Journal+on+Computing&amp;rft.pages=412&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=17" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Oded_Goldreich" title="Oded Goldreich">Goldreich, O.</a>; Micali, S.; <a href="/wiki/Avi_Wigderson" title="Avi Wigderson">Wigderson, A.</a> (1987). "How to play ANY mental game". <a rel="nofollow" class="external text" href="http://www.wisdom.weizmann.ac.il/~oded/gmw2.html"><i>Proceedings of the nineteenth annual ACM conference on Theory of computing - STOC '87</i></a>. pp.&#160;218–229. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F28395.28420">10.1145/28395.28420</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0897912217" title="Special:BookSources/0897912217">0897912217</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.atitle=How+to+play+ANY+mental+game&amp;rft.aufirst=O.&amp;rft.aulast=Goldreich&amp;rft.au=Micali%2C+S.&amp;rft.au=Wigderson%2C+A.&amp;rft.btitle=Proceedings+of+the+nineteenth+annual+ACM+conference+on+Theory+of+computing++-+STOC+%2787&amp;rft.date=1987&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.wisdom.weizmann.ac.il%2F~oded%2Fgmw2.html&amp;rft_id=info%3Adoi%2F10.1145%2F28395.28420&amp;rft.isbn=0897912217&amp;rft.pages=218-229&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Goldwasser, S.; Micali, S. (1984). "Probabilistic encryption". <i>Journal of Computer and System Sciences</i> <b>28</b> (2): 270. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0022-0000%2884%2990070-9">10.1016/0022-0000(84)90070-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.atitle=Probabilistic+encryption&amp;rft.aufirst=S.&amp;rft.aulast=Goldwasser&amp;rft.au=Micali%2C+S.&amp;rft.date=1984&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0022-0000%2884%2990070-9&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Computer+and+System+Sciences&amp;rft.pages=270&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=28" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Manuel_Blum" title="Manuel Blum">Blum, Manuel</a>; Micali, Silvio (1984). <a rel="nofollow" class="external text" href="http://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Pseudo%20Randomness/How_To_Generate_Cryptographically_Strong_Sequences_Of_Pseudo-Random_Bits.pdf">"How to Generate Cryptographically Strong Sequences of Pseudorandom Bits"</a> <span style="font-size:85%;">(PDF)</span>. <i>SIAM Journal on Computing</i> <b>13</b> (4): 850. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1137%2F0213053">10.1137/0213053</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.atitle=How+to+Generate+Cryptographically+Strong+Sequences+of+Pseudorandom+Bits&amp;rft.aufirst=Manuel&amp;rft.aulast=Blum&amp;rft.au=Micali%2C+Silvio&amp;rft.date=1984&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpeople.csail.mit.edu%2Fsilvio%2FSelected%2520Scientific%2520Papers%2FPseudo%2520Randomness%2FHow_To_Generate_Cryptographically_Strong_Sequences_Of_Pseudo-Random_Bits.pdf&amp;rft_id=info%3Adoi%2F10.1137%2F0213053&amp;rft.issue=4&amp;rft.jtitle=SIAM+Journal+on+Computing&amp;rft.pages=850&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dblp-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-dblp_14-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dblp.uni-trier.de/pers/hd/m/Micali:Silvio">Silvio Micali's publications</a> indexed by the <a href="/wiki/DBLP" title="DBLP">DBLP Bibliography Server</a> at the <a href="/wiki/University_of_Trier" title="University of Trier">University of Trier</a></span></li>
+<li id="cite_note-acm-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-acm_15-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dl.acm.org/author_page.cfm?id=81100228636">Silvio Micali</a> from the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery (ACM)</a> Digital Library</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://people.csail.mit.edu/silvio/">http://people.csail.mit.edu/silvio/</a></span></li>
+<li id="cite_note-noninteractive-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-noninteractive_17-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Blum, M.; Feldman, P.; Micali, S. (1988). "Non-interactive zero-knowledge and its applications". <i>Proceedings of the twentieth annual ACM symposium on Theory of computing - STOC '88</i>. p.&#160;103. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F62212.62222">10.1145/62212.62222</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0897912640" title="Special:BookSources/0897912640">0897912640</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.atitle=Non-interactive+zero-knowledge+and+its+applications&amp;rft.au=Feldman%2C+P.&amp;rft.aufirst=M.&amp;rft.aulast=Blum&amp;rft.au=Micali%2C+S.&amp;rft.btitle=Proceedings+of+the+twentieth+annual+ACM+symposium+on+Theory+of+computing++-+STOC+%2788&amp;rft.date=1988&amp;rft.genre=bookitem&amp;rft_id=info%3Adoi%2F10.1145%2F62212.62222&amp;rft.isbn=0897912640&amp;rft.pages=103&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://sigact.acm.org/prizes/godel/">http://sigact.acm.org/prizes/godel/</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://theory.csail.mit.edu/awards.html">http://theory.csail.mit.edu/awards.html</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.acm.org/press-room/news-releases/2013/turing-award-12">"Goldwasser, Micali Receive ACM Turing Award for Advances in Cryptography"</a>. ACM<span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASilvio+Micali&amp;rft.btitle=Goldwasser%2C+Micali+Receive+ACM+Turing+Award+for+Advances+in+Cryptography&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.acm.org%2Fpress-room%2Fnews-releases%2F2013%2Fturing-award-12&amp;rft.pub=ACM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<p><br /></p>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:G%C3%B6del_Prize_laureates" title="Template:Gödel Prize laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:G%C3%B6del_Prize_laureates" title="Template talk:Gödel Prize laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:G%C3%B6del_Prize_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/G%C3%B6del_Prize" title="Gödel Prize">Gödel Prize</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/L%C3%A1szl%C3%B3_Babai" title="László Babai">Babai</a> / <a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Goldwasser</a> / <strong class="selflink">Micali</strong> / <a href="/wiki/Shlomo_Moran" title="Shlomo Moran">Moran</a> / <a href="/wiki/Charles_Rackoff" title="Charles Rackoff">Rackoff</a> <small>(1993)</small></li>
+<li><a href="/wiki/Johan_H%C3%A5stad" title="Johan Håstad">Håstad</a> <small>(1994)</small></li>
+<li><a href="/wiki/Neil_Immerman" title="Neil Immerman">Immerman</a> / <a href="/wiki/R%C3%B3bert_Szelepcs%C3%A9nyi" title="Róbert Szelepcsényi">Szelepcsényi</a> <small>(1995)</small></li>
+<li><a href="/wiki/Mark_Jerrum" title="Mark Jerrum">Jerrum</a> / <a href="/wiki/Alistair_Sinclair" title="Alistair Sinclair">Sinclair</a> <small>(1996)</small></li>
+<li><a href="/wiki/Joseph_Halpern" title="Joseph Halpern">Halpern</a> / <a href="/wiki/Yoram_Moses" title="Yoram Moses">Moses</a> <small>(1997)</small></li>
+<li><a href="/wiki/Seinosuke_Toda" title="Seinosuke Toda">Toda</a> <small>(1998)</small></li>
+<li><a href="/wiki/Peter_Shor" title="Peter Shor">Shor</a> <small>(1999)</small></li>
+<li><a href="/wiki/Moshe_Y._Vardi" title="Moshe Y. Vardi" class="mw-redirect">Vardi</a> / <a href="/wiki/Pierre_Wolper" title="Pierre Wolper">Wolper</a> <small>(2000)</small></li>
+<li><a href="/wiki/Sanjeev_Arora" title="Sanjeev Arora">Arora</a> / <a href="/wiki/Uriel_Feige" title="Uriel Feige">Feige</a> / <a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Goldwasser</a> / <a href="/wiki/Carsten_Lund" title="Carsten Lund">Lund</a> / <a href="/wiki/L%C3%A1szl%C3%B3_Lov%C3%A1sz" title="László Lovász">Lovász</a> / <a href="/wiki/Rajeev_Motwani" title="Rajeev Motwani">Motwani</a> / <a href="/wiki/Shmuel_Safra" title="Shmuel Safra">Safra</a> / <a href="/wiki/Madhu_Sudan" title="Madhu Sudan">Sudan</a> / <a href="/wiki/Mario_Szegedy" title="Mario Szegedy">Szegedy</a> <small>(2001)</small></li>
+<li><a href="/wiki/G%C3%A9raud_S%C3%A9nizergues" title="Géraud Sénizergues">Sénizergues</a> <small>(2002)</small></li>
+<li><a href="/wiki/Yoav_Freund" title="Yoav Freund">Freund</a> / <a href="/wiki/Robert_Schapire" title="Robert Schapire">Schapire</a> <small>(2003)</small></li>
+<li><a href="/wiki/Maurice_Herlihy" title="Maurice Herlihy">Herlihy</a> / <a href="/wiki/Michael_Saks_(mathematician)" title="Michael Saks (mathematician)">Saks</a> / <a href="/wiki/Nir_Shavit" title="Nir Shavit">Shavit</a> / <a href="/wiki/Fotios_Zaharoglou" title="Fotios Zaharoglou">Zaharoglou</a> <small>(2004)</small></li>
+<li><a href="/wiki/Noga_Alon" title="Noga Alon">Alon</a> / <a href="/wiki/Yossi_Matias" title="Yossi Matias">Matias</a> / <a href="/wiki/Mario_Szegedy" title="Mario Szegedy">Szegedy</a> <small>(2005)</small></li>
+<li><a href="/wiki/Manindra_Agrawal" title="Manindra Agrawal">Agrawal</a> / <a href="/wiki/Neeraj_Kayal" title="Neeraj Kayal">Kayal</a> / <a href="/wiki/Nitin_Saxena" title="Nitin Saxena">Saxena</a> <small>(2006)</small></li>
+<li><a href="/wiki/Alexander_Razborov" title="Alexander Razborov">Razborov</a> / <a href="/wiki/Steven_Rudich" title="Steven Rudich">Rudich</a> <small>(2007)</small></li>
+<li><a href="/wiki/Shang-Hua_Teng" title="Shang-Hua Teng">Teng</a> / <a href="/wiki/Daniel_Spielman" title="Daniel Spielman">Spielman</a> <small>(2008)</small></li>
+<li><a href="/wiki/Omer_Reingold" title="Omer Reingold">Reingold</a> / <a href="/wiki/Salil_Vadhan" title="Salil Vadhan">Vadhan</a> / <a href="/wiki/Avi_Wigderson" title="Avi Wigderson">Wigderson</a> <small>(2009)</small></li>
+<li><a href="/wiki/Sanjeev_Arora" title="Sanjeev Arora">Arora</a> / <a href="/wiki/Joseph_S._B._Mitchell" title="Joseph S. B. Mitchell">Mitchell</a> <small>(2010)</small></li>
+<li><a href="/wiki/Johan_H%C3%A5stad" title="Johan Håstad">Håstad</a> <small>(2011)</small></li>
+<li><a href="/w/index.php?title=Elias_Koutsoupias&amp;action=edit&amp;redlink=1" class="new" title="Elias Koutsoupias (page does not exist)">Koutsoupias</a> / <a href="/wiki/Christos_Papadimitriou" title="Christos Papadimitriou">Papadimitriou</a> / <a href="/wiki/Tim_Roughgarden" title="Tim Roughgarden">Roughgarden</a> / <a href="/wiki/%C3%89va_Tardos" title="Éva Tardos">Tardos</a> / <a href="/wiki/Noam_Nisan" title="Noam Nisan">Nisan</a> / <a href="/w/index.php?title=Amir_Ronen&amp;action=edit&amp;redlink=1" class="new" title="Amir Ronen (page does not exist)">Ronen</a> <small>(2012)</small></li>
+<li><a href="/wiki/Dan_Boneh" title="Dan Boneh">Boneh</a> / <a href="/wiki/Matthew_K._Franklin" title="Matthew K. Franklin">Franklin</a> / <a href="/wiki/Antoine_Joux" title="Antoine Joux">Joux</a> <small>(2013)</small></li>
+<li><a href="/wiki/Ronald_Fagin" title="Ronald Fagin">Fagin</a> / <a href="/w/index.php?title=Amnon_Lotem&amp;action=edit&amp;redlink=1" class="new" title="Amnon Lotem (page does not exist)">Lotem</a> / <a href="/wiki/Moni_Naor" title="Moni Naor">Naor</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Turing_Award_laureates" title="Template:Turing Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Turing_Award_laureates" title="Template talk:Turing Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Turing_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a> <small>(1966)</small></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Vincent Wilkes</a> <small>(1967)</small></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1968)</small></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> <small>(1969)</small></li>
+<li><a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a> <small>(1970)</small></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a> <small>(1971)</small></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a> <small>(1972)</small></li>
+<li><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a> <small>(1973)</small></li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> <small>(1974)</small></li>
+<li><a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a> / <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a> <small>(1975)</small></li>
+<li><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a> / <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> <small>(1976)</small></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> <small>(1977)</small></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a> <small>(1978)</small></li>
+<li><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a> <small>(1979)</small></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> <small>(1980)</small></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> <small>(1981)</small></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> <small>(1982)</small></li>
+<li><a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> / <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> <small>(1983)</small></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> <small>(1984)</small></li>
+<li><a href="/wiki/Richard_Karp" title="Richard Karp" class="mw-redirect">Richard Karp</a> <small>(1985)</small></li>
+<li><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a> / <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a> <small>(1986)</small></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a> <small>(1987)</small></li>
+<li><a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a> <small>(1988)</small></li>
+<li><a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a> <small>(1989)</small></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a> <small>(1990)</small></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> <small>(1991)</small></li>
+<li><a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a> <small>(1992)</small></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a> / <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a> <small>(1993)</small></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a> / <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a> <small>(1994)</small></li>
+<li><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a> <small>(1995)</small></li>
+<li><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a> <small>(1996)</small></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> <small>(1997)</small></li>
+<li><a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> <small>(1998)</small></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a> <small>(1999)</small></li>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Yao</a> <small>(2000)</small></li>
+<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a> / <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a> <small>(2001)</small></li>
+<li><a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a> / <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a> / <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a> <small>(2002)</small></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> <small>(2003)</small></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a> / <a href="/wiki/Bob_Kahn" title="Bob Kahn">Bob Kahn</a> <small>(2004)</small></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a> <small>(2005)</small></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a> <small>(2006)</small></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a> / <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a> / <a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a> <small>(2007)</small></li>
+<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> <small>(2008)</small></li>
+<li><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> <small>(2009)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie G. Valiant</a> <small>(2010)</small></li>
+<li><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a> <small>(2011)</small></li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a> / <strong class="selflink">Silvio Micali</strong> <small>(2012)</small></li>
+<li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> <small>(2013)</small></li>
+<li><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n88-601784">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/72965772">72965772</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n88601784">n88601784</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000027718849">0000 0000 2771 8849</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=77138">77138</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1075
+Cached time: 20160107165607
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.491 seconds
+Real time usage: 0.617 seconds
+Preprocessor visited node count: 1661/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 55141/2097152 bytes
+Template argument size: 1429/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.258/10.000 seconds
+Lua memory usage: 3.58 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  544.512      1 - -total
+ 62.48%  340.218      1 - Template:Reflist
+ 42.04%  228.907     10 - Template:Cite_journal
+ 21.66%  117.932      1 - Template:Infobox_scientist
+ 19.77%  107.669      1 - Template:Infobox
+  6.68%   36.379      1 - Template:Authority_control
+  5.64%   30.730      2 - Template:Cite_book
+  5.60%   30.500      4 - Template:Br_separated_entries
+  2.87%   15.606      1 - Template:Gödel_winners
+  2.81%   15.323      2 - Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1385119-0!*!0!!en!4!* and timestamp 20160107165606 and revision id 678353845
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Silvio_Micali&amp;oldid=678353845">https://en.wikipedia.org/w/index.php?title=Silvio_Micali&amp;oldid=678353845</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1954_births" title="Category:1954 births">1954 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Theoretical_computer_scientists" title="Category:Theoretical computer scientists">Theoretical computer scientists</a></li><li><a href="/wiki/Category:Italian_computer_scientists" title="Category:Italian computer scientists">Italian computer scientists</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:American_people_of_Italian_descent" title="Category:American people of Italian descent">American people of Italian descent</a></li><li><a href="/wiki/Category:Modern_cryptographers" title="Category:Modern cryptographers">Modern cryptographers</a></li><li><a href="/wiki/Category:G%C3%B6del_Prize_laureates" title="Category:Gödel Prize laureates">Gödel Prize laureates</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_faculty" title="Category:Massachusetts Institute of Technology faculty">Massachusetts Institute of Technology faculty</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_alumni" title="Category:University of California, Berkeley alumni">University of California, Berkeley alumni</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Sciences" title="Category:Members of the United States National Academy of Sciences">Members of the United States National Academy of Sciences</a></li><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li><li><a href="/wiki/Category:IACR_fellows" title="Category:IACR fellows">IACR fellows</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Silvio+Micali&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Silvio+Micali" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Silvio_Micali"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Silvio_Micali"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Silvio_Micali" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Silvio_Micali&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Silvio_Micali&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Silvio_Micali" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Silvio_Micali" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Silvio_Micali&amp;oldid=678353845" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Silvio_Micali&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q93080" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Silvio_Micali&amp;id=678353845" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Silvio+Micali">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Silvio+Micali&amp;returnto=Silvio+Micali&amp;oldid=678353845&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Silvio_Micali&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B3%D9%8A%D9%84%D9%81%D9%8A%D9%88_%D9%85%D9%8A%D9%83%D8%A7%D9%84%D9%8A" title="سيلفيو ميكالي – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BF%E0%A6%B2%E0%A6%AD%E0%A6%BF%E0%A6%93_%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BF" title="সিলভিও মিকালি – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Silvio_Micali" title="Silvio Micali – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Silvio_Micali" title="Silvio Micali – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Silvio_Micali" title="Silvio Micali – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A1%D7%99%D7%9C%D7%91%D7%99%D7%95_%D7%9E%D7%99%D7%A7%D7%90%D7%9C%D7%99" title="סילביו מיקאלי – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Silvio_Micali" title="Silvio Micali – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Silvio_Micali" title="Silvio Micali – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D0%B0%D0%BB%D0%B8,_%D0%A1%D0%B8%D0%BB%D1%8C%D0%B2%D0%B8%D0%BE" title="Микали, Сильвио – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%B8%8C%E7%88%BE%E7%B6%AD%E5%A5%A7%C2%B7%E7%B1%B3%E5%8D%A1%E5%88%A9" title="希爾維奧·米卡利 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q93080#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 August 2015, at 21:30.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Silvio_Micali&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":731,"wgHostname":"mw1075"}); /* @nomin */
+} );</script>
+	</body>
+</html>

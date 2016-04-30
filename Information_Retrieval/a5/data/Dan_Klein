@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Dan Klein - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dan_Klein","wgTitle":"Dan Klein","wgCurRevisionId":630574648,"wgRevisionId":630574648,"wgArticleId":15891015,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["American computer scientists","Grace Murray Hopper Award laureates","Living people","University of California, Berkeley College of Engineering faculty"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dan_Klein","wgRelevantArticleId":15891015,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q5213816","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dan_Klein" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dan_Klein&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dan_Klein&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dan_Klein" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Dan_Klein skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Dan Klein</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Daniel Klein</b> is an American computer scientist and associate professor of computer science at the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a>.</p>
+<p>He was educated at <a href="/wiki/Mt._Lebanon_High_School" title="Mt. Lebanon High School" class="mw-redirect">Mt. Lebanon High School</a> and was awarded BA in mathematics, computer science, and linguistics by <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a>, a Master of Studies (MSt) in linguistics by <a href="/wiki/Oxford_University" title="Oxford University" class="mw-redirect">Oxford University</a> and a Ph.D. by <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>.</p>
+<p>His research focuses on natural language processing and using computational methods to automatically acquire models of human languages. Examples include large-scale systems for language understanding as well as computational linguistics projects, such as the reconstruction of ancient languages.</p>
+<p>His honors and awards include a Marshall scholarship, the ACM's <a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">Grace Murray Hopper Award</a>, the <a href="/wiki/Sloan_Fellowship" title="Sloan Fellowship">Sloan Research Fellowship</a>, the NSF CAREER Award, and the Microsoft New Faculty Fellowship.</p>
+<p>He has published numerous papers.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dan_Klein&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;"></div>
+<ul>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eecs.berkeley.edu/Faculty/Homepages/klein.html">"Daniel Klein-Associate Professor"</a>. Electrical Engineering and Computer Sciences<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADan+Klein&amp;rft.btitle=Daniel+Klein-Associate+Professor&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.eecs.berkeley.edu%2FFaculty%2FHomepages%2Fklein.html&amp;rft.pub=Electrical+Engineering+and+Computer+Sciences&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<p><br /></p>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hopper_winners" title="Template:Hopper winners"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hopper_winners" title="Template talk:Hopper winners"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hopper_winners&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">Grace Murray Hopper Award</a> recipients</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Knuth</a>&#160;<small>(1971)</small></li>
+<li><a href="/wiki/Paul_H._Dirksen" title="Paul H. Dirksen" class="mw-redirect">Dirksen</a>&#160;<small>(1972)</small></li>
+<li><a href="/wiki/Paul_H._Cress" title="Paul H. Cress">Cress</a>&#160;<small>(1972)</small></li>
+<li><a href="/wiki/Lawrence_M._Breed" title="Lawrence M. Breed">Breed</a>/<a href="/wiki/Richard_H._Lathwell" title="Richard H. Lathwell">Lathwell</a>/<a href="/wiki/Roger_Moore_(computer_scientist)" title="Roger Moore (computer scientist)">Moore</a>&#160;<small>(1973)</small></li>
+<li><a href="/w/index.php?title=George_N._Baird&amp;action=edit&amp;redlink=1" class="new" title="George N. Baird (page does not exist)">Baird</a>&#160;<small>(1974)</small></li>
+<li><a href="/w/index.php?title=Allan_L._Scherr&amp;action=edit&amp;redlink=1" class="new" title="Allan L. Scherr (page does not exist)">Scherr</a>&#160;<small>(1975)</small></li>
+<li><a href="/wiki/Edward_H._Shortliffe" title="Edward H. Shortliffe">Shortliffe</a>&#160;<small>(1976)</small></li>
+<li><a href="/wiki/Ray_Kurzweil" title="Ray Kurzweil">Kurzweil</a>&#160;<small>(1978)</small></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Wozniak</a>&#160;<small>(1979)</small></li>
+<li><a href="/wiki/Robert_M._Metcalfe" title="Robert M. Metcalfe" class="mw-redirect">Metcalfe</a>&#160;<small>(1980)</small></li>
+<li><a href="/wiki/Daniel_S._Bricklin" title="Daniel S. Bricklin" class="mw-redirect">Bricklin</a>&#160;<small>(1981)</small></li>
+<li><a href="/wiki/Brian_Reid_(computer_scientist)" title="Brian Reid (computer scientist)">Reid</a>&#160;<small>(1982)</small></li>
+<li><a href="/wiki/Daniel_Henry_Holmes_Ingalls,_Jr." title="Daniel Henry Holmes Ingalls, Jr.">Ingalls</a>&#160;<small>(1984)</small></li>
+<li><a href="/w/index.php?title=Cordell_Green&amp;action=edit&amp;redlink=1" class="new" title="Cordell Green (page does not exist)">Green</a>&#160;<small>(1985)</small></li>
+<li><a href="/wiki/Bill_Joy" title="Bill Joy">Joy</a>&#160;<small>(1986)</small></li>
+<li><a href="/wiki/John_Ousterhout" title="John Ousterhout">Ousterhout</a>&#160;<small>(1987)</small></li>
+<li><a href="/wiki/Guy_L._Steele,_Jr." title="Guy L. Steele, Jr.">Steele</a>&#160;<small>(1988)</small></li>
+<li><a href="/wiki/W._Daniel_Hillis" title="W. Daniel Hillis" class="mw-redirect">Hillis</a>&#160;<small>(1989)</small></li>
+<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Stallman</a>&#160;<small>(1990)</small></li>
+<li><a href="/wiki/Feng-hsiung_Hsu" title="Feng-hsiung Hsu">Hsu</a>&#160;<small>(1991)</small></li>
+<li><a href="/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup">Stroustrup</a>&#160;<small>(1993)</small></li>
+<li><a href="/wiki/Shafrira_Goldwasser" title="Shafrira Goldwasser" class="mw-redirect">Goldwasser</a>&#160;<small>(1996)</small></li>
+<li><a href="/wiki/Wen-mei_Hwu" title="Wen-mei Hwu">Hwu</a>&#160;<small>(1999)</small></li>
+<li><a href="/wiki/Lydia_Kavraki" title="Lydia Kavraki">Kavraki</a>&#160;<small>(2000)</small></li>
+<li><a href="/wiki/George_Necula" title="George Necula">Necula</a>&#160;<small>(2001)</small></li>
+<li><a href="/wiki/Ramakrishnan_Srikant" title="Ramakrishnan Srikant">Srikant</a>&#160;<small>(2002)</small></li>
+<li><a href="/w/index.php?title=Stephen_W._Keckler&amp;action=edit&amp;redlink=1" class="new" title="Stephen W. Keckler (page does not exist)">Keckler</a>&#160;<small>(2003)</small></li>
+<li><a href="/wiki/Jennifer_Rexford" title="Jennifer Rexford">Rexford</a>&#160;<small>(2004)</small></li>
+<li><a href="/wiki/Omer_Reingold" title="Omer Reingold">Reingold</a>&#160;<small>(2005)</small></li>
+<li><strong class="selflink">Klein</strong>&#160;<small>(2006)</small></li>
+<li><a href="/wiki/Vern_Paxson" title="Vern Paxson">Paxson</a>&#160;<small>(2007)</small></li>
+<li><a href="/w/index.php?title=Dawson_Engler&amp;action=edit&amp;redlink=1" class="new" title="Dawson Engler (page does not exist)">Engler</a>&#160;<small>(2008)</small></li>
+<li><a href="/wiki/Tim_Roughgarden" title="Tim Roughgarden">Roughgarden</a>&#160;<small>(2009)</small></li>
+<li><a href="/wiki/Craig_Gentry_(computer_scientist)" title="Craig Gentry (computer scientist)">Gentry</a>&#160;<small>(2010)</small></li>
+<li><a href="/wiki/Luis_von_Ahn" title="Luis von Ahn">Ahn</a>&#160;<small>(2011)</small></li>
+<li><a href="/w/index.php?title=Martin_Casado&amp;action=edit&amp;redlink=1" class="new" title="Martin Casado (page does not exist)">Casado</a> and <a href="/wiki/Dina_Katabi" title="Dina Katabi">Katabi</a>&#160;<small>(2012)</small></li>
+<li><a href="/w/index.php?title=Pedro_Felipe_Felzenszwalb&amp;action=edit&amp;redlink=1" class="new" title="Pedro Felipe Felzenszwalb (page does not exist)">Felzenszwalb</a>&#160;<small>(2013)</small></li>
+<li><a href="/w/index.php?title=Sylvia_Ratnasamy&amp;action=edit&amp;redlink=1" class="new" title="Sylvia Ratnasamy (page does not exist)">Ratnasamy</a>&#160;<small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1176
+Cached time: 20151218050217
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.074 seconds
+Real time usage: 0.095 seconds
+Preprocessor visited node count: 105/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11654/2097152 bytes
+Template argument size: 12/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.027/10.000 seconds
+Lua memory usage: 1.34 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   74.472      1 - -total
+ 65.71%   48.939      1 - Template:Cite_web
+ 27.38%   20.392      1 - Template:Hopper_winners
+ 23.36%   17.396      1 - Template:Navbox
+  6.57%    4.892      1 - Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15891015-0!*!0!*!*!*!* and timestamp 20151218050217 and revision id 630574648
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dan_Klein&amp;oldid=630574648">https://en.wikipedia.org/w/index.php?title=Dan_Klein&amp;oldid=630574648</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Grace_Murray_Hopper_Award_laureates" title="Category:Grace Murray Hopper Award laureates">Grace Murray Hopper Award laureates</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_College_of_Engineering_faculty" title="Category:University of California, Berkeley College of Engineering faculty">University of California, Berkeley College of Engineering faculty</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dan+Klein&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dan+Klein" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Dan_Klein"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Dan_Klein"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Dan_Klein" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Dan_Klein&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dan_Klein&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dan_Klein" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dan_Klein" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dan_Klein&amp;oldid=630574648" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dan_Klein&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q5213816" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dan_Klein&amp;id=630574648" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dan+Klein">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Dan+Klein&amp;returnto=Dan+Klein&amp;oldid=630574648&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dan_Klein&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q5213816#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 October 2014, at 22:04.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dan_Klein&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1092"}); /* @nomin */
+} );</script>
+	</body>
+</html>

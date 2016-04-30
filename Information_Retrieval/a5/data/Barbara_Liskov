@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Barbara Liskov - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Barbara_Liskov","wgTitle":"Barbara Liskov","wgCurRevisionId":688831133,"wgRevisionId":688831133,"wgArticleId":1507538,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","American computer scientists","Women computer scientists","1939 births","Living people","Stanford University alumni","Programming language designers","Programming language researchers","Researchers in distributed computing","Massachusetts Institute of Technology faculty","Fellows of the Association for Computing Machinery","Turing Award laureates","Women in technology","Jewish American scientists","American Jews","Members of the United States National Academy of Engineering","Members of the United States National Academy of Sciences","American women academics","20th-century women scientists"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Barbara_Liskov","wgRelevantArticleId":1507538,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Barbara_Liskov_MIT_computer_scientist_2010.jpg/71px-Barbara_Liskov_MIT_computer_scientist_2010.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q16080922","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Barbara_Liskov" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Barbara_Liskov&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Barbara_Liskov&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Barbara_Liskov" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Barbara_Liskov skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Barbara Liskov</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Barbara Liskov</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Barbara_Liskov_MIT_computer_scientist_2010.jpg" class="image"><img alt="Barbara Liskov MIT computer scientist 2010.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Barbara_Liskov_MIT_computer_scientist_2010.jpg/220px-Barbara_Liskov_MIT_computer_scientist_2010.jpg" width="220" height="308" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Barbara_Liskov_MIT_computer_scientist_2010.jpg/330px-Barbara_Liskov_MIT_computer_scientist_2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Barbara_Liskov_MIT_computer_scientist_2010.jpg/440px-Barbara_Liskov_MIT_computer_scientist_2010.jpg 2x" data-file-width="1857" data-file-height="2600" /></a>
+<div>Liskov in 2010.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>Barbara Jane Huberman<br />
+<span class="nowrap"><span style="display:none">(<span class="bday">1939-11-07</span>)</span> November 7, 1939 <span class="noprint ForceAgeToShow">(age&#160;76)</span></span><br />
+California</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/United_States" title="United States">American</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_science" title="Computer science">Computer science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td>
+<div class="plainlist nowrap">
+<ul>
+<li><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a></li>
+<li><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&amp;doc=GetTRDoc.pdf&amp;AD=AD0673971"><i>A Program to Play Chess End Games</i></a>&#160;<span style="font-size:90%;">(1968)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td>Atul Adya, Sameer Ajmani, Russel Atkinson, Valdis Berzins, Toby Bloom, Winnie Cheng, Sheng-Yang Chiu, James Cowling, Mark Day, Sanjay Ghemawat, Robert Gruber, <a href="/wiki/Maurice_Herlihy" title="Maurice Herlihy">Maurice Herlihy</a>, Deborah Hwang, Deepak Kapur, Rivka Ladin, Mark Laventhal, Ben Leong, Umesh Maheshwari, <a href="/wiki/J._Eliot_Moss" title="J. Eliot Moss" class="mw-redirect">J. Eliot Moss</a>, <a href="/wiki/Andrew_Myers" title="Andrew Myers" class="mw-redirect">Andrew Myers</a>, Brian Oki, Miguel Oom Temudo de Castro, Dan Ports, Rodrigo Rodrigues, Justin Schaffert, David Andrew Schultz, Alan Snyder, Benjamin Vandiver, William Weihl</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td>
+<div class="plainlist nowrap">
+<ul>
+<li>Venus <span style="font-size:90%;">(<a href="/wiki/Operating_system" title="Operating system">operating system</a>)</span></li>
+<li><a href="/wiki/CLU_(programming_language)" title="CLU (programming language)">CLU</a> and <a href="/wiki/Argus_(programming_language)" title="Argus (programming language)">Argus</a></li>
+<li>Thor <span style="font-size:90%;">(<a href="/wiki/Object-orientated_programming" title="Object-orientated programming" class="mw-redirect">object-orientated</a> <a href="/wiki/Database" title="Database">database</a>)</span></li>
+<li><a href="/wiki/Liskov_substitution_principle" title="Liskov substitution principle">Liskov substitution principle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td>
+<div class="plainlist nowrap">
+<ul>
+<li><a href="/wiki/IEEE_John_von_Neumann_Medal" title="IEEE John von Neumann Medal">IEEE John von Neumann Medal</a> <small>(2004)</small></li>
+<li><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> <small>(2008)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Barbara Liskov</b> (born November 7, 1939 as <b>Barbara Jane Huberman</b>) is an American <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> who is an <a href="/wiki/List_of_Institute_Professors_at_the_Massachusetts_Institute_of_Technology" title="List of Institute Professors at the Massachusetts Institute of Technology">institute professor</a> at the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> and Ford Professor of Engineering in its <a href="/wiki/MIT_School_of_Engineering" title="MIT School of Engineering" class="mw-redirect">School of Engineering</a>'s <a href="/wiki/Electrical_engineering" title="Electrical engineering">electrical engineering</a> and <a href="/wiki/Computer_science" title="Computer science">computer science</a> department.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Life_and_career"><span class="tocnumber">1</span> <span class="toctext">Life and career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Recognition_and_awards"><span class="tocnumber">2</span> <span class="toctext">Recognition and awards</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Life_and_career">Life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Barbara_Liskov&amp;action=edit&amp;section=1" title="Edit section: Life and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Liskov was born in 1939 <a href="/wiki/California" title="California">California</a>, the eldest of Jane (née Dickhoff) and Moses Huberman's four children.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> She earned her <a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">BA</a> in mathematics at the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> in 1961. In 1968 she became <a href="/wiki/Women_in_computing" title="Women in computing">one of the first women</a> in the <a href="/wiki/United_States" title="United States">United States</a> to be awarded a <a href="/wiki/Ph.D." title="Ph.D." class="mw-redirect">Ph.D.</a> from a computer science department when she was awarded her degree from <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> The topic of her Ph.D. thesis was a computer program to play <a href="/wiki/Chess_endgame" title="Chess endgame">chess endgames</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> In 1970, she married Nathan Liskov, and their son, Moses Liskov, was born in 1975.</p>
+<p>Liskov has led many significant projects, including the Venus operating system, a small, low-cost and interactive timesharing system; the design and implementation of <a href="/wiki/CLU_(programming_language)" title="CLU (programming language)">CLU</a>; <a href="/wiki/Argus_(programming_language)" title="Argus (programming language)">Argus</a>, the first high-level language to support implementation of distributed programs and to demonstrate the technique of <a href="/wiki/Promise_pipelining" title="Promise pipelining" class="mw-redirect">promise pipelining</a>; and Thor, <a href="/wiki/Object_database" title="Object database">an object-oriented database</a> system. With <a href="/wiki/Jeannette_Wing" title="Jeannette Wing">Jeannette Wing</a>, she developed a particular definition of <a href="/wiki/Subtype" title="Subtype" class="mw-redirect">subtyping</a>, commonly known as the <a href="/wiki/Liskov_substitution_principle" title="Liskov substitution principle">Liskov substitution principle</a>. She leads the Programming Methodology Group at <a href="/wiki/MIT" title="MIT" class="mw-redirect">MIT</a>, with a current research focus in <a href="/wiki/Byzantine_fault_tolerance" title="Byzantine fault tolerance">Byzantine fault tolerance</a> and <a href="/wiki/Distributed_computing" title="Distributed computing">distributed computing</a>.</p>
+<h2><span class="mw-headline" id="Recognition_and_awards">Recognition and awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Barbara_Liskov&amp;action=edit&amp;section=2" title="Edit section: Recognition and awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Liskov is a member of the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a>, the <a href="/wiki/National_Academy_of_Sciences" title="National Academy of Sciences">National Academy of Sciences</a> and a fellow of the <a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">American Academy of Arts and Sciences</a> and of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> (ACM). In 2002, she was recognized as one of the top women faculty members at MIT, and among the top 50 faculty members in the sciences in the U.S.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>In 2004, Barbara Liskov won the <a href="/wiki/John_von_Neumann_Medal" title="John von Neumann Medal" class="mw-redirect">John von Neumann Medal</a> for "fundamental contributions to programming languages, programming methodology, and distributed systems".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> On 19 November 2005, Barbara Liskov and <a href="/wiki/Donald_E._Knuth" title="Donald E. Knuth" class="mw-redirect">Donald E. Knuth</a> were awarded <a href="/wiki/ETH" title="ETH" class="mw-redirect">ETH</a> Honorary Doctorates.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> Liskov and Knuth were also featured in the ETH Zurich Distinguished Colloquium Series.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>Liskov received the 2008 <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> from the ACM, in March 2009,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> for her work in the design of programming languages and software methodology that led to the development of <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented programming</a>.<sup id="cite_ref-dr_dobbs_13-0" class="reference"><a href="#cite_note-dr_dobbs-13"><span>[</span>13<span>]</span></a></sup> Specifically, Liskov developed two programming languages, <a href="/wiki/CLU_(programming_language)" title="CLU (programming language)">CLU</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> in the 1970s and <a href="/wiki/Argus_(programming_language)" title="Argus (programming language)">Argus</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> in the 1980s.<sup id="cite_ref-dr_dobbs_13-1" class="reference"><a href="#cite_note-dr_dobbs-13"><span>[</span>13<span>]</span></a></sup> The ACM cited her contributions to the practical and theoretical foundations of "programming language and <a href="/wiki/System_design" title="System design" class="mw-redirect">system design</a>, especially related to <a href="/wiki/Abstraction_(computer_science)" title="Abstraction (computer science)">data abstraction</a>, <a href="/wiki/Fault-tolerant_design" title="Fault-tolerant design" class="mw-redirect">fault tolerance</a>, and <a href="/wiki/Distributed_computing" title="Distributed computing">distributed computing</a>."<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<p>Barbara Liskov is the author of three books and over a hundred technical papers.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Barbara_Liskov&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Liskov_substitution_principle" title="Liskov substitution principle">Liskov substitution principle</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Barbara_Liskov&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=61932">Barbara Liskov</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/liskov_1108679.cfm">Barbara Liskov - A.M. Turing Award Winner</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pmg.csail.mit.edu/~liskov/">Barbara Liskov</a>, Programming Methodology Group, MIT.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.legacy.com/obituaries/sfgate/obituary.aspx?n=jane-siegel&amp;pid=138827388">"Jane Siegel: Obituary"</a>. <i><a href="/wiki/San_Francisco_Chronicle" title="San Francisco Chronicle">San Francisco Chronicle</a></i> (via Legacy.com). January 24, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarbara+Liskov&amp;rft.atitle=Jane+Siegel%3A+Obituary&amp;rft.date=2010-01-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.legacy.com%2Fobituaries%2Fsfgate%2Fobituary.aspx%3Fn%3Djane-siegel%26pid%3D138827388&amp;rft.jtitle=San+Francisco+Chronicle+%27%27%28via+Legacy.com%29%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.engineergirl.org/?id=3046">"Barbara Liskov -- Engineergirl"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarbara+Liskov&amp;rft.btitle=Barbara+Liskov+--+Engineergirl&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.engineergirl.org%2F%3Fid%3D3046&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> Profile from the National Academies of Engineering.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.wisc.edu/includes/textfiles/phds.65-70.txt">"UW-Madison Computer Science Ph.D.s Awarded, May 1965 - August 1970"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-11-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarbara+Liskov&amp;rft.btitle=UW-Madison+Computer+Science+Ph.D.s+Awarded%2C+May+1965+-+August+1970&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cs.wisc.edu%2Fincludes%2Ftextfiles%2Fphds.65-70.txt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> PhDs granted at UW-Madison Computer Sciences Department.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Huberman (Liskov), Barbara Jane (1968). <a rel="nofollow" class="external text" href="http://oai.dtic.mil/oai/oai?verb=getRecord&amp;metadataPrefix=html&amp;identifier=AD0673971">"A program to play chess end games"</a>. Stanford University Department of Computer Science, Technical Report CS 106, Stanford Artificial Intelligence Project Memo AI-65.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarbara+Liskov&amp;rft.atitle=A+program+to+play+chess+end+games&amp;rft.aufirst=Barbara+Jane&amp;rft.aulast=Huberman+%28Liskov%29&amp;rft.date=1968&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Foai.dtic.mil%2Foai%2Foai%3Fverb%3DgetRecord%26metadataPrefix%3Dhtml%26identifier%3DAD0673971&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://web.mit.edu/newsoffice/2002/women.html">"MIT's magnificent seven: Women faculty members cited as top scientists"</a>. <i>MIT News Office</i> (Cambridge, MA). 5 Nov 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">29 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarbara+Liskov&amp;rft.atitle=MIT%27s+magnificent+seven%3A+Women+faculty+members+cited+as+top+scientists&amp;rft.date=2002-11-05&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2Fnewsoffice%2F2002%2Fwomen.html&amp;rft.jtitle=MIT+News+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ieee.org/about/awards/bios/vonneumann_recipients.html">IEEE John von Neumann Medal Recipients</a> from the website of <a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.inf.ethz.ch/news/spotlight/honorary">"Honorary Doctors"</a>. Zurich: ETH Computer Science. 22 Mar 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">29 October</span> 2012</span>. <q>Barbara Liskov and Donald E. Knuth were awarded the title ETH Honorary Doctor on 19 November 2005.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarbara+Liskov&amp;rft.btitle=Honorary+Doctors&amp;rft.date=2006-03-22&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.inf.ethz.ch%2Fnews%2Fspotlight%2Fhonorary&amp;rft.place=Zurich&amp;rft.pub=ETH+Computer+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.inf.ethz.ch/news/spotlight/dist_talks/index">"Distinguished Lecturers Barbara Liskov and Donald E. Knuth"</a>. Zurich: ETH Computer Science. Jan 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">29 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarbara+Liskov&amp;rft.btitle=Distinguished+Lecturers+Barbara+Liskov+and+Donald+E.+Knuth&amp;rft.date=2006-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.inf.ethz.ch%2Fnews%2Fspotlight%2Fdist_talks%2Findex&amp;rft.place=Zurich&amp;rft.pub=ETH+Computer+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.boston.com/business/technology/articles/2009/03/10/top_prize_in_computing_goes_to_mit_professor/">Top prize in computing goes to MIT professor</a> from the website of <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i></span></li>
+<li id="cite_note-dr_dobbs-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-dr_dobbs_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dr_dobbs_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ddj.com/hpc-high-performance-computing/215801518">Barbara Liskov Wins Turing Award | March 10, 2009</a> from the <a href="/wiki/Dr._Dobb%27s_Journal" title="Dr. Dobb's Journal">Dr. Dobb's Journal</a> website</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Liskov, B.; Snyder, A.; Atkinson, R.; Schaffert, C. (August 1977). "Abstraction mechanisms in CLU". <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Comm. ACM</a></i> <b>20</b> (8): 564–576. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F359763.359789">10.1145/359763.359789</a>. <a href="/wiki/CiteSeer#CiteSeerX" title="CiteSeer">CiteSeerX</a>: <span class="url"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.112.656">10<wbr />.1<wbr />.1<wbr />.112<wbr />.656</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarbara+Liskov&amp;rft.atitle=Abstraction+mechanisms+in+CLU&amp;rft.au=Atkinson%2C+R.&amp;rft.aufirst=B.&amp;rft.aulast=Liskov&amp;rft.au=Schaffert%2C+C.&amp;rft.au=Snyder%2C+A.&amp;rft.date=1977-08&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F359763.359789&amp;rft.issue=8&amp;rft.jtitle=Comm.+ACM&amp;rft.pages=564-576&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Liskov, B. (March 1988). "Distributed programming in Argus". <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Comm. ACM</a></i> <b>31</b> (3): 300–312. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F42392.42399">10.1145/42392.42399</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarbara+Liskov&amp;rft.atitle=Distributed+programming+in+Argus&amp;rft.aufirst=B.&amp;rft.aulast=Liskov&amp;rft.date=1988-03&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F42392.42399&amp;rft.issue=3&amp;rft.jtitle=Comm.+ACM&amp;rft.pages=300-312&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.acm.org/membership/turing-award2008">"ACM Names Barbara Liskov Recipient of the 2008 ACM A.M. Turing Award"</a>. Association for Computing Machinery<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarbara+Liskov&amp;rft.btitle=ACM+Names+Barbara+Liskov+Recipient+of+the+2008+ACM+A.M.+Turing+Award&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.acm.org%2Fmembership%2Fturing-award2008&amp;rft.pub=Association+for+Computing+Machinery&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Barbara_Liskov&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.pmg.csail.mit.edu/~liskov/">Prof. Liskov's home page</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.pmg.csail.mit.edu/">Programming Methodology Group</a></li>
+<li><a rel="nofollow" class="external text" href="http://web.mit.edu/newsoffice/2009/turing-liskov-0310.html">Turing Award press release</a></li>
+<li><a href="/wiki/Tom_Van_Vleck" title="Tom Van Vleck">Tom Van Vleck</a>, <a rel="nofollow" class="external text" href="http://amturing.acm.org/award_winners/liskov_1108679.cfm">Barbara Liskov</a>, A.M. Turing Award Winner</li>
+<li><a rel="nofollow" class="external text" href="http://www.sciencefriday.com/program/archives/200903135">National Public Radio "Science Friday" interview with Barbara Liskov, originally aired on 13 Mar 2009</a></li>
+<li class="mw-empty-li"></li>
+<li><a rel="nofollow" class="external text" href="http://women.acm.org/">Celebrating Women of Distinction, Barbara Liskov, Turing Award interview by</a>, <a href="/wiki/Stephen_Ibaraki" title="Stephen Ibaraki">Stephen Ibaraki</a></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ieeeghn.org/wiki/index.php/Oral-History:Barbara_Liskov">"Barbara Liskov: An Interview Conducted by William Aspray, IEEE History Center, August 6, 1991"</a>. <i>GHN: IEEE Global History Network</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-11-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarbara+Liskov&amp;rft.atitle=Barbara+Liskov%3A+An+Interview+Conducted+by+William+Aspray%2C+IEEE+History+Center%2C+August+6%2C+1991&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ieeeghn.org%2Fwiki%2Findex.php%2FOral-History%3ABarbara_Liskov&amp;rft.jtitle=GHN%3A+IEEE+Global+History+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="/wiki/John_Guttag" title="John Guttag">John V. Guttag</a>, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100602134732/http://www.eecs.mit.edu/spotlights/liskov_jvg-bio.html">Barbara Liskov</a>, <i>The Electron and The Bit: EECS at MIT, 1902-2002</i>, Chapter VII: "Pioneering Women in EECS", pp.&#160;225–239, 2003, Department of Electrical Engineering and Computer Science, MIT</li>
+<li><a rel="nofollow" class="external text" href="http://newsoffice.mit.edu/2008/liskov-0630">Barbara Liskov named Institute Professor</a>, MIT News, July 1, 2008</li>
+<li><a rel="nofollow" class="external text" href="http://eecs-newsletter.mit.edu/articles/2008-fall/department-news-barbara-liskov-named-institute-professor/">Department News: Barbara Liskov named Institute Professor</a>, EECS Newsletter, Fall 2008</li>
+<li>Natasha Plotkin, <a rel="nofollow" class="external text" href="http://tech.mit.edu/V128/N29/liskov.html">Barbara Liskov named Institute Professor</a>, <i>The Tech</i> (MIT), 128,29, July 9, 2008</li>
+<li>Robert Weisman, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100722005655/http://www.boston.com/business/technology/articles/2009/03/10/top_prize_in_computing_goes_to_mit_professor/">Top prize in computing goes to MIT professor</a>, <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i>, March 10, 2009</li>
+<li>Erica Naone, <a rel="nofollow" class="external text" href="http://www.technologyreview.com/article/416783/driven-to-abstraction/">Driven to Abstraction</a>, <i>MIT Technology Review</i>, December 21, 2009</li>
+<li><a rel="nofollow" class="external text" href="https://chessprogramming.wikispaces.com/Barbara+Liskov">Barbara Liskov</a> at the Chess programming wiki</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Turing_Award_laureates" title="Template:Turing Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Turing_Award_laureates" title="Template talk:Turing Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Turing_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a> <small>(1966)</small></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Vincent Wilkes</a> <small>(1967)</small></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1968)</small></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> <small>(1969)</small></li>
+<li><a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a> <small>(1970)</small></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a> <small>(1971)</small></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a> <small>(1972)</small></li>
+<li><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a> <small>(1973)</small></li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> <small>(1974)</small></li>
+<li><a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a> / <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a> <small>(1975)</small></li>
+<li><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a> / <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> <small>(1976)</small></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> <small>(1977)</small></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a> <small>(1978)</small></li>
+<li><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a> <small>(1979)</small></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> <small>(1980)</small></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> <small>(1981)</small></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> <small>(1982)</small></li>
+<li><a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> / <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> <small>(1983)</small></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> <small>(1984)</small></li>
+<li><a href="/wiki/Richard_Karp" title="Richard Karp" class="mw-redirect">Richard Karp</a> <small>(1985)</small></li>
+<li><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a> / <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a> <small>(1986)</small></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a> <small>(1987)</small></li>
+<li><a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a> <small>(1988)</small></li>
+<li><a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a> <small>(1989)</small></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a> <small>(1990)</small></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> <small>(1991)</small></li>
+<li><a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a> <small>(1992)</small></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a> / <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a> <small>(1993)</small></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a> / <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a> <small>(1994)</small></li>
+<li><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a> <small>(1995)</small></li>
+<li><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a> <small>(1996)</small></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> <small>(1997)</small></li>
+<li><a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> <small>(1998)</small></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a> <small>(1999)</small></li>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Yao</a> <small>(2000)</small></li>
+<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a> / <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a> <small>(2001)</small></li>
+<li><a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a> / <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a> / <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a> <small>(2002)</small></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> <small>(2003)</small></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a> / <a href="/wiki/Bob_Kahn" title="Bob Kahn">Bob Kahn</a> <small>(2004)</small></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a> <small>(2005)</small></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a> <small>(2006)</small></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a> / <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a> / <a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a> <small>(2007)</small></li>
+<li><strong class="selflink">Barbara Liskov</strong> <small>(2008)</small></li>
+<li><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> <small>(2009)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie G. Valiant</a> <small>(2010)</small></li>
+<li><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a> <small>(2011)</small></li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a> / <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a> <small>(2012)</small></li>
+<li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> <small>(2013)</small></li>
+<li><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n81-090977">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/44337197">44337197</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n81090977">n81090977</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000117605450">0000 0001 1760 5450</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/1069447846">1069447846</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/030073928">030073928</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12156314m">cb12156314m</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12156314m">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=61932">61932</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1239
+Cached time: 20160107105918
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.250 seconds
+Real time usage: 0.316 seconds
+Preprocessor visited node count: 1351/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42613/2097152 bytes
+Template argument size: 2437/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+Lua time usage: 0.122/10.000 seconds
+Lua memory usage: 3.85 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  274.684      1 - -total
+ 42.01%  115.386      1 - Template:Reflist
+ 33.04%   90.760      1 - Template:Infobox_scientist
+ 29.80%   81.862      1 - Template:Infobox
+ 14.71%   40.400      1 - Template:Authority_control
+ 11.37%   31.222      3 - Template:Cite_journal
+ 11.32%   31.102      2 - Template:Cite_news
+ 11.04%   30.333      6 - Template:Cite_web
+  9.32%   25.608      4 - Template:Br_separated_entries
+  4.70%   12.912      2 - Template:Nowrap
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1507538-0!*!0!!en!4!* and timestamp 20160107105918 and revision id 688831133
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Barbara_Liskov&amp;oldid=688831133">https://en.wikipedia.org/w/index.php?title=Barbara_Liskov&amp;oldid=688831133</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Women_computer_scientists" title="Category:Women computer scientists">Women computer scientists</a></li><li><a href="/wiki/Category:1939_births" title="Category:1939 births">1939 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Stanford_University_alumni" title="Category:Stanford University alumni">Stanford University alumni</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:Programming_language_researchers" title="Category:Programming language researchers">Programming language researchers</a></li><li><a href="/wiki/Category:Researchers_in_distributed_computing" title="Category:Researchers in distributed computing">Researchers in distributed computing</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_faculty" title="Category:Massachusetts Institute of Technology faculty">Massachusetts Institute of Technology faculty</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li><li><a href="/wiki/Category:Women_in_technology" title="Category:Women in technology">Women in technology</a></li><li><a href="/wiki/Category:Jewish_American_scientists" title="Category:Jewish American scientists">Jewish American scientists</a></li><li><a href="/wiki/Category:American_Jews" title="Category:American Jews">American Jews</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Sciences" title="Category:Members of the United States National Academy of Sciences">Members of the United States National Academy of Sciences</a></li><li><a href="/wiki/Category:American_women_academics" title="Category:American women academics">American women academics</a></li><li><a href="/wiki/Category:20th-century_women_scientists" title="Category:20th-century women scientists">20th-century women scientists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Barbara+Liskov&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Barbara+Liskov" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Barbara_Liskov"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Barbara_Liskov"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Barbara_Liskov" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Barbara_Liskov&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Barbara_Liskov&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Barbara_Liskov" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Barbara_Liskov" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Barbara_Liskov&amp;oldid=688831133" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Barbara_Liskov&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q16080922" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Barbara_Liskov&amp;id=688831133" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Barbara+Liskov">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Barbara+Liskov&amp;returnto=Barbara+Liskov&amp;oldid=688831133&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Barbara_Liskov&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D8%A8%D8%A7%D8%B1%D8%A7_%D9%84%D8%B3%D9%83%D9%88%D9%81" title="باربارا لسكوف – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BE_%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A6%95%E0%A6%AD" title="বারবারা লিসকভ – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B0_%D0%9B%D0%B8%D1%81%D0%BA%D0%BE%D0%B2" title="Барбара Лисков – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Barbara_Liskov" title="Barbara Liskov – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Barbara_Liskovov%C3%A1" title="Barbara Liskovová – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Barbara_Liskov" title="Barbara Liskov – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Barbara_Liskov" title="Barbara Liskov – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D8%A8%D8%A7%D8%B1%D8%A7_%D9%84%DB%8C%D8%B3%DA%A9%D9%81" title="باربارا لیسکف – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Barbara_Liskov" title="Barbara Liskov – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Barbara_Liskov" title="Barbara Liskov – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%91%D7%A8%D7%91%D7%A8%D7%94_%D7%9C%D7%99%D7%A1%D7%A7%D7%95%D7%91" title="ברברה ליסקוב – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Barbara_Liskov" title="Barbara Liskov – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A9%E3%83%BB%E3%83%AA%E3%82%B9%E3%82%B3%E3%83%95" title="バーバラ・リスコフ – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Barbara_Liskov" title="Barbara Liskov – Occitan" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Barbara_Liskov" title="Barbara Liskov – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Barbara_Liskov" title="Barbara Liskov – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%BA%D0%BE%D0%B2,_%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B0" title="Лисков, Барбара – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Barbara_Liskovov%C3%A1" title="Barbara Liskovová – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-szl"><a href="//szl.wikipedia.org/wiki/Barbara_Liskov" title="Barbara Liskov – Silesian" lang="szl" hreflang="szl">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B0_%D0%9B%D0%B8%D1%81%D0%BA%D0%BE%D0%B2" title="Барбара Лисков – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B0_%D0%9B%D1%96%D1%81%D0%BA%D0%BE%D0%B2" title="Барбара Лісков – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%8A%AD%E8%8A%AD%E6%8B%89%C2%B7%E5%88%A9%E6%96%AF%E7%A7%91%E5%A4%AB" title="芭芭拉·利斯科夫 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q16080922#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 November 2015, at 09:07.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Barbara_Liskov&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":398,"wgHostname":"mw1239"}); /* @nomin */
+} );</script>
+	</body>
+</html>

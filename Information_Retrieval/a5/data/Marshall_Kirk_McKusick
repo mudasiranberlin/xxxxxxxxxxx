@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Marshall Kirk McKusick - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Marshall_Kirk_McKusick","wgTitle":"Marshall Kirk McKusick","wgCurRevisionId":669827779,"wgRevisionId":669827779,"wgArticleId":9067357,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: external links","BLP articles lacking sources from June 2011","Articles with hCards","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","1954 births","BSD people","American computer scientists","Cornell University College of Engineering alumni","University of California, Berkeley alumni","Free software programmers","FreeBSD people","LGBT people from the United States","Living people","People from Wilmington, Delaware"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Marshall_Kirk_McKusick","wgRelevantArticleId":9067357,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Marshall_Kirk_McKusick-lca2011.jpg/67px-Marshall_Kirk_McKusick-lca2011.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92806","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Marshall_Kirk_McKusick" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Marshall_Kirk_McKusick&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Marshall_Kirk_McKusick&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Marshall_Kirk_McKusick" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Marshall_Kirk_McKusick skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Marshall Kirk McKusick</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-BLP_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biographical article</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help by adding <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Defamation" title="Defamation">libelous</a> or harmful.</span> <small><i>(June 2011)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Marshall Kirk McKusick</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Marshall_Kirk_McKusick-lca2011.jpg" class="image"><img alt="Marshall Kirk McKusick-lca2011.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Marshall_Kirk_McKusick-lca2011.jpg/220px-Marshall_Kirk_McKusick-lca2011.jpg" width="220" height="330" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Marshall_Kirk_McKusick-lca2011.jpg/330px-Marshall_Kirk_McKusick-lca2011.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Marshall_Kirk_McKusick-lca2011.jpg/440px-Marshall_Kirk_McKusick-lca2011.jpg 2x" data-file-width="1674" data-file-height="2510" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>January 19, 1954<br />
+<span class="birthplace"><a href="/wiki/Wilmington,_Delaware" title="Wilmington, Delaware">Wilmington, Delaware</a></span></td>
+</tr>
+<tr>
+<th scope="row">Education</th>
+<td><a href="/wiki/University_of_California_at_Berkeley" title="University of California at Berkeley" class="mw-redirect">University of California at Berkeley</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/BSD" title="BSD" class="mw-redirect">BSD</a>, <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a>, <a href="/wiki/Unix_File_System" title="Unix File System">UFS</a>, <a href="/wiki/Soft_updates" title="Soft updates">soft updates</a>, <a href="/wiki/BSD_Daemon" title="BSD Daemon">BSD Daemon</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td><a href="/wiki/Eric_Allman" title="Eric Allman">Eric Allman</a></td>
+</tr>
+</table>
+<p><b>Marshall Kirk McKusick</b> (born January 19, 1954) is a <a href="/wiki/Computer_science" title="Computer science">computer scientist</a>, known for his extensive work on <a href="/wiki/BSD" title="BSD" class="mw-redirect">BSD</a>, from the 1980s to <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a> in the present day. He was president of the <a href="/wiki/USENIX" title="USENIX">USENIX</a> Association from 1990 to 1992 and again from 2002 to 2004, and still serves on the board. He is on the editorial board of <a href="/wiki/ACM_Queue" title="ACM Queue">ACM Queue</a> Magazine.<sup id="cite_ref-Q_1-0" class="reference"><a href="#cite_note-Q-1"><span>[</span>1<span>]</span></a></sup> He is known to friends and colleagues as "Kirk".</p>
+<p>McKusick received his <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">B.S.</a> in <a href="/wiki/Electrical_engineering" title="Electrical engineering">electrical engineering</a> from <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a>, and 2 <a href="/wiki/Master_of_Science" title="Master of Science">M.S.</a> degrees (in 1979 and 1980 respectively) and a <a href="/wiki/Doctorate" title="Doctorate">Ph.D.</a> in computer science from the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> in 1984.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>McKusick is openly gay and lives in California with <a href="/wiki/Eric_Allman" title="Eric Allman">Eric Allman</a>, who was his domestic partner since graduate school and whom he married in October, 2013.<sup id="cite_ref-advocate_3-0" class="reference"><a href="#cite_note-advocate-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> McKusick is an avid wine collector and the temperature and vital statistics of his house and wine cellar are available on the web from his homepage.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#BSD"><span class="tocnumber">1</span> <span class="toctext">BSD</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Bibliography"><span class="tocnumber">2</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="BSD">BSD</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marshall_Kirk_McKusick&amp;action=edit&amp;section=1" title="Edit section: BSD">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>McKusick started with <a href="/wiki/BSD" title="BSD" class="mw-redirect">BSD</a> by virtue of the fact that he shared an office at Berkeley with <a href="/wiki/Bill_Joy" title="Bill Joy">Bill Joy</a>, who in essence spearheaded the beginnings of the BSD system.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Some of his largest contributions to BSD have been to the <a href="/wiki/File_system" title="File system">file system</a>. He helped design the original <a href="/wiki/Berkeley_Fast_File_System" title="Berkeley Fast File System" class="mw-redirect">Berkeley Fast File System</a> (FFS). More recently, he implemented <a href="/wiki/Soft_updates" title="Soft updates">soft updates</a>, an alternative approach to maintaining disk integrity after a crash or power outage, in FFS, and a revised version of <a href="/wiki/Unix_File_System" title="Unix File System">UFS</a> known as "UFS2". The <a href="/wiki/Magic_number_(programming)" title="Magic number (programming)">magic number</a> used in the UFS2 super block structure reflects McKusick's birth date: <tt>#define FS_UFS2_MAGIC 0x19540119</tt> (as found in <tt>/usr/include/ufs/ffs/fs.h</tt> on <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a> systems).</p>
+<p>He was also primarily responsible for creating the complementary features of filesystem <a href="/wiki/Snapshot_(computer_storage)" title="Snapshot (computer storage)">snapshots</a> and background <tt><a href="/wiki/Fsck" title="Fsck">fsck</a></tt> (file system check and repair), which both integrate closely with soft updates. After the filesystem snapshot, the filesystem can be brought up immediately after a power outage, and <tt>fsck</tt> can run as a background process.</p>
+<p>The <i>Design and Implementation</i> series of books are regarded as very high quality works in computer science. They have been strongly influential in the development of the <a href="/wiki/BSD" title="BSD" class="mw-redirect">BSD</a> descendants and have contributed to their cohesive and well-thought-out nature. The <a href="/wiki/BSD_Daemon" title="BSD Daemon">well-known daemon image</a>, often used to identify BSD, is copyrighted by Marshall Kirk McKusick.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marshall_Kirk_McKusick&amp;action=edit&amp;section=2" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>S. Leffler, M. McKusick, M. Karels, J. Quarterman: <i>The Design and Implementation of the 4.3BSD UNIX Operating System</i>, Addison-Wesley, January 1989, <a href="/wiki/Special:BookSources/0201061961" class="internal mw-magiclink-isbn">ISBN 0-201-06196-1</a>. German translation published June 1990, <a href="/wiki/Special:BookSources/3893192395" class="internal mw-magiclink-isbn">ISBN 3-89319-239-5</a>. Japanese translation published June 1991, <a href="/wiki/Special:BookSources/4621036076" class="internal mw-magiclink-isbn">ISBN 4-621-03607-6</a> (out of print).</li>
+<li>S. Leffler, M. McKusick: <i>The Design and Implementation of the 4.3BSD UNIX Operating System Answer Book</i>, Addison-Wesley, April 1991, <a href="/wiki/Special:BookSources/0201546299" class="internal mw-magiclink-isbn">ISBN 0-201-54629-9</a>. Japanese translation published January 1992, <a href="/wiki/Special:BookSources/9784810180398" class="internal mw-magiclink-isbn">ISBN 978-4-8101-8039-8</a></li>
+<li>M. McKusick, K. Bostic, M. Karels, J. Quarterman: <i>The Design and Implementation of the 4.4BSD Operating System</i>, Addison-Wesley, April 1996, <a href="/wiki/Special:BookSources/0201549794" class="internal mw-magiclink-isbn">ISBN 0-201-54979-4</a>. French translation published 1997, International Thomson Publishing, Paris, France, <a href="/wiki/Special:BookSources/284180142X" class="internal mw-magiclink-isbn">ISBN 2-84180-142-X</a>.</li>
+<li>McKusick, 1999 <a rel="nofollow" class="external text" href="http://www.oreilly.com/catalog/opensources/book/kirkmck.html">Twenty Years of Berkeley Unix</a> (from the book <i>Open Sources: Voices from the Open Source Revolution</i> <a href="/wiki/Special:BookSources/1565925823" class="internal mw-magiclink-isbn">ISBN 1-56592-582-3</a>)</li>
+<li>M. McKusick, George Neville-Neil: <i>The Design and Implementation of the FreeBSD Operating System</i>, Addison-Wesley, July 2004, <a href="/wiki/Special:BookSources/0201702452" class="internal mw-magiclink-isbn">ISBN 0-201-70245-2</a></li>
+<li>M. McKusick, G. Neville-Neil, R. Watson: <i>The Design and Implementation of the FreeBSD Operating System, Second Edition</i>, Addison-Wesley, September 2014, <a href="/wiki/Special:BookSources/0321968972" class="internal mw-magiclink-isbn">ISBN 0-321-96897-2</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marshall_Kirk_McKusick&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Q-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Q_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://queue.acm.org/editorialboardx.cfm">"ACM Queue Editorial Board"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 16,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarshall+Kirk+McKusick&amp;rft.btitle=ACM+Queue+Editorial+Board&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fqueue.acm.org%2Feditorialboardx.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cal.berkeley.edu">"Cal Alumni Network"</a>. <i>Members' web site</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarshall+Kirk+McKusick&amp;rft.atitle=Cal+Alumni+Network&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcal.berkeley.edu&amp;rft.jtitle=Members%27+web+site&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-advocate-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-advocate_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Friess, Steve (1998-03-03). <a rel="nofollow" class="external text" href="http://www.stevefriess.com/archive/theadvocate/connection.htm">"What a connection. One helped develop E-mail, and the other fine-tuned the PC. Americans' lives are easier because these guys click."</a>. <i><a href="/wiki/The_Advocate" title="The Advocate">The Advocate</a></i>. Archived from <a rel="nofollow" class="external text" href="http://findarticles.com/p/articles/mi_m1589/is_n754/ai_20350568">the original</a> on 2002-06-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-01-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarshall+Kirk+McKusick&amp;rft.atitle=What+a+connection.+One+helped+develop+E-mail%2C+and+the+other+fine-tuned+the+PC.+Americans%27+lives+are+easier+because+these+guys+click.&amp;rft.aufirst=Steve&amp;rft.aulast=Friess&amp;rft.date=1998-03-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ffindarticles.com%2Fp%2Farticles%2Fmi_m1589%2Fis_n754%2Fai_20350568&amp;rft.jtitle=The+Advocate&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mckusick.com/~mckusick/index.html">"Kirk McKusick's Family and Friends"</a>. <i><a rel="nofollow" class="external free" href="http://www.mckusick.com">http://www.mckusick.com</a></i>. Marshall Kirk McKusick<span class="reference-accessdate">. Retrieved <span class="nowrap">14 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarshall+Kirk+McKusick&amp;rft.atitle=Kirk+McKusick%27s+Family+and+Friends&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mckusick.com%2F~mckusick%2Findex.html&amp;rft.jtitle=http%3A%2F%2Fwww.mckusick.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">External link in <code style="color:inherit; border:inherit; padding:inherit;">|website=</code> (<a href="/wiki/Help:CS1_errors#param_has_ext_link" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Mr (2006-02-17). <a rel="nofollow" class="external text" href="http://bsdtalk.blogspot.com/2006/02/bsdtalk018-interview-with-kirk.html">"BSDTalk interview with Kirk McKusick"</a>. Bsdtalk.blogspot.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarshall+Kirk+McKusick&amp;rft.au=Mr&amp;rft.btitle=BSDTalk+interview+with+Kirk+McKusick&amp;rft.date=2006-02-17&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fbsdtalk.blogspot.com%2F2006%2F02%2Fbsdtalk018-interview-with-kirk.html&amp;rft.pub=Bsdtalk.blogspot.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mckusick.com/beastie/mainpage/copyright.html">"Beastie copyright information"</a>. Mckusick.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMarshall+Kirk+McKusick&amp;rft.btitle=Beastie+copyright+information&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mckusick.com%2Fbeastie%2Fmainpage%2Fcopyright.html&amp;rft.pub=Mckusick.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Marshall_Kirk_McKusick&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.mckusick.com/">McKusick's home page</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Berkeley_Software_Distribution" title="Template:Berkeley Software Distribution"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Berkeley_Software_Distribution" title="Template talk:Berkeley Software Distribution"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Berkeley_Software_Distribution&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">Berkeley Software Distribution</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bob_Fabry" title="Bob Fabry">Bob Fabry</a></li>
+<li><a href="/wiki/Keith_Bostic" title="Keith Bostic">Keith Bostic</a></li>
+<li><strong class="selflink">Marshall Kirk McKusick</strong></li>
+<li><a href="/wiki/Michael_J._Karels" title="Michael J. Karels">Michael J. Karels</a></li>
+<li><a href="/wiki/Bill_Joy" title="Bill Joy">Bill Joy</a></li>
+<li><a href="/wiki/Samuel_Leffler" title="Samuel Leffler" class="mw-redirect">Samuel Leffler</a></li>
+<li><a href="/wiki/Jordan_Hubbard" title="Jordan Hubbard">Jordan Hubbard</a></li>
+<li><a href="/wiki/Theo_de_Raadt" title="Theo de Raadt">Theo de Raadt</a></li>
+<li><a href="/wiki/Poul-Henning_Kamp" title="Poul-Henning Kamp">Poul-Henning Kamp</a></li>
+<li><a href="/wiki/Lynne_Jolitz" title="Lynne Jolitz">Lynne</a> and <a href="/wiki/William_Jolitz" title="William Jolitz">William Jolitz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Derivatives</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Active</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a></li>
+<li><a href="/wiki/OpenBSD" title="OpenBSD">OpenBSD</a></li>
+<li><a href="/wiki/NetBSD" title="NetBSD">NetBSD</a></li>
+<li><a href="/wiki/DragonFly_BSD" title="DragonFly BSD">DragonFly BSD</a></li>
+<li><a href="/wiki/PC-BSD" title="PC-BSD">PC-BSD</a></li>
+<li><a href="/wiki/Junos" title="Junos">Junos</a></li>
+<li><a href="/wiki/Darwin_(operating_system)" title="Darwin (operating system)">Darwin</a></li>
+<li><a href="/wiki/PlayStation_3_system_software" title="PlayStation 3 system software">PS3</a>/<a href="/wiki/PlayStation_4_system_software" title="PlayStation 4 system software">PS4</a>/<a href="/wiki/PlayStation_Portable_system_software" title="PlayStation Portable system software">PSP</a>/<a href="/wiki/PlayStation_Vita_system_software" title="PlayStation Vita system software">PS Vita operating system</a></li>
+<li><a href="/wiki/List_of_BSD_operating_systems" title="List of BSD operating systems">...</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Discontinued</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/386BSD" title="386BSD">386BSD</a></li>
+<li><a href="/wiki/BSD/OS" title="BSD/OS">BSD/OS</a></li>
+<li><a href="/wiki/SunOS" title="SunOS">SunOS</a></li>
+<li><a href="/wiki/Ultrix" title="Ultrix">Ultrix</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Companies</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sleepycat_Software" title="Sleepycat Software">Sleepycat Software</a></li>
+<li><a href="/wiki/Walnut_Creek_CDROM" title="Walnut Creek CDROM">Walnut Creek CDROM</a></li>
+<li><a href="/wiki/Berkeley_Software_Design" title="Berkeley Software Design">Berkeley Software Design</a></li>
+<li><a href="/wiki/IXsystems" title="IXsystems">iXsystems</a></li>
+<li><a href="/w/index.php?title=Deciso&amp;action=edit&amp;redlink=1" class="new" title="Deciso (page does not exist)">Deciso</a></li>
+<li><a href="/wiki/PfSense" title="PfSense">Electric Sheep Fencing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comparison_of_BSD_operating_systems" title="Comparison of BSD operating systems">Comparison</a></li>
+<li><a href="/wiki/BSD_licenses" title="BSD licenses">Licensing</a></li>
+<li><a href="/wiki/BSD_Daemon" title="BSD Daemon">BSD Daemon</a></li>
+<li><a href="/wiki/Computer_Systems_Research_Group" title="Computer Systems Research Group">Computer Systems Research Group</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:FreeBSD" title="Template:FreeBSD"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:FreeBSD" title="Template talk:FreeBSD"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:FreeBSD&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%">The <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a> Project</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/FreeBSD_Core_Team" title="FreeBSD Core Team">FreeBSD Core Team</a></li>
+<li><a href="/wiki/FreeBSD_Documentation_License" title="FreeBSD Documentation License">FreeBSD Documentation License</a></li>
+<li><a href="/wiki/FreeBSD_Foundation" title="FreeBSD Foundation">FreeBSD Foundation</a></li>
+<li><a href="/wiki/FreeBSD_Ports" title="FreeBSD Ports">FreeBSD Ports</a></li>
+<li><a href="/wiki/History_of_FreeBSD" title="History of FreeBSD">History</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Subsystems</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Busdma" title="Busdma">busdma</a></li>
+<li><a href="/wiki/GEOM" title="GEOM">GEOM</a></li>
+<li><a href="/wiki/Ipfw" title="Ipfw" class="mw-redirect">ipfw</a></li>
+<li><a href="/wiki/FreeBSD_jail" title="FreeBSD jail">FreeBSD jail</a></li>
+<li><a href="/wiki/OpenPAM" title="OpenPAM">OpenPAM</a></li>
+<li><a href="/wiki/PF_(firewall)" title="PF (firewall)">pf</a></li>
+<li><a href="/wiki/Soft_updates" title="Soft updates">Soft updates</a></li>
+<li><a href="/wiki/ULE_scheduler" title="ULE scheduler">ULE scheduler</a></li>
+<li><a href="/wiki/Bhyve" title="Bhyve">bhyve</a></li>
+<li><a href="/wiki/Highly_Available_STorage" title="Highly Available STorage">Highly Available STorage</a></li>
+<li><a href="/wiki/Portsnap" title="Portsnap">portsnap</a></li>
+<li><a href="/wiki/Kqueue" title="Kqueue">kqueue</a></li>
+<li><a href="/wiki/Geom_raid5" title="Geom raid5">geom raid5</a></li>
+<li><a href="/wiki/Geli_(software)" title="Geli (software)">geli</a></li>
+<li><a href="/wiki/Moused" title="Moused">moused</a></li>
+<li><a href="/wiki/Vinum_volume_manager" title="Vinum volume manager">Vinum volume manager</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jordan_Hubbard" title="Jordan Hubbard">Jordan Hubbard</a></li>
+<li><a href="/wiki/Poul-Henning_Kamp" title="Poul-Henning Kamp">Poul-Henning Kamp</a></li>
+<li><a href="/wiki/Ben_Laurie" title="Ben Laurie">Ben Laurie</a></li>
+<li><a href="/wiki/Samuel_J_Leffler" title="Samuel J Leffler">Sam Leffler</a></li>
+<li><strong class="selflink">Marshall Kirk McKusick</strong></li>
+<li><a href="/wiki/Diomidis_Spinellis" title="Diomidis Spinellis">Diomidis Spinellis</a></li>
+<li><a href="/wiki/Robert_Watson_(computer_scientist)" title="Robert Watson (computer scientist)">Robert Watson</a></li>
+<li><a href="/wiki/Dru_Lavigne" title="Dru Lavigne">Dru Lavigne</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_products_based_on_FreeBSD" title="List of products based on FreeBSD">Derivatives</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">open-source</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BSD_Router_Project" title="BSD Router Project">BSD Router Project</a></li>
+<li><a href="/wiki/DesktopBSD" title="DesktopBSD">DesktopBSD</a></li>
+<li><a href="/wiki/FreeNAS" title="FreeNAS">FreeNAS</a></li>
+<li><a href="/wiki/FreeSBIE" title="FreeSBIE">FreeSBIE</a></li>
+<li><a href="/wiki/GhostBSD" title="GhostBSD">GhostBSD</a></li>
+<li><a href="/wiki/Kylin_(operating_system)" title="Kylin (operating system)">Kylin</a></li>
+<li><a href="/wiki/MidnightBSD" title="MidnightBSD">MidnightBSD</a></li>
+<li><a href="/wiki/M0n0wall" title="M0n0wall">m0n0wall</a></li>
+<li><a href="/wiki/PC-BSD" title="PC-BSD">PC-BSD</a></li>
+<li><a href="/wiki/PfSense" title="PfSense">pfSense</a></li>
+<li><a href="/wiki/GNU_variants#BSD_variants" title="GNU variants">GNU/kFreeBSD</a></li>
+<li><a href="/wiki/Gentoo/FreeBSD" title="Gentoo/FreeBSD" class="mw-redirect">Gentoo/FreeBSD</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Proprietary_software" title="Proprietary software">proprietary</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Darwin_(operating_system)" title="Darwin (operating system)">Darwin</a></li>
+<li><a href="/wiki/Junos" title="Junos">Junos</a></li>
+<li><a href="/wiki/OS_X" title="OS X">OS X</a></li>
+<li><a href="/wiki/PlayStation_3_system_software" title="PlayStation 3 system software">PlayStation 3 OS</a></li>
+<li><a href="/wiki/PlayStation_4_system_software" title="PlayStation 4 system software">PlayStation 4 OS</a></li>
+<li><a href="/wiki/XNU" title="XNU">XNU</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n91-018004">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/1644156">1644156</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n91018004">n91018004</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000011790619X">0000 0001 1790 619X</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/077385500">077385500</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00471455">00471455</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1083
+Cached time: 20160103194430
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.337 seconds
+Real time usage: 0.403 seconds
+Preprocessor visited node count: 1867/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 48531/2097152 bytes
+Template argument size: 1425/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Lua time usage: 0.148/10.000 seconds
+Lua memory usage: 3.43 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  336.421      1 - -total
+ 29.97%  100.816      1 - Template:Reflist
+ 27.51%   92.558      1 - Template:Infobox_person
+ 23.71%   79.769      6 - Template:Cite_web
+ 18.48%   62.160      1 - Template:BLP_sources
+ 18.15%   61.073      4 - Template:Navbox
+ 16.88%   56.772      1 - Template:Infobox
+ 11.80%   39.694      1 - Template:Ambox
+  9.35%   31.449      1 - Template:Berkeley_Software_Distribution
+  7.32%   24.611      2 - Template:Navbox_subgroup
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9067357-0!*!0!!en!4!* and timestamp 20160103194429 and revision id 669827779
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Marshall_Kirk_McKusick&amp;oldid=669827779">https://en.wikipedia.org/w/index.php?title=Marshall_Kirk_McKusick&amp;oldid=669827779</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1954_births" title="Category:1954 births">1954 births</a></li><li><a href="/wiki/Category:BSD_people" title="Category:BSD people">BSD people</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Cornell_University_College_of_Engineering_alumni" title="Category:Cornell University College of Engineering alumni">Cornell University College of Engineering alumni</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_alumni" title="Category:University of California, Berkeley alumni">University of California, Berkeley alumni</a></li><li><a href="/wiki/Category:Free_software_programmers" title="Category:Free software programmers">Free software programmers</a></li><li><a href="/wiki/Category:FreeBSD_people" title="Category:FreeBSD people">FreeBSD people</a></li><li><a href="/wiki/Category:LGBT_people_from_the_United_States" title="Category:LGBT people from the United States">LGBT people from the United States</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_Wilmington,_Delaware" title="Category:People from Wilmington, Delaware">People from Wilmington, Delaware</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_external_links" title="Category:CS1 errors: external links">CS1 errors: external links</a></li><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_June_2011" title="Category:BLP articles lacking sources from June 2011">BLP articles lacking sources from June 2011</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Marshall+Kirk+McKusick&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Marshall+Kirk+McKusick" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Marshall_Kirk_McKusick"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Marshall_Kirk_McKusick"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Marshall_Kirk_McKusick" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Marshall_Kirk_McKusick&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Marshall_Kirk_McKusick&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Marshall_Kirk_McKusick" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Marshall_Kirk_McKusick" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Marshall_Kirk_McKusick&amp;oldid=669827779" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Marshall_Kirk_McKusick&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92806" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Marshall_Kirk_McKusick&amp;id=669827779" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Marshall+Kirk+McKusick">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Marshall+Kirk+McKusick&amp;returnto=Marshall+Kirk+McKusick&amp;oldid=669827779&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Marshall_Kirk_McKusick&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Marshall_Kirk_McKusick" title="Marshall Kirk McKusick – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D8%B4%D8%A7%D9%84_%DA%A9%D8%B1%DA%A9_%D9%85%DA%A9%E2%80%8C%DA%A9%DB%8C%D9%88%D8%B3%DB%8C%DA%A9" title="مارشال کرک مک‌کیوسیک – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Marshall_Kirk_McKusick" title="Marshall Kirk McKusick – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Marshall_Kirk_McKusick" title="Marshall Kirk McKusick – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%9E%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF" title="マーシャル・カーク・マキュージック – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Marshall_Kirk_McKusick" title="Marshall Kirk McKusick – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Marshall_Kirk_McKusick" title="Marshall Kirk McKusick – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92806#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 July 2015, at 20:47.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Marshall_Kirk_McKusick&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1083"}); /* @nomin */
+} );</script>
+	</body>
+</html>

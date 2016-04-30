@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Ben Shneiderman - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ben_Shneiderman","wgTitle":"Ben Shneiderman","wgCurRevisionId":695538871,"wgRevisionId":695538871,"wgArticleId":1833304,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from August 2014","Commons category without a link on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","1947 births","Living people","American computer scientists","Human–computer interaction","Human–computer interaction researchers","Information visualization experts","The Bronx High School of Science alumni","City College of New York alumni","Fellows of the Association for Computing Machinery","Fellow Members of the IEEE","University of Maryland, College Park faculty"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ben_Shneiderman","wgRelevantArticleId":1833304,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ben_Shneiderman_at_UNCC.jpg/100px-Ben_Shneiderman_at_UNCC.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q62904","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ben_Shneiderman" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ben_Shneiderman&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ben_Shneiderman&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ben_Shneiderman" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ben_Shneiderman skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ben Shneiderman</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Ben Shneiderman</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Ben_Shneiderman_at_UNCC.jpg" class="image"><img alt="Ben Shneiderman at UNCC.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ben_Shneiderman_at_UNCC.jpg/220px-Ben_Shneiderman_at_UNCC.jpg" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ben_Shneiderman_at_UNCC.jpg/330px-Ben_Shneiderman_at_UNCC.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ben_Shneiderman_at_UNCC.jpg/440px-Ben_Shneiderman_at_UNCC.jpg 2x" data-file-width="1000" data-file-height="1000" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1947-08-21</span>)</span> August 21, 1947 <span class="noprint ForceAgeToShow">(age&#160;68)</span><br />
+<a href="/wiki/New_York_City,_New_York" title="New York City, New York" class="mw-redirect">New York City, New York</a></td>
+</tr>
+<tr>
+<th scope="row">Residence</th>
+<td><a href="/wiki/Bethesda,_Maryland" title="Bethesda, Maryland">Bethesda, Maryland</a></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td>American</td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_science" title="Computer science">Computer science</a>, <a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">human–computer interaction</a>, <a href="/wiki/Information_visualization" title="Information visualization">information visualization</a> <a href="/wiki/Social_media" title="Social media">social media</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/University_of_Maryland,_College_Park" title="University of Maryland, College Park">University of Maryland, College Park</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Stony_Brook_University" title="Stony Brook University">Stony Brook University</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td>Jack Heller</td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td>Chris North, Andrew Sears, Brian Johnson, David Carr, Eser Kandogan, Richard Potter, Egemen Tanin, Hyunmo Kang, Adam Perer, Harry Hochheiser, Jinwook Seo, Haixia Zhao, William Kules, Aleks Aris, Taowei David Wang, Krist Wongsuphasawat, John Alexis Guerra Gómez, Sureyya Tarkan, Cody Dunne, Megan Monroe</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Nassi%E2%80%93Shneiderman_diagram" title="Nassi–Shneiderman diagram">Nassi–Shneiderman diagram</a>, <a href="/wiki/Treemap" title="Treemap" class="mw-redirect">treemap</a>, <a href="/wiki/Information_Visualization" title="Information Visualization" class="mw-redirect">Information Visualization</a>, <a href="/wiki/HyperLink" title="HyperLink" class="mw-redirect">HyperLink</a>, <a href="/wiki/Touchscreen" title="Touchscreen">Touchscreen</a>, <a href="/wiki/Direct_manipulation_interface" title="Direct manipulation interface">Direct manipulation interface</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td>Member National Academy of Engineering, ACM Fellow, AAAS Fellow, IEEE Fellow, IEEE Visualization Career Award, SIGCHI LifeTime Achievement, Miles Conrad Award, National Academy of Inventors Fellow</td>
+</tr>
+</table>
+<p><b>Ben Shneiderman</b> (born August 21, 1947) is an American <a href="/wiki/Computer_science" title="Computer science">computer scientist</a>, and professor of <a href="/wiki/Computer_science" title="Computer science">computer science</a> at the <a href="/wiki/University_of_Maryland_Human-Computer_Interaction_Lab" title="University of Maryland Human-Computer Interaction Lab" class="mw-redirect">University of Maryland Human-Computer Interaction Lab</a> at the <a href="/wiki/University_of_Maryland,_College_Park" title="University of Maryland, College Park">University of Maryland, College Park</a>. He conducted fundamental research in the field of <a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">human–computer interaction</a>, developing new ideas, methods, and tools such as the <a href="/wiki/Direct_manipulation_interface" title="Direct manipulation interface">direct manipulation interface</a>, and his eight rules of design.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Work"><span class="tocnumber">2</span> <span class="toctext">Work</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Nassi.E2.80.93Shneiderman_diagram"><span class="tocnumber">2.1</span> <span class="toctext">Nassi–Shneiderman diagram</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Flowchart_research"><span class="tocnumber">2.2</span> <span class="toctext">Flowchart research</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Direct_manipulation_interface"><span class="tocnumber">2.3</span> <span class="toctext">Direct manipulation interface</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Designing_the_User_Interface.2C_1986"><span class="tocnumber">2.4</span> <span class="toctext"><i>Designing the User Interface,</i> 1986</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Information_visualization"><span class="tocnumber">2.5</span> <span class="toctext">Information visualization</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Universal_usability"><span class="tocnumber">2.6</span> <span class="toctext">Universal usability</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Criticisms"><span class="tocnumber">3</span> <span class="toctext">Criticisms</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Publications"><span class="tocnumber">4</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Born in New York, Shneiderman, attended the <a href="/wiki/Bronx_High_School_of_Science" title="Bronx High School of Science" class="mw-redirect">Bronx High School of Science</a>, and received a BS in Mathematics and <a href="/wiki/Physics" title="Physics">Physics</a> from the <a href="/wiki/City_College_of_New_York" title="City College of New York">City College of New York</a> in 1968. He then went on to study at the <a href="/wiki/State_University_of_New_York_at_Stony_Brook" title="State University of New York at Stony Brook" class="mw-redirect">State University of New York at Stony Brook</a>, where he received an MS in Computer Science in 1972 and graduated with a PhD in 1973.</p>
+<p>Shneiderman started his academic career at the <a href="/wiki/Farmingdale_State_College" title="Farmingdale State College">State University of New York at Farmingdale</a> in 1968 as Instructor at the Department of Data Processing. In the last year before his graduation he was Instructor at the Department of Computer Science of <a href="/wiki/Stony_Brook_University" title="Stony Brook University">Stony Brook University</a> (then called State University of New York at Stony Brook). In 1973 he was appointed Assistant Professor at the <a href="/wiki/Indiana_University" title="Indiana University">Indiana University</a>, Department of Computer Science. In 1976 he moved to the University of Maryland. He started out as Assistant Professor in its Department of Information Systems Management, and became Associate Professor in 1979. In 1983 he moved to its <a href="/wiki/University_of_Maryland_Department_of_Computer_Science" title="University of Maryland Department of Computer Science">Department of Computer Science</a> as Associate Professor, and was promoted to full professor in 1989. In 1983 he was the Founding Director of its <a href="/wiki/University_of_Maryland_Human_%E2%80%93_Computer_Interaction_Lab" title="University of Maryland Human – Computer Interaction Lab" class="mw-redirect">Human-Computer Interaction Lab</a>, which he directed until 2000.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>Shneiderman was inducted as a <a href="/wiki/Fellow" title="Fellow">Fellow</a> of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> in 1997, a <a href="/wiki/Fellow" title="Fellow">Fellow</a> of the <a href="/wiki/American_Association_for_the_Advancement_of_Science" title="American Association for the Advancement of Science">American Association for the Advancement of Science</a> in 2001, a Member of the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> in 2010, and an <a href="/wiki/IEEE_Fellow" title="IEEE Fellow" class="mw-redirect">IEEE Fellow</a> in 2012.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> He is a member of the ACM CHI Academy Member and received their Lifetime Achievement Award in 2001.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>In 2002 his book <i>Leonardo's Laptop: Human Needs and the New Computing Technologies</i> was Winner of an <a href="/wiki/IEEE-USA_Award_for_Distinguished_Contributions_Furthering_Public_Understanding_of_the_Profession" title="IEEE-USA Award for Distinguished Contributions Furthering Public Understanding of the Profession">IEEE-USA Award for Distinguished Contributions Furthering Public Understanding of the Profession</a>. He received the <a rel="nofollow" class="external text" href="http://www.vgtc.org/PDF/awards/vis_career12.pdf">IEEE Visualization Career Award</a> in 2012.</p>
+<p>He received Honorary Doctorates from the <a href="/wiki/University_of_Guelph" title="University of Guelph">University of Guelph</a> (Canada) in 1995, the <a href="/wiki/University_of_Castile-La_Mancha" title="University of Castile-La Mancha" class="mw-redirect">University of Castile-La Mancha</a> (Spain) in 2010 ,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> and the <a href="/wiki/Stony_Brook_University" title="Stony Brook University">Stony Brook University</a> in 2015.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Work">Work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit&amp;section=2" title="Edit section: Work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Nassi.E2.80.93Shneiderman_diagram">Nassi–Shneiderman diagram</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit&amp;section=3" title="Edit section: Nassi–Shneiderman diagram">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a href="/wiki/File:Multiple_Branching.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Multiple_Branching.svg/280px-Multiple_Branching.svg.png" width="280" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Multiple_Branching.svg/420px-Multiple_Branching.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/Multiple_Branching.svg/560px-Multiple_Branching.svg.png 2x" data-file-width="651" data-file-height="383" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Multiple_Branching.svg" class="internal" title="Enlarge"></a></div>
+Example of a Nassi–Shneiderman diagram</div>
+</div>
+</div>
+<p>In the 1973 article "Flowchart techniques for structured programming" presented at a 1973 <a href="/wiki/SIGPLAN" title="SIGPLAN">SIGPLAN</a> meeting <a href="/wiki/Isaac_Nassi" title="Isaac Nassi">Isaac Nassi</a> and Ben Shneiderman argued:</p>
+<blockquote>
+<p>With the advent of structured programming and GOTO-less programming a method is needed to model computation in simply ordered structures, each representing a complete thought possibly defined in terms of other thoughts as yet undefined. A model is needed which prevents unrestricted transfers of control and has a control structure closer to languages amenable to structured programming. We present an attempt at such a model.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+</blockquote>
+<p>The new model technique for <a href="/wiki/Structured_programming" title="Structured programming">structured programming</a> they presented has become known as the <a href="/wiki/Nassi%E2%80%93Shneiderman_diagram" title="Nassi–Shneiderman diagram">Nassi–Shneiderman diagram</a>; a graphical representation of the design of structured software.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Flowchart_research">Flowchart research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit&amp;section=4" title="Edit section: Flowchart research">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the 1970s Shneiderman continued to study programmers, and the use of <a href="/wiki/Flow_chart" title="Flow chart" class="mw-redirect">flow charts</a>. In the 1977 article "Experimental investigations of the utility of detailed flowcharts in programming" Shneiderman et al. summarized the origin and status quo of flowcharts in <a href="/wiki/Computer_programming" title="Computer programming">computer programming</a>:</p>
+<blockquote>
+<p>Flowcharts have been a part of computer programming since the introduction of computers in the 1940s. In 1947 Goldstein and von Neumann [7] presented a system of describing processes using operation, assertion, and alternative boxes. They felt that "coding begins with the drawing of flow diagram." Prior to coding, the algorithm had been identified and understood. The flowchart represented a high level definition of the solution to be implemented on a machine. Although they were working only with numerical algorithms, they proposed a programming methodology which has since become standard practice in the computer programming field. <sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+</blockquote>
+<p>Furthermore, Shneiderman had conducted experiments which suggested that <a href="/wiki/Flowcharts" title="Flowcharts" class="mw-redirect">flowcharts</a> were not helpful for writing, understanding, or modifying computer programs. At the end of their 1977 Shneiderman et al. concluded:</p>
+<blockquote>
+<p>Although our original intention was to ascertain under which conditions detailed flowcharts were most helpful, our repeated negative results have led us to a more skeptical opinion of the utility of detailed flowcharts under modern programming conditions. We repeatedly selected problems and tried to create test conditions which would favor the flowchart groups, but found no statistically significant differences between the flowchart and non-flowchart groups. In some cases the mean scores for the non-flowchart groups even surpassed the means for the flowchart groups. We conjecture that detailed flowcharts are merely a redundant presentation of the information contained in the programming language statements. The flowcharts may even be at a disadvantage because they are not as complete (omitting declarations, statement labels, and input/output formats) and require many more pages than do the concise programming language statements.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+</blockquote>
+<h3><span class="mw-headline" id="Direct_manipulation_interface">Direct manipulation interface</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit&amp;section=5" title="Edit section: Direct manipulation interface">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These insights led Shneiderman to the development of the principles of <a href="/wiki/Direct_manipulation_interface" title="Direct manipulation interface">direct manipulation interface</a> design in 1982. His cognitive analysis and detailed description of the (1) continuous representation of the objects and actions, (2) rapid, incremental, and reversible actions, and (3) physical actions and gestures to replace typed commands enabled others to design a wide array of novel graphical user interfaces. He applied those principles to develop the user interface for highlighted clickable phrases in text, that became the "hot spots" or hyperlinks of the Web. Direct manipulation concepts led to touchscreen interfaces, dynamic query slides, and information visualization designs, such as treemaps.</p>
+<h3><span class="mw-headline" id="Designing_the_User_Interface.2C_1986"><i>Designing the User Interface,</i> 1986</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit&amp;section=6" title="Edit section: Designing the User Interface, 1986">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1986, he published the first edition (now on its fifth edition) of his book "Designing the User Interface: Strategies for Effective Human-Computer Interaction." Included in this book is his most popular list of "<a rel="nofollow" class="external text" href="http://www.cs.umd.edu/~ben/goldenrules.html">Eight Golden Rules of Interface Design</a>," which read:</p>
+<blockquote>
+<ol>
+<li>Strive for consistency. Consistent sequences of actions should be required in similar situations...</li>
+<li>Enable frequent users to use shortcuts. As the frequency of use increases, so do the user's desires to reduce the number of interactions...</li>
+<li>Offer informative feedback. For every operator action, there should be some system feedback...</li>
+<li>Design dialog to yield closure. Sequences of actions should be organized into groups with a beginning, middle, and end...</li>
+<li>Offer simple error handling. As much as possible, design the system so the user cannot make a serious error...</li>
+<li>Permit easy reversal of actions. This feature relieves anxiety, since the user knows that errors can be undone...</li>
+<li>Support internal locus of control. Experienced operators strongly desire the sense that they are in charge of the system and that the system responds to their actions. Design the system to make users the initiators of actions rather than the responders.</li>
+<li>Reduce short-term memory load. The limitation of human information processing in short-term memory requires that displays be kept simple, multiple page displays be consolidated, window-motion frequency be reduced, and sufficient training time be allotted for codes, mnemonics, and sequences of actions.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></li>
+</ol>
+</blockquote>
+<p>These guidelines are frequently taught in courses on Human-Computer Interaction.</p>
+<h3><span class="mw-headline" id="Information_visualization">Information visualization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit&amp;section=7" title="Edit section: Information visualization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>His major work in recent years has been on <a href="/wiki/Information_visualization" title="Information visualization">information visualization</a>, originating the <a href="/wiki/Treemap" title="Treemap" class="mw-redirect">treemap</a> concept for hierarchical data. Treemaps are implemented in most information visualization tools including <a href="/wiki/Spotfire" title="Spotfire">Spotfire</a>, <a href="/wiki/Tableau_Software" title="Tableau Software">Tableau Software</a>, <a href="/wiki/QlikView" title="QlikView" class="mw-redirect">QlikView</a>, SAS <a href="/wiki/JMP_(statistical_software)" title="JMP (statistical software)">JMP</a>, and <a href="/wiki/Microsoft_Excel" title="Microsoft Excel">Microsoft Excel</a>. Treemaps (see <a rel="nofollow" class="external text" href="http://www.cs.umd.edu/hcil/treemap-history">history page</a>) are included in hard drive exploration tools, stock market data analysis, census systems, election data, gene expression, and data journalism. The artistic side of treemaps are on view in the <a rel="nofollow" class="external text" href="http://treemapart.wordpress.com">Treemap Art Project</a>.</p>
+<p>He also developed dynamic queries sliders with multiple coordinated displays that are a key component of <a href="/wiki/Spotfire" title="Spotfire">Spotfire</a>, which was acquired by <a href="/wiki/TIBCO" title="TIBCO" class="mw-redirect">TIBCO</a> in 2007. His work continued on visual analysis tools for time series data, <a href="/w/index.php?title=TimeSearcher&amp;action=edit&amp;redlink=1" class="new" title="TimeSearcher (page does not exist)">TimeSearcher</a>, high dimensional data, <a href="/w/index.php?title=Hierarchical_Clustering_Explorer&amp;action=edit&amp;redlink=1" class="new" title="Hierarchical Clustering Explorer (page does not exist)">Hierarchical Clustering Explorer</a>, and social network data, SocialAction.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> Shneiderman contributed to the widely used social network analysis and visualization tool <a href="/wiki/NodeXL" title="NodeXL">NodeXL</a>.</p>
+<p>Current work deals with visualization of temporal event sequences, such as found in Electronic Health Records, in systems such as <a href="/w/index.php?title=LifeLines2&amp;action=edit&amp;redlink=1" class="new" title="LifeLines2 (page does not exist)">LifeLines2</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> and <a href="/w/index.php?title=EventFlow&amp;action=edit&amp;redlink=1" class="new" title="EventFlow (page does not exist)">EventFlow</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> These tools visualize the categorical data that make up a single patient history and they present an aggregated view that enables analysts to find patterns in large patient history databases.</p>
+<h3><span class="mw-headline" id="Universal_usability">Universal usability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit&amp;section=8" title="Edit section: Universal usability">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>He also defined the research area of <a href="/wiki/Universal_usability" title="Universal usability">universal usability</a> to encourage greater attention to diverse users, languages, cultures, screen sizes, network speeds, and technology platforms.</p>
+<h2><span class="mw-headline" id="Criticisms">Criticisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit&amp;section=9" title="Edit section: Criticisms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Shneiderman has been criticized by others for over-promoting technology beyond its effective use, including by <a href="/wiki/David_F._Noble" title="David F. Noble">David F. Noble</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> Shneiderman said of Noble's criticisms, "His fear-filled rhetoric and whipping of the boogie-monster of entrepreneurial corruption of education is misleading, shallow and even counterproductive"<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit&amp;section=10" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Shneiderman, Ben. <i>Software Psychology: Human Factors in Computer and Information Systems</i>; Little, Brown and Co, 1980.</li>
+<li>Shneiderman, Ben. <i>Designing the User Interface: Strategies for Effective Human–Computer Interaction, 1st edition</i>. Addison-Wesley, 1986; 2nd ed. 1992; 3rd ed. 1998; 4th ed. 2005; <a rel="nofollow" class="external text" href="http://www.pearsonhighered.com/educator/academic/product/0,3110,0321537351,00.html">5th ed. 2010</a>.</li>
+<li>Shneiderman, Ben. <i>Software psychology.</i> (1980).</li>
+<li><a href="/wiki/Card,_Stuart_K." title="Card, Stuart K." class="mw-redirect">Card, Stuart K.</a>, <a href="/wiki/Jock_D._Mackinlay" title="Jock D. Mackinlay">Jock D. Mackinlay</a>, and Ben Shneiderman, eds. <i>Readings in Information Visualization: Using Vision to Think</i>. Morgan Kaufmann, 1999.</li>
+<li>Shneiderman, Ben. <i><a rel="nofollow" class="external text" href="http://mitpress.mit.edu/books/leonardos-laptop">Leonardo's Laptop: Human Needs and the New Computing Technologies</a></i>; MIT Press, 2002.</li>
+<li>Hansen, Derek, Ben Shneiderman, and Marc A. Smith. <i>Analyzing social media networks with NodeXL: Insights from a connected world.</i> Morgan Kaufmann, 2010.</li>
+</ul>
+<p>Articles, a selection:<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<ul>
+<li>Johnson, Brian, and Ben Shneiderman. "<a rel="nofollow" class="external text" href="http://drum.lib.umd.edu/bitstream/1903/370/2/CS-TR-2657.pdf">Tree-maps: A space-filling approach to the visualization of hierarchical information structures</a>." <i>Visualization, 1991. Visualization'91, Proceedings.</i>, IEEE Conference on. IEEE, 1991.</li>
+<li>Shneiderman, Ben. "<a rel="nofollow" class="external text" href="http://drum.lib.umd.edu/bitstream/1903/367/2/CS-TR-2645.pdf">Tree visualization with tree-maps: 2-d space-filling approach</a>." ACM Transactions on graphics (TOG) 11.1 (1992): 92–99.</li>
+<li>Ahlberg, Christopher, and Ben Shneiderman. "<a rel="nofollow" class="external text" href="http://drum.lib.umd.edu/bitstream/1903/5410/1/TR_93-71.pdf">Visual information seeking: tight coupling of dynamic query filters with starfield displays</a>." Proceedings of the SIGCHI conference on Human factors in computing systems. ACM, 1994.</li>
+<li>Shneiderman, Ben. "<a rel="nofollow" class="external text" href="http://drum.lib.umd.edu/bitstream/1903/5784/1/TR_96-66.pdf">The eyes have it: A task by data type taxonomy for information visualizations</a>." Visual Languages, 1996. Proceedings., IEEE Symposium on. IEEE, 1996.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.umd.edu/~ben/goldenrules.html">"Shneiderman's Eight Golden Rules of Interface Design"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABen+Shneiderman&amp;rft.btitle=Shneiderman%27s+Eight+Golden+Rules+of+Interface+Design&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cs.umd.edu%2F~ben%2Fgoldenrules.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cs.umd.edu/hcil/members/bshneiderman/full-resume.pdf">CURRICULUM VITAE (June 20, 2014)</a> at cs.umd.edu. Accessed 14-04-2015.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ieee.org/documents/fellows_class_2012.pdf">2012 Newly Elevated Fellows</a>, IEEE, accessed 2011-12-10.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.sigchi.org/about/awards/awards-2001.html#ben-shneiderman-1">[1]</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://161.67.140.29/cms/index.php?option=com_content&amp;view=article&amp;id=7&amp;Itemid=18">Doctorado Honoris Causa de Ben Shneiderman</a> (in Spanish)</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.newsday.com/long-island/suffolk/billy-joel-charles-wang-ben-shneiderman-to-get-honorary-degrees-from-stony-brook-university-1.10304902">[2]</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Nassi, Isaac, and Ben Shneiderman. "Flowchart techniques for structured programming." <i>ACM Sigplan Notices</i> 8.8 (1973): 12-26.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Ben Shneiderman. "<a rel="nofollow" class="external text" href="http://www.cs.umd.edu/hcil/members/bshneiderman/nsd/">A short history of structured flowcharts (Nassi–Shneiderman diagram)</a>," at www.cs.umd.edu. May 27, 2003.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">B. Shneiderman, R. Mayer, D. McKay, and P. Heller. "<a rel="nofollow" class="external text" href="http://cgis.cs.umd.edu/~ben/papers/Shneiderman1977Experimental.pdf">Experimental investigations of the utility of detailed flowcharts in programming</a>," Communications of the ACM, Vol. 20, Iss. 6, June 1977.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Shneiderman et al. (1977, p. 380)</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Shneiderman (1998, p. 75); as cited in: <a rel="nofollow" class="external text" href="http://www.cs.umd.edu/~ben/goldenrules.html">"Eight Golden Rules of Interface Design"</a>. at www.cs.umd.edu. Accessed 15.04.2015.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.cs.umd.edu/hcil/socialaction/">"SocialAction"</a>. University of Maryland. December 30, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABen+Shneiderman&amp;rft.atitle=SocialAction&amp;rft.date=2007-12-30&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cs.umd.edu%2Fhcil%2Fsocialaction%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.umd.edu/hcil/lifelines2">"Lifelines2"</a>. umd.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABen+Shneiderman&amp;rft.btitle=Lifelines2&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cs.umd.edu%2Fhcil%2Flifelines2&amp;rft.pub=umd.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.umd.edu/hcil/eventflow">"EventFlow"</a>. umd.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABen+Shneiderman&amp;rft.btitle=EventFlow&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cs.umd.edu%2Fhcil%2Feventflow&amp;rft.pub=umd.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news">"David Noble's Battle to Defend the 'Sacred Space' of the Classroom". The Chronicle of Higher Education. March 31, 2000.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABen+Shneiderman&amp;rft.atitle=David+Noble%27s+Battle+to+Defend+the+%27Sacred+Space%27+of+the+Classroom&amp;rft.date=2000-03-31&amp;rft.genre=article&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://net.educause.edu/apps/er/review/reviewArticles/33322.html">"Technology in Education: The Fight for the Future"</a>. Educom Review.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABen+Shneiderman&amp;rft.btitle=Technology+in+Education%3A+The+Fight+for+the+Future&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnet.educause.edu%2Fapps%2Fer%2Freview%2FreviewArticles%2F33322.html&amp;rft.pub=Educom+Review&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dblp.uni-trier.de/pers/hd/s/Shneiderman:Ben">Ben Shneiderman's publications</a> indexed by the <a href="/wiki/DBLP" title="DBLP">DBLP Bibliography Server</a> at the <a href="/wiki/University_of_Trier" title="University of Trier">University of Trier</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="//scholar.google.com/citations?user=h4i4fh8AAAAJ">Ben Shneiderman's publications</a> indexed by <a href="/wiki/Google_Scholar" title="Google Scholar">Google Scholar</a>, a service provided by <a href="/wiki/Google" title="Google">Google</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Ben_Shneiderman" class="extiw" title="commons:Category:Ben Shneiderman">Ben Shneiderman</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.cs.umd.edu/~ben/">Ben Shneiderman's home page</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/user/BenShneiderman"><span class="plainlinks">Ben Shneiderman</span>'s channel</a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+<li><a rel="nofollow" class="external text" href="http://treemapart.wordpress.com">Treemap Art Project</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Visualization" title="Template:Visualization"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Visualization" title="Template talk:Visualization"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Visualization&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Visualization_(computer_graphics)" title="Visualization (computer graphics)">Visualization</a> of technical information</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fields</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biological_data_visualization" title="Biological data visualization">Biological data visualization</a></li>
+<li><a href="/wiki/Chemical_imaging" title="Chemical imaging">Chemical imaging</a></li>
+<li><a href="/wiki/Crime_mapping" title="Crime mapping">Crime mapping</a></li>
+<li><a href="/wiki/Data_visualization" title="Data visualization">Data visualization</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" title="Visualization (computer graphics)">Educational visualization</a></li>
+<li><a href="/wiki/Flow_visualization" title="Flow visualization">Flow visualization</a></li>
+<li><a href="/wiki/Geovisualization" title="Geovisualization">Geovisualization</a></li>
+<li><a href="/wiki/Information_visualization" title="Information visualization">Information visualization</a></li>
+<li><a href="/wiki/Mathematical_diagram" title="Mathematical diagram">Mathematical visualization</a></li>
+<li><a href="/wiki/Medical_imaging" title="Medical imaging">Medical imaging</a></li>
+<li><a href="/wiki/Molecular_graphics" title="Molecular graphics">Molecular graphics</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" title="Visualization (computer graphics)">Product visualization</a></li>
+<li><a href="/wiki/Scientific_visualization" title="Scientific visualization">Scientific visualization</a></li>
+<li><a href="/wiki/Software_visualization" title="Software visualization">Software visualization</a></li>
+<li><a href="/wiki/Technical_drawing" title="Technical drawing">Technical drawing</a></li>
+<li><a href="/wiki/User_interface_design" title="User interface design">User interface design</a></li>
+<li><a href="/wiki/Visual_culture" title="Visual culture">Visual culture</a></li>
+<li><a href="/wiki/Volume_rendering" title="Volume rendering">Volume visualization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Image types</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chart" title="Chart">Chart</a></li>
+<li><a href="/wiki/Diagram" title="Diagram">Diagram</a></li>
+<li><a href="/wiki/Engineering_drawing" title="Engineering drawing">Engineering drawing</a></li>
+<li><a href="/wiki/Graph_of_a_function" title="Graph of a function">Graph of a function</a></li>
+<li><a href="/wiki/Ideogram" title="Ideogram">Ideogram</a></li>
+<li><a href="/wiki/Map" title="Map">Map</a></li>
+<li><a href="/wiki/Photograph" title="Photograph">Photograph</a></li>
+<li><a href="/wiki/Pictogram" title="Pictogram">Pictogram</a></li>
+<li><a href="/wiki/Plot_(graphics)" title="Plot (graphics)">Plot</a></li>
+<li><a href="/wiki/Schematic" title="Schematic">Schematic</a></li>
+<li><a href="/wiki/Statistical_graphics" title="Statistical graphics">Statistical graphics</a></li>
+<li><a href="/wiki/Table_(information)" title="Table (information)">Table</a></li>
+<li><a href="/wiki/Technical_drawing#Technical_drawings_.28the_document.29" title="Technical drawing">Technical drawings</a></li>
+<li><a href="/wiki/Technical_illustration" title="Technical illustration">Technical illustration</a></li>
+<li><a href="/wiki/User_interface" title="User interface">User interface</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jacques_Bertin" title="Jacques Bertin">Jacques Bertin</a></li>
+<li><a href="/wiki/Stuart_Card" title="Stuart Card">Stuart Card</a></li>
+<li><a href="/wiki/Thomas_A._DeFanti" title="Thomas A. DeFanti">Thomas A. DeFanti</a></li>
+<li><a href="/wiki/Michael_Friendly" title="Michael Friendly">Michael Friendly</a></li>
+<li><a href="/wiki/George_Furnas" title="George Furnas">George Furnas</a></li>
+<li><a href="/wiki/Nigel_Holmes" title="Nigel Holmes">Nigel Holmes</a></li>
+<li><a href="/wiki/Alan_MacEachren" title="Alan MacEachren">Alan MacEachren</a></li>
+<li><a href="/wiki/Jock_D._Mackinlay" title="Jock D. Mackinlay">Jock D. Mackinlay</a></li>
+<li><a href="/wiki/Michael_Maltz" title="Michael Maltz">Michael Maltz</a></li>
+<li><a href="/wiki/Bruce_H._McCormick" title="Bruce H. McCormick">Bruce H. McCormick</a></li>
+<li><a href="/wiki/Charles_Joseph_Minard" title="Charles Joseph Minard">Charles Joseph Minard</a></li>
+<li><a href="/wiki/Gaspard_Monge" title="Gaspard Monge">Gaspard Monge</a></li>
+<li><a href="/wiki/Otto_Neurath" title="Otto Neurath">Otto Neurath</a></li>
+<li><a href="/wiki/Florence_Nightingale" title="Florence Nightingale">Florence Nightingale</a></li>
+<li><a href="/wiki/Clifford_A._Pickover" title="Clifford A. Pickover">Clifford A. Pickover</a></li>
+<li><a href="/wiki/William_Playfair" title="William Playfair">William Playfair</a></li>
+<li><a href="/wiki/Adolphe_Quetelet" title="Adolphe Quetelet">Adolphe Quetelet</a></li>
+<li><a href="/wiki/George_G._Robertson" title="George G. Robertson">George G. Robertson</a></li>
+<li><a href="/wiki/Arthur_H._Robinson" title="Arthur H. Robinson">Arthur H. Robinson</a></li>
+<li><a href="/wiki/Lawrence_J._Rosenblum" title="Lawrence J. Rosenblum">Lawrence J. Rosenblum</a></li>
+<li><strong class="selflink">Ben Shneiderman</strong></li>
+<li><a href="/wiki/Edward_Tufte" title="Edward Tufte">Edward Tufte</a></li>
+<li><a href="/wiki/Fernanda_Vi%C3%A9gas" title="Fernanda Viégas">Fernanda Viégas</a></li>
+<li><a href="/wiki/Howard_Wainer" title="Howard Wainer">Howard Wainer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cartography" title="Cartography">Cartography</a></li>
+<li><a href="/wiki/Chartjunk" title="Chartjunk">Chartjunk</a></li>
+<li><a href="/wiki/Computer_graphics" title="Computer graphics">Computer graphics</a>
+<ul>
+<li><a href="/wiki/Computer_graphics_(computer_science)" title="Computer graphics (computer science)">in computer science</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Graph_drawing" title="Graph drawing">Graph drawing</a></li>
+<li><a href="/wiki/Graphic_design" title="Graphic design">Graphic design</a></li>
+<li><a href="/wiki/Graphic_organizer" title="Graphic organizer">Graphic organizer</a></li>
+<li><a href="/wiki/Imaging_science" title="Imaging science">Imaging science</a></li>
+<li><a href="/wiki/Infographic" title="Infographic">Information graphics</a></li>
+<li><a href="/wiki/Information_science" title="Information science">Information science</a></li>
+<li><a href="/wiki/Mental_image" title="Mental image">Mental visualisation</a></li>
+<li><a href="/wiki/Misleading_graph" title="Misleading graph">Misleading graph</a></li>
+<li><a href="/wiki/Neuroimaging" title="Neuroimaging">Neuroimaging</a></li>
+<li><a href="/wiki/Patent_drawing" title="Patent drawing">Patent drawing</a></li>
+<li><a href="/wiki/Scientific_modelling" title="Scientific modelling">Scientific modelling</a></li>
+<li><a href="/wiki/Spatial_analysis" title="Spatial analysis">Spatial analysis</a></li>
+<li><a href="/wiki/Visual_analytics" title="Visual analytics">Visual analytics</a></li>
+<li><a href="/wiki/Visual_perception" title="Visual perception">Visual perception</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n79-078137">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/108743798">108743798</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n79078137">n79078137</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/1031720561">1031720561</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/059932554">059932554</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb14602427c">cb14602427c</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb14602427c">(data)</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00475025">00475025</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1210
+Cached time: 20160107150130
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.296 seconds
+Real time usage: 0.378 seconds
+Preprocessor visited node count: 1439/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 31721/2097152 bytes
+Template argument size: 1631/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.102/10.000 seconds
+Lua memory usage: 2.82 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  316.076      1 - -total
+ 35.67%  112.740      1 - Template:Reflist
+ 24.46%   77.304      1 - Template:Infobox_scientist
+ 21.40%   67.625      1 - Template:Infobox
+ 16.72%   52.859      4 - Template:Cite_web
+ 12.80%   40.453      1 - Template:Use_mdy_dates
+  9.26%   29.276      4 - Template:Br_separated_entries
+  8.18%   25.863      1 - Template:Commons_category
+  7.53%   23.788      1 - Template:Authority_control
+  5.99%   18.920      1 - Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1833304-0!*!0!!en!4!* and timestamp 20160107150130 and revision id 695538871
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ben_Shneiderman&amp;oldid=695538871">https://en.wikipedia.org/w/index.php?title=Ben_Shneiderman&amp;oldid=695538871</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1947_births" title="Category:1947 births">1947 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Human%E2%80%93computer_interaction" title="Category:Human–computer interaction">Human–computer interaction</a></li><li><a href="/wiki/Category:Human%E2%80%93computer_interaction_researchers" title="Category:Human–computer interaction researchers">Human–computer interaction researchers</a></li><li><a href="/wiki/Category:Information_visualization_experts" title="Category:Information visualization experts">Information visualization experts</a></li><li><a href="/wiki/Category:The_Bronx_High_School_of_Science_alumni" title="Category:The Bronx High School of Science alumni">The Bronx High School of Science alumni</a></li><li><a href="/wiki/Category:City_College_of_New_York_alumni" title="Category:City College of New York alumni">City College of New York alumni</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Fellow_Members_of_the_IEEE" title="Category:Fellow Members of the IEEE">Fellow Members of the IEEE</a></li><li><a href="/wiki/Category:University_of_Maryland,_College_Park_faculty" title="Category:University of Maryland, College Park faculty">University of Maryland, College Park faculty</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_August_2014" title="Category:Use mdy dates from August 2014">Use mdy dates from August 2014</a></li><li><a href="/wiki/Category:Commons_category_without_a_link_on_Wikidata" title="Category:Commons category without a link on Wikidata">Commons category without a link on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ben+Shneiderman&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ben+Shneiderman" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ben_Shneiderman"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ben_Shneiderman"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ben_Shneiderman" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ben_Shneiderman&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ben_Shneiderman" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ben_Shneiderman" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ben_Shneiderman&amp;oldid=695538871" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ben_Shneiderman&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q62904" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ben_Shneiderman&amp;id=695538871" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ben+Shneiderman">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ben+Shneiderman&amp;returnto=Ben+Shneiderman&amp;oldid=695538871&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ben_Shneiderman&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Ben_Shneiderman" title="Ben Shneiderman – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Ben_Shneiderman" title="Ben Shneiderman – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Ben_Shneiderman" title="Ben Shneiderman – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Ben_Shneiderman" title="Ben Shneiderman – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Ben_Shneiderman" title="Ben Shneiderman – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Ben_Shneiderman" title="Ben Shneiderman – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q62904#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 December 2015, at 20:09.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ben_Shneiderman&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":473,"wgHostname":"mw1210"}); /* @nomin */
+} );</script>
+	</body>
+</html>

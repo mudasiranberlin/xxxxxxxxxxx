@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Guido van Rossum - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Guido_van_Rossum","wgTitle":"Guido van Rossum","wgCurRevisionId":691443300,"wgRevisionId":691443300,"wgArticleId":226402,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2014","Articles with hCards","Articles needing pronunciation","Commons category with local link same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","1956 births","Living people","Dutch computer programmers","Programming language designers","Google employees","Free software programmers","Computer programmers","Web developers","Dutch computer scientists","Python (programming language)","University of Amsterdam alumni","People from Haarlem","Members of the Open Source Initiative board of directors"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Guido_van_Rossum","wgRelevantArticleId":226402,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_van_Rossum_OSCON_2006.jpg/66px-Guido_van_Rossum_OSCON_2006.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q30942","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Guido_van_Rossum" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Guido_van_Rossum&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Guido_van_Rossum&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Guido_van_Rossum" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Guido_van_Rossum skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Guido van Rossum</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Guido van Rossum</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Guido_van_Rossum_OSCON_2006.jpg" class="image"><img alt="Guido van Rossum OSCON 2006.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_van_Rossum_OSCON_2006.jpg/200px-Guido_van_Rossum_OSCON_2006.jpg" width="200" height="300" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_van_Rossum_OSCON_2006.jpg/300px-Guido_van_Rossum_OSCON_2006.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_van_Rossum_OSCON_2006.jpg/400px-Guido_van_Rossum_OSCON_2006.jpg 2x" data-file-width="2336" data-file-height="3504" /></a>
+<div>Van Rossum at <a href="/wiki/O%27Reilly_Open_Source_Convention" title="O'Reilly Open Source Convention">OSCON</a> 2006</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1956-01-31</span>)</span> 31 January 1956 <span class="noprint ForceAgeToShow">(age&#160;59)</span><br />
+<span class="birthplace"><a href="/wiki/Haarlem" title="Haarlem">Haarlem</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></span></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category"><a href="/wiki/Netherlands" title="Netherlands">Dutch</a></td>
+</tr>
+<tr>
+<th scope="row">Alma&#160;mater</th>
+<td><a href="/wiki/University_of_Amsterdam" title="University of Amsterdam">University of Amsterdam</a></td>
+</tr>
+<tr>
+<th scope="row">Occupation</th>
+<td class="role">Computer programmer, author</td>
+</tr>
+<tr>
+<th scope="row">Employer</th>
+<td class="org"><a href="/wiki/Dropbox_(service)" title="Dropbox (service)">Dropbox</a><sup id="cite_ref-dropbox_3-0" class="reference"><a href="#cite_note-dropbox-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td>Creating the <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python programming language</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td><span>Kim Knapp <span style="font-size:95%;">(<abbr title="married">m.</abbr>&#160;2000)</span></span></td>
+</tr>
+<tr>
+<th scope="row">Children</th>
+<td>Orlijn Michiel Knapp-van Rossum<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td><a href="/wiki/Award_for_the_Advancement_of_Free_Software" title="Award for the Advancement of Free Software" class="mw-redirect">Award for the Advancement of Free Software</a> (2001)</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="https://www.python.org/~guido/">www<wbr />.python<wbr />.org<wbr />/~guido<wbr />/</a></span></td>
+</tr>
+</table>
+<p><b>Guido van Rossum</b><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Pronunciation" title="Wikipedia:Manual of Style/Pronunciation"><span title="This word should have a pronunciation transcription or recording.">pronunciation?</span></a></i>]</sup> (born 31 January<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> 1956) is a <a href="/wiki/Netherlands" title="Netherlands">Dutch</a> <a href="/wiki/Computer_programmer" title="Computer programmer" class="mw-redirect">computer programmer</a> who is best known as the author of the <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python programming language</a>. In the Python community, Van Rossum is known as a "<a href="/wiki/Benevolent_Dictator_For_Life" title="Benevolent Dictator For Life" class="mw-redirect">Benevolent Dictator For Life</a>" (BDFL), meaning that he continues to oversee the Python development process, making decisions where necessary.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> He was employed by <a href="/wiki/Google" title="Google">Google</a> from 2005 until 7 December 2012, where he spent half his time developing the Python language. In January 2013, Van Rossum started working for <a href="/wiki/Dropbox_(service)" title="Dropbox (service)">Dropbox</a>.<sup id="cite_ref-dropbox_3-1" class="reference"><a href="#cite_note-dropbox-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Personal_life"><span class="tocnumber">2</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Work"><span class="tocnumber">3</span> <span class="toctext">Work</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Python"><span class="tocnumber">3.1</span> <span class="toctext">Python</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Computer_Programming_for_Everybody"><span class="tocnumber">3.2</span> <span class="toctext">Computer Programming for Everybody</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Mondrian"><span class="tocnumber">3.3</span> <span class="toctext">Mondrian</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Dropbox"><span class="tocnumber">3.4</span> <span class="toctext">Dropbox</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Recognition"><span class="tocnumber">3.5</span> <span class="toctext">Recognition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guido_van_Rossum&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Van Rossum was born and grew up in the Netherlands, where he received a master's degree in mathematics and <a href="/wiki/Computer_science" title="Computer science">computer science</a> from the <a href="/wiki/University_of_Amsterdam" title="University of Amsterdam">University of Amsterdam</a> in 1982. He later worked for various research institutes, including the Dutch <a href="/wiki/Centrum_Wiskunde_%26_Informatica" title="Centrum Wiskunde &amp; Informatica">Centrum Wiskunde &amp; Informatica</a> (CWI), Amsterdam, the <a href="/wiki/United_States" title="United States">United States</a> <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">National Institute of Standards and Technology</a> (NIST), Gaithersburg, Maryland, and the <a href="/wiki/Corporation_for_National_Research_Initiatives" title="Corporation for National Research Initiatives">Corporation for National Research Initiatives</a> (CNRI), Reston, Virginia.</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guido_van_Rossum&amp;action=edit&amp;section=2" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Guido van Rossum is the brother of <a href="/wiki/Just_van_Rossum" title="Just van Rossum">Just van Rossum</a>, a <a href="/wiki/Type_designer" title="Type designer" class="mw-redirect">type designer</a> and programmer. Just van Rossum designed the typeface that is used in the "Python Powered" logo. Guido lives in <a href="/wiki/Belmont,_California" title="Belmont, California">Belmont, California</a> with his wife, Kim Knapp,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> and their son, Orlijn.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Work">Work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guido_van_Rossum&amp;action=edit&amp;section=3" title="Edit section: Work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While working at the <i>Stichting Mathematisch Centrum</i> (CWI), Guido van Rossum wrote and contributed a <a href="/wiki/Glob_(programming)" title="Glob (programming)">glob()</a> routine to <a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">BSD</a> <a href="/wiki/Unix" title="Unix">Unix</a> in 1986.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> Van Rossum also worked on the development of the <a href="/wiki/ABC_(programming_language)" title="ABC (programming language)">ABC programming language</a>.</p>
+<h3><span class="mw-headline" id="Python">Python</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guido_van_Rossum&amp;action=edit&amp;section=4" title="Edit section: Python">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Guido_van_Rossum_at_Google_IO_2008.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_van_Rossum_at_Google_IO_2008.jpg/200px-Guido_van_Rossum_at_Google_IO_2008.jpg" width="200" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_van_Rossum_at_Google_IO_2008.jpg/300px-Guido_van_Rossum_at_Google_IO_2008.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Guido_van_Rossum_at_Google_IO_2008.jpg/400px-Guido_van_Rossum_at_Google_IO_2008.jpg 2x" data-file-width="1704" data-file-height="2555" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Guido_van_Rossum_at_Google_IO_2008.jpg" class="internal" title="Enlarge"></a></div>
+Van Rossum at the 2008 <i><a href="/wiki/Google" title="Google">Google</a> I/O</i> Developer's Conference.</div>
+</div>
+</div>
+<p>About the origin of <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, Van Rossum wrote in 1996:</p>
+<blockquote>
+<p>Over six years ago, in December 1989, I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. My office ... would be closed, but I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately: a descendant of ABC that would appeal to Unix/C hackers. I chose Python as a working title for the project, being in a slightly irreverent mood (and a big fan of <a href="/wiki/Monty_Python%27s_Flying_Circus" title="Monty Python's Flying Circus">Monty Python's Flying Circus</a>).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+</blockquote>
+<p>In 2000 he further wrote:</p>
+<blockquote>
+<p>Python's predecessor, <a href="/wiki/ABC_(programming_language)" title="ABC (programming language)">ABC</a>, was inspired by <a href="/wiki/SETL" title="SETL">SETL</a> – <a href="/wiki/Lambert_Meertens" title="Lambert Meertens">Lambert Meertens</a> spent a year with the SETL group at <a href="/wiki/New_York_University" title="New York University">NYU</a> before coming up with the final ABC design!<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+</blockquote>
+<h3><span class="mw-headline" id="Computer_Programming_for_Everybody">Computer Programming for Everybody</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guido_van_Rossum&amp;action=edit&amp;section=5" title="Edit section: Computer Programming for Everybody">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1999, Van Rossum submitted a funding proposal to <a href="/wiki/DARPA" title="DARPA">DARPA</a> called <a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.123.6836&amp;rep=rep1&amp;type=pdf"><i>Computer Programming for Everybody</i></a>, in which he further defined his goals for Python:</p>
+<ul>
+<li>an easy and intuitive language just as powerful as major competitors</li>
+<li><a href="/wiki/Open_source" title="Open source">open source</a>, so anyone can contribute to its development</li>
+<li>code that is as understandable as plain English</li>
+<li>suitability for everyday tasks, allowing for short development times</li>
+</ul>
+<p>Python has grown to become a popular programming language: For example, as of November 2011, it is the 3rd most popular language on the <a href="/wiki/GitHub" title="GitHub">GitHub</a> social coding website,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> and according to a programming language popularity survey<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> it is consistently amongst the top 10 most mentioned languages in job postings. Additionally, it is consistently in the top 10 most popular languages according to the <a href="/wiki/TIOBE_Programming_Community_Index" title="TIOBE Programming Community Index" class="mw-redirect">TIOBE Programming Community Index</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Mondrian">Mondrian</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guido_van_Rossum&amp;action=edit&amp;section=6" title="Edit section: Mondrian">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote">Not to be confused with <a href="/wiki/Mondrian_(software)" title="Mondrian (software)">Mondrian (software)</a>, data visualisation software, or <a href="/wiki/Mondrian_OLAP_server" title="Mondrian OLAP server">Mondrian OLAP server</a>.</div>
+<p>While working for Google, Van Rossum developed Mondrian, a web-based <a href="/wiki/Code_review" title="Code review">code review</a> system written in Python and used within the company. He named the software after the Dutch painter <a href="/wiki/Piet_Mondrian" title="Piet Mondrian">Piet Mondrian</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> He named another related <a href="/wiki/Rietveld_(software)" title="Rietveld (software)">software project</a> after <a href="/wiki/Gerrit_Rietveld" title="Gerrit Rietveld">Gerrit Rietveld</a>, a Dutch designer</p>
+<h3><span class="mw-headline" id="Dropbox">Dropbox</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guido_van_Rossum&amp;action=edit&amp;section=7" title="Edit section: Dropbox">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In December 2012, Van Rossum joined the cloud file storage company <a href="/wiki/Dropbox_(service)" title="Dropbox (service)">Dropbox</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Recognition">Recognition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guido_van_Rossum&amp;action=edit&amp;section=8" title="Edit section: Recognition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>At the 2002 <a href="/wiki/FOSDEM" title="FOSDEM">FOSDEM</a> conference in <a href="/wiki/Brussels" title="Brussels">Brussels</a>, Van Rossum received the 2001 <a href="/wiki/Award_for_the_Advancement_of_Free_Software" title="Award for the Advancement of Free Software" class="mw-redirect">Award for the Advancement of Free Software</a> from the <a href="/wiki/Free_Software_Foundation" title="Free Software Foundation">Free Software Foundation</a> (FSF) for his work on Python.</li>
+<li>Van Rossum received a <a href="/wiki/NLUUG" title="NLUUG">NLUUG</a> Award in May 2003.</li>
+<li>In 2006, Van Rossum was recognized as a Distinguished Engineer by the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guido_van_Rossum&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://ffkp.se/2012/04/15/old-interview-guido-van-rossum/">"Old interview – Guido van Rossum"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 January</span> 2014</span>. <q>I only took some time to visit my family in Haarlem.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=Old+interview+%93+Guido+van+Rossum&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fffkp.se%2F2012%2F04%2F15%2Fold-interview-guido-van-rossum%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.schoolbank.nl/klasgenoot/guido-van-rossum/2990563095">"Schoolbank profile"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=Schoolbank+profile&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.schoolbank.nl%2Fklasgenoot%2Fguido-van-rossum%2F2990563095&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dropbox-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-dropbox_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dropbox_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Constine, Josh. <a rel="nofollow" class="external text" href="http://techcrunch.com/2012/12/07/dropbox-guido-van-rossum-python/">"Dropbox Hires Away Google’s Guido Van Rossum, The Father Of Python"</a>. Techcrunch<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.aufirst=Josh&amp;rft.aulast=Constine&amp;rft.btitle=Dropbox+Hires+Away+Google%99s+Guido+Van+Rossum%2C+The+Father+Of+Python&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Ftechcrunch.com%2F2012%2F12%2F07%2Fdropbox-guido-van-rossum-python%2F&amp;rft.pub=Techcrunch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/20081031103755/http://wiki.codecall.net:80/Guido_van_Rossum">"Guido van Rossum"</a>. CodeCall Programming Wiki. Archived from <a rel="nofollow" class="external text" href="http://wiki.codecall.net/Guido_van_Rossum">the original</a> on 31 October 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=Guido+van+Rossum&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwiki.codecall.net%2FGuido_van_Rossum&amp;rft.pub=CodeCall+Programming+Wiki&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">van Rossum, Guido (31 January 2007). <a rel="nofollow" class="external text" href="http://mail.python.org/pipermail/python-dev/2007-January/070849.html">"(Python-Dev) Happy Birthday, Guido!"</a>. Python-Dev mailing list.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.aufirst=Guido&amp;rft.aulast=van+Rossum&amp;rft.btitle=%28Python-Dev%29+Happy+Birthday%2C+Guido%21&amp;rft.date=2007-01-31&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmail.python.org%2Fpipermail%2Fpython-dev%2F2007-January%2F070849.html&amp;rft.pub=Python-Dev+mailing+list&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/20061001143603/http://www.linuxformat.co.uk/modules.php?op=modload&amp;name=Sections&amp;file=index&amp;req=viewarticle&amp;artid=10">"Benevolent dictator for life"</a>. <a href="/wiki/Linux_Format" title="Linux Format">Linux Format</a>. 1 February 2005. Archived from <a rel="nofollow" class="external text" href="http://www.linuxformat.co.uk/modules.php?op=modload&amp;name=Sections&amp;file=index&amp;req=viewarticle&amp;artid=10">the original</a> on 1 October 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.atitle=Benevolent+dictator+for+life&amp;rft.date=2005-02-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.linuxformat.co.uk%2Fmodules.php%3Fop%3Dmodload%26name%3DSections%26file%3Dindex%26req%3Dviewarticle%26artid%3D10&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Manheimer, Ken (6 June 2000). <a rel="nofollow" class="external text" href="http://mail.python.org/pipermail/python-dev/2000-June/004497.html">"(Python-Dev) Guido and Kim married"</a>. Python-Dev -- Python core developers.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.aufirst=Ken&amp;rft.aulast=Manheimer&amp;rft.btitle=%28Python-Dev%29+Guido+and+Kim+married&amp;rft.date=2000-06-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmail.python.org%2Fpipermail%2Fpython-dev%2F2000-June%2F004497.html&amp;rft.pub=Python-Dev+--+Python+core+developers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.python.org/~guido/bio.html">"Guido van Rossum - Brief Bio"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=Guido+van+Rossum+-+Brief+Bio&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.python.org%2F~guido%2Fbio.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://mail.python.org/pipermail/mailman-announce/2000-May/000010.html">"(Mailman-Announce) forwarded message from Guido van Rossum"</a>. <q>Oh, and to top it all off, I'm going on vacation. I'm getting married and will be relaxing on my honeymoon.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=%28Mailman-Announce%29+forwarded+message+from+Guido+van+Rossum&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmail.python.org%2Fpipermail%2Fmailman-announce%2F2000-May%2F000010.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">van Rossum, Guido. <a rel="nofollow" class="external text" href="http://csg.csail.mit.edu/6.893/Handouts/PythonWhatsNew.pdf">"What's New in Python?"</a> <span style="font-size:85%;">(PDF)</span>. "Not your usual list of new features". Stanford CSL Colloquium, 29 October 2003; BayPiggies, 13 November 2003. Elemental Security.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.atitle=What%27s+New+in+Python%3F&amp;rft.aufirst=Guido&amp;rft.aulast=van+Rossum&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcsg.csail.mit.edu%2F6.893%2FHandouts%2FPythonWhatsNew.pdf&amp;rft.jtitle=%27%27%22Not+your+usual+list+of+new+features%22.+Stanford+CSL+Colloquium%2C+29+October+2003%3B+BayPiggies%2C+13+November+2003%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20071219090708/http://www.isc.org/sources/devel/func/glob.txt">"<span style="padding-left:0.2em;">'</span>Globbing' library routine"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.isc.org/sources/devel/func/glob.txt">the original</a> on 19 December 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=%27Globbing%27+library+routine&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.isc.org%2Fsources%2Fdevel%2Ffunc%2Fglob.txt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://metacpan.org/module/File::Glob">"File::Glob - Perl extension for BSD glob routine"</a>. metacpan.org.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=File%3A%3AGlob+-+Perl+extension+for+BSD+glob+routine&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fmetacpan.org%2Fmodule%2FFile%3A%3AGlob&amp;rft.pub=metacpan.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.python.org/doc/essays/foreword/">"Foreword for "Programming Python" (1st ed.)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=Foreword+for+%22Programming+Python%22+%281st+ed.%29&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.python.org%2Fdoc%2Fessays%2Fforeword%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://mail.python.org/pipermail/python-dev/2000-August/008881.html">"Python-Dev] SETL (was: Lukewarm about range literals)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=Python-Dev%26%2393%3B+SETL+%28was%3A+Lukewarm+about+range+literals%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmail.python.org%2Fpipermail%2Fpython-dev%2F2000-August%2F008881.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/20130723065006/https://github.com/languages">"GitHub.com Top Languages"</a>. Archived from <a rel="nofollow" class="external text" href="https://github.com/languages">the original</a> on 23 July 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=GitHub.com+Top+Languages&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fgithub.com%2Flanguages&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://langpop.com/">"Programming Language Popularity"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=Programming+Language+Popularity&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flangpop.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html">"TIOBE Programming Community Index for November 2011"</a>. November 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=TIOBE+Programming+Community+Index+for+November+2011&amp;rft.date=2011-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tiobe.com%2Findex.php%2Fcontent%2Fpaperinfo%2Ftpci%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">van Rossum, Guido (May 2008). <a rel="nofollow" class="external text" href="https://developers.google.com/appengine/articles/rietveld">"An Open Source App: Rietveld Code Review Tool"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 August</span> 2012</span>. <q>... the internal web app, which I code-named Mondrian after one of my favorite Dutch painters</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.aufirst=Guido&amp;rft.aulast=van+Rossum&amp;rft.btitle=An+Open+Source+App%3A+Rietveld+Code+Review+Tool&amp;rft.date=2008-05&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fdevelopers.google.com%2Fappengine%2Farticles%2Frietveld&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://tech.dropbox.com/2012/12/welcome-guido/">"Dropbox Tech Blog&#160;» Blog Archive&#160;» Welcome Guido!"</a>. Tech.dropbox.com. 7 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">6 September</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGuido+van+Rossum&amp;rft.btitle=Dropbox+Tech+Blog++%BB+Blog+Archive++%BB+Welcome+Guido%21&amp;rft.date=2012-12-07&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Ftech.dropbox.com%2F2012%2F12%2Fwelcome-guido%2F&amp;rft.pub=Tech.dropbox.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Guido_van_Rossum&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Nuvola_apps_emacs_vector.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nuvola_apps_emacs_vector.svg/28px-Nuvola_apps_emacs_vector.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nuvola_apps_emacs_vector.svg/42px-Nuvola_apps_emacs_vector.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nuvola_apps_emacs_vector.svg/56px-Nuvola_apps_emacs_vector.svg.png 2x" data-file-width="160" data-file-height="160" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Free_software" title="Portal:Free software">Free software portal</a></td>
+</tr>
+</table>
+</div>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Guido_van_Rossum" class="extiw" title="commons:Category:Guido van Rossum">Guido van Rossum</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://www.python.org/~guido/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://python-history.blogspot.com/"><i>The History of Python</i></a> Guido's blog on the History of Python and design decisions</li>
+<li><a rel="nofollow" class="external text" href="https://www.python.org/doc/essays/everybody/"><i>Computer Programming for Everybody</i></a></li>
+<li><a rel="nofollow" class="external text" href="http://www.twit.tv/floss11">Interview with Guido van Rossum</a> on <a href="/wiki/FLOSS_Weekly" title="FLOSS Weekly">FLOSS Weekly</a></li>
+<li><a rel="nofollow" class="external text" href="http://workspiration.org/guido-van-rossum"><i>Guido van Rossum</i></a> Guido's interview on Workspiration</li>
+<li><a rel="nofollow" class="external text" href="http://www.computerworld.com.au/index.php/id;66665771">Computerworld Interview with Guido van Rossum on Python</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stanford.edu/class/ee380/Abstracts/081105.html">Google App Engine — Run your web applications on Google's infrastructure</a> — technical talk on <a href="/wiki/Google_App_Engine" title="Google App Engine">Google App Engine</a> given by Guido van Rossum at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>. (<a rel="nofollow" class="external text" href="http://stanford-online.stanford.edu/courses/ee380/081105-ee380-300.asx">online video archive</a>)</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n96-080557">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/28799390">28799390</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n96080557">n96080557</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000035393853">0000 0000 3539 3853</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/1067604243">1067604243</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1090
+Cached time: 20160101094904
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.507 seconds
+Real time usage: 0.611 seconds
+Preprocessor visited node count: 2007/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 39439/2097152 bytes
+Template argument size: 2208/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.245/10.000 seconds
+Lua memory usage: 4.2 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  557.047      1 - -total
+ 40.67%  226.567      1 - Template:Reflist
+ 30.98%  172.587     18 - Template:Cite_web
+ 26.48%  147.504      1 - Template:Infobox_person
+ 20.47%  114.035      1 - Template:Infobox
+  7.25%   40.361      1 - Template:Use_dmy_dates
+  6.70%   37.331      5 - Template:Br_separated_entries
+  6.50%   36.183      1 - Template:Pronunciation_needed
+  6.05%   33.674      1 - Template:Fix
+  5.80%   32.281      1 - Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:226402-0!*!0!!en!4!* and timestamp 20160101094903 and revision id 691443300
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Guido_van_Rossum&amp;oldid=691443300">https://en.wikipedia.org/w/index.php?title=Guido_van_Rossum&amp;oldid=691443300</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1956_births" title="Category:1956 births">1956 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Dutch_computer_programmers" title="Category:Dutch computer programmers">Dutch computer programmers</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:Google_employees" title="Category:Google employees">Google employees</a></li><li><a href="/wiki/Category:Free_software_programmers" title="Category:Free software programmers">Free software programmers</a></li><li><a href="/wiki/Category:Computer_programmers" title="Category:Computer programmers">Computer programmers</a></li><li><a href="/wiki/Category:Web_developers" title="Category:Web developers">Web developers</a></li><li><a href="/wiki/Category:Dutch_computer_scientists" title="Category:Dutch computer scientists">Dutch computer scientists</a></li><li><a href="/wiki/Category:Python_(programming_language)" title="Category:Python (programming language)">Python (programming language)</a></li><li><a href="/wiki/Category:University_of_Amsterdam_alumni" title="Category:University of Amsterdam alumni">University of Amsterdam alumni</a></li><li><a href="/wiki/Category:People_from_Haarlem" title="Category:People from Haarlem">People from Haarlem</a></li><li><a href="/wiki/Category:Members_of_the_Open_Source_Initiative_board_of_directors" title="Category:Members of the Open Source Initiative board of directors">Members of the Open Source Initiative board of directors</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_July_2014" title="Category:Use dmy dates from July 2014">Use dmy dates from July 2014</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Articles_needing_pronunciation" title="Category:Articles needing pronunciation">Articles needing pronunciation</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Guido+van+Rossum&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Guido+van+Rossum" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Guido_van_Rossum"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Guido_van_Rossum"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Guido_van_Rossum" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Guido_van_Rossum&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Guido_van_Rossum&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Guido_van_Rossum" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Guido_van_Rossum" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Guido_van_Rossum&amp;oldid=691443300" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Guido_van_Rossum&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q30942" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Guido_van_Rossum&amp;id=691443300" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Guido+van+Rossum">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Guido+van+Rossum&amp;returnto=Guido+van+Rossum&amp;oldid=691443300&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Guido_van_Rossum&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AC%D8%A7%D9%8A%D8%AF%D9%88_%DA%A4%D8%A7%D9%86_%D8%B1%D9%88%D8%B3%D9%85" title="جايدو ڤان روسم – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%97%E0%A7%81%E0%A6%87%E0%A6%A1%E0%A7%8B_%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8_%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BF%E0%A6%89%E0%A6%AE" title="গুইডো ভ্যান রস্যিউম – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%93%D1%83%D0%B8%D0%B4%D0%BE_%D0%B2%D0%B0%D0%BD_%D0%A0%D0%BE%D1%81%D1%83%D0%BC" title="Гуидо ван Росум – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%AF%D9%88_%D9%81%D8%A7%D9%86_%D8%B1%D9%88%D8%B3%D9%88%D9%85" title="خودو فان روسوم – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EA%B7%80%EB%8F%84_%EB%B0%98_%EB%A1%9C%EC%84%AC" title="귀도 반 로섬 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%97%E0%B5%88%E0%B4%A1%E0%B5%8B_%E0%B4%B5%E0%B4%BE%E0%B5%BB_%E0%B4%B1%E0%B5%8B%E0%B4%B8%E0%B5%8D%E0%B4%B8%E0%B4%82" title="ഗൈഡോ വാൻ റോസ്സം – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A4%E3%83%89%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%AD%E3%83%83%E3%82%B5%E3%83%A0" title="グイド・ヴァンロッサム – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD_%D0%A0%D0%BE%D1%81%D1%81%D1%83%D0%BC,_%D0%93%D0%B2%D0%B8%D0%B4%D0%BE" title="Ван Россум, Гвидо – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%93%D0%B2%D0%B8%D0%B4%D0%BE_%D0%B2%D0%B0%D0%BD_%D0%A0%D0%BE%D1%81%D1%83%D0%BC" title="Гвидо ван Росум – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%88%E0%AE%9F%E0%AF%8B_%E0%AE%B5%E0%AE%BE%E0%AE%A9%E0%AF%8D_%E0%AE%B0%E0%AF%8B%E0%AE%9A%E0%AE%AE%E0%AF%8D" title="கைடோ வான் ரோசம் – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Guido_van_Rossum" title="Guido van Rossum – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D2%90%D0%B2%D1%96%D0%B4%D0%BE_%D0%B2%D0%B0%D0%BD_%D0%A0%D0%BE%D1%81%D1%81%D1%83%D0%BC" title="Ґвідо ван Россум – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%90%89%E5%A4%9A%C2%B7%E8%8C%83%E7%BD%97%E8%8B%8F%E5%A7%86" title="吉多·范罗苏姆 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q30942#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 November 2015, at 21:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Guido_van_Rossum&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":726,"wgHostname":"mw1090"}); /* @nomin */
+} );</script>
+	</body>
+</html>

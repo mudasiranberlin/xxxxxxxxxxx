@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Butler Lampson - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Butler_Lampson","wgTitle":"Butler Lampson","wgCurRevisionId":682607329,"wgRevisionId":682607329,"wgArticleId":77249,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["BLP articles lacking sources from February 2013","Commons category with page title same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","1943 births","American computer scientists","Computer designers","Turing Award laureates","Microsoft technical fellows","Digital Equipment Corporation people","Living people","Fellows of the Association for Computing Machinery","Harvard University alumni","University of California, Berkeley College of Engineering alumni","Draper Prize winners","Members of the United States National Academy of Engineering","Lawrenceville School alumni"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Butler_Lampson","wgRelevantArticleId":77249,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Butler_W._Lampson","wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Professional_Developers_Conference_2009_Technical_Leaders_Panel_6.jpg/100px-Professional_Developers_Conference_2009_Technical_Leaders_Panel_6.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Butler_Lampson","wgWikibaseItemId":"Q92644","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Butler_Lampson" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Butler_Lampson&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Butler_Lampson&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Butler_Lampson" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Butler_Lampson skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Butler Lampson</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Butler_W._Lampson&amp;redirect=no" title="Butler W. Lampson">Butler W. Lampson</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-BLP_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biographical article</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help by adding <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Defamation" title="Defamation">libelous</a> or harmful.</span> <small><i>(February 2013)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Butler Lampson</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Professional_Developers_Conference_2009_Technical_Leaders_Panel_6.jpg" class="image"><img alt="Professional Developers Conference 2009 Technical Leaders Panel 6.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Professional_Developers_Conference_2009_Technical_Leaders_Panel_6.jpg/220px-Professional_Developers_Conference_2009_Technical_Leaders_Panel_6.jpg" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Professional_Developers_Conference_2009_Technical_Leaders_Panel_6.jpg/330px-Professional_Developers_Conference_2009_Technical_Leaders_Panel_6.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Professional_Developers_Conference_2009_Technical_Leaders_Panel_6.jpg/440px-Professional_Developers_Conference_2009_Technical_Leaders_Panel_6.jpg 2x" data-file-width="3888" data-file-height="2592" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1943-12-23</span>)</span> December 23, 1943 <span class="noprint ForceAgeToShow">(age&#160;72)</span><br />
+Washington, D.C.</td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_science" title="Computer science">Computer science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/UC-Berkeley" title="UC-Berkeley" class="mw-redirect">UC-Berkeley</a><br />
+<a href="/wiki/Xerox_PARC" title="Xerox PARC" class="mw-redirect">Xerox PARC</a><br />
+<a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">DEC</a><br />
+<a href="/wiki/Microsoft" title="Microsoft">Microsoft</a><br />
+<a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> (A.B., 1964)<br />
+<a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> (Ph.D., 1967)</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/SDS_940" title="SDS 940">SDS 940</a>, <a href="/wiki/Xerox_Alto" title="Xerox Alto">Xerox Alto</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/A._M._Turing_Award" title="A. M. Turing Award" class="mw-redirect">A. M. Turing Award</a> <small>(1992)</small><br />
+<a href="/wiki/IEEE_John_von_Neumann_Medal" title="IEEE John von Neumann Medal">IEEE John von Neumann Medal</a> <small>(2001)</small><br />
+<a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> Fellow <small>(2006)</small><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><b>Butler W. Lampson</b> (born December 23, 1943) is a <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a>.</p>
+<p>After graduating from the <a href="/wiki/Lawrenceville_School" title="Lawrenceville School">Lawrenceville School</a> (where in 2009 he was awarded the Aldo Leopold Award, also known as the Lawrenceville Medal, Lawrenceville's highest award to alumni), Lampson received his <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">Bachelor's degree</a> in Physics from <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> in 1964, and his <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Ph.D.</a> in Electrical Engineering and Computer Science from the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> in 1967.</p>
+<p>During the 1960s, Lampson and others were part of Project GENIE at UC Berkeley. In 1965, several <a href="/wiki/Project_Genie" title="Project Genie">Project GENIE</a> members, specifically Lampson and <a href="/wiki/L._Peter_Deutsch" title="L. Peter Deutsch" class="mw-redirect">Peter Deutsch</a>, developed the <a href="/wiki/Berkeley_Timesharing_System" title="Berkeley Timesharing System">Berkeley Timesharing System</a> for <a href="/wiki/Scientific_Data_Systems" title="Scientific Data Systems">Scientific Data Systems</a>' <a href="/wiki/SDS_940" title="SDS 940">SDS 940</a> computer.</p>
+<p>Lampson was one of the founding members of <a href="/wiki/Xerox_PARC" title="Xerox PARC" class="mw-redirect">Xerox PARC</a> in 1970, where he worked in the Computer Science Laboratory (CSL). His now-famous vision of a <a href="/wiki/Personal_computer" title="Personal computer">personal computer</a> was captured in the 1972 memo entitled "Why Alto?".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> In 1973, the <a href="/wiki/Xerox_Alto" title="Xerox Alto">Xerox Alto</a>, with its three-button <a href="/wiki/Computer_mouse" title="Computer mouse">mouse</a> and full-page-sized <a href="/wiki/Computer_display" title="Computer display" class="mw-redirect">monitor</a> was born.<sup id="cite_ref-altopc_3-0" class="reference"><a href="#cite_note-altopc-3"><span>[</span>3<span>]</span></a></sup> It is now considered to be the first actual personal computer (at least in terms of what has become the 'canonical' GUI mode of operation).</p>
+<p>All the subsequent computers built at Xerox PARC followed a general blueprint called "Wildflower", written by Lampson, and this included the <i><a href="/w/index.php?title=Xerox_D_computers&amp;action=edit&amp;redlink=1" class="new" title="Xerox D computers (page does not exist)">D-Series Machines</a></i>, the "Dolphin" (used in the <a href="/w/index.php?title=Xerox_1100&amp;action=edit&amp;redlink=1" class="new" title="Xerox 1100 (page does not exist)">Xerox 1100</a> LISP machine), "Dandelion" (used in the <a href="/wiki/Xerox_8010" title="Xerox 8010" class="mw-redirect">Xerox 8010</a> model of the <a href="/wiki/Xerox_Star" title="Xerox Star">Xerox Star</a> and <a href="/w/index.php?title=Xerox_1108&amp;action=edit&amp;redlink=1" class="new" title="Xerox 1108 (page does not exist)">Xerox 1108</a> LISP machine), "Dandetiger" (used in the <a href="/w/index.php?title=Xerox_1109&amp;action=edit&amp;redlink=1" class="new" title="Xerox 1109 (page does not exist)">Xerox 1109</a> LISP machine), "Dorado" (used in the <a href="/w/index.php?title=Xerox_1132&amp;action=edit&amp;redlink=1" class="new" title="Xerox 1132 (page does not exist)">Xerox 1132</a> LISP machine), "Daybreak" <a href="/wiki/Xerox_Daybreak" title="Xerox Daybreak">Xerox 6085</a>, and "Dragon" (a 4-processor 6085 with one of the first snoopy caches, though never released to production).</p>
+<p>At PARC, Lampson helped work on many other revolutionary technologies, such as <a href="/wiki/Laser_printer" title="Laser printer" class="mw-redirect">laser printer</a> design; <a href="/wiki/Two-phase_commit_protocol" title="Two-phase commit protocol">two-phase commit protocols</a>; <a href="/wiki/Bravo_(software)" title="Bravo (software)">Bravo</a>, the first <a href="/wiki/WYSIWYG" title="WYSIWYG">WYSIWYG</a> <a href="/wiki/Text_formatting" title="Text formatting" class="mw-redirect">text formatting</a> program; <a href="/wiki/Ethernet" title="Ethernet">Ethernet</a>, the first high-speed <a href="/wiki/Local_area_network" title="Local area network">local area network</a> (LAN); and designed several influential programming languages such as <a href="/wiki/Euclid_programming_language" title="Euclid programming language" class="mw-redirect">Euclid</a>.</p>
+<p>By the early 1980s, Lampson left Xerox PARC for <a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">Digital Equipment Corporation</a>'s <a href="/wiki/DEC_Systems_Research_Center" title="DEC Systems Research Center">Systems Research Center</a> (SRC); he now works for <a href="/wiki/Microsoft_Research" title="Microsoft Research">Microsoft Research</a>. Lampson is also an <a href="/wiki/Adjunct_professor" title="Adjunct professor">adjunct professor</a> at <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a>.</p>
+<p>In 1992, he won the distinguished <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> for his contributions to personal computing and <a href="/wiki/Computer_science" title="Computer science">computer science</a> and in 1994 he was inducted as a <a href="/wiki/Fellow" title="Fellow">Fellow</a> of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a>. In 2004, he won the <a href="/wiki/Charles_Stark_Draper_Prize" title="Charles Stark Draper Prize">Charles Stark Draper Prize</a> along with <a href="/wiki/Alan_C._Kay" title="Alan C. Kay" class="mw-redirect">Alan C. Kay</a>, <a href="/wiki/Robert_Taylor_(computer_scientist)" title="Robert Taylor (computer scientist)">Robert W. Taylor</a>, and <a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> for their work on <a href="/wiki/Alto_(computer)" title="Alto (computer)" class="mw-redirect">Alto</a>. In 2006 he was inducted as a Fellow of the <a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> "for fundamental contributions to computer science, including networked personal workstations, operating systems, computer security and document publishing."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Lampson is often quoted as saying, "<a href="/wiki/Fundamental_theorem_of_software_engineering" title="Fundamental theorem of software engineering">Any problem in computer science can be solved with another level of indirection</a>," but in his Turing Award Lecture<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> in 1993, Lampson himself attributes this saying to <a href="/wiki/David_Wheeler_(computer_scientist)" title="David Wheeler (computer scientist)" class="mw-redirect">David Wheeler</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Butler_Lampson&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a></li>
+<li><a href="/wiki/Charles_Simonyi" title="Charles Simonyi">Charles Simonyi</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Butler_Lampson&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/bios/Butler,Lampson/">Butler Lampson 2006 Fellow</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.digibarn.com/friends/butler-lampson/index.html">DigiBarn Computer Museum: Why Alto? Butler Lampson's Historic 1972 Memo</a></span></li>
+<li id="cite_note-altopc-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-altopc_3-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFThackerMcCreightLampsonSproull1982" class="citation"><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Thacker, C.P.</a>; <a href="/wiki/Edward_M._McCreight" title="Edward M. McCreight">McCreight, E.M.</a>; Lampson, B.W.; <a href="/wiki/Bob_Sproull" title="Bob Sproull">Sproull, R.F.</a>; <a href="/wiki/David_Boggs" title="David Boggs">Boggs, D.R.</a> (1982), <a rel="nofollow" class="external text" href="http://research.microsoft.com/Lampson/25-Alto/25-AltoOCR.htm">"Alto: a personal computer"</a>, <i>Computer Structures: Principles and Examples</i>: 549–572<span class="reference-accessdate">, retrieved <span class="nowrap">2010-09-02</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AButler+Lampson&amp;rft.atitle=Alto%3A+a+personal+computer&amp;rft.au=Boggs%2C+D.R.&amp;rft.aufirst=C.P.&amp;rft.au=Lampson%2C+B.W.&amp;rft.aulast=Thacker&amp;rft.au=McCreight%2C+E.M.&amp;rft.au=Sproull%2C+R.F.&amp;rft.date=1982&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fresearch.microsoft.com%2FLampson%2F25-Alto%2F25-AltoOCR.htm&amp;rft.jtitle=Computer+Structures%3A+Principles+and+Examples&amp;rft.pages=549-572&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">CHM. <a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/bios/Butler,Lampson/">"Butler Lampson — CHM Fellow Award Winner"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AButler+Lampson&amp;rft.au=CHM&amp;rft.btitle=Butler+Lampson+%94+CHM+Fellow+Award+Winner&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Ffellowawards%2Fhall%2Fbios%2FButler%2CLampson%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><a rel="nofollow" class="external autonumber" href="http://www.computerhistory.org/fellowawards/hall/bios/Butler,Lampson/">[1]</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://research.microsoft.com/Lampson/Slides/TuringLecture.doc">http://research.microsoft.com/Lampson/Slides/TuringLecture.doc</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Butler_Lampson&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Butler_Lampson" class="extiw" title="commons:Category:Butler Lampson">Butler Lampson</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://research.microsoft.com/lampson">Lampson's website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.jargon.net/jargonfile/m/milliLampson.html">The milliLampson unit</a></li>
+<li>Butler Lampson. <a rel="nofollow" class="external text" href="http://hdl.handle.net/11299/169983">Oral history interview</a>, 11 December 2014, Cambridge, Massachusetts. <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a>, University of Minnesota</li>
+</ul>
+<p><br /></p>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Turing_Award_laureates" title="Template:Turing Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Turing_Award_laureates" title="Template talk:Turing Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Turing_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a> <small>(1966)</small></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Vincent Wilkes</a> <small>(1967)</small></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1968)</small></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> <small>(1969)</small></li>
+<li><a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a> <small>(1970)</small></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a> <small>(1971)</small></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a> <small>(1972)</small></li>
+<li><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a> <small>(1973)</small></li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> <small>(1974)</small></li>
+<li><a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a> / <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a> <small>(1975)</small></li>
+<li><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a> / <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> <small>(1976)</small></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> <small>(1977)</small></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a> <small>(1978)</small></li>
+<li><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a> <small>(1979)</small></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> <small>(1980)</small></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> <small>(1981)</small></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> <small>(1982)</small></li>
+<li><a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> / <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> <small>(1983)</small></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> <small>(1984)</small></li>
+<li><a href="/wiki/Richard_Karp" title="Richard Karp" class="mw-redirect">Richard Karp</a> <small>(1985)</small></li>
+<li><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a> / <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a> <small>(1986)</small></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a> <small>(1987)</small></li>
+<li><a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a> <small>(1988)</small></li>
+<li><a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a> <small>(1989)</small></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a> <small>(1990)</small></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> <small>(1991)</small></li>
+<li><strong class="selflink">Butler Lampson</strong> <small>(1992)</small></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a> / <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a> <small>(1993)</small></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a> / <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a> <small>(1994)</small></li>
+<li><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a> <small>(1995)</small></li>
+<li><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a> <small>(1996)</small></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> <small>(1997)</small></li>
+<li><a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> <small>(1998)</small></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a> <small>(1999)</small></li>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Yao</a> <small>(2000)</small></li>
+<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a> / <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a> <small>(2001)</small></li>
+<li><a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a> / <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a> / <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a> <small>(2002)</small></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> <small>(2003)</small></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a> / <a href="/wiki/Bob_Kahn" title="Bob Kahn">Bob Kahn</a> <small>(2004)</small></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a> <small>(2005)</small></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a> <small>(2006)</small></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a> / <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a> / <a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a> <small>(2007)</small></li>
+<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> <small>(2008)</small></li>
+<li><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> <small>(2009)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie G. Valiant</a> <small>(2010)</small></li>
+<li><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a> <small>(2011)</small></li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a> / <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a> <small>(2012)</small></li>
+<li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> <small>(2013)</small></li>
+<li><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n81-035973">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/37493691">37493691</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n81035973">n81035973</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000116224672">0000 0001 1622 4672</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/133282864">133282864</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=144832">144832</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1077
+Cached time: 20160107124217
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.309 seconds
+Real time usage: 0.397 seconds
+Preprocessor visited node count: 1000/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 28621/2097152 bytes
+Template argument size: 946/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.129/10.000 seconds
+Lua memory usage: 2.79 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  336.556      1 - -total
+ 31.01%  104.373      1 - Template:Infobox_scientist
+ 27.58%   92.826      1 - Template:Infobox
+ 24.35%   81.941      1 - Template:Reflist
+ 20.45%   68.832      1 - Template:BLP_sources
+ 16.22%   54.574      1 - Template:Citation
+ 12.33%   41.503      1 - Template:Ambox
+ 10.54%   35.461      4 - Template:Br_separated_entries
+ 10.05%   33.823      1 - Template:Commonscat
+  7.83%   26.348      1 - Template:Commons
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:77249-0!*!0!!*!4!* and timestamp 20160107124217 and revision id 682607329
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Butler_Lampson&amp;oldid=682607329">https://en.wikipedia.org/w/index.php?title=Butler_Lampson&amp;oldid=682607329</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1943_births" title="Category:1943 births">1943 births</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Computer_designers" title="Category:Computer designers">Computer designers</a></li><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li><li><a href="/wiki/Category:Microsoft_technical_fellows" title="Category:Microsoft technical fellows">Microsoft technical fellows</a></li><li><a href="/wiki/Category:Digital_Equipment_Corporation_people" title="Category:Digital Equipment Corporation people">Digital Equipment Corporation people</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Harvard_University_alumni" title="Category:Harvard University alumni">Harvard University alumni</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_College_of_Engineering_alumni" title="Category:University of California, Berkeley College of Engineering alumni">University of California, Berkeley College of Engineering alumni</a></li><li><a href="/wiki/Category:Draper_Prize_winners" title="Category:Draper Prize winners">Draper Prize winners</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Lawrenceville_School_alumni" title="Category:Lawrenceville School alumni">Lawrenceville School alumni</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_February_2013" title="Category:BLP articles lacking sources from February 2013">BLP articles lacking sources from February 2013</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Butler+Lampson&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Butler+Lampson" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Butler_Lampson"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Butler_Lampson"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Butler_Lampson" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Butler_Lampson&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Butler_Lampson&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Butler_Lampson" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Butler_Lampson" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Butler_Lampson&amp;oldid=682607329" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Butler_Lampson&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92644" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Butler_Lampson&amp;id=682607329" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Butler+Lampson">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Butler+Lampson&amp;returnto=Butler+Lampson&amp;oldid=682607329&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Butler_Lampson&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D8%AA%D9%84%D8%B1_%D9%84%D8%A7%D9%85%D8%A8%D8%B3%D9%88%D9%86" title="بتلر لامبسون – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BE%E0%A6%9F%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B8%E0%A6%A8" title="বাটলার ল্যাম্পসন – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Butler_W._Lampson" title="Butler W. Lampson – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Butler_Lampson" title="Butler Lampson – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Butler_Lampson" title="Butler Lampson – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AA%D9%84%D8%B1_%D9%84%D8%A7%D9%85%D9%BE%D8%B3%D9%86" title="باتلر لامپسن – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Butler_Lampson" title="Butler Lampson – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%B2%84%ED%8B%80%EB%9F%AC_%EB%9E%A8%EC%8A%A8" title="버틀러 램슨 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Butler_W._Lampson" title="Butler W. Lampson – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Butler_Lampson" title="Butler Lampson – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%AC%E0%B4%9F%E0%B5%8D%E0%B4%B2%E0%B5%BC_%E0%B4%B2%E0%B4%BE%E0%B4%AA%E0%B5%8D%E0%B4%B8%E0%B5%BA" title="ബട്ലർ ലാപ്സൺ – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%90%E3%83%88%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3" title="バトラー・ランプソン – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Butler_Lampson" title="Butler Lampson – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Butler_Lampson" title="Butler Lampson – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Butler_Lampson" title="Butler Lampson – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9B%D1%8D%D0%BC%D0%BF%D1%81%D0%BE%D0%BD,_%D0%91%D0%B0%D1%82%D0%BB%D0%B5%D1%80_%D0%92." title="Лэмпсон, Батлер В. – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Butler_Lampson" title="Butler Lampson – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Butler_Lampson" title="Butler Lampson – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%B7%B4%E7%89%B9%E5%8B%92%C2%B7%E8%98%AD%E6%99%AE%E6%A3%AE" title="巴特勒·蘭普森 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92644#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 September 2015, at 20:05.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Butler_Lampson&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":521,"wgHostname":"mw1077"}); /* @nomin */
+} );</script>
+	</body>
+</html>

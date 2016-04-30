@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Peter Landin - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Peter_Landin","wgTitle":"Peter Landin","wgCurRevisionId":670901010,"wgRevisionId":670901010,"wgArticleId":661085,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2015","Use British English from July 2015","All articles with unsourced statements","Articles with unsourced statements from January 2012","Pages with citations lacking titles","1930 births","2009 deaths","People from Sheffield","People educated at King Edward VII School, Sheffield","Alumni of Clare College, Cambridge","English computer scientists","Programming language researchers","Formal methods people","Massachusetts Institute of Technology faculty","Academics of Queen Mary University of London","Bisexual men","LGBT people from England","LGBT scientists from the United Kingdom","British anti–nuclear weapons activists","LGBT rights activists from England","LGBT scientists"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Peter_Landin","wgRelevantArticleId":661085,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Peter_J._Landin","wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/en/thumb/f/f9/Peter_Landin.png/76px-Peter_Landin.png","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Peter_Landin","wgWikibaseItemId":"Q92952","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Peter_Landin" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Peter_Landin&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Peter_Landin&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Peter_Landin" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Peter_Landin skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Peter Landin</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Peter_J._Landin&amp;redirect=no" title="Peter J. Landin">Peter J. Landin</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Peter Landin</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Peter_Landin.png" class="image"><img alt="Peter Landin.png" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f9/Peter_Landin.png/220px-Peter_Landin.png" width="220" height="289" srcset="//upload.wikimedia.org/wikipedia/en/f/f9/Peter_Landin.png 1.5x, //upload.wikimedia.org/wikipedia/en/f/f9/Peter_Landin.png 2x" data-file-width="225" data-file-height="296" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1930-06-05</span>)</span>5 June 1930</td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>3 June 2009<span style="display:none">(<span class="dday deathdate">2009-06-03</span>)</span> (aged&#160;78)</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td>British</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/ISWIM" title="ISWIM">ISWIM</a>, <a href="/wiki/J_operator" title="J operator">J operator</a>, <a href="/wiki/SECD_machine" title="SECD machine">SECD machine</a>, <a href="/wiki/Off-side_rule" title="Off-side rule">off-side rule</a></td>
+</tr>
+</table>
+<p><b>Peter John Landin</b> (5 June 1930, <a href="/wiki/Sheffield" title="Sheffield">Sheffield</a> – 3 June 2009<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-guardian-obit_2-0" class="reference"><a href="#cite_note-guardian-obit-2"><span>[</span>2<span>]</span></a></sup>) was a <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a>. He was one of the first to realize that the <a href="/wiki/Lambda_calculus" title="Lambda calculus">lambda calculus</a> could be used to model a programming language, an insight that is essential to development of both <a href="/wiki/Functional_programming" title="Functional programming">functional programming</a> and <a href="/wiki/Denotational_semantics" title="Denotational semantics">denotational semantics</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Academic"><span class="tocnumber">1</span> <span class="toctext">Academic</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Political"><span class="tocnumber">2</span> <span class="toctext">Political</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Selected_publications"><span class="tocnumber">3</span> <span class="toctext">Selected publications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Academic">Academic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peter_Landin&amp;action=edit&amp;section=1" title="Edit section: Academic">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Landin was born in <a href="/wiki/Sheffield" title="Sheffield">Sheffield</a>, where he attended <a href="/wiki/King_Edward_VII_School_(Sheffield)" title="King Edward VII School (Sheffield)" class="mw-redirect">King Edward VII School</a>; he graduated from <a href="/wiki/Clare_College,_Cambridge" title="Clare College, Cambridge">Clare College</a>, <a href="/wiki/Cambridge_University" title="Cambridge University" class="mw-redirect">Cambridge University</a>.<sup id="cite_ref-guardian-obit_2-1" class="reference"><a href="#cite_note-guardian-obit-2"><span>[</span>2<span>]</span></a></sup> From 1960 to 1964, he was the assistant to <a href="/wiki/Christopher_Strachey" title="Christopher Strachey">Christopher Strachey</a> when the latter was an independent computer consultant in <a href="/wiki/London" title="London">London</a>. Most of his work was published during this period and the brief time he worked for <a href="/wiki/Univac" title="Univac" class="mw-redirect">Univac</a> and at the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> in the <a href="/wiki/United_States" title="United States">United States</a> before taking a position at <a href="/wiki/Queen_Mary,_University_of_London" title="Queen Mary, University of London" class="mw-redirect">Queen Mary, University of London</a>. During the 1970s and 1980s, his efforts went into building the Computer Science department in Queen Mary College, developing courses and teaching students.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> On his retirement, he was appointed Emeritus Professor of Theoretical Computation at <a href="/wiki/Queen_Mary,_University_of_London" title="Queen Mary, University of London" class="mw-redirect">Queen Mary, University of London</a>, where in 2012 the Computer Science building was renamed the Peter Landin Building in his honour.</p>
+<p>At a workshop at the <a href="/wiki/Science_Museum_(London)" title="Science Museum (London)" class="mw-redirect">Science Museum</a>, <a href="/wiki/London" title="London">London</a>, in 2001, on the history of <a href="/wiki/Semantics_(computer_science)" title="Semantics (computer science)">programming semantics</a> he spoke of how his scholarly career in computer science began in the late 1950s and of how he was much influenced by a study of <a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">McCarthy</a>'s <a href="/wiki/LISP" title="LISP" class="mw-redirect">LISP</a> when the most commonly used language was <a href="/wiki/Fortran" title="Fortran">Fortran</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>He was active in the definition of the <a href="/wiki/ALGOL" title="ALGOL">ALGOL</a> programming language<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> and cited by <a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> as one of the people who taught him ALGOL 60 and hence facilitated his expression of powerful recursive algorithms:</p>
+<blockquote>
+<p>"Around Easter 1961, a course on <a href="/wiki/ALGOL_60" title="ALGOL 60">ALGOL 60</a> was offered in <a href="/wiki/Brighton" title="Brighton">Brighton</a>, <a href="/wiki/England" title="England">England</a>, with <a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a>, <a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a>, and Peter Landin as tutors. ... It was there that I first learned about recursive procedures and saw how to program the sorting method which I had earlier found such difficulty in explaining. It was there that I wrote the procedure, immodestly named <a href="/wiki/Quicksort" title="Quicksort">QUICKSORT</a>, on which my career as a computer scientist is founded. Due credit must be paid to the genius of the designers of ALGOL 60 who included recursion in their language and enabled me to describe my invention so elegantly to the world. I have regarded it as the highest goal of programming language design to enable good ideas to be elegantly expressed."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+</blockquote>
+<p>Landin is responsible for inventing the <a href="/wiki/SECD_machine" title="SECD machine">SECD machine</a>, the first <a href="/wiki/Virtual_machine" title="Virtual machine">abstract process virtual machine</a> ever defined, and the <a href="/wiki/ISWIM" title="ISWIM">ISWIM</a> programming language, defining the Landin <i><a href="/wiki/Off-side_rule" title="Off-side rule">off-side rule</a></i> and for coining the term <i><a href="/wiki/Syntactic_sugar" title="Syntactic sugar">syntactic sugar</a></i>. The off-side rule allows bounding scope declaration by use of white spaces as seen in languages such as <a href="/wiki/Miranda_(programming_language)" title="Miranda (programming language)">Miranda</a>, <a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell</a>, <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> and <a href="/wiki/F_Sharp_(programming_language)" title="F Sharp (programming language)">F#</a> (using the "light" syntax).</p>
+<p>Another phrase originating with Landin is "The next 700 ..." after his influential paper <i>The next 700 programming languages</i>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> "700" was chosen because Landin had read in the <i><a href="/wiki/Journal_of_the_ACM" title="Journal of the ACM">Journal of the ACM</a></i> that there were already 700 programming languages in existence.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> The paper opens with the quotation "... today ... 1,700 special programming languages used to 'communicate' in over 700 application areas."<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> It also includes the joke that</p>
+<blockquote>
+<p>A possible first step in the research program is 1700 doctoral theses called "A Correspondence between <i>x</i> and <a href="/wiki/Alonzo_Church" title="Alonzo Church">Church's</a> <a href="/wiki/Lambda_calculus" title="Lambda calculus">λ-notation</a>."</p>
+</blockquote>
+<p>a reference to his earlier paper.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> This dry sense of humour is expressed in many of his papers.</p>
+<h2><span class="mw-headline" id="Political">Political</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peter_Landin&amp;action=edit&amp;section=2" title="Edit section: Political">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Landin, who was bisexual,<sup id="cite_ref-guardian-obit_2-2" class="reference"><a href="#cite_note-guardian-obit-2"><span>[</span>2<span>]</span></a></sup> became involved with the <a href="/wiki/Gay_Liberation_Front" title="Gay Liberation Front">Gay Liberation Front</a> (GLF) during the early 1970s. He was once arrested as part of an anti-nuclear demonstration.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> He was a dedicated cyclist and moved around London on his bike until it became physically impossible for him to do so.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2012)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Selected_publications">Selected publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peter_Landin&amp;action=edit&amp;section=3" title="Edit section: Selected publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFLandin1964" class="citation journal">Landin, Peter J. (1964). "The mechanical evaluation of expressions". <i><a href="/wiki/The_Computer_Journal" title="The Computer Journal">The Computer Journal</a></i> (<a href="/wiki/British_Computer_Society" title="British Computer Society">British Computer Society</a>) <b>6</b> (4): 308–320. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1093%2Fcomjnl%2F6.4.308">10.1093/comjnl/6.4.308</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeter+Landin&amp;rft.atitle=The+mechanical+evaluation+of+expressions&amp;rft.aufirst=Peter+J.&amp;rft.aulast=Landin&amp;rft.date=1964&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1093%2Fcomjnl%2F6.4.308&amp;rft.issue=4&amp;rft.jtitle=The+Computer+Journal&amp;rft.pages=308-320&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Landin, Peter J. (1966). T. B. Steel, Jr., ed. "A formal description of Algol 60". <i>Formal Language Description Languages for Computer Programming</i>: 266–294.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeter+Landin&amp;rft.atitle=A+formal+description+of+Algol+60&amp;rft.aufirst=Peter+J.&amp;rft.aulast=Landin&amp;rft.date=1966&amp;rft.genre=article&amp;rft.jtitle=Formal+Language+Description+Languages+for+Computer+Programming&amp;rft.pages=266-294&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFLandin1965a" class="citation journal">Landin, Peter J. (February 1965a). "Correspondence between ALGOL 60 and Church's Lambda-notation: part I". <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a></i> (<a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>) <b>8</b> (2): 89–101. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F363744.363749">10.1145/363744.363749</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeter+Landin&amp;rft.atitle=Correspondence+between+ALGOL+60+and+Church%27s+Lambda-notation%3A+part+I&amp;rft.aufirst=Peter+J.&amp;rft.aulast=Landin&amp;rft.date=1965-02&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F363744.363749&amp;rft.issue=2&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=89-101&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFLandin1965b" class="citation journal">Landin, Peter J. (March 1965b). "A correspondence between ALGOL 60 and Church's Lambda-notation: part II". <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a></i> (<a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>) <b>8</b> (3): 158–165. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F363791.363804">10.1145/363791.363804</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeter+Landin&amp;rft.atitle=A+correspondence+between+ALGOL+60+and+Church%27s+Lambda-notation%3A+part+II&amp;rft.aufirst=Peter+J.&amp;rft.aulast=Landin&amp;rft.date=1965-03&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F363791.363804&amp;rft.issue=3&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=158-165&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFLandin1965c" class="citation journal">Landin, Peter J. (29 August 1965c). "A Generalization of Jumps and Labels". <i>UNIVAC Systems Programming Research (technical report)</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeter+Landin&amp;rft.atitle=A+Generalization+of+Jumps+and+Labels&amp;rft.aufirst=Peter+J.&amp;rft.aulast=Landin&amp;rft.date=1965-08-29&amp;rft.genre=article&amp;rft.jtitle=UNIVAC+Systems+Programming+Research+%28technical+report%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> Reprinted in <cite class="citation journal"><i><a href="/wiki/Higher-Order_and_Symbolic_Computation" title="Higher-Order and Symbolic Computation">Higher-Order and Symbolic Computation</a></i> <b>11</b> (2): 125–143. December 1998. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1023%2FA%3A1010068630801">10.1023/A:1010068630801</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeter+Landin&amp;rft.date=1998-12&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1010068630801&amp;rft.issue=2&amp;rft.jtitle=Higher-Order+and+Symbolic+Computation&amp;rft.pages=125-143&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></li>
+<li><cite id="CITEREFLandin1966" class="citation journal">Landin, Peter J. (March 1966). "The next 700 programming languages". <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a></i> (<a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>) <b>9</b> (3): 157–166. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F365230.365257">10.1145/365230.365257</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeter+Landin&amp;rft.atitle=The+next+700+programming+languages&amp;rft.aufirst=Peter+J.&amp;rft.aulast=Landin&amp;rft.date=1966-03&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F365230.365257&amp;rft.issue=3&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=157-166&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peter_Landin&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/J_operator" title="J operator">J operator</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peter_Landin&amp;action=edit&amp;section=5" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://lambda-the-ultimate.org/node/3340">Peter Landin</a>, <i><a rel="nofollow" class="external text" href="http://lambda-the-ultimate.org/">Lambda the Ultimate</a></i>, 4 June 2009.</span></li>
+<li id="cite_note-guardian-obit-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-guardian-obit_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-guardian-obit_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-guardian-obit_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFBornat2009a">Bornat 2009a</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Acknowledged in the foreword to the text book <i>Programming from First Principles</i> by <a href="/wiki/Richard_Bornat" title="Richard Bornat">Richard Bornat</a>. Published by <a href="/wiki/Prentice_Hall" title="Prentice Hall">Prentice Hall</a>, 1987. <a href="/wiki/Special:BookSources/9780137291045" class="internal mw-magiclink-isbn">ISBN 978-0-13-729104-5</a>.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070926235118/http://vmoc.museophile.org/pvs01/report.html">Program Verification and Semantics: Report</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived 26 September 2007), 2001.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Listed amongst those who attended the November 1959 conference in [Paris] <a rel="nofollow" class="external autonumber" href="http://archive.computerhistory.org/resources/text/algol/algol_bulletin/A8/A8.HTM">[1]</a> and the 1962 conference <a rel="nofollow" class="external autonumber" href="http://www.masswerk.at/algol60/report.htm">[2]</a>.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="#CITEREFLandin1964b">Landin 1964b</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">ACM Turing Award Lecture: The Emperor's Old Clothes. <a href="/wiki/C._Antony_R._Hoare" title="C. Antony R. Hoare" class="mw-redirect">C. Antony R. Hoare</a>, 1980, Published in the <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a></i>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="#CITEREFLandin1966">Landin 1966</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Personal communication, September 2007.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Computer Software Issues, an American Mathematical Association Prospectus, July 1965.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="#CITEREFLandin1965a">Landin 1965a</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a href="#CITEREFBornat2009b">Bornat 2009b</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peter_Landin&amp;action=edit&amp;section=6" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFBornat2009a" class="citation journal"><a href="/wiki/Richard_Bornat" title="Richard Bornat">Bornat, Richard</a> (23 September 2009a). <a rel="nofollow" class="external text" href="http://www.guardian.co.uk/technology/2009/sep/22/peter-landin-obituary">"Peter Landin obituary"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> (Obituaries ed.): 34<span class="reference-accessdate">. Retrieved <span class="nowrap">29 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeter+Landin&amp;rft.atitle=Peter+Landin+obituary&amp;rft.aufirst=Richard&amp;rft.aulast=Bornat&amp;rft.date=2009-09-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.guardian.co.uk%2Ftechnology%2F2009%2Fsep%2F22%2Fpeter-landin-obituary&amp;rft.jtitle=The+Guardian&amp;rft.pages=34&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFBornat2009b" class="citation journal"><a href="/wiki/Richard_Bornat" title="Richard Bornat">Bornat, Richard</a> (17 September 2009b). "Peter Landin: a computer scientist who inspired a generation, 5th June 1930 - 3rd June 2009". <i><a href="/wiki/Formal_Aspects_of_Computing" title="Formal Aspects of Computing">Formal Aspects of Computing</a></i> (Berlin: Springer-Verlag) <b>21</b> (5): 393–395. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs00165-009-0122-y">10.1007/s00165-009-0122-y</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0934-5043">0934-5043</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APeter+Landin&amp;rft.atitle=Peter+Landin%3A+a+computer+scientist+who+inspired+a+generation%2C+5th+June+1930+-+3rd+June+2009&amp;rft.aufirst=Richard&amp;rft.aulast=Bornat&amp;rft.date=2009-09-17&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs00165-009-0122-y&amp;rft.issn=0934-5043&amp;rft.issue=5&amp;rft.jtitle=Formal+Aspects+of+Computing&amp;rft.pages=393-395&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=21" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Peter_Landin&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://dblp.uni-trier.de/pers/hd/l/Landin:Peter_J=">Peter Landin's publications</a> indexed by the <a href="/wiki/DBLP" title="DBLP">DBLP Bibliography Server</a> at the <a href="/wiki/University_of_Trier" title="University of Trier">University of Trier</a></li>
+<li><a rel="nofollow" class="external text" href="http://academic.research.microsoft.com/Author/1904361">List of publications</a> from <a href="/wiki/Microsoft_Academic_Search" title="Microsoft Academic Search">Microsoft Academic Search</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070926235118/http://vmoc.museophile.org/pvs01/"><i>Program Verification and Semantics: The Early Work</i></a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived 26 September 2007), BCS <a href="/wiki/Computer_Conservation_Society" title="Computer Conservation Society">Computer Conservation Society</a> seminar, <a href="/wiki/Science_Museum_(London)" title="Science Museum (London)" class="mw-redirect">Science Museum</a>, London, UK, 5 June 2001</li>
+<li><a rel="nofollow" class="external text" href="http://www.vimeo.com/6638882">Memorial talk</a> on Landin's life by <a href="/wiki/Olivier_Danvy" title="Olivier Danvy">Olivier Danvy</a> at <a href="/wiki/ICFP" title="ICFP" class="mw-redirect">ICFP</a> 2009</li>
+<li><a rel="nofollow" class="external text" href="http://www.vimeo.com/8955127">Peter Landin's talk</a> at <i>Program Verification and Semantics: The Early Work</i>, 2001 (video)</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1110
+Cached time: 20160107073608
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.439 seconds
+Real time usage: 0.511 seconds
+Preprocessor visited node count: 1814/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22327/2097152 bytes
+Template argument size: 1538/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Lua time usage: 0.206/10.000 seconds
+Lua memory usage: 3.96 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  449.093      1 - -total
+ 34.17%  153.448      9 - Template:Cite_journal
+ 21.26%   95.485      1 - Template:Infobox_scientist
+ 19.00%   85.309      1 - Template:Infobox
+ 12.76%   57.312      1 - Template:Reflist
+ 11.53%   51.788      1 - Template:Use_dmy_dates
+  9.75%   43.805      1 - Template:Citation_needed
+  9.55%   42.887      4 - Template:Br_separated_entries
+  8.76%   39.356      1 - Template:Fix
+  7.81%   35.063      2 - Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:661085-0!*!0!!en!4!* and timestamp 20160107073607 and revision id 670901010
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Peter_Landin&amp;oldid=670901010">https://en.wikipedia.org/w/index.php?title=Peter_Landin&amp;oldid=670901010</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1930_births" title="Category:1930 births">1930 births</a></li><li><a href="/wiki/Category:2009_deaths" title="Category:2009 deaths">2009 deaths</a></li><li><a href="/wiki/Category:People_from_Sheffield" title="Category:People from Sheffield">People from Sheffield</a></li><li><a href="/wiki/Category:People_educated_at_King_Edward_VII_School,_Sheffield" title="Category:People educated at King Edward VII School, Sheffield">People educated at King Edward VII School, Sheffield</a></li><li><a href="/wiki/Category:Alumni_of_Clare_College,_Cambridge" title="Category:Alumni of Clare College, Cambridge">Alumni of Clare College, Cambridge</a></li><li><a href="/wiki/Category:English_computer_scientists" title="Category:English computer scientists">English computer scientists</a></li><li><a href="/wiki/Category:Programming_language_researchers" title="Category:Programming language researchers">Programming language researchers</a></li><li><a href="/wiki/Category:Formal_methods_people" title="Category:Formal methods people">Formal methods people</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_faculty" title="Category:Massachusetts Institute of Technology faculty">Massachusetts Institute of Technology faculty</a></li><li><a href="/wiki/Category:Academics_of_Queen_Mary_University_of_London" title="Category:Academics of Queen Mary University of London">Academics of Queen Mary University of London</a></li><li><a href="/wiki/Category:Bisexual_men" title="Category:Bisexual men">Bisexual men</a></li><li><a href="/wiki/Category:LGBT_people_from_England" title="Category:LGBT people from England">LGBT people from England</a></li><li><a href="/wiki/Category:LGBT_scientists_from_the_United_Kingdom" title="Category:LGBT scientists from the United Kingdom">LGBT scientists from the United Kingdom</a></li><li><a href="/wiki/Category:British_anti%E2%80%93nuclear_weapons_activists" title="Category:British anti–nuclear weapons activists">British anti–nuclear weapons activists</a></li><li><a href="/wiki/Category:LGBT_rights_activists_from_England" title="Category:LGBT rights activists from England">LGBT rights activists from England</a></li><li><a href="/wiki/Category:LGBT_scientists" title="Category:LGBT scientists">LGBT scientists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_July_2015" title="Category:Use dmy dates from July 2015">Use dmy dates from July 2015</a></li><li><a href="/wiki/Category:Use_British_English_from_July_2015" title="Category:Use British English from July 2015">Use British English from July 2015</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2012" title="Category:Articles with unsourced statements from January 2012">Articles with unsourced statements from January 2012</a></li><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Peter+Landin&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Peter+Landin" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Peter_Landin"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Peter_Landin"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Peter_Landin" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Peter_Landin&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Peter_Landin&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Peter_Landin" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Peter_Landin" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Peter_Landin&amp;oldid=670901010" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Peter_Landin&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92952" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Peter_Landin&amp;id=670901010" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Peter+Landin">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Peter+Landin&amp;returnto=Peter+Landin&amp;oldid=670901010&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Peter_Landin&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Peter_J._Landin" title="Peter J. Landin – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Peter_J._Landin" title="Peter J. Landin – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Peter_J._Landin" title="Peter J. Landin – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Peter_J._Landin" title="Peter J. Landin – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%85%B0%E4%B8%81" title="彼得·兰丁 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92952#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 July 2015, at 23:51.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Peter_Landin&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1241"}); /* @nomin */
+} );</script>
+	</body>
+</html>

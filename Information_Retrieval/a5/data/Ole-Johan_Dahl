@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Ole-Johan Dahl - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ole-Johan_Dahl","wgTitle":"Ole-Johan Dahl","wgCurRevisionId":678201458,"wgRevisionId":678201458,"wgArticleId":64188,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","1931 births","2002 deaths","People from Mandal, Norway","University of Oslo alumni","University of Oslo faculty","Norwegian computer scientists","Programming language designers","Turing Award laureates","Formal methods people"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ole-Johan_Dahl","wgRelevantArticleId":64188,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92745","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ole-Johan_Dahl" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ole-Johan_Dahl&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ole-Johan_Dahl&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ole-Johan_Dahl" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ole-Johan_Dahl skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ole-Johan Dahl</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Ole-Johan Dahl</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1931-10-12</span>)</span>12 October 1931<br />
+<a href="/wiki/Mandal,_Norway" title="Mandal, Norway">Mandal</a>, Norway</td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>29 June 2002<span style="display:none">(<span class="dday deathdate">2002-06-29</span>)</span> (aged&#160;70)<br />
+<a href="/wiki/Asker" title="Asker">Asker</a>, Norway</td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Norwegian_Computing_Center" title="Norwegian Computing Center">Norwegian Computing Center</a><br />
+<a href="/wiki/University_of_Oslo" title="University of Oslo">University of Oslo</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Simula" title="Simula">Simula</a><br />
+<a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object-oriented programming</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> <small>(2001)</small><br />
+<a href="/wiki/IEEE_John_von_Neumann_Medal" title="IEEE John von Neumann Medal">IEEE John von Neumann Medal</a> <small>(2002)</small></td>
+</tr>
+</table>
+<p><b>Ole-Johan Dahl</b> (12 October 1931 – 29 June 2002) was a Norwegian <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> and is considered to be one of the fathers of <a href="/wiki/Simula" title="Simula">Simula</a> and <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented programming</a> along with <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Early_papers"><span class="tocnumber">2</span> <span class="toctext">Early papers</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Other_sources"><span class="tocnumber">4</span> <span class="toctext">Other sources</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ole-Johan_Dahl&amp;action=edit&amp;section=1" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dahl, born in <a href="/wiki/Mandal,_Norway" title="Mandal, Norway">Mandal</a>, Norway, is widely accepted as Norway’s foremost computer scientist. With Kristen Nygaard, he produced the initial ideas for object-oriented (OO) programming in the 1960s at the <a href="/wiki/Norwegian_Computing_Center" title="Norwegian Computing Center">Norwegian Computing Center</a> (NR) as part of the <a href="/wiki/Simula_I" title="Simula I" class="mw-redirect">Simula I</a> (1961–1965) and <a href="/wiki/Simula_67" title="Simula 67" class="mw-redirect">Simula 67</a> (1965–1968) <a href="/wiki/Simulation" title="Simulation">simulation</a> <a href="/wiki/Programming_languages" title="Programming languages" class="mw-redirect">programming languages</a>. Dahl and Nygaard were the first to develop the concepts of <a href="/wiki/Class_(computer_science)" title="Class (computer science)" class="mw-redirect">class</a>, <a href="/wiki/Subclass_(computer_science)" title="Subclass (computer science)" class="mw-redirect">subclass</a> (allowing implicit <a href="/wiki/Information_hiding" title="Information hiding">information hiding</a>), <a href="/wiki/Inheritance_(computer_science)" title="Inheritance (computer science)" class="mw-redirect">inheritance</a>, <a href="/w/index.php?title=Dynamic_object_creation&amp;action=edit&amp;redlink=1" class="new" title="Dynamic object creation (page does not exist)">dynamic object creation</a>, etc., all important aspects of the OO paradigm. An <i>object</i> is a self-contained component (with a data structure and associated procedures or <i>methods</i>) in a software system. These are combined to form a complete system. The object-oriented approach is now pervasive in modern <a href="/wiki/Software_development" title="Software development">software development</a>, including widely used imperative programming languages such as <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> and <a href="/wiki/C%2B%2B" title="C++">C++</a>.</p>
+<p>Dahl became a full <a href="/wiki/Professor" title="Professor">professor</a> at the <a href="/wiki/University_of_Oslo" title="University of Oslo">University of Oslo</a> in 1968 and was a gifted teacher as well as researcher. Here he worked on <i>Hierarchical Program Structures</i>, probably his most influential publication, which appeared co-authored with <a href="/wiki/C.A.R._Hoare" title="C.A.R. Hoare" class="mw-redirect">C.A.R. Hoare</a> in the influential book <i>Structured Programming</i> of 1972 by Dahl, <a href="/wiki/Edsger_Dijkstra" title="Edsger Dijkstra" class="mw-redirect">Edsger Dijkstra</a> and Hoare, perhaps the best-known academic book concerning software in the 1970s.</p>
+<p>As his career progressed, Dahl became increasingly interested in the use of <a href="/wiki/Formal_methods" title="Formal methods">formal methods</a>, to rigorously reason about object-orientation for example. His expertise ranged from the practical application of ideas to their formal mathematical underpinning to ensure the validity of the approach.</p>
+<p>He received the <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> for his work in 2001 (with <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a>). He received the 2002 <a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a> <a href="/wiki/John_von_Neumann_Medal" title="John von Neumann Medal" class="mw-redirect">John von Neumann Medal</a> (with Kristen Nygaard)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> and was named Commander of the <a href="/wiki/Royal_Norwegian_Order_of_St._Olav" title="Royal Norwegian Order of St. Olav" class="mw-redirect">Royal Norwegian Order of St. Olav</a> in 2000.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Early_papers">Early papers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ole-Johan_Dahl&amp;action=edit&amp;section=2" title="Edit section: Early papers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Multiple index countings on the Ferranti Mercury computer / by O.-J. Dahl. Oslo: <a href="/wiki/Norwegian_Defence_Research_Establishment" title="Norwegian Defence Research Establishment">Norwegian Defence Research Establishment</a>, 1957.</li>
+<li>Programmer's handbook for the Ferranti Mercury Computer, Frederic at the Norwegian Defense Research Establishment / By O.-J. Dahl, and <a href="/w/index.php?title=Jan_V._Garwick&amp;action=edit&amp;redlink=1" class="new" title="Jan V. Garwick (page does not exist)">Jan V. Garwick</a>. – 2nd ed., Kjeller: Norwegian Defence Research Establishment, 1958.</li>
+<li>Automatisk kodning: et prosjekt ved Forsvarets forskningsinstitutt.</li>
+<li>Simscript implementation / by Vic Bell and Ole-Johan Dahl. Oslo: Norwegian Computing Center, 1963.</li>
+<li>Basic concepts of <a href="/wiki/SIMULA" title="SIMULA" class="mw-redirect">SIMULA</a>: an <a href="/wiki/ALGOL" title="ALGOL">ALGOL</a> based simulation language / by Ole-Johan Dahl and <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a>. Oslo: <a href="/wiki/Norsk_Regnesentral" title="Norsk Regnesentral" class="mw-redirect">Norsk Regnesentral</a>, [1965?].</li>
+<li><a href="/wiki/SIMULA" title="SIMULA" class="mw-redirect">SIMULA</a>: a language for programming and description of discrete event systems&#160;: introduction and user's manual. Oslo: <a href="/wiki/Norsk_Regnesentral" title="Norsk Regnesentral" class="mw-redirect">Norsk Regnesentral</a>, 1965.</li>
+<li>Discrete event simulation languages: lectures delivered at the NATO summer school, Villard-de-Lans, September 1966 / by Ole-Johan Dahl. Oslo: <a href="/wiki/Norsk_Regnesentral" title="Norsk Regnesentral" class="mw-redirect">Norsk Regnesentral</a>/<a href="/wiki/Norwegian_Computing_Center" title="Norwegian Computing Center">Norwegian Computing Center</a>, 1966.</li>
+<li><a href="/wiki/SIMULA" title="SIMULA" class="mw-redirect">SIMULA</a>: an <a href="/wiki/ALGOL" title="ALGOL">ALGOL</a> based simulation language / by Ole-Johan Dahl and Kristen Nygaard. Oslo: <a href="/wiki/Norsk_Regnesentral" title="Norsk Regnesentral" class="mw-redirect">Norsk Regnesentral</a>, 1966.</li>
+<li><a href="/wiki/Simula" title="Simula">Simula</a>: an <a href="/wiki/ALGOL" title="ALGOL">ALGOL</a>-based simulation language / Ole-Johan Dahl and <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a>. <a href="/wiki/New_York" title="New York">New York</a>: <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>, 1966. I: <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a></i>; 9(1966).</li>
+<li>Class and subclass declarations / Ole-Johan Dahl and Kristen Nygaard. Amsterdam: <a href="/wiki/North-Holland" title="North-Holland" class="mw-redirect">North-Holland</a>, c1968. I: Simulation programming languages: proceedings of the IFIP working conference on simulation programming languages, Oslo, May 1967 / O.-J. Dahl, conference chairman; organized by IFIP Technical Committee 2, programming languages; edited by J.N. Buxton.</li>
+<li>Discrete event simulation languages / Ole-Johan Dahl. London: <a href="/wiki/Academic_Press" title="Academic Press">Academic Press</a>, 1968. (Programming languages&#160;: NATO Advanced Study Institute / edited by G. Genuys.)</li>
+<li><a href="/wiki/Simula_67" title="Simula 67" class="mw-redirect">SIMULA 67</a>: common base language / by Ole-Johan Dahl, Bjørn Myhrhaug and Kristen Nygaard. Oslo: <a href="/wiki/Norsk_Regnesentral" title="Norsk Regnesentral" class="mw-redirect">Norsk Regnesentral</a>, 1968. (Publication S / Norwegian Computing Center; 2) Rev. 1970: Common base language (Publ.; 22).</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ole-Johan_Dahl&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ieee.org/portal/pages/about/awards/pr/vonneupr.html">Recipients IEEE John von Neumann Medal</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ifi.uio.no/adminfo/tribute.html">Page of tribute</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Other_sources">Other sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ole-Johan_Dahl&amp;action=edit&amp;section=4" title="Edit section: Other sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>From Object-Orientation to Formal Methods: Essays in Memory of Ole-Johan Dahl</i>, Olaf Owe, Stein Krogdahl and Tom Lyche (eds.), <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer</a>, <a href="/wiki/Lecture_Notes_in_Computer_Science" title="Lecture Notes in Computer Science">Lecture Notes in Computer Science</a>, Volume 2635, 2004. <a href="/wiki/Special:BookSources/354021366X" class="internal mw-magiclink-isbn">ISBN 3-540-21366-X</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fb96089">10.1007/b96089</a>.</li>
+<li>Pioneer who Prepared the Ground for Road to Java, <a href="/wiki/Jonathan_Bowen" title="Jonathan Bowen">Jonathan Bowen</a>. <i><a href="/wiki/The_Times_Higher_Education_Supplement" title="The Times Higher Education Supplement" class="mw-redirect">The Times Higher Education Supplement</a></i>, 1677:34, 4 February 2005.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ole-Johan_Dahl&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.olejohandahl.info">Homepage — comprehensive amount of info, pictures, and biblio</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ub.uio.no/umn/inf/ojd/kronologisk.html">Reference</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Software_engineering" title="Template:Software engineering"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Software_engineering" title="Template talk:Software engineering"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Software_engineering&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Software_engineering" title="Software engineering">Software engineering</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_programming" title="Computer programming">Computer programming</a></li>
+<li><a href="/wiki/Requirements_engineering" title="Requirements engineering">Requirements engineering</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Software_testing" title="Software testing">Software testing</a></li>
+<li><a href="/wiki/Systems_analysis" title="Systems analysis">Systems analysis</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_modeling" title="Data modeling">Data modeling</a></li>
+<li><a href="/wiki/Enterprise_architecture" title="Enterprise architecture">Enterprise architecture</a></li>
+<li><a href="/wiki/Functional_specification" title="Functional specification">Functional specification</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Orthogonality_(programming)" title="Orthogonality (programming)">Orthogonality</a></li>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Software" title="Software">Software</a></li>
+<li><a href="/wiki/Software_archaeology" title="Software archaeology">Software archaeology</a></li>
+<li><a href="/wiki/Software_architecture" title="Software architecture">Software architecture</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Software_development_methodology" title="Software development methodology" class="mw-redirect">Software development methodology</a></li>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+<li><a href="/wiki/Software_quality_assurance" title="Software quality assurance">Software quality assurance</a></li>
+<li><a href="/wiki/Software_verification_and_validation" title="Software verification and validation">Software verification and validation</a></li>
+<li><a href="/wiki/Structured_analysis" title="Structured analysis">Structured analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Orientations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Aspect-oriented_software_development" title="Aspect-oriented software development">Aspect-oriented</a></li>
+<li><a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object orientation</a></li>
+<li><a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">Ontology</a></li>
+<li><a href="/wiki/Service-oriented_architecture" title="Service-oriented architecture">Service orientation</a></li>
+<li><a href="/wiki/Systems_development_life_cycle" title="Systems development life cycle">SDLC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Models</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Developmental</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Enterprise_Unified_Process" title="Enterprise Unified Process">EUP</a></li>
+<li><a href="/wiki/Executable_UML" title="Executable UML">Executable UML</a></li>
+<li><a href="/wiki/Incremental_build_model" title="Incremental build model">Incremental model</a></li>
+<li><a href="/wiki/Iterative_and_incremental_development" title="Iterative and incremental development">Iterative model</a></li>
+<li><a href="/wiki/Software_prototyping" title="Software prototyping">Prototype model</a></li>
+<li><a href="/wiki/Rapid_application_development" title="Rapid application development">RAD</a></li>
+<li><a href="/wiki/Unified_Process" title="Unified Process">UP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Other</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO/IEC_15504" title="ISO/IEC 15504">SPICE</a></li>
+<li><a href="/wiki/Capability_Maturity_Model_Integration" title="Capability Maturity Model Integration">CMMI</a></li>
+<li><a href="/wiki/Data_model" title="Data model">Data model</a></li>
+<li><a href="/wiki/Entity%E2%80%93relationship_model" title="Entity–relationship model">ER model</a></li>
+<li><a href="/wiki/Function_model" title="Function model">Function model</a></li>
+<li><a href="/wiki/Information_model" title="Information model">Information model</a></li>
+<li><a href="/wiki/Metamodeling" title="Metamodeling">Metamodeling</a></li>
+<li><a href="/wiki/Object_model" title="Object model">Object model</a></li>
+<li><a href="/wiki/Systems_modeling" title="Systems modeling">Systems model</a></li>
+<li><a href="/wiki/View_model" title="View model">View model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Languages</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/IDEF" title="IDEF">IDEF</a></li>
+<li><a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">UML</a></li>
+<li><a href="/wiki/Systems_Modeling_Language" title="Systems Modeling Language">SysML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Software<br />
+engineers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kent_Beck" title="Kent Beck">Kent Beck</a></li>
+<li><a href="/wiki/Grady_Booch" title="Grady Booch">Grady Booch</a></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a></li>
+<li><a href="/wiki/Barry_Boehm" title="Barry Boehm">Barry Boehm</a></li>
+<li><a href="/wiki/Ward_Cunningham" title="Ward Cunningham">Ward Cunningham</a></li>
+<li><a href="/wiki/Tom_DeMarco" title="Tom DeMarco">Tom DeMarco</a></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a></li>
+<li><a href="/wiki/Martin_Fowler" title="Martin Fowler">Martin Fowler</a></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">C. A. R. Hoare</a></li>
+<li><a href="/wiki/Watts_Humphrey" title="Watts Humphrey">Watts Humphrey</a></li>
+<li><a href="/wiki/Michael_A._Jackson" title="Michael A. Jackson">Michael A. Jackson</a></li>
+<li><a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Ivar Jacobson</a></li>
+<li><a href="/wiki/Stephen_J._Mellor" title="Stephen J. Mellor">Stephen J. Mellor</a></li>
+<li><a href="/wiki/Bertrand_Meyer" title="Bertrand Meyer">Bertrand Meyer</a></li>
+<li><a href="/wiki/David_Parnas" title="David Parnas">David Parnas</a></li>
+<li><a href="/wiki/Winston_W._Royce" title="Winston W. Royce">Winston W. Royce</a></li>
+<li><a href="/wiki/James_Rumbaugh" title="James Rumbaugh">James Rumbaugh</a></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a></li>
+<li><a href="/wiki/Edward_Yourdon" title="Edward Yourdon">Edward Yourdon</a></li>
+<li><a href="/wiki/Victor_Basili" title="Victor Basili">Victor Basili</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related fields</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_science" title="Computer science">Computer science</a></li>
+<li><a href="/wiki/Computer_engineering" title="Computer engineering">Computer engineering</a></li>
+<li><a href="/wiki/Project_management" title="Project management">Project management</a></li>
+<li><a href="/wiki/Risk_management" title="Risk management">Risk management</a></li>
+<li><a href="/wiki/Systems_engineering" title="Systems engineering">Systems engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Software_engineering" title="Category:Software engineering">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="//commons.wikimedia.org/wiki/Software_engineering" class="extiw" title="commons:Software engineering">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Turing_Award_laureates" title="Template:Turing Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Turing_Award_laureates" title="Template talk:Turing Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Turing_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a> <small>(1966)</small></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Vincent Wilkes</a> <small>(1967)</small></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1968)</small></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> <small>(1969)</small></li>
+<li><a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a> <small>(1970)</small></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a> <small>(1971)</small></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a> <small>(1972)</small></li>
+<li><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a> <small>(1973)</small></li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> <small>(1974)</small></li>
+<li><a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a> / <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a> <small>(1975)</small></li>
+<li><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a> / <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> <small>(1976)</small></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> <small>(1977)</small></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a> <small>(1978)</small></li>
+<li><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a> <small>(1979)</small></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> <small>(1980)</small></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> <small>(1981)</small></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> <small>(1982)</small></li>
+<li><a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> / <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> <small>(1983)</small></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> <small>(1984)</small></li>
+<li><a href="/wiki/Richard_Karp" title="Richard Karp" class="mw-redirect">Richard Karp</a> <small>(1985)</small></li>
+<li><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a> / <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a> <small>(1986)</small></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a> <small>(1987)</small></li>
+<li><a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a> <small>(1988)</small></li>
+<li><a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a> <small>(1989)</small></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a> <small>(1990)</small></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> <small>(1991)</small></li>
+<li><a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a> <small>(1992)</small></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a> / <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a> <small>(1993)</small></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a> / <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a> <small>(1994)</small></li>
+<li><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a> <small>(1995)</small></li>
+<li><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a> <small>(1996)</small></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> <small>(1997)</small></li>
+<li><a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> <small>(1998)</small></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a> <small>(1999)</small></li>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Yao</a> <small>(2000)</small></li>
+<li><strong class="selflink">Ole-Johan Dahl</strong> / <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a> <small>(2001)</small></li>
+<li><a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a> / <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a> / <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a> <small>(2002)</small></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> <small>(2003)</small></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a> / <a href="/wiki/Bob_Kahn" title="Bob Kahn">Bob Kahn</a> <small>(2004)</small></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a> <small>(2005)</small></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a> <small>(2006)</small></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a> / <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a> / <a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a> <small>(2007)</small></li>
+<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> <small>(2008)</small></li>
+<li><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> <small>(2009)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie G. Valiant</a> <small>(2010)</small></li>
+<li><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a> <small>(2011)</small></li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a> / <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a> <small>(2012)</small></li>
+<li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> <small>(2013)</small></li>
+<li><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n50-041578">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/110397937">110397937</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n50041578">n50041578</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000114970591">0000 0001 1497 0591</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/128965967">128965967</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/059573791">059573791</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00437110">00437110</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1123
+Cached time: 20160106230943
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.280 seconds
+Real time usage: 0.351 seconds
+Preprocessor visited node count: 1459/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42929/2097152 bytes
+Template argument size: 1544/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.089/10.000 seconds
+Lua memory usage: 1.56 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  252.161      1 - -total
+ 41.40%  104.389      1 - Template:Infobox_scientist
+ 37.26%   93.950      1 - Template:Infobox
+ 30.22%   76.196      3 - Template:Navbox
+ 24.01%   60.548      1 - Template:Software_engineering
+ 15.44%   38.927      4 - Template:Br_separated_entries
+ 15.34%   38.689      1 - Template:Authority_control
+  8.78%   22.133      1 - Template:Navbox_subgroup
+  8.31%   20.952      1 - Template:DOI
+  6.01%   15.147      2 - Template:Icon
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:64188-0!*!0!!en!4!* and timestamp 20160106230943 and revision id 678201458
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ole-Johan_Dahl&amp;oldid=678201458">https://en.wikipedia.org/w/index.php?title=Ole-Johan_Dahl&amp;oldid=678201458</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1931_births" title="Category:1931 births">1931 births</a></li><li><a href="/wiki/Category:2002_deaths" title="Category:2002 deaths">2002 deaths</a></li><li><a href="/wiki/Category:People_from_Mandal,_Norway" title="Category:People from Mandal, Norway">People from Mandal, Norway</a></li><li><a href="/wiki/Category:University_of_Oslo_alumni" title="Category:University of Oslo alumni">University of Oslo alumni</a></li><li><a href="/wiki/Category:University_of_Oslo_faculty" title="Category:University of Oslo faculty">University of Oslo faculty</a></li><li><a href="/wiki/Category:Norwegian_computer_scientists" title="Category:Norwegian computer scientists">Norwegian computer scientists</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li><li><a href="/wiki/Category:Formal_methods_people" title="Category:Formal methods people">Formal methods people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ole-Johan+Dahl&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ole-Johan+Dahl" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ole-Johan_Dahl"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ole-Johan_Dahl"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ole-Johan_Dahl" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ole-Johan_Dahl&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ole-Johan_Dahl&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ole-Johan_Dahl" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ole-Johan_Dahl" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ole-Johan_Dahl&amp;oldid=678201458" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ole-Johan_Dahl&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92745" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ole-Johan_Dahl&amp;id=678201458" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ole-Johan+Dahl">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ole-Johan+Dahl&amp;returnto=Ole-Johan+Dahl&amp;oldid=678201458&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ole-Johan_Dahl&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D9%88%D9%84%D9%8A_%D9%8A%D9%88%D9%87%D8%A7%D9%86_%D8%AF%D8%A7%D9%84" title="أولي يوهان دال – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%B2%E0%A6%BE%E0%A6%B9%E0%A7%8D%E2%80%8C-%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%A8_%E0%A6%A1%E0%A6%BE%E0%A6%B2" title="উলাহ্‌-ইয়োহান ডাল – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D9%88%D9%84%D9%87-%DB%8C%D9%88%D9%87%D8%A7%D9%86_%D8%AF%D8%A7%D9%84" title="اوله-یوهان دال – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%92%E0%B4%B2%E0%B5%86_%E0%B4%9C%E0%B5%8A%E0%B4%B9%E0%B4%BE%E0%B5%BB_%E0%B4%A1%E0%B4%BE%E0%B5%BD" title="ഒലെ ജൊഹാൻ ഡാൽ – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%AC%EF%BC%9D%E3%83%A8%E3%83%8F%E3%83%B3%E3%83%BB%E3%83%80%E3%83%BC%E3%83%AB" title="オーレ＝ヨハン・ダール – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BB%D1%8C,_%D0%9E%D0%BB%D0%B5-%D0%99%D0%BE%D1%85%D0%B0%D0%BD" title="Даль, Оле-Йохан – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%A5%A7%E5%88%A9-%E7%B4%84%E7%BF%B0%C2%B7%E9%81%94%E7%88%BE" title="奧利-約翰·達爾 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92745#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 August 2015, at 23:43.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ole-Johan_Dahl&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":181,"wgHostname":"mw1080"}); /* @nomin */
+} );</script>
+	</body>
+</html>

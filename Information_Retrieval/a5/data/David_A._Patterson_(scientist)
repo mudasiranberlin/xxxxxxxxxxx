@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>David Patterson (computer scientist) - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"David_Patterson_(computer_scientist)","wgTitle":"David Patterson (computer scientist)","wgCurRevisionId":695602888,"wgRevisionId":695602888,"wgArticleId":816239,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["BLP articles lacking sources from February 2013","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Computer designers","American computer scientists","Fellows of the Association for Computing Machinery","Presidents of the Association for Computing Machinery","1947 births","Living people","Scientists from California","Members of the United States National Academy of Engineering","Members of the United States National Academy of Sciences","University of California, Berkeley College of Engineering faculty","University of California, Berkeley faculty","University of California, Los Angeles alumni","People from Evergreen Park, Illinois"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"David_Patterson_(computer_scientist)","wgRelevantArticleId":816239,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"David_A._Patterson_(scientist)","wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/David_A_Patterson.jpg/100px-David_A_Patterson.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/David_Patterson_(computer_scientist)","wgWikibaseItemId":"Q92851","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/David_Patterson_(computer_scientist)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-David_Patterson_computer_scientist skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">David Patterson (computer scientist)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=David_A._Patterson_(scientist)&amp;redirect=no" title="David A. Patterson (scientist)">David A. Patterson (scientist)</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the American computer scientist.  For other spellings and people of the same name, see <a href="/wiki/David_Patterson_(disambiguation)" title="David Patterson (disambiguation)" class="mw-redirect">David Patterson (disambiguation)</a>.</div>
+<table class="metadata plainlinks ambox ambox-content ambox-BLP_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biographical article</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help by adding <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Defamation" title="Defamation">libelous</a> or harmful.</span> <small><i>(February 2013)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">David Patterson</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:David_A_Patterson.jpg" class="image"><img alt="David A Patterson.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/David_A_Patterson.jpg/220px-David_A_Patterson.jpg" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/d/d1/David_A_Patterson.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d1/David_A_Patterson.jpg 2x" data-file-width="300" data-file-height="200" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1947-11-16</span>)</span> November 16, 1947 <span class="noprint ForceAgeToShow">(age&#160;68)</span><br />
+<a href="/wiki/Evergreen_Park,_Illinois" title="Evergreen Park, Illinois">Evergreen Park, Illinois</a></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/United_States_of_America" title="United States of America" class="mw-redirect">American</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/UCLA" title="UCLA" class="mw-redirect">UCLA</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><i>Verification of Microprograms<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></i>&#160;<span style="font-size:90%;">(1976)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td>David F. Martin<br />
+<a href="/wiki/Gerald_Estrin" title="Gerald Estrin">Gerald Estrin</a></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a href="/wiki/Garth_A._Gibson" title="Garth A. Gibson" class="mw-redirect">Garth A. Gibson</a><br />
+<a href="/wiki/David_Ungar" title="David Ungar">David Ungar</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/RISC" title="RISC" class="mw-redirect">RISC</a><br />
+<a href="/wiki/RAID" title="RAID">RAID</a><br />
+<a href="/wiki/Network_of_Workstations" title="Network of Workstations" class="mw-redirect">Network of Workstations</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/Eckert%E2%80%93Mauchly_Award" title="Eckert–Mauchly Award">Eckert–Mauchly Award</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> (2008)<br />
+<a href="/wiki/ACM_Distinguished_Service_Award" title="ACM Distinguished Service Award" class="mw-redirect">ACM Distinguished Service Award</a> (2007)<br />
+<a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> Fellow (2007)<br />
+<a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> Member<br />
+<a href="/wiki/National_Academy_of_Sciences" title="National Academy of Sciences">National Academy of Sciences</a> Member<br />
+<a href="/wiki/American_Association_for_the_Advancement_of_Science" title="American Association for the Advancement of Science">AAAS</a> Fellow<br />
+<a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> Fellow (1994)<br />
+<a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a> Fellow<br />
+<a rel="nofollow" class="external text" href="http://awards.acm.org/award_winners/patterson_2316693.cfm">Karl Karlstrom Outstanding Educator Award</a> (1991)</td>
+</tr>
+</table>
+<p><b>David Andrew Patterson</b> (born November 16, 1947) is an <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Computer_science" title="Computer science">computer pioneer</a> and academic who has held the position of Professor of <a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a> at the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> since 1976.</p>
+<p>Patterson is noted for his pioneering contributions to <a href="/wiki/Reduced_Instruction_Set_Computer" title="Reduced Instruction Set Computer" class="mw-redirect">RISC</a> processor design, having coined the term RISC, and by leading the <a href="/wiki/Berkeley_RISC" title="Berkeley RISC">Berkeley RISC</a> project.<sup id="cite_ref-coinrisk_3-0" class="reference"><a href="#cite_note-coinrisk-3"><span>[</span>3<span>]</span></a></sup> He is also noted for his research on <a href="/wiki/Redundant_Arrays_of_Independent_Disks" title="Redundant Arrays of Independent Disks" class="mw-redirect">RAID</a> disks.</p>
+<p>His books on computer architecture (co-authored with <a href="/wiki/John_L._Hennessy" title="John L. Hennessy">John L. Hennessy</a>) are widely used in computer science education.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Research_and_Academic_Contributions"><span class="tocnumber">2</span> <span class="toctext">Research and Academic Contributions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Past_Positions"><span class="tocnumber">3</span> <span class="toctext">Past Positions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Selected_works"><span class="tocnumber">4</span> <span class="toctext">Selected works</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Books"><span class="tocnumber">4.1</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Articles"><span class="tocnumber">4.2</span> <span class="toctext">Articles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Awards"><span class="tocnumber">5</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Charity"><span class="tocnumber">6</span> <span class="toctext">Charity</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Recent_Work"><span class="tocnumber">7</span> <span class="toctext">Recent Work</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Ph.D._Students"><span class="tocnumber">8</span> <span class="toctext">Ph.D. Students</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes"><span class="tocnumber">9</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A native of <a href="/wiki/Evergreen_Park,_Illinois" title="Evergreen Park, Illinois">Evergreen Park, Illinois</a>, David Patterson attended <a href="/wiki/UCLA" title="UCLA" class="mw-redirect">UCLA</a>, receiving his <a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">B.A.</a> in 1969, <a href="/wiki/Master_of_Science" title="Master of Science">M.S.</a> in 1970 and <a href="/wiki/Ph.D." title="Ph.D." class="mw-redirect">Ph.D.</a> (advised by David F. Martin and <a href="/wiki/Gerald_Estrin" title="Gerald Estrin">Gerald Estrin</a>) in 1976.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Research_and_Academic_Contributions">Research and Academic Contributions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=2" title="Edit section: Research and Academic Contributions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He is an important proponent of the concept of <a href="/wiki/Reduced_Instruction_Set_Computer" title="Reduced Instruction Set Computer" class="mw-redirect">Reduced Instruction Set Computer</a> and coined the term "RISC".<sup id="cite_ref-coinrisk_3-1" class="reference"><a href="#cite_note-coinrisk-3"><span>[</span>3<span>]</span></a></sup> He led the <a href="/wiki/Berkeley_RISC" title="Berkeley RISC">Berkeley RISC</a> project from 1980 and onwards along with <a href="/wiki/Carlo_H._Sequin" title="Carlo H. Sequin" class="mw-redirect">Carlo H. Sequin</a>, where the technique of <a href="/wiki/Register_window" title="Register window">register windows</a> was introduced. He is also one of the innovators of the <a href="/wiki/Redundant_Arrays_of_Independent_Disks" title="Redundant Arrays of Independent Disks" class="mw-redirect">Redundant Arrays of Independent Disks</a> (RAID) (in collaboration with <a href="/wiki/Randy_Katz" title="Randy Katz">Randy Katz</a> and <a href="/wiki/Garth_Gibson" title="Garth Gibson">Garth Gibson</a>), and <a href="/wiki/Network_of_Workstations" title="Network of Workstations" class="mw-redirect">Network of Workstations</a> (NOW) (in collaboration with <a href="/wiki/Eric_Brewer_(computer_scientist)" title="Eric Brewer (computer scientist)" class="mw-redirect">Eric Brewer</a> and <a href="/wiki/David_Culler" title="David Culler">David Culler</a>).</p>
+<h2><span class="mw-headline" id="Past_Positions">Past Positions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=3" title="Edit section: Past Positions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Past chair of the Computer Science Division at U.C. Berkeley and the <a href="/wiki/Computing_Research_Association" title="Computing Research Association">Computing Research Association</a>, he served on the Information Technology Advisory Committee for the U.S. President (PITAC) during 2003–05 and was elected president of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> (ACM) for 2004–06.<sup id="cite_ref-archive.cra.org_5-0" class="reference"><a href="#cite_note-archive.cra.org-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Selected_works">Selected works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=4" title="Edit section: Selected works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=5" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>He co-authored six books, including two with <a href="/wiki/John_L._Hennessy" title="John L. Hennessy">John L. Hennessy</a> on <a href="/wiki/Computer_architecture" title="Computer architecture">computer architecture</a>: <i>Computer Architecture: A Quantitative Approach</i> (5 editions—latest is <a href="/wiki/Special:BookSources/012383872X" class="internal mw-magiclink-isbn">ISBN 0-12-383872-X</a>) and <i>Computer Organization and Design: the Hardware/Software Interface</i> (5 editions—latest is <a href="/wiki/Special:BookSources/9780124077263" class="internal mw-magiclink-isbn">ISBN 978-0-12-407726-3</a>). They have been widely used as <a href="/wiki/Textbook" title="Textbook">textbooks</a> for graduate and undergraduate courses since 1990. His most recent book is with <a href="/w/index.php?title=Armando_Fox&amp;action=edit&amp;redlink=1" class="new" title="Armando Fox (page does not exist)">Armando Fox</a> on <a href="/wiki/Software_engineering" title="Software engineering">software engineering</a>: <i>Engineering Software as a Service: An Agile Approach Using Cloud Computing (1st Edition)</i> (<a href="/wiki/Special:BookSources/0984881247" class="internal mw-magiclink-isbn">ISBN 0-98-488124-7</a>).</p>
+<h3><span class="mw-headline" id="Articles">Articles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=6" title="Edit section: Articles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite class="citation journal"><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a>; <a href="/wiki/Randy_Katz" title="Randy Katz">Randy Katz</a>,David Patterson, <a href="/wiki/John_Ousterhout" title="John Ousterhout">John Ousterhout</a> (1988). <a rel="nofollow" class="external text" href="http://db.cs.berkeley.edu/papers/ERL-M88-19.pdf">"THE DESIGN OF XPRS"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/VLDB" title="VLDB">VLDB</a></i>: 318–330<span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADavid+Patterson+%28computer+scientist%29&amp;rft.atitle=THE+DESIGN+OF+XPRS&amp;rft.au=Michael+Stonebraker&amp;rft.au=Randy+Katz%2CDavid+Patterson%2C+John+Ousterhout&amp;rft.date=1988&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdb.cs.berkeley.edu%2Fpapers%2FERL-M88-19.pdf&amp;rft.jtitle=VLDB&amp;rft.pages=318-330&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=7" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>His work has been recognized by about 35 awards for research, teaching, and service, including Fellow of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> (ACM)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> and the <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">Institute of Electrical and Electronics Engineers</a> (IEEE) as well as by election to the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a>, <a href="/wiki/National_Academy_of_Sciences" title="National Academy of Sciences">National Academy of Sciences</a>, and the <a href="/wiki/Silicon_Valley" title="Silicon Valley">Silicon Valley</a> Engineering Hall of Fame. In 2005 he and Hennessy shared <a href="/wiki/Japan" title="Japan">Japan</a>'s Computer &amp; Communication award and, in 2006, was elected to the <a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">American Academy of Arts and Sciences</a> and the <a href="/wiki/United_States_National_Academy_of_Sciences" title="United States National Academy of Sciences" class="mw-redirect">National Academy of Sciences</a> and received the Distinguished Service Award from the <a href="/wiki/Computing_Research_Association" title="Computing Research Association">Computing Research Association</a>. <sup id="cite_ref-archive.cra.org_5-1" class="reference"><a href="#cite_note-archive.cra.org-5"><span>[</span>5<span>]</span></a></sup> In 2007 he was named a Fellow of the <a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> "for fundamental contributions to engineering education, advances in computer architecture, and the integration of leading-edge research with education."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> That same year he was also named a Fellow of the <a href="/wiki/American_Association_for_the_Advancement_of_Science" title="American Association for the Advancement of Science">American Association for the Advancement of Science</a>. In 2008, won the <a rel="nofollow" class="external text" href="http://www.acm.org/press-room/news-releases/distinguished-award-07/">ACM Distinguished Service Award</a>, the <a rel="nofollow" class="external text" href="http://awards.acm.org/eckert_mauchly/">ACM-IEEE Eckert-Mauchly Award</a>, and was recognized by the School of Engineering at <a href="/wiki/UCLA" title="UCLA" class="mw-redirect">UCLA</a> for Alumni Achievement in Academia. Since then he has won the ACM-SIGARCH Distinguished Service Award, ACM-SIGOPS Hall of Fame Award, and the 2012 Jean-Claude Laprie Award in Dependable Computing from IFIP Working Group 10.4 on Dependable Computing and Fault Tolerance.</p>
+<p>In 2013 he set the <a rel="nofollow" class="external text" href="http://apa-wpa.com/California%20Mens%20Records.htm">American Powerlifting Record for the state of California</a> for his weight class and age group in bench press, dead lift, squat, and all three combined lifts.</p>
+<p>On February 12, 2015, IEEE installed a plaque at UC Berkeley to commemorate the contribution of RISC-I<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> in Soda Hall at UC Berkeley. The plaque reads:</p>
+<ul>
+<li><i>IEEE Milestone in Electrical and Computer Engineering</i></li>
+<li>First RISC (Reduced Instruction Set Computing) Microprocessor</li>
+<li>UC Berkeley students designed and built the first VLSI reduced instruction-set computer in 1981. The simplified instructions of RISC-I reduced the hardware for instruction decode and control, which enabled a flat 32-bit address space, a large set of registers, and pipelined execution. A good match to C programs and the Unix operating system, RISC-I influenced instruction sets widely used today, including those for game consoles, smartphones and tablets.</li>
+<li>February 2015</li>
+</ul>
+<h2><span class="mw-headline" id="Charity">Charity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=8" title="Edit section: Charity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>From 2003 to 2012 he rode in the annual <a rel="nofollow" class="external text" href="http://bikecan.nationalmssociety.org/">Waves to Wine MS charity event</a> as part of <a href="/wiki/Bike_MS" title="Bike MS" class="mw-redirect">Bike MS</a>; a 2-day cycling adventure. He was the top fundraiser in 2006, 2007, 2008, 2009, 2010, 2011, and 2012.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> In total, he has raised more than $200,000 for Multiple Sclerosis.</p>
+<h2><span class="mw-headline" id="Recent_Work">Recent Work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=9" title="Edit section: Recent Work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>David Patterson's recent projects have been the <a rel="nofollow" class="external text" href="http://radlab.cs.berkeley.edu">RAD Lab: Reliable Adaptive Distributed systems</a>, the <a rel="nofollow" class="external text" href="http://parlab.eecs.berkeley.edu">Par Lab: Parallel Computing Laboratory</a>, the <a rel="nofollow" class="external text" href="http://amplab.cs.berkeley.edu">AMP Lab: Algorithms, Machines, and People Laboratory</a>, and the <a rel="nofollow" class="external text" href="https://aspire.eecs.berkeley.edu/">ASPIRE Lab: Algorithms and Specializers for Provably optimal Implementations with Resilience and Efficiency Laboratory</a>.</p>
+<h2><span class="mw-headline" id="Ph.D._Students">Ph.D. Students</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=10" title="Edit section: Ph.D. Students">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He has advised a number of notable Ph.D. candidates, including:</p>
+<ul>
+<li>Michael Armbrust, software engineer at DataBricks</li>
+<li>Remzi Arpaci-Dusseau, professor at the <a href="/wiki/University_of_Wisconsin%E2%80%93Madison" title="University of Wisconsin–Madison">University of Wisconsin–Madison</a></li>
+<li>Sarah Bird, researcher at <a href="/wiki/Microsoft_Research" title="Microsoft Research">Microsoft Research</a></li>
+<li>Peter Bodik, researcher at <a href="/wiki/Microsoft_Research" title="Microsoft Research">Microsoft Research</a></li>
+<li>Peter Chen, professor at the <a href="/wiki/University_of_Michigan" title="University of Michigan">University of Michigan</a></li>
+<li>Mike Dahlin, Google engineer and Adjunct Professor of Computer Science at the <a href="/wiki/University_of_Texas" title="University of Texas" class="mw-redirect">University of Texas</a></li>
+<li>David Ditzel, founder and former president of <a href="/wiki/Transmeta" title="Transmeta">Transmeta</a></li>
+<li>Archana Ganapathi, research engineer at <a href="/wiki/Splunk" title="Splunk">Splunk</a></li>
+<li><a href="/wiki/Garth_A._Gibson" title="Garth A. Gibson" class="mw-redirect">Garth A. Gibson</a>, co-inventor of <a href="/wiki/Redundant_array_of_independent_disks" title="Redundant array of independent disks" class="mw-redirect">RAID</a>, founder and CTO of <a href="/wiki/Panasas" title="Panasas">Panasas</a>, and professor at <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a></li>
+<li>Mark Hill, Amdahl &amp; Morgridge Professor and currently Chair of Computer Science at the <a href="/wiki/University_of_Wisconsin%E2%80%93Madison" title="University of Wisconsin–Madison">University of Wisconsin–Madison</a></li>
+<li>Manolis Katevenis, pioneer in RISC <a href="/wiki/VLSI" title="VLSI" class="mw-redirect">VLSI</a> implementation and high-speed network switches</li>
+<li>Kim Keeton, researcher at <a href="/wiki/Hewlett_Packard" title="Hewlett Packard" class="mw-redirect">Hewlett Packard</a> Labs</li>
+<li>Christos Kozyrakis, associate professor at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></li>
+<li>Corinna Lee, architect at <a href="/wiki/ATI_Technologies" title="ATI Technologies">ATI Technologies</a></li>
+<li>Nisha Talagala, Fellow at <a href="/wiki/SanDisk" title="SanDisk">SanDisk</a></li>
+<li><a href="/wiki/David_Ungar" title="David Ungar">David Ungar</a>, designer of the <a href="/wiki/Self_(programming_language)" title="Self (programming language)">Self</a> programming language, and currently researcher at <a href="/wiki/IBM_Research" title="IBM Research">IBM Research</a></li>
+<li>Robert Yung, CTO of <a href="/wiki/PMC-Sierra" title="PMC-Sierra">PMC-Sierra</a></li>
+<li>Wei Xu, Assistant Professor at <a href="/wiki/Tsinghua_University" title="Tsinghua University">Tsinghua University</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=11" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=98366">David Patterson</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://awards.acm.org/eckert_mauchly/">ACM-IEEE Eckert-Mauchly Award</a></span></li>
+<li id="cite_note-coinrisk-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-coinrisk_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-coinrisk_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><i>Milestones in computer science and information technology</i> by Edwin D. Reilly 2003 <a href="/wiki/Special:BookSources/1573565210" class="internal mw-magiclink-isbn">ISBN 1-57356-521-0</a> page 50</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Patterson, D. A., "Verification of Microprograms," Technical Report No. UCLA-ENG-7707, UCLA Computer Science Department, January 1977.</span></li>
+<li id="cite_note-archive.cra.org-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-archive.cra.org_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-archive.cra.org_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://archive.cra.org/temp/awards.2006.html">http://archive.cra.org/temp/awards.2006.html</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://awards.acm.org/fellow/all.cfm">http://awards.acm.org/fellow/all.cfm</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.computerhistory.org/fellowawards/hall/bios/David,Patterson/">http://www.computerhistory.org/fellowawards/hall/bios/David,Patterson/</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://sites.ieee.org/sv-techhist/?p=297">http://sites.ieee.org/sv-techhist/?p=297</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://anti-ms-crew.berkeley.edu/theteam.shtml">http://anti-ms-crew.berkeley.edu/theteam.shtml</a></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:IEEE_James_H._Mulligan,_Jr._Education_Medal" title="Template:IEEE James H. Mulligan, Jr. Education Medal"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:IEEE_James_H._Mulligan,_Jr._Education_Medal" title="Template talk:IEEE James H. Mulligan, Jr. Education Medal"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:IEEE_James_H._Mulligan,_Jr._Education_Medal&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a> <a href="/wiki/IEEE_James_H._Mulligan,_Jr._Education_Medal" title="IEEE James H. Mulligan, Jr. Education Medal">James H. Mulligan, Jr. Education Medal</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1956–1975</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Frederick_Terman" title="Frederick Terman">Frederick Terman</a> (1956)</li>
+<li><a href="/wiki/William_Littell_Everitt" title="William Littell Everitt">William Littell Everitt</a> (1957)</li>
+<li><a href="/w/index.php?title=J._F._Calvert&amp;action=edit&amp;redlink=1" class="new" title="J. F. Calvert (page does not exist)">J. F. Calvert</a> (1958)</li>
+<li><a href="/wiki/Gordon_S._Brown" title="Gordon S. Brown">Gordon S. Brown</a> (1959)</li>
+<li><a href="/wiki/Ernst_Weber_(engineer)" title="Ernst Weber (engineer)">Ernst Weber</a> (1960)</li>
+<li><a href="/w/index.php?title=George_F._Corcoran&amp;action=edit&amp;redlink=1" class="new" title="George F. Corcoran (page does not exist)">George F. Corcoran</a> (1961)</li>
+<li><a href="/wiki/Ernst_Guillemin" title="Ernst Guillemin">Ernst Guillemin</a> (1962)</li>
+<li><a href="/wiki/William_Gould_Dow" title="William Gould Dow">William Gould Dow</a> (1963)</li>
+<li><a href="/w/index.php?title=B._R._Teare,_Jr.&amp;action=edit&amp;redlink=1" class="new" title="B. R. Teare, Jr. (page does not exist)">B. R. Teare, Jr.</a> (1964)</li>
+<li><a href="/w/index.php?title=Hugh_H._Skilling&amp;action=edit&amp;redlink=1" class="new" title="Hugh H. Skilling (page does not exist)">Hugh H. Skilling</a> (1965)</li>
+<li><a href="/w/index.php?title=William_H._Huggins&amp;action=edit&amp;redlink=1" class="new" title="William H. Huggins (page does not exist)">William H. Huggins</a> (1966)</li>
+<li><a href="/wiki/John_Roy_Whinnery" title="John Roy Whinnery">John Roy Whinnery</a> (1967)</li>
+<li><a href="/w/index.php?title=Edward_C._Jordan&amp;action=edit&amp;redlink=1" class="new" title="Edward C. Jordan (page does not exist)">Edward C. Jordan</a> (1968)</li>
+<li><a href="/wiki/Donald_Pederson" title="Donald Pederson">Donald Pederson</a> (1969)</li>
+<li><a href="/wiki/Jacob_Millman" title="Jacob Millman">Jacob Millman</a> (1970)</li>
+<li><a href="/wiki/Franz_Ollendorff" title="Franz Ollendorff">Franz Ollendorff</a> (1971)</li>
+<li><a href="/wiki/Mac_Van_Valkenburg" title="Mac Van Valkenburg">Mac Van Valkenburg</a> (1972)</li>
+<li><a href="/wiki/Lotfi_A._Zadeh" title="Lotfi A. Zadeh">Lotfi A. Zadeh</a> (1973)</li>
+<li><a href="/wiki/John_G._Truxal" title="John G. Truxal">John G. Truxal</a> (1974)</li>
+<li><a href="/w/index.php?title=Charles_A._Desoer&amp;action=edit&amp;redlink=1" class="new" title="Charles A. Desoer (page does not exist)">Charles A. Desoer</a> (1975)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1976–2000</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_G._Linvill" title="John G. Linvill">John G. Linvill</a> (1976)</li>
+<li><a href="/wiki/Robert_Fano" title="Robert Fano">Robert Fano</a> (1977)</li>
+<li><a href="/w/index.php?title=Harold_A._Peterson&amp;action=edit&amp;redlink=1" class="new" title="Harold A. Peterson (page does not exist)">Harold A. Peterson</a> (1978)</li>
+<li><a href="/wiki/John_R._Ragazzini" title="John R. Ragazzini">John R. Ragazzini</a> (1979)</li>
+<li><a href="/wiki/Aldert_van_der_Ziel" title="Aldert van der Ziel">Aldert van der Ziel</a> (1980)</li>
+<li><a href="/w/index.php?title=Ernest_S._Kuh&amp;action=edit&amp;redlink=1" class="new" title="Ernest S. Kuh (page does not exist)">Ernest S. Kuh</a> (1981)</li>
+<li><a href="/wiki/King-Sun_Fu" title="King-Sun Fu">King-Sun Fu</a> (1982)</li>
+<li><a href="/wiki/Mischa_Schwartz" title="Mischa Schwartz">Mischa Schwartz</a> (1983)</li>
+<li><a href="/wiki/Athanasios_Papoulis" title="Athanasios Papoulis">Athanasios Papoulis</a> (1984)</li>
+<li><a href="/w/index.php?title=James_F._Gibbons&amp;action=edit&amp;redlink=1" class="new" title="James F. Gibbons (page does not exist)">James F. Gibbons</a> (1985)</li>
+<li><a href="/w/index.php?title=Richard_B._Adler&amp;action=edit&amp;redlink=1" class="new" title="Richard B. Adler (page does not exist)">Richard B. Adler</a> (1986)</li>
+<li><a href="/wiki/Joseph_W._Goodman" title="Joseph W. Goodman">Joseph W. Goodman</a> (1987)</li>
+<li><a href="/wiki/Alan_V._Oppenheim" title="Alan V. Oppenheim">Alan V. Oppenheim</a> (1988)</li>
+<li><a href="/wiki/Ben_G._Streetman" title="Ben G. Streetman">Ben G. Streetman</a> (1989)</li>
+<li><a href="/wiki/James_D._Meindl" title="James D. Meindl">James D. Meindl</a> (1990)</li>
+<li><a href="/wiki/Hermann_A._Haus" title="Hermann A. Haus">Hermann A. Haus</a> (1991)</li>
+<li><a href="/wiki/Ronald_W._Schafer" title="Ronald W. Schafer">Ronald W. Schafer</a> (1992)</li>
+<li><a href="/w/index.php?title=Ronald_A._Rohrer&amp;action=edit&amp;redlink=1" class="new" title="Ronald A. Rohrer (page does not exist)">Ronald A. Rohrer</a> (1993)</li>
+<li><a href="/wiki/Chung_Laung_Liu" title="Chung Laung Liu">Chung Laung Liu</a> (1994)</li>
+<li><a href="/wiki/Thomas_Kailath" title="Thomas Kailath">Thomas Kailath</a> (1995)</li>
+<li><a href="/wiki/Adel_Sedra" title="Adel Sedra">Adel Sedra</a> (1996)</li>
+<li><a href="/wiki/David_A._Hodges" title="David A. Hodges">David A. Hodges</a> (1997)</li>
+<li><a href="/w/index.php?title=Stephen_W._Director&amp;action=edit&amp;redlink=1" class="new" title="Stephen W. Director (page does not exist)">Stephen W. Director</a> (1998)</li>
+<li><a href="/wiki/Andries_van_Dam" title="Andries van Dam">Andries van Dam</a> (1999)</li>
+<li><strong class="selflink">David Patterson</strong> (2000)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2001–present</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brian_Anderson_(academic)" title="Brian Anderson (academic)">Brian Anderson</a> (2001)</li>
+<li><a href="/wiki/Petar_V._Kokotovic" title="Petar V. Kokotovic">Petar V. Kokotovic</a> (2002)</li>
+<li><a href="/wiki/Yasuharu_Suematsu" title="Yasuharu Suematsu">Yasuharu Suematsu</a> (2003)</li>
+<li><a href="/w/index.php?title=Paul_R._Gray&amp;action=edit&amp;redlink=1" class="new" title="Paul R. Gray (page does not exist)">Paul R. Gray</a> (2004)</li>
+<li><a href="/wiki/Vincent_Poor" title="Vincent Poor">Vincent Poor</a> (2005)</li>
+<li><a href="/w/index.php?title=Sanjit_K._Mitra&amp;action=edit&amp;redlink=1" class="new" title="Sanjit K. Mitra (page does not exist)">Sanjit K. Mitra</a> (2006)</li>
+<li><a href="/wiki/Andrew_S._Tanenbaum" title="Andrew S. Tanenbaum">Andrew S. Tanenbaum</a> (2007)</li>
+<li><a href="/w/index.php?title=Joseph_Bordogna&amp;action=edit&amp;redlink=1" class="new" title="Joseph Bordogna (page does not exist)">Joseph Bordogna</a> (2008)</li>
+<li><a href="/wiki/Jose_B._Cruz,_Jr." title="Jose B. Cruz, Jr.">Jose B. Cruz, Jr.</a> (2009)</li>
+<li><a href="/wiki/Randy_Katz" title="Randy Katz">Randy Katz</a> (2010)</li>
+<li><a href="/wiki/Raj_Mittra" title="Raj Mittra">Raj Mittra</a> (2011)</li>
+<li><a href="/wiki/Fawwaz_T._Ulaby" title="Fawwaz T. Ulaby">Fawwaz T. Ulaby</a> (2012)</li>
+<li><a href="/wiki/J._David_Irwin" title="J. David Irwin">J. David Irwin</a> (2013)</li>
+<li><a href="/w/index.php?title=John_G._Proakis&amp;action=edit&amp;redlink=1" class="new" title="John G. Proakis (page does not exist)">John G. Proakis</a> (2014)</li>
+<li><a href="/wiki/Richard_Baraniuk" title="Richard Baraniuk">Richard Baraniuk</a> (2015)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a href="/wiki/Marquis_Who%27s_Who" title="Marquis Who's Who">Who's Who in America 2008</a></i>. New Providence, New Jersey: Marquis Who's Who. <a href="/wiki/Special:BookSources/9780837970103" class="internal mw-magiclink-isbn">ISBN 978-0-8379-7010-3</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.eecs.berkeley.edu/Faculty/Homepages/patterson.html">David A. Patterson page at the website of the University of California, Berkeley</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.eecs.berkeley.edu/Pubs/Dissertations/Faculty/patterson.html">List of David A. Patterson's students who graduated with PhD</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n88-027295">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/2527326">2527326</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n88027295">n88027295</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000108546460">0000 0001 0854 6460</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/114326452">114326452</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/03116854X">03116854X</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb122436000">cb122436000</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb122436000">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=98366">98366</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00472804">00472804</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1172
+Cached time: 20160107143911
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.261 seconds
+Real time usage: 0.351 seconds
+Preprocessor visited node count: 1181/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 27979/2097152 bytes
+Template argument size: 1589/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 2.64 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  282.814      1 - -total
+ 30.66%   86.710      1 - Template:Infobox_scientist
+ 26.86%   75.958      1 - Template:Infobox
+ 14.33%   40.517      1 - Template:BLP_sources
+ 13.44%   38.024      1 - Template:Cite_journal
+ 12.20%   34.495      1 - Template:About
+ 12.19%   34.471      1 - Template:Authority_control
+ 12.12%   34.288      1 - Template:Ambox
+ 10.37%   29.327      4 - Template:Br_separated_entries
+  9.61%   27.183      1 - Template:Hatnote
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:816239-0!*!0!!en!4!* and timestamp 20160107143910 and revision id 695602888
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=David_Patterson_(computer_scientist)&amp;oldid=695602888">https://en.wikipedia.org/w/index.php?title=David_Patterson_(computer_scientist)&amp;oldid=695602888</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_designers" title="Category:Computer designers">Computer designers</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Presidents_of_the_Association_for_Computing_Machinery" title="Category:Presidents of the Association for Computing Machinery">Presidents of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:1947_births" title="Category:1947 births">1947 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Scientists_from_California" title="Category:Scientists from California">Scientists from California</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Sciences" title="Category:Members of the United States National Academy of Sciences">Members of the United States National Academy of Sciences</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_College_of_Engineering_faculty" title="Category:University of California, Berkeley College of Engineering faculty">University of California, Berkeley College of Engineering faculty</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_faculty" title="Category:University of California, Berkeley faculty">University of California, Berkeley faculty</a></li><li><a href="/wiki/Category:University_of_California,_Los_Angeles_alumni" title="Category:University of California, Los Angeles alumni">University of California, Los Angeles alumni</a></li><li><a href="/wiki/Category:People_from_Evergreen_Park,_Illinois" title="Category:People from Evergreen Park, Illinois">People from Evergreen Park, Illinois</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_February_2013" title="Category:BLP articles lacking sources from February 2013">BLP articles lacking sources from February 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=David+Patterson+%28computer+scientist%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=David+Patterson+%28computer+scientist%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/David_Patterson_(computer_scientist)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:David_Patterson_(computer_scientist)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/David_Patterson_(computer_scientist)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/David_Patterson_(computer_scientist)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/David_Patterson_(computer_scientist)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;oldid=695602888" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92851" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=David_Patterson_%28computer_scientist%29&amp;id=695602888" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=David+Patterson+%28computer+scientist%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=David+Patterson+%28computer+scientist%29&amp;returnto=David+Patterson+%28computer+scientist%29&amp;oldid=695602888&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=David_Patterson_(computer_scientist)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AF%D9%8A%D9%81%D9%8A%D8%AF_%D8%A8%D8%A7%D8%AA%D8%B1%D8%B3%D9%88%D9%86_(%D8%B9%D8%A7%D9%84%D9%85)" title="ديفيد باترسون (عالم) – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/David_A._Patterson" title="David A. Patterson – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/David_A._Patterson" title="David A. Patterson – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/David_Patterson" title="David Patterson – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/David_A._Patterson" title="David A. Patterson – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%83%91%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3_(%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6%E8%80%85)" title="デイビッド・パターソン (計算機科学者) – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/David_A._Patterson" title="David A. Patterson – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D1%82%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4" title="Паттерсон, Дэвид – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/David_A._Patterson" title="David A. Patterson – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%A4%A7%E8%A1%9B%C2%B7%E5%B8%95%E7%89%B9%E6%A3%AE_(%E5%AD%B8%E8%80%85)" title="大衛·帕特森 (學者) – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92851#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 December 2015, at 05:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=David_Patterson_(computer_scientist)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":473,"wgHostname":"mw1172"}); /* @nomin */
+} );</script>
+	</body>
+</html>

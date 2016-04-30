@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Paul Graham (computer programmer) - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Paul_Graham_(computer_programmer)","wgTitle":"Paul Graham (computer programmer)","wgCurRevisionId":697442273,"wgRevisionId":697442273,"wgArticleId":173353,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from September 2012","Official website different in Wikidata and Wikipedia","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","1964 births","Living people","Lisp people","English computer programmers","Cornell University alumni","Businesspeople in information technology","Harvard School of Engineering and Applied Sciences alumni","O'Reilly writers","Programming language designers","American technology company founders","Yahoo! employees","British company founders"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Paul_Graham_(computer_programmer)","wgRelevantArticleId":173353,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Paulgraham_240x320.jpg/75px-Paulgraham_240x320.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92650","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Paul_Graham_(computer_programmer)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Paul_Graham_computer_programmer skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Paul Graham (computer programmer)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Paul Graham</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Paulgraham_240x320.jpg" class="image"><img alt="Paulgraham 240x320.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Paulgraham_240x320.jpg/200px-Paulgraham_240x320.jpg" width="200" height="267" srcset="//upload.wikimedia.org/wikipedia/commons/e/e3/Paulgraham_240x320.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e3/Paulgraham_240x320.jpg 2x" data-file-width="240" data-file-height="320" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1964-11-13</span>)</span> 13 November 1964 <span class="noprint ForceAgeToShow">(age&#160;51)</span><sup id="cite_ref-DOB_LibCongress_1-0" class="reference"><a href="#cite_note-DOB_LibCongress-1"><span>[</span>1<span>]</span></a></sup><br />
+<a href="/wiki/Weymouth,_Dorset" title="Weymouth, Dorset">Weymouth, Dorset</a>, England<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a><br />
+<a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a><br />
+<a href="/wiki/Rhode_Island_School_of_Design" title="Rhode Island School of Design">Rhode Island School of Design</a><br />
+<a href="/wiki/Accademia_di_Belle_Arti_Firenze" title="Accademia di Belle Arti Firenze" class="mw-redirect">Accademia di Belle Arti Firenze</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><a rel="nofollow" class="external text" href="http://hollis.harvard.edu/?itemid=%7Clibrary/m/aleph%7C002211322"><i>The State of a Program and Its Uses</i></a>&#160;<span style="font-size:90%;">(1990)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/w/index.php?title=Thomas_E._Cheatham,_Jr.&amp;action=edit&amp;redlink=1" class="new" title="Thomas E. Cheatham, Jr. (page does not exist)">Thomas E. Cheatham, Jr.</a></td>
+</tr>
+<tr>
+<th scope="row">Spouse</th>
+<td><a href="/wiki/Jessica_Livingston" title="Jessica Livingston">Jessica Livingston</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Website</b><br />
+<span class="url"><a rel="nofollow" class="external text" href="http://www.paulgraham.com">www<wbr />.paulgraham<wbr />.com</a></span></td>
+</tr>
+</table>
+<p><b>Paul Graham</b> (born 13 November 1964)<sup id="cite_ref-DOB_LibCongress_1-1" class="reference"><a href="#cite_note-DOB_LibCongress-1"><span>[</span>1<span>]</span></a></sup> is an <a href="/wiki/England" title="England">English</a> <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a>, <a href="/wiki/Venture_capital" title="Venture capital">venture capitalist</a>, and <a href="/wiki/Essay" title="Essay">essayist</a>. He is known for his work on <a href="/wiki/Lisp_(programming_language)" title="Lisp (programming language)">Lisp</a>, for co-founding <a href="/wiki/Viaweb" title="Viaweb">Viaweb</a> (which eventually became <a href="/wiki/Yahoo!_Store" title="Yahoo! Store" class="mw-redirect">Yahoo! Store</a>), and for co-founding the <a href="/wiki/Y_Combinator_(company)" title="Y Combinator (company)">Y Combinator</a> seed capital firm. He is the author of some programming books, such as: <i><a href="/wiki/On_Lisp" title="On Lisp">On Lisp</a></i><sup id="cite_ref-onlisp_3-0" class="reference"><a href="#cite_note-onlisp-3"><span>[</span>3<span>]</span></a></sup> (1993), <i>ANSI Common Lisp</i><sup id="cite_ref-ansi_4-0" class="reference"><a href="#cite_note-ansi-4"><span>[</span>4<span>]</span></a></sup> (1995), and <i><a href="/wiki/Hackers_%26_Painters" title="Hackers &amp; Painters">Hackers &amp; Painters</a></i><sup id="cite_ref-hackersandpainters_5-0" class="reference"><a href="#cite_note-hackersandpainters-5"><span>[</span>5<span>]</span></a></sup> (2004). </p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Education"><span class="tocnumber">1.1</span> <span class="toctext">Education</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#The_Blub_paradox"><span class="tocnumber">2</span> <span class="toctext">The Blub paradox</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Graham.27s_hierarchy_of_disagreement"><span class="tocnumber">3</span> <span class="toctext">Graham's hierarchy of disagreement</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1996, Graham and <a href="/wiki/Robert_Tappan_Morris" title="Robert Tappan Morris">Robert Morris</a> founded <a href="/wiki/Viaweb" title="Viaweb">Viaweb</a>, the first <a href="/wiki/Application_service_provider" title="Application service provider">application service provider</a> (ASP). Viaweb's software, originally written mostly in <a href="/wiki/Common_Lisp" title="Common Lisp">Common Lisp</a>, allowed users to make their own <a href="/wiki/Internet_store" title="Internet store" class="mw-redirect">Internet stores</a>. In the summer of 1998 Viaweb was sold to <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a> for 455,000 shares of Yahoo! stock, valued at $49.6 million.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> At <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo!</a> the product became <a href="/wiki/Yahoo!_Store" title="Yahoo! Store" class="mw-redirect">Yahoo! Store</a>.</p>
+<p>He later gained fame for his essays on his popular website paulgraham.com. Essay subjects range from "Beating the Averages",<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> which compares Lisp to other <a href="/wiki/Programming_language" title="Programming language">programming languages</a> and introduced the hypothetical programming language <a href="#The_Blub_paradox">Blub</a>, to "Why Nerds are Unpopular",<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> a discussion of nerd life in high school. A collection of his essays has been published as <i><a href="/wiki/Hackers_%26_Painters" title="Hackers &amp; Painters">Hackers &amp; Painters</a></i> <sup id="cite_ref-hackersandpainters_5-1" class="reference"><a href="#cite_note-hackersandpainters-5"><span>[</span>5<span>]</span></a></sup> by <a href="/wiki/O%27Reilly_Media" title="O'Reilly Media">O'Reilly</a>, which includes a discussion of the growth of Viaweb and what Graham perceives to be the advantages of Lisp to program it.</p>
+<p>In 2001, Graham announced that he was working on a new dialect of Lisp named <a href="/wiki/Arc_(programming_language)" title="Arc (programming language)">Arc</a>. Over the years since, he has written several essays describing features or goals of the language, and some internal projects at Y Combinator have been written in Arc, most notably the Hacker News web forum and news aggregator program.</p>
+<p>In 2005, after giving a talk at the Harvard Computer Society later published as "How to Start a Startup", Graham along with <a href="/wiki/Trevor_Blackwell" title="Trevor Blackwell">Trevor Blackwell</a>, <a href="/wiki/Jessica_Livingston" title="Jessica Livingston">Jessica Livingston</a> and <a href="/wiki/Robert_Tappan_Morris" title="Robert Tappan Morris">Robert Morris</a> started <a href="/wiki/Y_Combinator_(company)" title="Y Combinator (company)">Y Combinator</a> to provide <a href="/wiki/Seed_funding" title="Seed funding" class="mw-redirect">seed funding</a> to a large number of <a href="/wiki/Startup_company" title="Startup company">startups</a>, particularly those started by younger, more technically oriented founders. Y Combinator has now invested in more than 400 startups, including <a href="/wiki/Justin.tv" title="Justin.tv">Justin.tv</a>, <a href="/wiki/Xobni" title="Xobni">Xobni</a>, <a href="/wiki/Dropbox_(service)" title="Dropbox (service)">Dropbox</a>, <a href="/wiki/Airbnb" title="Airbnb">Airbnb</a> and <a href="/wiki/Stripe_(company)" title="Stripe (company)">Stripe</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>In response to the proposed <a href="/wiki/Stop_Online_Piracy_Act" title="Stop Online Piracy Act">Stop Online Piracy Act</a> (SOPA), Graham announced in late 2011 that no representatives of any company supporting it would be invited to Y Combinator's Demo Day events.<sup id="cite_ref-Demo_Day_SOPA_cutoff_10-0" class="reference"><a href="#cite_note-Demo_Day_SOPA_cutoff-10"><span>[</span>10<span>]</span></a></sup></p>
+<p><a href="/wiki/BusinessWeek" title="BusinessWeek" class="mw-redirect">BusinessWeek</a> included Paul Graham in 2008 edition of its annual feature, <i>The 25 Most Influential People on the Web</i>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>In 2008, Paul Graham married <a href="/wiki/Jessica_Livingston" title="Jessica Livingston">Jessica Livingston</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;action=edit&amp;section=2" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Graham has a <a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">Bachelor of Arts</a> in <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> from <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a><sup id="cite_ref-bio_15-0" class="reference"><a href="#cite_note-bio-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> (1986).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> He then attended <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>, earning <a href="/wiki/Master_of_Science" title="Master of Science">Master of Science</a> (1988) and <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Doctor of Philosophy</a> (1990) degrees in <a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a>.<sup id="cite_ref-bio_15-1" class="reference"><a href="#cite_note-bio-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-SpeakerMix_bio_18-0" class="reference"><a href="#cite_note-SpeakerMix_bio-18"><span>[</span>18<span>]</span></a></sup> He has also studied <a href="/wiki/Painting" title="Painting">painting</a> at the <a href="/wiki/Rhode_Island_School_of_Design" title="Rhode Island School of Design">Rhode Island School of Design</a> and the <a href="/wiki/Accademia_di_Belle_Arti_Firenze" title="Accademia di Belle Arti Firenze" class="mw-redirect">Accademia di Belle Arti</a> in <a href="/wiki/Florence" title="Florence">Florence</a>.<sup id="cite_ref-bio_15-2" class="reference"><a href="#cite_note-bio-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-SpeakerMix_bio_18-1" class="reference"><a href="#cite_note-SpeakerMix_bio-18"><span>[</span>18<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="The_Blub_paradox">The Blub paradox</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;action=edit&amp;section=3" title="Edit section: The Blub paradox">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span id="Blub"></span> Graham considers the hierarchy of <a href="/wiki/Programming_language" title="Programming language">programming languages</a> with the example of "Blub", a hypothetically average language "right in the middle of the abstractness continuum. It is not the most powerful language, but it is more powerful than <a href="/wiki/COBOL" title="COBOL">Cobol</a> or <a href="/wiki/Machine_code" title="Machine code">machine language</a>."<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> It was used by Graham to illustrate a comparison of power between programming languages that go beyond <a href="/wiki/Turing_completeness" title="Turing completeness">Turing completeness</a>, and more specifically, to illustrate the difficulty of comparing a programming language one knows to one that one does not.<sup id="cite_ref-blub_20-0" class="reference"><a href="#cite_note-blub-20"><span>[</span>20<span>]</span></a></sup></p>
+<p>Graham considers a hypothetical Blub programmer. When the programmer looks down the "power continuum", he considers the lower languages to be less powerful because they miss some feature that a Blub programmer is used to. But when he looks up, he fails to realise that he is looking up: he merely sees "weird languages" with unnecessary features and assumes they are equivalent in power, but with "other hairy stuff thrown in as well". When Graham considers the point of view of a programmer using a language higher than Blub, he describes that programmer as looking down on Blub and noting its "missing" features from the point of view of the higher language.<sup id="cite_ref-blub_20-1" class="reference"><a href="#cite_note-blub-20"><span>[</span>20<span>]</span></a></sup></p>
+<p>Graham describes this as the "Blub paradox" and concludes that "By induction, the only programmers in a position to see all the differences in power between the various languages are those who understand the most powerful one."<sup id="cite_ref-blub_20-2" class="reference"><a href="#cite_note-blub-20"><span>[</span>20<span>]</span></a></sup></p>
+<p>The concept has been cited by writers such as <a href="/wiki/Joel_Spolsky" title="Joel Spolsky">Joel Spolsky</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Graham.27s_hierarchy_of_disagreement">Graham's hierarchy of disagreement <span id="Graham.27s_Hierarchy_of_Disagreement"></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;action=edit&amp;section=4" title="Edit section: Graham's hierarchy of disagreement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Graham proposed a "disagreement hierarchy" in a 2008 essay "How to Disagree",<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> putting types of <a href="/wiki/Argument" title="Argument">argument</a> into a seven-point hierarchy and observing that "If moving up the disagreement hierarchy makes people less mean, that will make most of them happier."</p>
+<p>Although originally written as a simple list, Graham's hierarchy can be represented as a pyramid with the most convincing form of disagreement at the top, and the weakest at the bottom:</p>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Graham%27s_Hierarchy_of_Disagreement-en.svg" class="image"><img alt="Graham's Hierarchy of Disagreement-en.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Graham%27s_Hierarchy_of_Disagreement-en.svg/500px-Graham%27s_Hierarchy_of_Disagreement-en.svg.png" width="500" height="375" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Graham%27s_Hierarchy_of_Disagreement-en.svg/750px-Graham%27s_Hierarchy_of_Disagreement-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Graham%27s_Hierarchy_of_Disagreement-en.svg/1000px-Graham%27s_Hierarchy_of_Disagreement-en.svg.png 2x" data-file-width="707" data-file-height="530" /></a></div>
+</div>
+<p>Following this hierarchy, Graham notes that articulate forms of name-calling ("The author is a self-important dilettante") are no different from crude insults.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Friedrich_Glasl%27s_Model_of_Conflict_Escalation" title="Friedrich Glasl's Model of Conflict Escalation">Friedrich Glasl's Model of Conflict Escalation</a></li>
+<li><a href="/wiki/Anaphoric_macro" title="Anaphoric macro">Anaphoric macro</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-DOB_LibCongress-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-DOB_LibCongress_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DOB_LibCongress_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/no2005023870.html">"Graham, Paul 1964- Authorities &amp; Vocabularies (Library of Congress Name Authority File)"</a>. U.S. Library of Congress. 11 March 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">12 March</span> 2012</span>. <q>(Paul Graham, b. Nov. 13, 1964)</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.btitle=Graham%2C+Paul+1964-+Authorities+%26+Vocabularies+%28Library+of+Congress+Name+Authority+File%29&amp;rft.date=2005-03-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames%2Fno2005023870.html&amp;rft.pub=U.S.+Library+of+Congress&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.ycombinator.com/item?id=324331">"No; I was born in Weymouth, England. My father's Welsh though. | Hacker News"</a>. News.ycombinator.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-01-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.btitle=No%3B+I+was+born+in+Weymouth%2C+England.+My+father%27s+Welsh+though.+%26%23124%3B+Hacker+News&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D324331&amp;rft.pub=News.ycombinator.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-onlisp-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-onlisp_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Graham, Paul (1994). <i>On Lisp: advanced techniques for Common Lisp</i>. Englewood Cliffs, N.J: Prentice Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-13-030552-9" title="Special:BookSources/0-13-030552-9">0-13-030552-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.au=Graham%2C+Paul&amp;rft.btitle=On+Lisp%3A+advanced+techniques+for+Common+Lisp&amp;rft.date=1994&amp;rft.genre=book&amp;rft.isbn=0-13-030552-9&amp;rft.place=Englewood+Cliffs%2C+N.J&amp;rft.pub=Prentice+Hall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ansi-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-ansi_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Graham, Paul (1996). <i>ANSI Common Lisp</i>. Englewood Cliffs, N.J: Prentice Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-13-370875-6" title="Special:BookSources/0-13-370875-6">0-13-370875-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.au=Graham%2C+Paul&amp;rft.btitle=ANSI+Common+Lisp&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=0-13-370875-6&amp;rft.place=Englewood+Cliffs%2C+N.J&amp;rft.pub=Prentice+Hall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-hackersandpainters-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-hackersandpainters_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hackersandpainters_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Graham, Paul (2004). <i>Hackers &amp; painters: big ideas from the computer age</i>. Sebastopol, CA: O'Reilly. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-596-00662-4" title="Special:BookSources/0-596-00662-4">0-596-00662-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.au=Graham%2C+Paul&amp;rft.btitle=Hackers+%26+painters%3A+big+ideas+from+the+computer+age&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-596-00662-4&amp;rft.place=Sebastopol%2C+CA&amp;rft.pub=O%27Reilly&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://docs.yahoo.com/docs/pr/release184.html">"Yahoo! to Acquire Viaweb"</a>. Yahoo! Inc. 8 June 1998<span class="reference-accessdate">. Retrieved <span class="nowrap">14 April</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.btitle=Yahoo%21+to+Acquire+Viaweb&amp;rft.date=1998-06-08&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdocs.yahoo.com%2Fdocs%2Fpr%2Frelease184.html&amp;rft.pub=Yahoo%21+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.paulgraham.com/avg.html">"Beating the Averages"</a>. <i>paulgraham.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.atitle=Beating+the+Averages&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.paulgraham.com%2Favg.html&amp;rft.jtitle=paulgraham.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://paulgraham.com/nerds.html">"Why Nerds are Unpopular"</a>. <i>paulgraham.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.atitle=Why+Nerds+are+Unpopular&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpaulgraham.com%2Fnerds.html&amp;rft.jtitle=paulgraham.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ycuniverse.com/ycombinator-companies">"Y Combinator Companies - Y Combinator Universe"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.btitle=Y+Combinator+Companies+-+Y+Combinator+Universe&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fycuniverse.com%2Fycombinator-companies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Demo_Day_SOPA_cutoff-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Demo_Day_SOPA_cutoff_10-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Tsotsis, Alexia (22 December 2011). <a rel="nofollow" class="external text" href="http://techcrunch.com/2011/12/22/paul-graham-sopa-supporting-companies-no-longer-allowed-at-yc-demo-day/">"Paul Graham: SOPA Supporting Companies No Longer Allowed At YC Demo Day"</a>. <i><a href="/wiki/TechCrunch" title="TechCrunch">TechCrunch</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.atitle=Paul+Graham%3A+SOPA+Supporting+Companies+No+Longer+Allowed+At+YC+Demo+Day&amp;rft.aufirst=Alexia&amp;rft.aulast=Tsotsis&amp;rft.date=2011-12-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftechcrunch.com%2F2011%2F12%2F22%2Fpaul-graham-sopa-supporting-companies-no-longer-allowed-at-yc-demo-day%2F&amp;rft.jtitle=TechCrunch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://images.businessweek.com/ss/08/09/0929_most_influential/7.htm">"The Papa Bear: Paul Graham"</a>. <i>BusinessWeek</i>. 29 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">29 September</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.atitle=The+Papa+Bear%3A+Paul+Graham&amp;rft.date=2008-09-29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fimages.businessweek.com%2Fss%2F08%2F09%2F0929_most_influential%2F7.htm&amp;rft.jtitle=BusinessWeek&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://arclanguage.org/item?id=8509">"Where are we going?"</a>. arclanguage.org. 26 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">14 November</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.btitle=Where+are+we+going%3F&amp;rft.date=2008-10-26&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Farclanguage.org%2Fitem%3Fid%3D8509&amp;rft.pub=arclanguage.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.ycombinator.com/item?id=205918">"Congrats to PG on getting hitched"</a>. news.ycombinator.com. 2 June 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">14 November</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.btitle=Congrats+to+PG+on+getting+hitched&amp;rft.date=2008-06-02&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D205918&amp;rft.pub=news.ycombinator.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Graham, Paul (January 2009). <a rel="nofollow" class="external text" href="http://ycombinator.com/ycca.html">"California Year-Round"</a>. <a href="/wiki/Y_Combinator_(company)" title="Y Combinator (company)">Y Combinator</a>. <q>Jessica Livingston and I (who are married despite our different last names) are expecting our first child any day now.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.aufirst=Paul&amp;rft.aulast=Graham&amp;rft.btitle=California+Year-Round&amp;rft.date=2009-01&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fycombinator.com%2Fycca.html&amp;rft.pub=Y+Combinator&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bio-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-bio_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bio_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bio_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.paulgraham.com/bio.html">"Paul Graham biography"</a>. PaulGraham.com<span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.btitle=Paul+Graham+biography&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.paulgraham.com%2Fbio.html&amp;rft.pub=PaulGraham.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.paulgraham.com/college.html">Undergraduation</a>. <i>Paul Graham</i>. Retrieved 22 July 2011.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ezramagazine.cornell.edu/FALL11/Endnote.html">EZRA: Cornell's Quarterly Magazine (Fall 2011)</a> "Paul Graham '86"</span></li>
+<li id="cite_note-SpeakerMix_bio-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-SpeakerMix_bio_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SpeakerMix_bio_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://speakermix.com/paul-graham">"Paul Graham biography"</a>. SpeakerMix.com<span class="reference-accessdate">. Retrieved <span class="nowrap">6 March</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.btitle=Paul+Graham+biography&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fspeakermix.com%2Fpaul-graham&amp;rft.pub=SpeakerMix.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Paul Graham (2001). <a rel="nofollow" class="external text" href="http://www.paulgraham.com/avg.html">"<i>Beating the Averages</i>"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 April</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.au=Paul+Graham&amp;rft.btitle=Beating+the+Averages&amp;rft.date=2001&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.paulgraham.com%2Favg.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>; published in <i><a href="/wiki/Hackers_%26_Painters" title="Hackers &amp; Painters">Hackers &amp; Painters</a></i>, 2004; the essay was also reprinted in <a rel="nofollow" class="external text" href="http://act-r.psy.cmu.edu/people/douglass/Douglass/Agents/Lisp/psflang-report.pdf"><i>The Planning and Scheduling Working Group Report on Programming Languages</i></a>, by JM Adams, R Hawkins, C Myers, C Sontag, S Speck</span></li>
+<li id="cite_note-blub-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-blub_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-blub_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-blub_20-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">"...These studies would like to formally prove that a certain language is more or less expressive than another language. Determining such a relation between languages objectively rather than subjectively seems to be somewhat problematic, a phenomenon that Paul Graham has discussed in “The Blub Paradox” [6]." <a rel="nofollow" class="external text" href="http://www.verilab.com/files/sample_chapter_verilab_aop_cookbook.pdf">"An Introduction to Aspect Oriented Programming in e"</a>, D. Robinson; see also <a rel="nofollow" class="external text" href="http://www.adrem.ua.ac.be/bibrem/pubs/TR2005-05.pdf">"Expressive power of recursion and aggregates in XQuery"</a>, by J Hidders, J Paredaens, R Vercammen, S Marrara</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">See <a rel="nofollow" class="external text" href="http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html">"The Perils of JavaSchools"</a>, in his book <i>More Joel on Software</i>.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Graham, Paul (March 2008). <a rel="nofollow" class="external text" href="http://www.paulgraham.com/disagree.html">"How to Disagree"</a>. PaulGraham.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.aufirst=Paul&amp;rft.aulast=Graham&amp;rft.btitle=How+to+Disagree&amp;rft.date=2008-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.paulgraham.com%2Fdisagree.html&amp;rft.pub=PaulGraham.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Paul_Graham" class="extiw" title="q:Paul Graham">Paul Graham</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://www.paulgraham.com/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.inc.com/magazine/20090601/the-start-up-guru-y-combinators-paul-graham.html">Inc. Magazine profile</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.itconversations.com/shows/detail657.html">Audio: What Business Can Learn From Open Source</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=q7K0vRUKXKc">Video: "Be Good": Paul Graham at Startup School 08</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20030421131304/http://www.infoworld.com/article/02/08/20/020822opsecrets_1.html">Paul Graham provides stunning answer to spam e-mails</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.techcrunch.com/2006/09/02/an-interview-with-vc-paul-graham-of-ycombinator/">Techcrunch interview</a></li>
+<li><a rel="nofollow" class="external text" href="http://mixergy.com/y-combinator-paul-graham/">One hour Interview with Paul Graham</a> video</li>
+<li><cite class="citation web"><a href="/wiki/Russ_Roberts" title="Russ Roberts">Roberts, Russ</a> (3 August 2009). <a rel="nofollow" class="external text" href="http://www.econtalk.org/archives/_featuring/paul_graham/">"Graham on Start-ups, Innovation, and Creativity"</a>. <i><a href="/wiki/EconTalk" title="EconTalk">EconTalk</a></i>. <a href="/wiki/Library_of_Economics_and_Liberty" title="Library of Economics and Liberty">Library of Economics and Liberty</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Graham+%28computer+programmer%29&amp;rft.atitle=Graham+on+Start-ups%2C+Innovation%2C+and+Creativity&amp;rft.aufirst=Russ&amp;rft.aulast=Roberts&amp;rft.date=2009-08-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.econtalk.org%2Farchives%2F_featuring%2Fpaul_graham%2F&amp;rft.jtitle=EconTalk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://arclanguage.org/">Arc website</a></li>
+<li><a rel="nofollow" class="external text" href="http://arclanguage.org/forum">The Arc forum for users of the Arc language</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://ycombinator.com/arc/tut.txt">A terse arc/lisp introductory tutorial</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.paulgraham.com/arcfaq.html">Arc FAQ</a></li>
+<li><a rel="nofollow" class="external text" href="http://practical-scheme.net/wiliki/arcxref">practical-scheme.net/wiliki/arcxref</a> an arc wiki</li>
+<li><a rel="nofollow" class="external text" href="http://www.paulgraham.com/hundred.html">The Hundred-Year Language</a>, an essay</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-no2005-023870">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/24014685">24014685</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/no2005023870">no2005023870</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000040413855">0000 0000 4041 3855</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/06934339X">06934339X</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00893092">00893092</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1244
+Cached time: 20160101031542
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.329 seconds
+Real time usage: 0.446 seconds
+Preprocessor visited node count: 1821/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35950/2097152 bytes
+Template argument size: 1435/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.152/10.000 seconds
+Lua memory usage: 4.15 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  406.854      1 - -total
+ 41.26%  167.881      1 - Template:Reflist
+ 26.28%  106.927     15 - Template:Cite_web
+ 23.55%   95.819      1 - Template:Infobox_scientist
+ 21.19%   86.227      1 - Template:Infobox
+  9.28%   37.746      1 - Template:Use_dmy_dates
+  8.23%   33.483      4 - Template:Br_separated_entries
+  6.35%   25.845      1 - Template:Authority_control
+  6.29%   25.600      3 - Template:Cite_book
+  6.03%   24.547      1 - Template:Official
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:173353-0!*!0!!en!4!* and timestamp 20160101031542 and revision id 697442273
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Paul_Graham_(computer_programmer)&amp;oldid=697442273">https://en.wikipedia.org/w/index.php?title=Paul_Graham_(computer_programmer)&amp;oldid=697442273</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1964_births" title="Category:1964 births">1964 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Lisp_people" title="Category:Lisp people">Lisp people</a></li><li><a href="/wiki/Category:English_computer_programmers" title="Category:English computer programmers">English computer programmers</a></li><li><a href="/wiki/Category:Cornell_University_alumni" title="Category:Cornell University alumni">Cornell University alumni</a></li><li><a href="/wiki/Category:Businesspeople_in_information_technology" title="Category:Businesspeople in information technology">Businesspeople in information technology</a></li><li><a href="/wiki/Category:Harvard_School_of_Engineering_and_Applied_Sciences_alumni" title="Category:Harvard School of Engineering and Applied Sciences alumni">Harvard School of Engineering and Applied Sciences alumni</a></li><li><a href="/wiki/Category:O%27Reilly_writers" title="Category:O'Reilly writers">O'Reilly writers</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:American_technology_company_founders" title="Category:American technology company founders">American technology company founders</a></li><li><a href="/wiki/Category:Yahoo!_employees" title="Category:Yahoo! employees">Yahoo! employees</a></li><li><a href="/wiki/Category:British_company_founders" title="Category:British company founders">British company founders</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_September_2012" title="Category:Use dmy dates from September 2012">Use dmy dates from September 2012</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Paul+Graham+%28computer+programmer%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Paul+Graham+%28computer+programmer%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Paul_Graham_(computer_programmer)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Paul_Graham_(computer_programmer)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Paul_Graham_(computer_programmer)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Paul_Graham_(computer_programmer)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Paul_Graham_(computer_programmer)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;oldid=697442273" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92650" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Paul_Graham_%28computer_programmer%29&amp;id=697442273" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Paul+Graham+%28computer+programmer%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Paul+Graham+%28computer+programmer%29&amp;returnto=Paul+Graham+%28computer+programmer%29&amp;oldid=697442273&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Paul_Graham_(computer_programmer)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%84_%D8%AC%D8%B1%D8%A7%D9%87%D8%A7%D9%85" title="بول جراهام – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Pol_Qrem" title="Pol Qrem – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Paul_Graham" title="Paul Graham – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Paul_Graham" title="Paul Graham – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Paul_Graham" title="Paul Graham – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Paul_Graham" title="Paul Graham – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%8F%B4_%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%97%84" title="폴 그레이엄 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A4%D7%95%D7%9C_%D7%92%D7%A8%D7%94%D7%9D" title="פול גרהם – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%8B%E0%B5%BE_%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B4%B9%E0%B4%BE%E0%B4%82" title="പോൾ ഗ്രഹാം – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Paul_Graham" title="Paul Graham – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0" title="ポール・グレアム – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Paul_Graham" title="Paul Graham – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%93%D1%80%D1%8D%D0%BC,_%D0%9F%D0%BE%D0%BB" title="Грэм, Пол – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Paul_Graham" title="Paul Graham – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Paul_Graham" title="Paul Graham – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Paul_Graham" title="Paul Graham – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB_%D0%93%D1%80%D0%B5%D0%BC" title="Пол Грем – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86" title="保罗·格雷厄姆 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92650#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 December 2015, at 15:29.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Paul_Graham_(computer_programmer)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1046"}); /* @nomin */
+} );</script>
+	</body>
+</html>

@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Bertrand Meyer - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bertrand_Meyer","wgTitle":"Bertrand Meyer","wgCurRevisionId":682298261,"wgRevisionId":682298261,"wgArticleId":291807,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hCards","All accuracy disputes","Articles with disputed statements from November 2009","Commons category with local link same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","1950 births","Living people","École Polytechnique alumni","ETH Zurich faculty","Formal methods people","Monash University faculty","French computer scientists","Software engineering researchers","Programming language designers","Programming language researchers","Stanford University alumni","University of California, Santa Barbara faculty","Fellows of the Association for Computing Machinery","Members of Academia Europaea","Computer science writers","Nancy-Université alumni"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bertrand_Meyer","wgRelevantArticleId":291807,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bertrand_Meyer_IMG_2481.jpg/100px-Bertrand_Meyer_IMG_2481.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92946","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bertrand_Meyer" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bertrand_Meyer&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bertrand_Meyer&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bertrand_Meyer" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Bertrand_Meyer skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Bertrand Meyer</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Bertrand Meyer</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Bertrand_Meyer_IMG_2481.jpg" class="image" title="Bertrand Meyer"><img alt="Bertrand Meyer" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bertrand_Meyer_IMG_2481.jpg/220px-Bertrand_Meyer_IMG_2481.jpg" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bertrand_Meyer_IMG_2481.jpg/330px-Bertrand_Meyer_IMG_2481.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bertrand_Meyer_IMG_2481.jpg/440px-Bertrand_Meyer_IMG_2481.jpg 2x" data-file-width="3522" data-file-height="2348" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>1950 (age&#160;65–66)</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">French</td>
+</tr>
+<tr>
+<th scope="row">Alma&#160;mater</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Universit%C3%A9_de_Nancy" title="Université de Nancy" class="mw-redirect">Université de Nancy</a></li>
+<li><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></li>
+<li><a href="/wiki/%C3%89cole_Polytechnique" title="École Polytechnique">École Polytechnique</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Occupation</th>
+<td class="role">Professor</td>
+</tr>
+<tr>
+<th scope="row">Employer</th>
+<td class="org"><a href="/wiki/ETH_Z%C3%BCrich" title="ETH Zürich" class="mw-redirect">ETH Zürich</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel</a>, <a href="/wiki/Design_by_contract" title="Design by contract">design by contract</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://bertrandmeyer.com/">bertrandmeyer<wbr />.com</a></span></td>
+</tr>
+</table>
+<p><b>Bertrand Meyer</b> (<span class="nowrap"><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="/ˈ/ primary stress follows">ˈ</span><span title="'m' in 'my'">m</span><span title="/aɪər/ 'ire' in 'fire'">aɪər</span></span>/</a></span></span>; <small>French:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_French" title="Help:IPA for French">[mɛjɛʁ]</a></span>; born 1950) is a French academic, author, and consultant in the field of computer languages. He created the <a href="/wiki/Eiffel_(programming_language)" title="Eiffel (programming language)">Eiffel programming language</a> and the idea of <a href="/wiki/Design_by_contract" title="Design by contract">design by contract</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education_and_academic_career"><span class="tocnumber">1</span> <span class="toctext">Education and academic career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Computer_languages"><span class="tocnumber">2</span> <span class="toctext">Computer languages</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Awards"><span class="tocnumber">3</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Wikipedia_hoax"><span class="tocnumber">4</span> <span class="toctext">Wikipedia hoax</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Education_and_academic_career">Education and academic career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bertrand_Meyer&amp;action=edit&amp;section=1" title="Edit section: Education and academic career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bertrand Meyer received a <a href="/wiki/Master_degree" title="Master degree" class="mw-redirect">master degree</a> in engineering from the <a href="/wiki/%C3%89cole_Polytechnique" title="École Polytechnique">École Polytechnique</a> in <a href="/wiki/Paris" title="Paris">Paris</a>, a second <a href="/wiki/Master%27s_degree" title="Master's degree">master's degree</a> from <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>, and a <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">PhD</a> from the <a href="/wiki/Universit%C3%A9_de_Nancy" title="Université de Nancy" class="mw-redirect">Université de Nancy</a> in <a href="/wiki/Nancy,_Meurthe-et-Moselle" title="Nancy, Meurthe-et-Moselle" class="mw-redirect">Nancy, Meurthe-et-Moselle</a>. He had a technical and managerial career for nine years at <a href="/wiki/%C3%89lectricit%C3%A9_de_France" title="Électricité de France">Électricité de France</a>, and for three years was on the faculty at the <a href="/wiki/University_of_California,_Santa_Barbara" title="University of California, Santa Barbara">University of California, Santa Barbara</a>.</p>
+<p>Since October 2001, he has been Professor of Software Engineering at <a href="/wiki/ETH_Z%C3%BCrich" title="ETH Zürich" class="mw-redirect">ETH Zürich</a>, the Swiss Federal Institute of Technology, where he pursues research on building trusted components (reusable software elements) with a guaranteed level of quality.</p>
+<p>His other activities include being adjunct professor at <a href="/wiki/Monash_University" title="Monash University">Monash University</a> in <a href="/wiki/Melbourne" title="Melbourne">Melbourne</a>, <a href="/wiki/Australia" title="Australia">Australia</a> (1998–2003) and membership of the <a href="/wiki/French_Academy_of_Technologies" title="French Academy of Technologies">French Academy of Technologies</a>. He is also active as a consultant (object-oriented system design, architectural reviews, technology assessment), trainer in object technology and other software topics, and conference speaker. As former head of the ETH Computer Science department, he is one of the founders and the current president of <a href="/wiki/Informatics_Europe" title="Informatics Europe">Informatics Europe</a>, the association of European computer science departments.</p>
+<h2><span class="mw-headline" id="Computer_languages">Computer languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bertrand_Meyer&amp;action=edit&amp;section=2" title="Edit section: Computer languages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Meyer pursues the ideal of simple, elegant and user-friendly computer languages and is one of the earliest and most vocal proponents of <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented programming</a> (OOP). His book <i><a href="/wiki/Object-Oriented_Software_Construction" title="Object-Oriented Software Construction">Object-Oriented Software Construction</a></i> is widely considered to be the best work on presenting the case for OOP.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Disputed_statement" title="Wikipedia:Disputed statement" class="mw-redirect"><span title="The material near this tag is possibly inaccurate or nonfactual. (November 2009)">dubious</span></a> <span class="metadata">– <a href="/wiki/Talk:Bertrand_Meyer#Dubious" title="Talk:Bertrand Meyer">discuss</a></span></i>]</sup><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> Other books he has written include <i>Eiffel: The Language</i> (a description of the Eiffel language), <i>Object Success</i> (a discussion of object technology for managers), <i>Reusable Software</i> (a discussion of reuse issues and solutions), <i>Introduction to the Theory of Programming Languages</i> and <i>Touch of Class</i>. He has authored numerous articles and edited conference proceedings.</p>
+<p>He is the initial designer of the Eiffel method and language and has continued to participate in its evolution, and is the originator of the <a href="/wiki/Design_by_Contract" title="Design by Contract" class="mw-redirect">Design by Contract</a> development method.</p>
+<p>His experiences with object technology through the <a href="/wiki/Simula" title="Simula">Simula</a> language, as well as early work on <a href="/wiki/Abstract_data_types" title="Abstract data types" class="mw-redirect">abstract data types</a> and <a href="/wiki/Formal_specification" title="Formal specification">formal specification</a> (including the <a href="/wiki/Z_notation" title="Z notation">Z notation</a>), provided some of the background for the development of Eiffel. Eiffel has been influential in the development of other languages including <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, <a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a> and <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>.</p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bertrand_Meyer&amp;action=edit&amp;section=3" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2005, Meyer was the "senior award" winner of the first AITO <a href="/wiki/Dahl-Nygaard_Prize" title="Dahl-Nygaard Prize">Dahl-Nygaard award</a>. This prize, named after the two creators of object technology, is awarded annually to a senior and a junior researchers who have made significant technical contributions to the field of Object Orientation.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>In 2006, Meyer was recognized as honorary doctor of <a href="/wiki/Saint_Petersburg_State_University_of_Information_Technologies,_Mechanics_and_Optics" title="Saint Petersburg State University of Information Technologies, Mechanics and Optics" class="mw-redirect">Saint Petersburg State University of Information Technologies, Mechanics and Optics</a>.<a rel="nofollow" class="external autonumber" href="http://is.ifmo.ru/english/">[3]</a></p>
+<p>On 9 June 2007, Meyer received the <a href="/wiki/Software_System_Award" title="Software System Award" class="mw-redirect">Software System Award</a> of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> for "impact on software quality" in recognition of the design of Eiffel.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> He is a 2008 Fellow of the ACM.</p>
+<h2><span class="mw-headline" id="Wikipedia_hoax">Wikipedia hoax</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bertrand_Meyer&amp;action=edit&amp;section=4" title="Edit section: Wikipedia hoax">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 28 December 2005, an anonymous user falsely announced Meyer's death on <a href="/wiki/German_Wikipedia" title="German Wikipedia">German Wikipedia</a>'s biography of Meyer. The hoax was reported five days later by the <a href="/wiki/Heinz_Heise" title="Heinz Heise">Heise News Ticker</a> and the article was immediately corrected. Many major news media outlets in Germany and Switzerland picked up the story, creating the German Wikipedia's version of the <a href="/wiki/Seigenthaler_incident" title="Seigenthaler incident" class="mw-redirect">Seigenthaler incident</a>. Meyer went on to publish a positive evaluation of Wikipedia,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> concluding "The system succumbed to one of its potential flaws, and quickly healed itself. This doesn't affect the big picture. Just like those about me, rumors about Wikipedia's downfall have been grossly exaggerated."</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bertrand_Meyer&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Uniform_access_principle" title="Uniform access principle">Uniform access principle</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bertrand_Meyer&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://tal.forum2.org/oosc2">"Object Oriented Software Construction, 2nd Edition"</a> — a review of the book</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.aito.org/Dahl-Nygaard/2005.html">"The AITO Dahl-Nygaard Prize Winners For 2005"</a> — AITO press release</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite>Scientist to receive ACM award for development Eiffel computer language</cite>: ACM Press release, 29 March 2007, at <a rel="nofollow" class="external autonumber" href="http://campus.acm.org/public/pressroom/press_releases/3_2007/eiffel.cfm">[1]</a>.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Bertrand Meyer: <cite>Defense and Illustration of Wikipedia</cite>, at <a rel="nofollow" class="external autonumber" href="http://se.ethz.ch/~meyer/publications/wikipedia/wikipedia.pdf">[2]</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bertrand_Meyer&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Bertrand_Meyer" class="extiw" title="commons:Category:Bertrand Meyer">Bertrand Meyer</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://se.ethz.ch/~meyer/">Bertrand Meyer home page</a></li>
+<li><a rel="nofollow" class="external text" href="http://bertrandmeyer.com/">Bertrand Meyer's technology blog</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/m/Meyer:Bertrand.html">DBLP Bibliography</a></li>
+<li><a rel="nofollow" class="external text" href="http://archive.eiffel.com/general/people/meyer/"><i>The people behind Eiffel</i> web page</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n86-061235">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/51714577">51714577</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n86061235">n86061235</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000109003927">0000 0001 0900 3927</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/112127843">112127843</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/029098394">029098394</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12079479f">cb12079479f</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12079479f">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=97792">97792</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00471567">00471567</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Software_engineering" title="Template:Software engineering"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Software_engineering" title="Template talk:Software engineering"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Software_engineering&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Software_engineering" title="Software engineering">Software engineering</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fields</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_programming" title="Computer programming">Computer programming</a></li>
+<li><a href="/wiki/Requirements_engineering" title="Requirements engineering">Requirements engineering</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+<li><a href="/wiki/Software_testing" title="Software testing">Software testing</a></li>
+<li><a href="/wiki/Systems_analysis" title="Systems analysis">Systems analysis</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_modeling" title="Data modeling">Data modeling</a></li>
+<li><a href="/wiki/Enterprise_architecture" title="Enterprise architecture">Enterprise architecture</a></li>
+<li><a href="/wiki/Functional_specification" title="Functional specification">Functional specification</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Orthogonality_(programming)" title="Orthogonality (programming)">Orthogonality</a></li>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Software" title="Software">Software</a></li>
+<li><a href="/wiki/Software_archaeology" title="Software archaeology">Software archaeology</a></li>
+<li><a href="/wiki/Software_architecture" title="Software architecture">Software architecture</a></li>
+<li><a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a></li>
+<li><a href="/wiki/Software_development_methodology" title="Software development methodology" class="mw-redirect">Software development methodology</a></li>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+<li><a href="/wiki/Software_quality_assurance" title="Software quality assurance">Software quality assurance</a></li>
+<li><a href="/wiki/Software_verification_and_validation" title="Software verification and validation">Software verification and validation</a></li>
+<li><a href="/wiki/Structured_analysis" title="Structured analysis">Structured analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Orientations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Aspect-oriented_software_development" title="Aspect-oriented software development">Aspect-oriented</a></li>
+<li><a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object orientation</a></li>
+<li><a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">Ontology</a></li>
+<li><a href="/wiki/Service-oriented_architecture" title="Service-oriented architecture">Service orientation</a></li>
+<li><a href="/wiki/Systems_development_life_cycle" title="Systems development life cycle">SDLC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Models</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Developmental</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Enterprise_Unified_Process" title="Enterprise Unified Process">EUP</a></li>
+<li><a href="/wiki/Executable_UML" title="Executable UML">Executable UML</a></li>
+<li><a href="/wiki/Incremental_build_model" title="Incremental build model">Incremental model</a></li>
+<li><a href="/wiki/Iterative_and_incremental_development" title="Iterative and incremental development">Iterative model</a></li>
+<li><a href="/wiki/Software_prototyping" title="Software prototyping">Prototype model</a></li>
+<li><a href="/wiki/Rapid_application_development" title="Rapid application development">RAD</a></li>
+<li><a href="/wiki/Unified_Process" title="Unified Process">UP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Other</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO/IEC_15504" title="ISO/IEC 15504">SPICE</a></li>
+<li><a href="/wiki/Capability_Maturity_Model_Integration" title="Capability Maturity Model Integration">CMMI</a></li>
+<li><a href="/wiki/Data_model" title="Data model">Data model</a></li>
+<li><a href="/wiki/Entity%E2%80%93relationship_model" title="Entity–relationship model">ER model</a></li>
+<li><a href="/wiki/Function_model" title="Function model">Function model</a></li>
+<li><a href="/wiki/Information_model" title="Information model">Information model</a></li>
+<li><a href="/wiki/Metamodeling" title="Metamodeling">Metamodeling</a></li>
+<li><a href="/wiki/Object_model" title="Object model">Object model</a></li>
+<li><a href="/wiki/Systems_modeling" title="Systems modeling">Systems model</a></li>
+<li><a href="/wiki/View_model" title="View model">View model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Languages</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/IDEF" title="IDEF">IDEF</a></li>
+<li><a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">UML</a></li>
+<li><a href="/wiki/Systems_Modeling_Language" title="Systems Modeling Language">SysML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Software<br />
+engineers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kent_Beck" title="Kent Beck">Kent Beck</a></li>
+<li><a href="/wiki/Grady_Booch" title="Grady Booch">Grady Booch</a></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a></li>
+<li><a href="/wiki/Barry_Boehm" title="Barry Boehm">Barry Boehm</a></li>
+<li><a href="/wiki/Ward_Cunningham" title="Ward Cunningham">Ward Cunningham</a></li>
+<li><a href="/wiki/Tom_DeMarco" title="Tom DeMarco">Tom DeMarco</a></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a></li>
+<li><a href="/wiki/Martin_Fowler" title="Martin Fowler">Martin Fowler</a></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">C. A. R. Hoare</a></li>
+<li><a href="/wiki/Watts_Humphrey" title="Watts Humphrey">Watts Humphrey</a></li>
+<li><a href="/wiki/Michael_A._Jackson" title="Michael A. Jackson">Michael A. Jackson</a></li>
+<li><a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Ivar Jacobson</a></li>
+<li><a href="/wiki/Stephen_J._Mellor" title="Stephen J. Mellor">Stephen J. Mellor</a></li>
+<li><strong class="selflink">Bertrand Meyer</strong></li>
+<li><a href="/wiki/David_Parnas" title="David Parnas">David Parnas</a></li>
+<li><a href="/wiki/Winston_W._Royce" title="Winston W. Royce">Winston W. Royce</a></li>
+<li><a href="/wiki/James_Rumbaugh" title="James Rumbaugh">James Rumbaugh</a></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a></li>
+<li><a href="/wiki/Edward_Yourdon" title="Edward Yourdon">Edward Yourdon</a></li>
+<li><a href="/wiki/Victor_Basili" title="Victor Basili">Victor Basili</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related fields</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_science" title="Computer science">Computer science</a></li>
+<li><a href="/wiki/Computer_engineering" title="Computer engineering">Computer engineering</a></li>
+<li><a href="/wiki/Project_management" title="Project management">Project management</a></li>
+<li><a href="/wiki/Risk_management" title="Risk management">Risk management</a></li>
+<li><a href="/wiki/Systems_engineering" title="Systems engineering">Systems engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Software_engineering" title="Category:Software engineering">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="//commons.wikimedia.org/wiki/Software_engineering" class="extiw" title="commons:Software engineering">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1179
+Cached time: 20160107134814
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.238 seconds
+Real time usage: 0.325 seconds
+Preprocessor visited node count: 1598/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37745/2097152 bytes
+Template argument size: 2487/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.083/10.000 seconds
+Lua memory usage: 2.2 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  270.477      1 - -total
+ 38.83%  105.019      1 - Template:Infobox_person
+ 28.16%   76.178      1 - Template:Infobox
+ 16.89%   45.672      2 - Template:Navbox
+ 15.18%   41.051      1 - Template:Software_engineering
+ 13.95%   37.738      1 - Template:Dubious
+ 10.79%   29.196      1 - Template:Fix
+ 10.69%   28.902      1 - Template:Authority_control
+  9.42%   25.488      1 - Template:Category_handler
+  7.79%   21.072      1 - Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:291807-0!*!0!!en!4!* and timestamp 20160107134814 and revision id 682298261
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bertrand_Meyer&amp;oldid=682298261">https://en.wikipedia.org/w/index.php?title=Bertrand_Meyer&amp;oldid=682298261</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1950_births" title="Category:1950 births">1950 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:%C3%89cole_Polytechnique_alumni" title="Category:École Polytechnique alumni">École Polytechnique alumni</a></li><li><a href="/wiki/Category:ETH_Zurich_faculty" title="Category:ETH Zurich faculty">ETH Zurich faculty</a></li><li><a href="/wiki/Category:Formal_methods_people" title="Category:Formal methods people">Formal methods people</a></li><li><a href="/wiki/Category:Monash_University_faculty" title="Category:Monash University faculty">Monash University faculty</a></li><li><a href="/wiki/Category:French_computer_scientists" title="Category:French computer scientists">French computer scientists</a></li><li><a href="/wiki/Category:Software_engineering_researchers" title="Category:Software engineering researchers">Software engineering researchers</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:Programming_language_researchers" title="Category:Programming language researchers">Programming language researchers</a></li><li><a href="/wiki/Category:Stanford_University_alumni" title="Category:Stanford University alumni">Stanford University alumni</a></li><li><a href="/wiki/Category:University_of_California,_Santa_Barbara_faculty" title="Category:University of California, Santa Barbara faculty">University of California, Santa Barbara faculty</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Members_of_Academia_Europaea" title="Category:Members of Academia Europaea">Members of Academia Europaea</a></li><li><a href="/wiki/Category:Computer_science_writers" title="Category:Computer science writers">Computer science writers</a></li><li><a href="/wiki/Category:Nancy-Universit%C3%A9_alumni" title="Category:Nancy-Université alumni">Nancy-Université alumni</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_November_2009" title="Category:Articles with disputed statements from November 2009">Articles with disputed statements from November 2009</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bertrand+Meyer&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bertrand+Meyer" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Bertrand_Meyer"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Bertrand_Meyer"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Bertrand_Meyer" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Bertrand_Meyer&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bertrand_Meyer&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bertrand_Meyer" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bertrand_Meyer" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bertrand_Meyer&amp;oldid=682298261" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bertrand_Meyer&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92946" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bertrand_Meyer&amp;id=682298261" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bertrand+Meyer">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Bertrand+Meyer&amp;returnto=Bertrand+Meyer&amp;oldid=682298261&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bertrand_Meyer&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Bertrand_Meyer" title="Bertrand Meyer – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Bertrand_Meyer" title="Bertrand Meyer – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Bertrand_Meyer" title="Bertrand Meyer – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AA%D8%B1%D9%86%D8%AF_%D9%85%DB%8C%D8%B1" title="برترند میر – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Bertrand_Meyer" title="Bertrand Meyer – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Bertrand_Meyer" title="Bertrand Meyer – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Bertrand_Meyer" title="Bertrand Meyer – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%A4%E3%83%BC" title="バートランド・メイヤー – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B9%D0%B5%D1%80,_%D0%91%D0%B5%D1%80%D1%82%D1%80%D0%B0%D0%BD" title="Мейер, Бертран – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E8%98%AD%C2%B7%E9%82%81%E8%80%B6" title="伯特蘭·邁耶 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92946#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 September 2015, at 20:42.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bertrand_Meyer&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":415,"wgHostname":"mw1179"}); /* @nomin */
+} );</script>
+	</body>
+</html>

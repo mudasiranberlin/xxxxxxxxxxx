@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Yann LeCun - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Yann_LeCun","wgTitle":"Yann LeCun","wgCurRevisionId":690925924,"wgRevisionId":690925924,"wgArticleId":23534873,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking reliable references from July 2009","All articles lacking reliable references","BLP articles lacking sources from July 2009","Wikipedia articles with VIAF identifiers","1960 births","Living people","Artificial intelligence researchers","Machine learning researchers","Computer vision researchers","French roboticists","French computer scientists","American computer scientists","Scientists at Bell Labs","American people of French descent","Free software programmers","Pierre and Marie Curie University alumni","American roboticists","Polytechnic Institute of New York University faculty","Courant Institute of Mathematical Sciences faculty"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Yann_LeCun","wgRelevantArticleId":23534873,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yann_LeCun_at_the_University_of_Minnesota.jpg/100px-Yann_LeCun_at_the_University_of_Minnesota.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en","mr"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3571662","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Yann_LeCun" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Yann_LeCun&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Yann_LeCun&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Yann_LeCun" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Yann_LeCun skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Yann LeCun</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Primary_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This biographical article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:Biographies_of_living_persons#Misuse_of_primary_sources" title="Wikipedia:Biographies of living persons">primary sources</a></b>. <span class="hide-when-compact">Please improve this article by adding <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Defamation" title="Defamation">libelous</a> or harmful.</span> <small><i>(July 2009)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Yann LeCun</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Yann_LeCun_at_the_University_of_Minnesota.jpg" class="image"><img alt="Yann LeCun at the University of Minnesota.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yann_LeCun_at_the_University_of_Minnesota.jpg/220px-Yann_LeCun_at_the_University_of_Minnesota.jpg" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yann_LeCun_at_the_University_of_Minnesota.jpg/330px-Yann_LeCun_at_the_University_of_Minnesota.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yann_LeCun_at_the_University_of_Minnesota.jpg/440px-Yann_LeCun_at_the_University_of_Minnesota.jpg 2x" data-file-width="3264" data-file-height="2448" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>1960 (age&#160;55–56)</td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/New_York_University" title="New York University">New York University</a><br />
+<a rel="nofollow" class="external text" href="https://research.facebook.com/ai">Facebook Artificial Intelligence Research</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Pierre_and_Marie_Curie_University" title="Pierre and Marie Curie University">Pierre and Marie Curie University</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><i>Modeles connexionnistes de l'apprentissage (connectionist learning models)</i>&#160;<span style="font-size:90%;">(1987)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td>Maurice Milgram</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Deep_learning" title="Deep learning">Deep learning</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Website</b><br />
+<span class="url"><a rel="nofollow" class="external text" href="http://yann.lecun.com/">yann<wbr />.lecun<wbr />.com</a></span></td>
+</tr>
+</table>
+<p><b>Yann LeCun</b> (born 1960) is a computer scientist with contributions in <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a>, <a href="/wiki/Computer_vision" title="Computer vision">computer vision</a>, <a href="/wiki/Mobile_robotics" title="Mobile robotics" class="mw-redirect">mobile robotics</a> and <a href="/wiki/Computational_neuroscience" title="Computational neuroscience">computational neuroscience</a>. He is well known for his work on <a href="/wiki/Optical_character_recognition" title="Optical character recognition">optical character recognition</a> and <a href="/wiki/Computer_vision" title="Computer vision">computer vision</a> using <a href="/wiki/Convolutional_neural_network" title="Convolutional neural network">convolutional neural networks</a> (CNN), and is a founding father of convolutional nets.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> He is also one of the main creators of the <a href="/wiki/DjVu" title="DjVu">DjVu</a> image compression technology (together with <a href="/wiki/L%C3%A9on_Bottou" title="Léon Bottou">Léon Bottou</a> and Patrick Haffner). He co-developed the <a href="/w/index.php?title=Lush_(programming_language)&amp;action=edit&amp;redlink=1" class="new" title="Lush (programming language) (page does not exist)">Lush</a> programming language with <a href="/wiki/L%C3%A9on_Bottou" title="Léon Bottou">Léon Bottou</a>.</p>
+<h2><span class="mw-headline" id="Life">Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yann_LeCun&amp;action=edit&amp;section=1" title="Edit section: Life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Yann LeCun was born near <a href="/wiki/Paris" title="Paris">Paris</a>, <a href="/wiki/France" title="France">France</a>, in 1960. He received a Diplôme d'Ingénieur from the <a href="/wiki/ESIEE" title="ESIEE">Ecole Superieure d'Ingénieur en Electrotechnique et Electronique (ESIEE)</a>, Paris in 1983, and a PhD in Computer Science from <a href="/wiki/Pierre_and_Marie_Curie_University" title="Pierre and Marie Curie University">Université Pierre et Marie Curie</a> in 1987 during which he proposed an early form of the <a href="/wiki/Back-propagation" title="Back-propagation" class="mw-redirect">back-propagation</a> learning algorithm for neural networks.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> He was a postdoctoral research associate in <a href="/wiki/Geoffrey_Hinton" title="Geoffrey Hinton">Geoffrey Hinton</a>'s lab at the <a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a>.</p>
+<p>In 1988, he joined the Adaptive Systems Research Department at <a href="/wiki/AT%26T_Bell_Laboratories" title="AT&amp;T Bell Laboratories" class="mw-redirect">AT&amp;T Bell Laboratories</a> in <a href="/wiki/Holmdel" title="Holmdel" class="mw-redirect">Holmdel</a>, <a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a>, <a href="/wiki/USA" title="USA" class="mw-redirect">USA</a>, where he developed a number of new machine learning methods, such as a biologically inspired model of image recognition called <a href="/wiki/Convolutional_neural_network" title="Convolutional neural network">Convolutional Neural Networks</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> the "Optimal Brain Damage" regularization methods,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> and the Graph Transformer Networks method (similar to <a href="/wiki/Conditional_random_field" title="Conditional random field">conditional random field</a>), which he applied to handwriting recognition and OCR.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> The bank check recognition system that he helped develop was widely deployed by NCR and other companies, reading over 10% of all the checks in the US in the late 1990s and early 2000s.</p>
+<p>In 1996, he joined <a href="/wiki/AT%26T_Labs" title="AT&amp;T Labs">AT&amp;T Labs</a>-Research as head of the Image Processing Research Department, which was part of <a href="/wiki/Lawrence_Rabiner" title="Lawrence Rabiner">Lawrence Rabiner</a>'s Speech and Image Processing Research Lab, and worked primarily on the <a href="/wiki/DjVu" title="DjVu">DjVu</a> image compression technology,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> used by many websites, notably the <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a>, to distribute scanned documents. His collaborators at AT&amp;T include <a href="/wiki/L%C3%A9on_Bottou" title="Léon Bottou">Léon Bottou</a> and <a href="/wiki/Vladimir_Vapnik" title="Vladimir Vapnik">Vladimir Vapnik</a>.</p>
+<p>After a brief tenure as a Fellow of the NEC Research Institute (now NEC-Labs America) in <a href="/wiki/Princeton,_NJ" title="Princeton, NJ" class="mw-redirect">Princeton, NJ</a>, he joined <a href="/wiki/New_York_University" title="New York University">New York University</a> (NYU) in 2003, where he is Silver Professor of Computer Science Neural Science at the <a href="/wiki/Courant_Institute" title="Courant Institute" class="mw-redirect">Courant Institute of Mathematical Science</a> and the <a href="/wiki/Center_for_Neural_Science" title="Center for Neural Science">Center for Neural Science</a>. He is also a professor at <a href="/wiki/Polytechnic_Institute_of_New_York_University" title="Polytechnic Institute of New York University" class="mw-redirect">Polytechnic Institute of New York University</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> At NYU, he has worked primarily on Energy-Based Models for supervised and unsupervised learning,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> feature learning for object recognition in <a href="/wiki/Computer_Vision" title="Computer Vision" class="mw-redirect">Computer Vision</a>,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> and mobile robotics.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>In 2012, he became the founding director of the <a href="/w/index.php?title=NYU_Center_for_Data_Science&amp;action=edit&amp;redlink=1" class="new" title="NYU Center for Data Science (page does not exist)">NYU Center for Data Science</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> On December 9, 2013, LeCun became the first director of <a href="/w/index.php?title=Facebook_AI_Research&amp;action=edit&amp;redlink=1" class="new" title="Facebook AI Research (page does not exist)">Facebook AI Research</a> in <a href="/wiki/New_York_City" title="New York City">New York City</a>.,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> and stepped down from the NYU-CDS directorship in early 2014.</p>
+<p>LeCun is the recipient of the 2014 IEEE Neural Network Pioneer Award.</p>
+<p>In 2013, he and <a href="/wiki/Yoshua_Bengio" title="Yoshua Bengio">Yoshua Bengio</a> co-founded the International Conference on Learning Representations, which adopted a post-publication open review process he previously advocated on his website. He was the chair and organizer of the "Learning Workshop" held every year between 1986 and 2012 in Snowbird, Utah. He is a member of the Science Advisory Board of the <a href="/wiki/Institute_for_Pure_and_Applied_Mathematics" title="Institute for Pure and Applied Mathematics">Institute for Pure and Applied Mathematics</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> at <a href="/wiki/UCLA" title="UCLA" class="mw-redirect">UCLA</a>, and has been on the advisory board of a number of companies, including <a href="/w/index.php?title=MuseAmi&amp;action=edit&amp;redlink=1" class="new" title="MuseAmi (page does not exist)">MuseAmi</a>, <a href="/wiki/KXEN_Inc." title="KXEN Inc.">KXEN Inc.</a>, and <a href="/w/index.php?title=Vidient_Systems&amp;action=edit&amp;redlink=1" class="new" title="Vidient Systems (page does not exist)">Vidient Systems</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> He is the Co-Director of the <a href="/w/index.php?title=Neural_Computation_%26_Adaptive_Perception&amp;action=edit&amp;redlink=1" class="new" title="Neural Computation &amp; Adaptive Perception (page does not exist)">Neural Computation &amp; Adaptive Perception</a> research program of <a href="/wiki/CIFAR" title="CIFAR" class="mw-redirect">CIFAR</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yann_LeCun&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blog.kaggle.com/2014/12/22/convolutional-nets-and-cifar-10-an-interview-with-yan-lecun/"><i>Convolutional Nets and CIFAR-10: An Interview with Yann LeCun</i>. Kaggle 2014</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">LeCun, Yann; Léon Bottou; Yoshua Bengio; Patrick Haffner (1998). <a rel="nofollow" class="external text" href="http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf">"Gradient-based learning applied to document recognition"</a> <span style="font-size:85%;">(PDF)</span>. <i>Proceedings of the IEEE</i> <b>86</b> (11): 2278–2324. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2F5.726791">10.1109/5.726791</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 November</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYann+LeCun&amp;rft.atitle=Gradient-based+learning+applied+to+document+recognition&amp;rft.aufirst=Yann&amp;rft.aulast=LeCun&amp;rft.au=L%C3%A9on+Bottou&amp;rft.au=Patrick+Haffner&amp;rft.au=Yoshua+Bengio&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fyann.lecun.com%2Fexdb%2Fpublis%2Fpdf%2Flecun-01a.pdf&amp;rft_id=info%3Adoi%2F10.1109%2F5.726791&amp;rft.issue=11&amp;rft.jtitle=Proceedings+of+the+IEEE&amp;rft.pages=2278-2324&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=86" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Y. LeCun: Une procédure d'apprentissage pour réseau a seuil asymmetrique (a Learning Scheme for Asymmetric Threshold Networks), Proceedings of Cognitiva 85, 599–604, Paris, France, 1985.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Y. LeCun, B. Boser, J. S. Denker, D. Henderson, R. E. Howard, W. Hubbard and L. D. Jackel: Backpropagation Applied to Handwritten Zip Code Recognition, Neural Computation, 1(4):541-551, Winter 1989.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Yann LeCun, J. S. Denker, S. Solla, R. E. Howard and L. D. Jackel: Optimal Brain Damage, in Touretzky, David (Eds), Advances in Neural Information Processing Systems 2 (NIPS*89), <a href="/wiki/Morgan_Kaufmann" title="Morgan Kaufmann" class="mw-redirect">Morgan Kaufmann</a>, Denver, CO, 1990.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Yann LeCun, Léon Bottou, Yoshua Bengio and Patrick Haffner: Gradient Based Learning Applied to Document Recognition, Proceedings of IEEE, 86(11):2278–2324, 1998.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Léon Bottou, Patrick Haffner, Paul G. Howard, Patrice Simard, Yoshua Bengio and Yann LeCun: High Quality Document Image Compression with DjVu, Journal of Electronic Imaging, 7(3):410–425, 1998.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.poly.edu/academics/departments/electrical/people">"People - Electrical and Computer Engineering"</a>. Polytechnic Institute of New York University<span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYann+LeCun&amp;rft.btitle=People+-+Electrical+and+Computer+Engineering&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.poly.edu%2Facademics%2Fdepartments%2Felectrical%2Fpeople&amp;rft.pub=Polytechnic+Institute+of+New+York+University&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://yann.lecun.com/">http://yann.lecun.com/</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Yann LeCun, Sumit Chopra, Raia Hadsell, Ranzato Marc'Aurelio and Fu-Jie Huang: A Tutorial on Energy-Based Learning, in Bakir, G. and Hofman, T. and Schölkopf, B. and Smola, A. and Taskar, B. (Eds), Predicting Structured Data, <a href="/wiki/MIT_Press" title="MIT Press">MIT Press</a>, 2006.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Kevin Jarrett, Koray Kavukcuoglu, Marc'Aurelio Ranzato and Yann LeCun: What is the Best Multi-Stage Architecture for Object Recognition?, Proc. International Conference on Computer Vision (ICCV'09), IEEE, 2009</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Raia Hadsell, Pierre Sermanet, Marco Scoffier, Ayse Erkan, Koray Kavackuoglu, Urs Muller and Yann LeCun: Learning Long-Range Vision for Autonomous Off-Road Driving, Journal of Field Robotics, 26(2):120–144, February 2009.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://cds.nyu.edu">http://cds.nyu.edu</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.facebook.com/yann.lecun/posts/10151728212367143">https://www.facebook.com/yann.lecun/posts/10151728212367143</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ipam.ucla.edu/programs/gss2012/">http://www.ipam.ucla.edu/programs/gss2012/</a> Institute for Pure and Applied Mathematics</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vidient.com/">Vidient Systems</a>.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cifar.ca/yann-lecun">"Neural Computation &amp; Adaptive Perception Advisory Committee Yann LeCun"</a>. CIFAR<span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYann+LeCun&amp;rft.btitle=Neural+Computation+%26+Adaptive+Perception+Advisory+Committee+Yann+LeCun&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cifar.ca%2Fyann-lecun&amp;rft.pub=CIFAR&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yann_LeCun&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://yann.lecun.com">Yann LeCun's personal website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.nyu.edu/~yann">Yann LeCun's lab website at NYU</a></li>
+<li><a rel="nofollow" class="external text" href="http://phdtree.org/scholar/lecun-yann/">Yann LeCun's List of PhD Students</a></li>
+<li><a rel="nofollow" class="external text" href="http://yann.lecun.com/exdb/publis/">Yann LeCun's publications</a></li>
+<li><a rel="nofollow" class="external text" href="http://yann.lecun.com/exdb/lenet/">Convolutional Neural Networks</a></li>
+<li><a rel="nofollow" class="external text" href="http://djvu.sf.net/">DjVuLibre website</a></li>
+<li><a rel="nofollow" class="external text" href="http://lush.sf.net/">Lush website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.reddit.com/r/MachineLearning/comments/25lnbt/ama_yann_lecun">AMA: Yann LeCun (self.MachineLearning)</a> www.reddit.com Ask Me Anything&#160;: Yann LeCun</li>
+<li><a rel="nofollow" class="external text" href="http://www.technologyreview.com/featuredstory/540001/teaching-machines-to-understand-us">Technology Review article</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/78444459">78444459</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1239
+Cached time: 20160107101612
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.192 seconds
+Real time usage: 0.244 seconds
+Preprocessor visited node count: 1015/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17807/2097152 bytes
+Template argument size: 729/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.085/10.000 seconds
+Lua memory usage: 2.79 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  211.455      1 - -total
+ 30.08%   63.601      1 - Template:Reflist
+ 26.93%   56.945      1 - Template:Infobox_scientist
+ 23.85%   50.426      1 - Template:Infobox
+ 23.37%   49.413      1 - Template:BLP_primary_sources
+ 16.74%   35.388      1 - Template:Primary_sources
+ 16.55%   34.994      1 - Template:Cite_journal
+ 15.27%   32.289      1 - Template:Ambox
+ 11.58%   24.484      1 - Template:Authority_control
+  6.18%   13.070      4 - Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:23534873-0!*!0!!*!4!* and timestamp 20160107101612 and revision id 690925924
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Yann_LeCun&amp;oldid=690925924">https://en.wikipedia.org/w/index.php?title=Yann_LeCun&amp;oldid=690925924</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1960_births" title="Category:1960 births">1960 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Artificial_intelligence_researchers" title="Category:Artificial intelligence researchers">Artificial intelligence researchers</a></li><li><a href="/wiki/Category:Machine_learning_researchers" title="Category:Machine learning researchers">Machine learning researchers</a></li><li><a href="/wiki/Category:Computer_vision_researchers" title="Category:Computer vision researchers">Computer vision researchers</a></li><li><a href="/wiki/Category:French_roboticists" title="Category:French roboticists">French roboticists</a></li><li><a href="/wiki/Category:French_computer_scientists" title="Category:French computer scientists">French computer scientists</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Scientists_at_Bell_Labs" title="Category:Scientists at Bell Labs">Scientists at Bell Labs</a></li><li><a href="/wiki/Category:American_people_of_French_descent" title="Category:American people of French descent">American people of French descent</a></li><li><a href="/wiki/Category:Free_software_programmers" title="Category:Free software programmers">Free software programmers</a></li><li><a href="/wiki/Category:Pierre_and_Marie_Curie_University_alumni" title="Category:Pierre and Marie Curie University alumni">Pierre and Marie Curie University alumni</a></li><li><a href="/wiki/Category:American_roboticists" title="Category:American roboticists">American roboticists</a></li><li><a href="/wiki/Category:Polytechnic_Institute_of_New_York_University_faculty" title="Category:Polytechnic Institute of New York University faculty">Polytechnic Institute of New York University faculty</a></li><li><a href="/wiki/Category:Courant_Institute_of_Mathematical_Sciences_faculty" title="Category:Courant Institute of Mathematical Sciences faculty">Courant Institute of Mathematical Sciences faculty</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_July_2009" title="Category:Articles lacking reliable references from July 2009">Articles lacking reliable references from July 2009</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_July_2009" title="Category:BLP articles lacking sources from July 2009">BLP articles lacking sources from July 2009</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Yann+LeCun&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Yann+LeCun" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Yann_LeCun"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Yann_LeCun"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Yann_LeCun" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Yann_LeCun&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Yann_LeCun&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Yann_LeCun" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Yann_LeCun" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Yann_LeCun&amp;oldid=690925924" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Yann_LeCun&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q3571662" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Yann_LeCun&amp;id=690925924" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Yann+LeCun">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Yann+LeCun&amp;returnto=Yann+LeCun&amp;oldid=690925924&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Yann_LeCun&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Yann_LeCun" title="Yann LeCun – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Yann_LeCun" title="Yann LeCun – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BA%D1%83%D0%BD,_%D0%AF%D0%BD" title="Лекун, Ян – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Yann_LeCun" title="Yann LeCun – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q3571662#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 November 2015, at 15:45.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Yann_LeCun&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1150"}); /* @nomin */
+} );</script>
+	</body>
+</html>

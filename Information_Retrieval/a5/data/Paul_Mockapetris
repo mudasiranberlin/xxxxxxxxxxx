@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Paul Mockapetris - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Paul_Mockapetris","wgTitle":"Paul Mockapetris","wgCurRevisionId":696115763,"wgRevisionId":696115763,"wgArticleId":340605,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["1948 births","Living people","Fellows of the Association for Computing Machinery","Internet pioneers","People from Boston, Massachusetts","Boston Latin School alumni","Massachusetts Institute of Technology alumni","University of California, Irvine alumni","American computer scientists","Domain name system"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Paul_Mockapetris","wgRelevantArticleId":340605,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Paul_Mockapetris.JPG/100px-Paul_Mockapetris.JPG","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q1140555","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Paul_Mockapetris" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Paul_Mockapetris&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Paul_Mockapetris&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Paul_Mockapetris" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Paul_Mockapetris skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Paul Mockapetris</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Internet_pioneers" title="Internet pioneers" class="mw-redirect">Internet pioneers</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Paul_Mockapetris.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Paul_Mockapetris.JPG/220px-Paul_Mockapetris.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Paul_Mockapetris.JPG/330px-Paul_Mockapetris.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Paul_Mockapetris.JPG/440px-Paul_Mockapetris.JPG 2x" data-file-width="4608" data-file-height="3456" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Paul_Mockapetris.JPG" class="internal" title="Enlarge"></a></div>
+Paul Mockapetris</div>
+</div>
+</div>
+<p><b>Paul V. Mockapetris</b> (born 1948 in Boston, Massachusetts, US) is an American <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> and <a href="/wiki/Internet_pioneer" title="Internet pioneer" class="mw-redirect">Internet pioneer</a>, who, together with <a href="/wiki/Jon_Postel" title="Jon Postel">Jon Postel</a>, invented the Internet <a href="/wiki/Domain_Name_System" title="Domain Name System">Domain Name System</a> (DNS).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education"><span class="tocnumber">1</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Achievements"><span class="tocnumber">3</span> <span class="toctext">Achievements</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Awards"><span class="tocnumber">4</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Requests_for_Comments_.28RFCs.29"><span class="tocnumber">5</span> <span class="toctext">Requests for Comments (RFCs)</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Mockapetris&amp;action=edit&amp;section=1" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mockapetris graduated from the prestigious <a href="/wiki/Boston_Latin_School" title="Boston Latin School">Boston Latin School</a> in 1966, received his bachelor's degrees in physics and electrical engineering from the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> in 1971 and his doctorate in information and computer science from the <a href="/wiki/University_of_California_at_Irvine" title="University of California at Irvine" class="mw-redirect">University of California at Irvine</a> in 1982.<sup id="cite_ref-ISINames-2003_1-0" class="reference"><a href="#cite_note-ISINames-2003-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-BiologyDaily-2006_2-0" class="reference"><a href="#cite_note-BiologyDaily-2006-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Mockapetris&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1983, he proposed a Domain Name System architecture in <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc882">RFC 882</a> and <a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc883">RFC 883</a>. He had recognized the problem in the early <a href="/wiki/Internet" title="Internet">Internet</a> (then <a href="/wiki/ARPAnet" title="ARPAnet" class="mw-redirect">ARPAnet</a>) of <a href="/wiki/Hosts_(file)" title="Hosts (file)">holding name to address translations in a single table on a single host</a>, and instead proposed a distributed and dynamic DNS database: essentially DNS as it exists today.<sup id="cite_ref-ISINames-2003_1-1" class="reference"><a href="#cite_note-ISINames-2003-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-BiologyDaily-2006_2-1" class="reference"><a href="#cite_note-BiologyDaily-2006-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Achievements">Achievements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Mockapetris&amp;action=edit&amp;section=3" title="Edit section: Achievements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mockapetris is a member of the IEEE and the Association for Computing Machinery. He:<sup id="cite_ref-ISINames-2003_1-2" class="reference"><a href="#cite_note-ISINames-2003-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-BiologyDaily-2006_2-2" class="reference"><a href="#cite_note-BiologyDaily-2006-2"><span>[</span>2<span>]</span></a></sup></p>
+<ul>
+<li>joined the <a href="/wiki/Information_Sciences_Institute" title="Information Sciences Institute">Information Sciences Institute</a> (ISI) of the <a href="/wiki/University_of_Southern_California" title="University of Southern California">University of Southern California</a> (USC) in 1978, where he:
+<ul>
+<li>developed the first <a href="/wiki/SMTP" title="SMTP" class="mw-redirect">SMTP</a> email server,</li>
+<li>proposed the DNS architecture in 1983,</li>
+<li>wrote the first DNS implementation (called "Jeeves") for the <a href="/wiki/TOPS-20" title="TOPS-20">TOPS-20</a> in 1983,</li>
+<li>served as director of the high performance computing and communications division;</li>
+</ul>
+</li>
+<li>was program manager for networking at the <a href="/wiki/Advanced_Research_Projects_Agency" title="Advanced Research Projects Agency" class="mw-redirect">Advanced Research Projects Agency</a> (ARPA) of the U.S. Department of Defense from 1990 to 1993;</li>
+<li>served as chair of the Research Working Group of the <a href="/wiki/Federal_Networking_Council" title="Federal Networking Council">U.S. Federal Networking Council</a>;</li>
+<li>served as chair of the <a href="/wiki/Internet_Engineering_Task_Force" title="Internet Engineering Task Force">Internet Engineering Task Force</a> (IETF) from 1994 to 1996;</li>
+<li>was a member of the <a href="/wiki/Internet_Architecture_Board" title="Internet Architecture Board">Internet Architecture Board</a> (IAB) in 1994 and 1995;</li>
+<li>worked for several Internet-related companies: employee number two at @Home (1995–1997), Software.com (1997–1998) (now OpenWave), Fiberlane (now Cisco), Cerent/Siara (now Redback Networks) (1998–1999), Urban Media (1999–2001), and NU Domain (from 1999);</li>
+<li>is Chief Scientist and Chairman of the Board of IP address infrastructure software provider <a href="/wiki/Nominum" title="Nominum">Nominum</a> (1999 to present).</li>
+</ul>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Mockapetris&amp;action=edit&amp;section=4" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>1997 <a href="/wiki/John_C._Dvorak" title="John C. Dvorak">John C. Dvorak</a> Telecommunications Excellence Award "Personal Achievement - Network Engineering" for DNS design and implementation<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></li>
+<li>2002 Distinguished Alumnus award from the <a href="/wiki/University_of_California,_Irvine" title="University of California, Irvine">University of California, Irvine</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></li>
+<li>2003 <a href="/wiki/IEEE_Internet_Award" title="IEEE Internet Award">IEEE Internet Award</a> for his contributions to DNS<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></li>
+<li>2005 ACM <a href="/wiki/SIGCOMM_Award" title="SIGCOMM Award">SIGCOMM Award</a> for lifetime contribution to the field of communication networks in recognition of his foundational work in designing, developing and deploying the Domain Name System, and his sustained leadership in overall Internet architecture development<sup id="cite_ref-SIGCOMMlist0_6-0" class="reference"><a href="#cite_note-SIGCOMMlist0-6"><span>[</span>6<span>]</span></a></sup></li>
+<li>2006 ACM SIGCOMM Test of Time Paper Award for co-authoring paper "Development of the Domain Name System"<sup id="cite_ref-SIGCOMMlist1_7-0" class="reference"><a href="#cite_note-SIGCOMMlist1-7"><span>[</span>7<span>]</span></a></sup></li>
+<li>2012 inducted by the <a href="/wiki/Internet_Society" title="Internet Society">Internet Society</a> into the <a href="/wiki/Internet_Hall_of_Fame" title="Internet Hall of Fame">Internet Hall of Fame</a> as an "innovator"<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></li>
+<li>2013 Honoris Causa (honorary degree) by <a href="/wiki/Miguel_Hern%C3%A1ndez_University_of_Elche" title="Miguel Hernández University of Elche">Miguel Hernández University</a> (Alicante, Spain)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Requests_for_Comments_.28RFCs.29">Requests for Comments (RFCs)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Mockapetris&amp;action=edit&amp;section=5" title="Edit section: Requests for Comments (RFCs)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc1035">RFC 1035</a> - Domain Names - Implementation and Specification, November 1987</li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc1034">RFC 1034</a> - Domain Names - Concepts and Facilities, November 1987</li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc973">RFC 973</a> - Domain System Changes and Observations, January 1986 (obsoleted by 1034 and 1035)</li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc883">RFC 883</a> - Domain Names - Implementation and Specification, November 1983 (updated by 973, obsoleted by 1034 and 1035)</li>
+<li><a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc882">RFC 882</a> - Domain Names - Concepts and Facilities, November 1983 (updated by 973, obsoleted by 1034 and 1035)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Mockapetris&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-ISINames-2003-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ISINames-2003_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ISINames-2003_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ISINames-2003_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www3.isi.edu/about-news_story.htm?s=54">"ISI Names Dr. Paul Mockapetris Visiting Scholar"</a>, Information Sciences Institute, University of Southern California, 27 March 2003</span></li>
+<li id="cite_note-BiologyDaily-2006-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-BiologyDaily-2006_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BiologyDaily-2006_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BiologyDaily-2006_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://biosphere.biologydaily.com/biology/Paul_Mockapetris">"Paul Mockapetris"</a>, <i>Biology Daily</i>, 19 August 2006</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.citivu.com/dvorak/97awds.html#3">"Personal Achievement – Network Engineering: Paul Mockapetris for DNS Design and Implementation"</a>, John C. Dvorak Telecommunications Excellence Awards, 1997</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://today.uci.edu/pdf/uci_news/UCINews02Apr.pdf">"Alumni association to present Lauds &amp; Laurels"</a>, UCINews, April 2002</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ieee.org/about/awards/bios/internet_recipients.html">"IEEE Internet Award Recipients"</a>, Institute of Electrical and Electronics Engineers, accessed 20 September 2012</span></li>
+<li id="cite_note-SIGCOMMlist0-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-SIGCOMMlist0_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sigcomm.org/awards/sigcomm-awards">"SIGCOMM Award Recipients"</a>. ACM SIGCOMM<span class="reference-accessdate">. Retrieved <span class="nowrap">April 8,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Mockapetris&amp;rft.btitle=SIGCOMM+Award+Recipients&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sigcomm.org%2Fawards%2Fsigcomm-awards&amp;rft.pub=ACM+SIGCOMM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-SIGCOMMlist1-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-SIGCOMMlist1_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sigcomm.org/awards/test-of-time-paper-award">"SIGCOMM Test of Time"</a>. ACM SIGCOMM<span class="reference-accessdate">. Retrieved <span class="nowrap">August 16,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APaul+Mockapetris&amp;rft.btitle=SIGCOMM+Test+of+Time&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.sigcomm.org%2Fawards%2Ftest-of-time-paper-award&amp;rft.pub=ACM+SIGCOMM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.internethalloffame.org/inductees/year/2012">"2012 Internet Hall of Fame Inductees"</a>, <a href="/wiki/Internet_Hall_of_Fame" title="Internet Hall of Fame">Internet Hall of Fame</a>, Internet Society. Accessed April 24, 2012</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://comunicacion.umh.es/2013/01/28/el-ingeniero-paul-mockapetris-nuevo-doctor-honoris-causa-por-la-umh/">"Paul Mockapetris invested Honoris Causa (Spanish)"</a>, UMH communications. Accessed February 7, 2013</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Paul_Mockapetris&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.nominum.com/who-we-are/board-of-directors/paul-mockapetris">Biography of Paul Mockapetris</a> at Nominum</li>
+</ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/w/index.php?title=Phil_Gross&amp;action=edit&amp;redlink=1" class="new" title="Phil Gross (page does not exist)">Phil Gross</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/IETF" title="IETF" class="mw-redirect">IETF</a> Chair</b><br />
+1994–1996</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Fred_Baker_(IETF_chair)" title="Fred Baker (IETF chair)">Fred Baker</a></span></td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Internet_Hall_of_Fame" title="Template:Internet Hall of Fame"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Internet_Hall_of_Fame" title="Template talk:Internet Hall of Fame"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Internet_Hall_of_Fame&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Internet_Hall_of_Fame" title="Internet Hall of Fame">Internet Hall of Fame</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">Pioneers</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2012</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Paul_Baran" title="Paul Baran">Paul Baran</a><sup>†</sup></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a></li>
+<li><a href="/wiki/Danny_Cohen_(engineer)" title="Danny Cohen (engineer)">Danny Cohen</a></li>
+<li><a href="/wiki/Steve_Crocker" title="Steve Crocker">Steve Crocker</a></li>
+<li><a href="/wiki/Donald_Davies" title="Donald Davies">Donald Davies</a><sup>†</sup></li>
+<li><a href="/wiki/Elizabeth_J._Feinler" title="Elizabeth J. Feinler">Elizabeth J. Feinler</a></li>
+<li><a href="/wiki/Charles_Herzfeld" title="Charles Herzfeld" class="mw-redirect">Charles Herzfeld</a></li>
+<li><a href="/wiki/Bob_Kahn" title="Bob Kahn">Robert Kahn</a></li>
+<li><a href="/wiki/Peter_T._Kirstein" title="Peter T. Kirstein">Peter T. Kirstein</a></li>
+<li><a href="/wiki/Leonard_Kleinrock" title="Leonard Kleinrock">Leonard Kleinrock</a></li>
+<li><a href="/wiki/John_Klensin" title="John Klensin">John Klensin</a></li>
+<li><a href="/wiki/Jon_Postel" title="Jon Postel">Jon Postel</a><sup>†</sup></li>
+<li><a href="/wiki/Louis_Pouzin" title="Louis Pouzin">Louis Pouzin</a></li>
+<li><a href="/wiki/Lawrence_Roberts_(scientist)" title="Lawrence Roberts (scientist)">Lawrence Roberts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2013</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/David_D._Clark" title="David D. Clark">David Clark</a></li>
+<li><a href="/wiki/David_J._Farber" title="David J. Farber">David Farber</a></li>
+<li><a href="/w/index.php?title=Howard_Frank_(Internet)&amp;action=edit&amp;redlink=1" class="new" title="Howard Frank (Internet) (page does not exist)">Howard Frank</a></li>
+<li><a href="/w/index.php?title=Kanchana_Kanchanasut&amp;action=edit&amp;redlink=1" class="new" title="Kanchana Kanchanasut (page does not exist)">Kanchana Kanchanasut</a></li>
+<li><a href="/wiki/J._C._R._Licklider" title="J. C. R. Licklider">J. C. R. Licklider</a><sup>†</sup></li>
+<li><a href="/wiki/Robert_Metcalfe" title="Robert Metcalfe">Bob Metcalfe</a></li>
+<li><a href="/wiki/Jun_Murai" title="Jun Murai">Jun Murai</a></li>
+<li><a href="/wiki/Kees_Neggers" title="Kees Neggers">Kees Neggers</a></li>
+<li><a href="/wiki/Nii_Quaynor" title="Nii Quaynor">Nii Quaynor</a></li>
+<li><a href="/wiki/Glenn_Ricart" title="Glenn Ricart">Glenn Ricart</a></li>
+<li><a href="/wiki/Robert_Taylor_(computer_scientist)" title="Robert Taylor (computer scientist)">Robert Taylor</a></li>
+<li><a href="/wiki/Stephen_Wolff" title="Stephen Wolff">Stephen Wolff</a></li>
+<li><a href="/w/index.php?title=Werner_Zorn&amp;action=edit&amp;redlink=1" class="new" title="Werner Zorn (page does not exist)">Werner Zorn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2014</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a><sup>†</sup></li>
+<li>Susan Estrada</li>
+<li>Frank Heart</li>
+<li><a href="/wiki/Dennis_Jennings_(Internet_pioneer)" title="Dennis Jennings (Internet pioneer)">Dennis Jennings</a></li>
+<li><a href="/wiki/Rolf_Nordhagen_(physicist)" title="Rolf Nordhagen (physicist)">Rolf Nordhagen</a><sup>†</sup></li>
+<li><a href="/wiki/Radia_Perlman" title="Radia Perlman">Radia Perlman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">Global connectors</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2012</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Randy_Bush_(scientist)" title="Randy Bush (scientist)">Randy Bush</a></li>
+<li><a href="/w/index.php?title=Kilnam_Chon&amp;action=edit&amp;redlink=1" class="new" title="Kilnam Chon (page does not exist)">Kilnam Chon</a></li>
+<li><a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a></li>
+<li><a href="/wiki/Nancy_Hafkin" title="Nancy Hafkin">Nancy Hafkin</a></li>
+<li><a href="/w/index.php?title=Geoff_Huston_(internet)&amp;action=edit&amp;redlink=1" class="new" title="Geoff Huston (internet) (page does not exist)">Geoff Huston</a></li>
+<li><a href="/wiki/Brewster_Kahle" title="Brewster Kahle">Brewster Kahle</a></li>
+<li><a href="/w/index.php?title=Daniel_Karrenberg&amp;action=edit&amp;redlink=1" class="new" title="Daniel Karrenberg (page does not exist)">Daniel Karrenberg</a></li>
+<li><a href="/w/index.php?title=Toru_Takahashi_(internet)&amp;action=edit&amp;redlink=1" class="new" title="Toru Takahashi (internet) (page does not exist)">Toru Takahashi</a></li>
+<li><a href="/w/index.php?title=Tan_Tin_Wee&amp;action=edit&amp;redlink=1" class="new" title="Tan Tin Wee (page does not exist)">Tan Tin Wee</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2013</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Karen_Banks&amp;action=edit&amp;redlink=1" class="new" title="Karen Banks (page does not exist)">Karen Banks</a></li>
+<li><a href="/w/index.php?title=Gihan_Dias&amp;action=edit&amp;redlink=1" class="new" title="Gihan Dias (page does not exist)">Gihan Dias</a></li>
+<li><a href="/w/index.php?title=Anriette_Esterhuysen&amp;action=edit&amp;redlink=1" class="new" title="Anriette Esterhuysen (page does not exist)">Anriette Esterhuysen</a></li>
+<li><a href="/w/index.php?title=Steve_Goldstein_(NSF)&amp;action=edit&amp;redlink=1" class="new" title="Steve Goldstein (NSF) (page does not exist)">Steve Goldstein</a></li>
+<li><a href="/w/index.php?title=Teus_Hagen&amp;action=edit&amp;redlink=1" class="new" title="Teus Hagen (page does not exist)">Teus Hagen</a></li>
+<li><a href="/w/index.php?title=Ida_Holz&amp;action=edit&amp;redlink=1" class="new" title="Ida Holz (page does not exist)">Ida Holz</a></li>
+<li><a href="/w/index.php?title=Qiheng_Hu&amp;action=edit&amp;redlink=1" class="new" title="Qiheng Hu (page does not exist)">Qiheng Hu</a></li>
+<li><a href="/w/index.php?title=Haruhisa_Ishida&amp;action=edit&amp;redlink=1" class="new" title="Haruhisa Ishida (page does not exist)">Haruhisa Ishida</a><sup>†</sup></li>
+<li><a href="/w/index.php?title=Barry_Leiner&amp;action=edit&amp;redlink=1" class="new" title="Barry Leiner (page does not exist)">Barry Leiner</a><sup>†</sup></li>
+<li><a href="/wiki/George_Sadowsky" title="George Sadowsky">George Sadowsky</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2014</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Dai Davies</li>
+<li><a href="/w/index.php?title=Demi_Getschko&amp;action=edit&amp;redlink=1" class="new" title="Demi Getschko (page does not exist)">Demi Getschko</a></li>
+<li><a href="/w/index.php?title=Masaki_Hirabaru&amp;action=edit&amp;redlink=1" class="new" title="Masaki Hirabaru (page does not exist)">Masaki Hirabaru</a><sup>†</sup></li>
+<li><a href="/w/index.php?title=Erik_Huizer&amp;action=edit&amp;redlink=1" class="new" title="Erik Huizer (page does not exist)">Erik Huizer</a></li>
+<li><a href="/w/index.php?title=Steven_Huter&amp;action=edit&amp;redlink=1" class="new" title="Steven Huter (page does not exist)">Steven Huter</a></li>
+<li><a href="/wiki/Abhaya_Induruwa" title="Abhaya Induruwa">Abhaya Induruwa</a></li>
+<li><a href="/wiki/Dorcas_Muthoni" title="Dorcas Muthoni">Dorcas Muthoni</a></li>
+<li><a href="/wiki/Mahabir_Pun" title="Mahabir Pun">Mahabir Pun</a></li>
+<li><a href="/w/index.php?title=Srinivasan_Ramani&amp;action=edit&amp;redlink=1" class="new" title="Srinivasan Ramani (page does not exist)">Srinivasan Ramani</a></li>
+<li><a href="/w/index.php?title=Michael_Roberts_(internet)&amp;action=edit&amp;redlink=1" class="new" title="Michael Roberts (internet) (page does not exist)">Michael Roberts</a></li>
+<li><a href="/wiki/Ben_Segal" title="Ben Segal" class="mw-redirect">Ben Segal</a></li>
+<li><a href="/w/index.php?title=Douglas_Van_Houweling&amp;action=edit&amp;redlink=1" class="new" title="Douglas Van Houweling (page does not exist)">Douglas Van Houweling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">Innovators</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2012</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mitchell_Baker" title="Mitchell Baker">Mitchell Baker</a></li>
+<li><a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a></li>
+<li><a href="/wiki/Robert_Cailliau" title="Robert Cailliau">Robert Cailliau</a></li>
+<li><a href="/wiki/Van_Jacobson" title="Van Jacobson">Van Jacobson</a></li>
+<li><a href="/wiki/Lawrence_Landweber" title="Lawrence Landweber">Lawrence Landweber</a></li>
+<li><strong class="selflink">Paul Mockapetris</strong></li>
+<li><a href="/wiki/Craig_Newmark" title="Craig Newmark">Craig Newmark</a></li>
+<li><a href="/wiki/Raymond_Tomlinson" title="Raymond Tomlinson" class="mw-redirect">Raymond Tomlinson</a></li>
+<li><a href="/wiki/Linus_Torvalds" title="Linus Torvalds">Linus Torvalds</a></li>
+<li><a href="/wiki/Philip_Zimmermann" title="Philip Zimmermann" class="mw-redirect">Philip Zimmermann</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2013</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Marc_Andreessen" title="Marc Andreessen">Marc Andreessen</a></li>
+<li><a href="/wiki/John_Perry_Barlow" title="John Perry Barlow">John Perry Barlow</a></li>
+<li><a href="/wiki/Fran%C3%A7ois_Fl%C3%BCckiger" title="François Flückiger" class="mw-redirect">François Flückiger</a></li>
+<li><a href="/w/index.php?title=Stephen_Kent_(network_security)&amp;action=edit&amp;redlink=1" class="new" title="Stephen Kent (network security) (page does not exist)">Stephen Kent</a></li>
+<li><a href="/w/index.php?title=Anne-Marie_Eklund_L%C3%B6winder&amp;action=edit&amp;redlink=1" class="new" title="Anne-Marie Eklund Löwinder (page does not exist)">Anne-Marie Eklund Löwinder</a></li>
+<li><a href="/wiki/Henning_Schulzrinne" title="Henning Schulzrinne">Henning Schulzrinne</a></li>
+<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Richard Stallman</a></li>
+<li><a href="/wiki/Aaron_Swartz" title="Aaron Swartz">Aaron Swartz</a><sup>†</sup></li>
+<li><a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">2014</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align:center;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eric_Allman" title="Eric Allman">Eric Allman</a></li>
+<li><a href="/wiki/Eric_Bina" title="Eric Bina">Eric Bina</a></li>
+<li><a href="/wiki/Karlheinz_Brandenburg" title="Karlheinz Brandenburg">Karlheinz Brandenburg</a></li>
+<li><a href="/wiki/John_Cioffi" title="John Cioffi">John Cioffi</a></li>
+<li>Hualin Qian</li>
+<li><a href="/wiki/Paul_Vixie" title="Paul Vixie">Paul Vixie</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1182
+Cached time: 20151231044217
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.226 seconds
+Real time usage: 0.267 seconds
+Preprocessor visited node count: 2231/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 62060/2097152 bytes
+Template argument size: 8625/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 2.14 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  206.329      1 - -total
+ 37.12%   76.591      1 - Template:Internet_Hall_of_Fame
+ 35.55%   73.341      1 - Template:Navbox_with_collapsible_groups
+ 28.12%   58.018      1 - Template:Reflist
+ 20.18%   41.628      2 - Template:Cite_web
+ 16.39%   33.817      1 - Template:Main
+ 15.93%   32.863      3 - Template:Navbox_subgroup
+ 12.13%   25.034      3 - Template:Navbox
+  7.87%   16.233      1 - Template:Succession_box
+  2.91%    6.006      1 - Template:S-ttl
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:340605-0!*!0!!en!4!* and timestamp 20151231044216 and revision id 696115763
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Paul_Mockapetris&amp;oldid=696115763">https://en.wikipedia.org/w/index.php?title=Paul_Mockapetris&amp;oldid=696115763</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1948_births" title="Category:1948 births">1948 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Internet_pioneers" title="Category:Internet pioneers">Internet pioneers</a></li><li><a href="/wiki/Category:People_from_Boston,_Massachusetts" title="Category:People from Boston, Massachusetts">People from Boston, Massachusetts</a></li><li><a href="/wiki/Category:Boston_Latin_School_alumni" title="Category:Boston Latin School alumni">Boston Latin School alumni</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_alumni" title="Category:Massachusetts Institute of Technology alumni">Massachusetts Institute of Technology alumni</a></li><li><a href="/wiki/Category:University_of_California,_Irvine_alumni" title="Category:University of California, Irvine alumni">University of California, Irvine alumni</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Domain_name_system" title="Category:Domain name system">Domain name system</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Paul+Mockapetris&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Paul+Mockapetris" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Paul_Mockapetris"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Paul_Mockapetris"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Paul_Mockapetris" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Paul_Mockapetris&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Paul_Mockapetris&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Paul_Mockapetris" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Paul_Mockapetris" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Paul_Mockapetris&amp;oldid=696115763" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Paul_Mockapetris&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1140555" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Paul_Mockapetris&amp;id=696115763" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Paul+Mockapetris">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Paul+Mockapetris&amp;returnto=Paul+Mockapetris&amp;oldid=696115763&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Paul_Mockapetris&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Paul_Mockapetris" title="Paul Mockapetris – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Paul_Mockapetris" title="Paul Mockapetris – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Paul_Mockapetris" title="Paul Mockapetris – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Paul_Mockapetris" title="Paul Mockapetris – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%8F%B4_%EB%AA%A8%EC%B9%B4%ED%8E%98%ED%8A%B8%EB%A6%AC%EC%8A%A4" title="폴 모카페트리스 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Paul_Mockapetris" title="Paul Mockapetris – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A2%E3%82%AB%E3%83%9A%E3%83%88%E3%83%AA%E3%82%B9" title="ポール・モカペトリス – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Paul_Mockapetris" title="Paul Mockapetris – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E8%8E%AB%E5%8D%A1%E6%B4%BE%E4%B9%94%E6%96%AF" title="保罗·莫卡派乔斯 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1140555#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 December 2015, at 00:57.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Paul_Mockapetris&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1060"}); /* @nomin */
+} );</script>
+	</body>
+</html>

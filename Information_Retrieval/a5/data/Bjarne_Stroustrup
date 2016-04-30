@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Bjarne Stroustrup - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bjarne_Stroustrup","wgTitle":"Bjarne Stroustrup","wgCurRevisionId":690725866,"wgRevisionId":690725866,"wgArticleId":3713,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","C++","Danish computer scientists","Fellows of the Association for Computing Machinery","Fellow Members of the IEEE","Scientists at Bell Labs","Grace Murray Hopper Award laureates","Programming language designers","Aarhus University alumni","Alumni of Churchill College, Cambridge","1950 births","Living people","Texas A\u0026M University faculty","People from Aarhus","Danish expatriates in the United States","Members of the United States National Academy of Engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bjarne_Stroustrup","wgRelevantArticleId":3713,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/d/da/BjarneStroustrup.jpg/100px-BjarneStroustrup.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en","ru"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92620","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bjarne_Stroustrup" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bjarne_Stroustrup&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bjarne_Stroustrup&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bjarne_Stroustrup" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Bjarne_Stroustrup skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Bjarne Stroustrup</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Bjarne Stroustrup</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:BjarneStroustrup.jpg" class="image"><img alt="BjarneStroustrup.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/BjarneStroustrup.jpg/280px-BjarneStroustrup.jpg" width="280" height="210" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/BjarneStroustrup.jpg/420px-BjarneStroustrup.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/da/BjarneStroustrup.jpg 2x" data-file-width="432" data-file-height="324" /></a>
+<div>Bjarne Stroustrup</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1950-12-30</span>)</span> December 30, 1950 <span class="noprint ForceAgeToShow">(age&#160;65)</span><br />
+<a href="/wiki/Aarhus" title="Aarhus">Aarhus</a>, <a href="/wiki/Denmark" title="Denmark">Denmark</a></td>
+</tr>
+<tr>
+<th scope="row">Residence</th>
+<td><a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/New_York" title="New York">New York</a>, <a href="/wiki/United_States" title="United States">U.S.</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/Denmark" title="Denmark">Danish</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Aarhus_University" title="Aarhus University">Aarhus University</a><br />
+<a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a><br />
+<a href="/wiki/Texas_A%26M_University" title="Texas A&amp;M University">Texas A&amp;M University</a><br />
+<a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a><br />
+<a href="/wiki/Morgan_Stanley" title="Morgan Stanley">Morgan Stanley</a><br />
+<a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Aarhus_University" title="Aarhus University">Aarhus University</a> (MSc)<br />
+<a href="/wiki/Churchill_College,_Cambridge" title="Churchill College, Cambridge">Churchill College, Cambridge</a> (PhD)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><a rel="nofollow" class="external text" href="http://ulmss-newton.lib.cam.ac.uk/vwebv/holdingsInfo?bibId=14260"><i>Communication and control in distributed computer systems</i></a>&#160;<span style="font-size:90%;">(1979)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/David_Wheeler_(computer_scientist)" title="David Wheeler (computer scientist)" class="mw-redirect">David Wheeler</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td>Creating <a href="/wiki/C%2B%2B" title="C++">C++</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td>
+<p><a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">Grace Murray Hopper Award</a> (1993)<br />
+IEEE Computer Society Computer Entrepreneur Award (2004)<br />
+<a href="/wiki/William_Procter_Prize_for_Scientific_Achievement" title="William Procter Prize for Scientific Achievement">William Procter Prize for Scientific Achievement</a> (2005)<br /></p>
+<a href="/wiki/Dr._Dobb%27s_Journal" title="Dr. Dobb's Journal">Dr. Dobb's</a> Excellence in Programming award (2008)</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Website</b><br />
+<span class="url"><a rel="nofollow" class="external text" href="http://www.stroustrup.com">www<wbr />.stroustrup<wbr />.com</a></span><br />
+<span class="url"><a rel="nofollow" class="external text" href="https://parasol.tamu.edu/people/bs">parasol<wbr />.tamu<wbr />.edu<wbr />/people<wbr />/bs</a></span></td>
+</tr>
+</table>
+<p><b>Bjarne Stroustrup</b> (<small>Danish:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Danish" title="Help:IPA for Danish">[ˈbjɑːnə ˈsdʁʌʊ̯ˀsdʁɔb]</a></span>;<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> born 30 December 1950) is a Danish <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a>, most notable for the creation and development of the widely used <a href="/wiki/C%2B%2B" title="C++">C++</a> programming language.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> He is a Distinguished Research Professor and holds the College of Engineering Chair in Computer Science at <a href="/wiki/Texas_A%26M_University" title="Texas A&amp;M University">Texas A&amp;M University</a>,<sup id="cite_ref-wong_5-0" class="reference"><a href="#cite_note-wong-5"><span>[</span>5<span>]</span></a></sup> a visiting professor at <a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a>, and works at <a href="/wiki/Morgan_Stanley" title="Morgan Stanley">Morgan Stanley</a> as a Managing Director in New York.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> </p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education"><span class="tocnumber">1</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Publications"><span class="tocnumber">3</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bjarne_Stroustrup&amp;action=edit&amp;section=1" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Stroustrup has a <a href="/wiki/Master%27s_degree" title="Master's degree">master's degree</a> in <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> and <a href="/wiki/Computer_science" title="Computer science">computer science</a> (1975) from <a href="/wiki/Aarhus_University" title="Aarhus University">Aarhus University</a>, Denmark, and a <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Ph.D.</a> in computer science (1979) from the <a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a>, England.<sup id="cite_ref-wong_5-1" class="reference"><a href="#cite_note-wong-5"><span>[</span>5<span>]</span></a></sup> His thesis advisor in Cambridge was <a href="/wiki/David_Wheeler_(computer_scientist)" title="David Wheeler (computer scientist)" class="mw-redirect">David Wheeler</a>.<sup id="cite_ref-stroustrupphd_9-0" class="reference"><a href="#cite_note-stroustrupphd-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bjarne_Stroustrup&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Stroustrup began developing C++ in 1978 (then called "<a href="/wiki/C_(programming_language)" title="C (programming language)">C</a> with Classes"), and, in his own words, "invented C++, wrote its early definitions, and produced its first implementation... chose and formulated the design criteria for C++, designed all its major facilities, and was responsible for the processing of extension proposals in the C++ standards committee."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> Stroustrup also wrote a textbook for the language, <i><a href="/wiki/The_C%2B%2B_Programming_Language" title="The C++ Programming Language">The C++ Programming Language</a></i>.</p>
+<p>Stroustrup was the head of <a href="/wiki/Bell_Labs" title="Bell Labs">AT&amp;T Bell Labs'</a> Large-scale Programming Research department, from its creation until late 2002. Stroustrup was elected member of the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> in 2004. He is a Fellow of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a> (1994) and an <a href="/wiki/Institute_of_Electrical_and_Electronics_Engineers" title="Institute of Electrical and Electronics Engineers">IEEE</a> Fellow. He works at <a href="/wiki/Texas_A%26M_University" title="Texas A&amp;M University">Texas A&amp;M University</a> as a Distinguished Professor where he holds the College of Engineering Endowed Chair in <a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> He is also a visiting faculty in Computer Science Department at Columbia University.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> <a href="/wiki/ITMO_University" title="ITMO University">ITMO University</a> noble doctor since 2013<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>In 2015, he was made a Fellow <sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> of the <a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> for his invention of the C++ programming language.</p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bjarne_Stroustrup&amp;action=edit&amp;section=3" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Stroustrup has written or co-written a number of publications<sup id="cite_ref-dblp_17-0" class="reference"><a href="#cite_note-dblp-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-microsoft_18-0" class="reference"><a href="#cite_note-microsoft-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-googlescholar_19-0" class="reference"><a href="#cite_note-googlescholar-19"><span>[</span>19<span>]</span></a></sup> including the following books.</p>
+<ul>
+<li><i>A Tour of C++</i> by Bjarne Stroustrup – <a href="/wiki/Addison-Wesley" title="Addison-Wesley">Addison-Wesley</a> Professional, 2013. <a href="/wiki/Special:BookSources/9780321958310" class="internal mw-magiclink-isbn">ISBN 978-0321958310</a>.</li>
+<li><i>Programming: Principles and Practice Using C++</i> by Bjarne Stroustrup – Addison-Wesley Professional; 1st edition (29 December 2008); <a href="/wiki/Special:BookSources/0321543726" class="internal mw-magiclink-isbn">ISBN 0-321-54372-6</a>.</li>
+<li><i><a href="/wiki/The_C%2B%2B_Programming_Language" title="The C++ Programming Language">The C++ Programming Language</a></i> by Bjarne Stroustrup – Addison-Wesley Pub Co; 4th edition (23 May 2013); <a href="/wiki/Special:BookSources/0321563840" class="internal mw-magiclink-isbn">ISBN 0-321-563840</a>.</li>
+<li><i>The Design and Evolution of C++</i> by Bjarne Stroustrup – Addison-Wesley Pub Co; 1st edition (29 March 1994); <a href="/wiki/Special:BookSources/0201543303" class="internal mw-magiclink-isbn">ISBN 0-201-54330-3</a>.</li>
+<li><i>The Annotated C++ Reference Manual</i> by <a href="/wiki/Margaret_A._Ellis" title="Margaret A. Ellis">Margaret A. Ellis</a> &amp; Bjarne Stroustrup – Addison-Wesley Pub Co; (1 January 1990); <a href="/wiki/Special:BookSources/0201514591" class="internal mw-magiclink-isbn">ISBN 0-201-51459-1</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bjarne_Stroustrup&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.stroustrup.com/bio.html">http://www.stroustrup.com/bio.html</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Stroustrup, Bjarne. <a rel="nofollow" class="external text" href="http://www.stroustrup.com/bs_faq.html#pronounce">"How do you pronounce "Bjarne Stroustrup?<span style="padding-right:0.2em;">"</span>"</a>. <i>Bjarne Stroustrup's Homepage</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABjarne+Stroustrup&amp;rft.atitle=How+do+you+pronounce+%22Bjarne+Stroustrup%3F%22&amp;rft.aufirst=Bjarne&amp;rft.aulast=Stroustrup&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.stroustrup.com%2Fbs_faq.html%23pronounce&amp;rft.jtitle=Bjarne+Stroustrup%27s+Homepage&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Stroustrup, Bjarne. <a rel="nofollow" class="external text" href="http://www.stroustrup.com/pronounciation.wav">"Bjarne pronounces his own name"</a>. <i>Bjarne Stroustrup's Homepage</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABjarne+Stroustrup&amp;rft.atitle=Bjarne+pronounces+his+own+name&amp;rft.aufirst=Bjarne&amp;rft.aulast=Stroustrup&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.stroustrup.com%2Fpronounciation.wav&amp;rft.jtitle=Bjarne+Stroustrup%27s+Homepage&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Wong, William (29 October 2013). <a rel="nofollow" class="external text" href="http://electronicdesign.com/dev-tools/interview-bjarne-stroustrup-discusses-c">"Interview: Bjarne Stroustrup Discusses C++"</a>. <i>Electronic Design</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABjarne+Stroustrup&amp;rft.atitle=Interview%3A+Bjarne+Stroustrup+Discusses+C%2B%2B&amp;rft.aufirst=William&amp;rft.aulast=Wong&amp;rft.date=2013-10-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Felectronicdesign.com%2Fdev-tools%2Finterview-bjarne-stroustrup-discusses-c&amp;rft.jtitle=Electronic+Design&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-wong-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-wong_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wong_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Wong, William (26 November 2013). <a rel="nofollow" class="external text" href="http://electronicdesign.com/dev-tools/bjarne-stroustrup-c-creator-keeps-developing">"Bjarne Stroustrup: C++ Creator Keeps Developing"</a>. <i>Electronic Design</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABjarne+Stroustrup&amp;rft.atitle=Bjarne+Stroustrup%3A+C%2B%2B+Creator+Keeps+Developing&amp;rft.aufirst=William&amp;rft.aulast=Wong&amp;rft.date=2013-11-26&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Felectronicdesign.com%2Fdev-tools%2Fbjarne-stroustrup-c-creator-keeps-developing&amp;rft.jtitle=Electronic+Design&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.research.att.com/~bs/homepage.html">Bjarne Stroustrup's Homepage</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Stroustrup, B. (2010). "Viewpoint: What should we teach new software developers? Why?". <i>Communications of the ACM</i> <b>53</b>: 40. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F1629175.1629192">10.1145/1629175.1629192</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABjarne+Stroustrup&amp;rft.atitle=Viewpoint%3A+What+should+we+teach+new+software+developers%3F+Why%3F&amp;rft.aufirst=B.&amp;rft.aulast=Stroustrup&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F1629175.1629192&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=40&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=53" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Stroustrup, B. (1998). <a rel="nofollow" class="external text" href="http://www.stroustrup.com/ieee_interview.pdf">"The Real Stroustrup Interview"</a> <span style="font-size:85%;">(PDF)</span>. <i>Computer</i> <b>31</b> (6): 110–119. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FMC.1998.683014">10.1109/MC.1998.683014</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABjarne+Stroustrup&amp;rft.atitle=The+Real+Stroustrup+Interview&amp;rft.aufirst=B.&amp;rft.aulast=Stroustrup&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.stroustrup.com%2Fieee_interview.pdf&amp;rft_id=info%3Adoi%2F10.1109%2FMC.1998.683014&amp;rft.issue=6&amp;rft.jtitle=Computer&amp;rft.pages=110-119&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-stroustrupphd-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-stroustrupphd_9-0">^</a></b></span> <span class="reference-text"><cite class="citation thesis">Stroustrup, Bjarne (1979). <a rel="nofollow" class="external text" href="http://ulmss-newton.lib.cam.ac.uk/vwebv/holdingsInfo?bibId=14260"><i>Communication and control in distributed computer systems</i></a> (PhD thesis). University of Cambridge.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABjarne+Stroustrup&amp;rft.aufirst=Bjarne&amp;rft.aulast=Stroustrup&amp;rft.date=1979&amp;rft.degree=PhD&amp;rft_id=http%3A%2F%2Fulmss-newton.lib.cam.ac.uk%2Fvwebv%2FholdingsInfo%3FbibId%3D14260&amp;rft.inst=University+of+Cambridge&amp;rft.title=Communication+and+control+in+distributed+computer+systems&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://genealogy.math.ndsu.nodak.edu/id.php?id=16946">"David Wheeler"</a>. <i>The Mathematics Genealogy Project</i>. Department of Mathematics, North Dakota State University<span class="reference-accessdate">. Retrieved <span class="nowrap">29 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABjarne+Stroustrup&amp;rft.atitle=David+Wheeler&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fgenealogy.math.ndsu.nodak.edu%2Fid.php%3Fid%3D16946&amp;rft.jtitle=The+Mathematics+Genealogy+Project&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><i>The C++ Programming Language</i>, B. Stroustrup, p.10</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.research.att.com/~bs/bio.html">Bjarne Stroustrup: Some Information about Bjorne Stroustrup.</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cse.tamu.edu/people/faculty">Texas A&amp;M CSE Department's Faculty Directory</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.cs.columbia.edu/people/faculty">[1]</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://is.ifmo.ru/doctors/stroustrup.pdf">[2]</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">CHM. <a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/bios/Bjarne,Stroustrup/">"Bjarne Stroustrup— CHM Fellow Award Winner"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 30,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABjarne+Stroustrup&amp;rft.au=CHM&amp;rft.btitle=Bjarne+Stroustrup%94+CHM+Fellow+Award+Winner&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Ffellowawards%2Fhall%2Fbios%2FBjarne%2CStroustrup%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dblp-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-dblp_17-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dblp.uni-trier.de/pers/hd/s/Stroustrup:Bjarne">Bjarne Stroustrup's publications</a> indexed by the <a href="/wiki/DBLP" title="DBLP">DBLP Bibliography Server</a> at the <a href="/wiki/University_of_Trier" title="University of Trier">University of Trier</a></span></li>
+<li id="cite_note-microsoft-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-microsoft_18-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://academic.research.microsoft.com/Author/901644">List of publications</a> from <a href="/wiki/Microsoft_Academic_Search" title="Microsoft Academic Search">Microsoft Academic Search</a></span></li>
+<li id="cite_note-googlescholar-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-googlescholar_19-0">^</a></b></span> <span class="reference-text">Stroustrup in Google Scholar <a rel="nofollow" class="external free" href="http://scholar.google.com/scholar?q=bjarne+stroustrup">http://scholar.google.com/scholar?q=bjarne+stroustrup</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bjarne_Stroustrup&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Special:Search/Bjarne_Stroustrup" class="extiw" title="commons:Special:Search/Bjarne Stroustrup">Bjarne Stroustrup</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Special:Search/Bjarne_Stroustrup" class="extiw" title="q:Special:Search/Bjarne Stroustrup">Bjarne Stroustrup</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.att.com/attlabs/other/stroustrup_sm.mov">Meet Bjarne Stroustrup (Video)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stroustrup.com/interviews.html">List of interviews with Bjarne Stroustrup</a></li>
+<li><a rel="nofollow" class="external text" href="http://harmful.cat-v.org/software/c++/I_did_it_for_you_all">A hoax interview transcript with IEEE's <i>Computer</i> magazine.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.computerworld.com.au/index.php/id;408408016;fp;4194304;fpid;1">Computerworld Interview with Bjarne Stroustrup</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stroustrup.com/bs_faq.html#class">Bjarne Stroustrup's FAQ, Class</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hopper_winners" title="Template:Hopper winners"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hopper_winners" title="Template talk:Hopper winners"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hopper_winners&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">Grace Murray Hopper Award</a> recipients</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Knuth</a>&#160;<small>(1971)</small></li>
+<li><a href="/wiki/Paul_H._Dirksen" title="Paul H. Dirksen" class="mw-redirect">Dirksen</a>&#160;<small>(1972)</small></li>
+<li><a href="/wiki/Paul_H._Cress" title="Paul H. Cress">Cress</a>&#160;<small>(1972)</small></li>
+<li><a href="/wiki/Lawrence_M._Breed" title="Lawrence M. Breed">Breed</a>/<a href="/wiki/Richard_H._Lathwell" title="Richard H. Lathwell">Lathwell</a>/<a href="/wiki/Roger_Moore_(computer_scientist)" title="Roger Moore (computer scientist)">Moore</a>&#160;<small>(1973)</small></li>
+<li><a href="/w/index.php?title=George_N._Baird&amp;action=edit&amp;redlink=1" class="new" title="George N. Baird (page does not exist)">Baird</a>&#160;<small>(1974)</small></li>
+<li><a href="/w/index.php?title=Allan_L._Scherr&amp;action=edit&amp;redlink=1" class="new" title="Allan L. Scherr (page does not exist)">Scherr</a>&#160;<small>(1975)</small></li>
+<li><a href="/wiki/Edward_H._Shortliffe" title="Edward H. Shortliffe">Shortliffe</a>&#160;<small>(1976)</small></li>
+<li><a href="/wiki/Ray_Kurzweil" title="Ray Kurzweil">Kurzweil</a>&#160;<small>(1978)</small></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Wozniak</a>&#160;<small>(1979)</small></li>
+<li><a href="/wiki/Robert_M._Metcalfe" title="Robert M. Metcalfe" class="mw-redirect">Metcalfe</a>&#160;<small>(1980)</small></li>
+<li><a href="/wiki/Daniel_S._Bricklin" title="Daniel S. Bricklin" class="mw-redirect">Bricklin</a>&#160;<small>(1981)</small></li>
+<li><a href="/wiki/Brian_Reid_(computer_scientist)" title="Brian Reid (computer scientist)">Reid</a>&#160;<small>(1982)</small></li>
+<li><a href="/wiki/Daniel_Henry_Holmes_Ingalls,_Jr." title="Daniel Henry Holmes Ingalls, Jr.">Ingalls</a>&#160;<small>(1984)</small></li>
+<li><a href="/w/index.php?title=Cordell_Green&amp;action=edit&amp;redlink=1" class="new" title="Cordell Green (page does not exist)">Green</a>&#160;<small>(1985)</small></li>
+<li><a href="/wiki/Bill_Joy" title="Bill Joy">Joy</a>&#160;<small>(1986)</small></li>
+<li><a href="/wiki/John_Ousterhout" title="John Ousterhout">Ousterhout</a>&#160;<small>(1987)</small></li>
+<li><a href="/wiki/Guy_L._Steele,_Jr." title="Guy L. Steele, Jr.">Steele</a>&#160;<small>(1988)</small></li>
+<li><a href="/wiki/W._Daniel_Hillis" title="W. Daniel Hillis" class="mw-redirect">Hillis</a>&#160;<small>(1989)</small></li>
+<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Stallman</a>&#160;<small>(1990)</small></li>
+<li><a href="/wiki/Feng-hsiung_Hsu" title="Feng-hsiung Hsu">Hsu</a>&#160;<small>(1991)</small></li>
+<li><strong class="selflink">Stroustrup</strong>&#160;<small>(1993)</small></li>
+<li><a href="/wiki/Shafrira_Goldwasser" title="Shafrira Goldwasser" class="mw-redirect">Goldwasser</a>&#160;<small>(1996)</small></li>
+<li><a href="/wiki/Wen-mei_Hwu" title="Wen-mei Hwu">Hwu</a>&#160;<small>(1999)</small></li>
+<li><a href="/wiki/Lydia_Kavraki" title="Lydia Kavraki">Kavraki</a>&#160;<small>(2000)</small></li>
+<li><a href="/wiki/George_Necula" title="George Necula">Necula</a>&#160;<small>(2001)</small></li>
+<li><a href="/wiki/Ramakrishnan_Srikant" title="Ramakrishnan Srikant">Srikant</a>&#160;<small>(2002)</small></li>
+<li><a href="/w/index.php?title=Stephen_W._Keckler&amp;action=edit&amp;redlink=1" class="new" title="Stephen W. Keckler (page does not exist)">Keckler</a>&#160;<small>(2003)</small></li>
+<li><a href="/wiki/Jennifer_Rexford" title="Jennifer Rexford">Rexford</a>&#160;<small>(2004)</small></li>
+<li><a href="/wiki/Omer_Reingold" title="Omer Reingold">Reingold</a>&#160;<small>(2005)</small></li>
+<li><a href="/wiki/Dan_Klein" title="Dan Klein">Klein</a>&#160;<small>(2006)</small></li>
+<li><a href="/wiki/Vern_Paxson" title="Vern Paxson">Paxson</a>&#160;<small>(2007)</small></li>
+<li><a href="/w/index.php?title=Dawson_Engler&amp;action=edit&amp;redlink=1" class="new" title="Dawson Engler (page does not exist)">Engler</a>&#160;<small>(2008)</small></li>
+<li><a href="/wiki/Tim_Roughgarden" title="Tim Roughgarden">Roughgarden</a>&#160;<small>(2009)</small></li>
+<li><a href="/wiki/Craig_Gentry_(computer_scientist)" title="Craig Gentry (computer scientist)">Gentry</a>&#160;<small>(2010)</small></li>
+<li><a href="/wiki/Luis_von_Ahn" title="Luis von Ahn">Ahn</a>&#160;<small>(2011)</small></li>
+<li><a href="/w/index.php?title=Martin_Casado&amp;action=edit&amp;redlink=1" class="new" title="Martin Casado (page does not exist)">Casado</a> and <a href="/wiki/Dina_Katabi" title="Dina Katabi">Katabi</a>&#160;<small>(2012)</small></li>
+<li><a href="/w/index.php?title=Pedro_Felipe_Felzenszwalb&amp;action=edit&amp;redlink=1" class="new" title="Pedro Felipe Felzenszwalb (page does not exist)">Felzenszwalb</a>&#160;<small>(2013)</small></li>
+<li><a href="/w/index.php?title=Sylvia_Ratnasamy&amp;action=edit&amp;redlink=1" class="new" title="Sylvia Ratnasamy (page does not exist)">Ratnasamy</a>&#160;<small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n85-175053">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/22176466">22176466</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n85175053">n85175053</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000108779280">0000 0001 0877 9280</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/118044710">118044710</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/029799589">029799589</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12134806g">cb12134806g</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12134806g">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=137515">137515</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00475742">00475742</a></span></li>
+<li><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=jn20000605198&amp;CON_LNG=ENG">jn20000605198</a></span></li>
+<li><a href="/wiki/CiNii" title="CiNii">CiNii</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://ci.nii.ac.jp/author/DA01580959?l=en">DA01580959</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1171
+Cached time: 20151231215513
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.334 seconds
+Real time usage: 0.447 seconds
+Preprocessor visited node count: 1440/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40136/2097152 bytes
+Template argument size: 2062/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.143/10.000 seconds
+Lua memory usage: 3.54 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  391.208      1 - -total
+ 37.13%  145.260      1 - Template:Reflist
+ 31.30%  122.458      1 - Template:Infobox_scientist
+ 28.54%  111.656      1 - Template:Infobox
+ 13.46%   52.640      4 - Template:Cite_web
+ 10.21%   39.952      1 - Template:Hopper_winners
+  9.84%   38.477      1 - Template:Authority_control
+  9.41%   36.806      1 - Template:Navbox
+  8.90%   34.822      4 - Template:Br_separated_entries
+  5.46%   21.377      2 - Template:Cite_journal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3713-0!*!0!!en!4!* and timestamp 20151231215513 and revision id 690725866
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bjarne_Stroustrup&amp;oldid=690725866">https://en.wikipedia.org/w/index.php?title=Bjarne_Stroustrup&amp;oldid=690725866</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:C%2B%2B" title="Category:C++">C++</a></li><li><a href="/wiki/Category:Danish_computer_scientists" title="Category:Danish computer scientists">Danish computer scientists</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Fellow_Members_of_the_IEEE" title="Category:Fellow Members of the IEEE">Fellow Members of the IEEE</a></li><li><a href="/wiki/Category:Scientists_at_Bell_Labs" title="Category:Scientists at Bell Labs">Scientists at Bell Labs</a></li><li><a href="/wiki/Category:Grace_Murray_Hopper_Award_laureates" title="Category:Grace Murray Hopper Award laureates">Grace Murray Hopper Award laureates</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:Aarhus_University_alumni" title="Category:Aarhus University alumni">Aarhus University alumni</a></li><li><a href="/wiki/Category:Alumni_of_Churchill_College,_Cambridge" title="Category:Alumni of Churchill College, Cambridge">Alumni of Churchill College, Cambridge</a></li><li><a href="/wiki/Category:1950_births" title="Category:1950 births">1950 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Texas_A%26M_University_faculty" title="Category:Texas A&amp;M University faculty">Texas A&amp;M University faculty</a></li><li><a href="/wiki/Category:People_from_Aarhus" title="Category:People from Aarhus">People from Aarhus</a></li><li><a href="/wiki/Category:Danish_expatriates_in_the_United_States" title="Category:Danish expatriates in the United States">Danish expatriates in the United States</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bjarne+Stroustrup&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bjarne+Stroustrup" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Bjarne_Stroustrup"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Bjarne_Stroustrup"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Bjarne_Stroustrup" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Bjarne_Stroustrup&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bjarne_Stroustrup&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bjarne_Stroustrup" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bjarne_Stroustrup" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bjarne_Stroustrup&amp;oldid=690725866" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bjarne_Stroustrup&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92620" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bjarne_Stroustrup&amp;id=690725866" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bjarne+Stroustrup">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Bjarne+Stroustrup&amp;returnto=Bjarne+Stroustrup&amp;oldid=690725866&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bjarne_Stroustrup&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A7%D8%B1%D9%86_%D8%B3%D8%AA%D8%B1%D9%88%D8%B3%D8%AA%D8%B1%D9%88%D8%A8" title="بيارن ستروستروب – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/By%C3%B6rn_Straustrup" title="Byörn Straustrup – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A6%A8%E0%A7%87_%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%AD%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%AA" title="বিয়ারনে স্ট্রোভস্ট্রুপ – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%91%D1%8F%D1%80%D0%BD%D0%B5_%D0%A1%D1%82%D1%80%D0%BE%D1%83%D1%81%D1%82%D1%80%D1%83%D0%BF" title="Бярне Строуструп – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%9C%CF%80%CE%B9%CE%AC%CF%81%CE%BD%CE%B5_%CE%A3%CF%84%CF%81%CE%BF%CF%8D%CF%83%CF%84%CF%81%CE%BF%CF%85%CF%80" title="Μπιάρνε Στρούστρουπ – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%DB%8C%E2%80%8C%DB%8C%D8%A7%D8%B1%D9%86%D9%87_%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%B3%E2%80%8C%D8%AA%D8%B1%D9%88%D9%BE" title="بی‌یارنه استراس‌تروپ – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%B9%84%EC%95%BC%EB%84%A4_%EC%8A%A4%ED%8A%B8%EB%A1%AD%EC%8A%A4%ED%8A%B8%EB%A3%B9" title="비야네 스트롭스트룹 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%91%D7%99%D7%90%D7%A8%D7%9F_%D7%A1%D7%98%D7%A8%D7%95%D7%A1%D7%98%D7%A8%D7%95%D7%A4" title="ביארן סטרוסטרופ – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%91%E1%83%98%E1%83%90%E1%83%A0%E1%83%9C_%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%A3%E1%83%A1%E1%83%A2%E1%83%A0%E1%83%A3%E1%83%9E%E1%83%98" title="ბიარნ სტრუსტრუპი – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%8D%E0%B4%AF%E0%B4%BE%E0%B5%BB_%E0%B4%B8%E0%B5%8D%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B5%97%E0%B4%B8%E0%B5%8D%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B5%86%E0%B4%AA%E0%B5%8D" title="ബ്യാൻ സ്ട്രൗസ്ട്രെപ് – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A8_%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%8A%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%81%E0%A4%AA" title="ब्यार्न स्त्राऊस्त्रुप – Marathi" lang="mr" hreflang="mr">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%91%D1%8F%D1%80%D0%BD%D0%B5_%D0%A1%D1%82%D1%80%D0%BE%D1%83%D1%81%D1%82%D1%80%D1%83%D0%BF" title="Бярне Строуструп – Mongolian" lang="mn" hreflang="mn">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%93%E3%83%A3%E3%83%BC%E3%83%8D%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AD%E3%83%B4%E3%82%B9%E3%83%88%E3%83%AB%E3%83%83%E3%83%97" title="ビャーネ・ストロヴストルップ – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%83%D1%81%D1%82%D1%80%D1%83%D0%BF,_%D0%91%D1%8C%D1%91%D1%80%D0%BD" title="Страуструп, Бьёрн – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%91%D1%98%D0%B0%D1%80%D0%BD%D0%B5_%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D1%81%D1%82%D1%80%D1%83%D0%BF" title="Бјарне Стравструп – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%A9%E0%AF%87_%E0%AE%87%E0%AE%9A%E0%AF%81%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%82%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" title="பியார்னே இசுற்றூத்திரப்பு – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%91%27%D1%8F%D1%80%D0%BD_%D0%A1%D1%82%D1%80%D0%B0%D1%83%D1%81%D1%82%D1%80%D1%83%D0%BF" title="Б'ярн Страуструп – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%AF%94%E9%9B%85%E5%B0%BC%C2%B7%E6%96%AF%E7%89%B9%E5%8A%B3%E6%96%AF%E7%89%B9%E9%B2%81%E6%99%AE" title="比雅尼·斯特劳斯特鲁普 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92620#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 November 2015, at 07:33.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bjarne_Stroustrup&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1254"}); /* @nomin */
+} );</script>
+	</body>
+</html>

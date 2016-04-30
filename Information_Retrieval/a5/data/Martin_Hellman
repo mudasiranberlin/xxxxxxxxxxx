@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Martin Hellman - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Martin_Hellman","wgTitle":"Martin Hellman","wgCurRevisionId":678328089,"wgRevisionId":678328089,"wgArticleId":422387,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with page title same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","1945 births","Living people","Members of the United States National Academy of Engineering","American cryptographers","IBM employees","New York University alumni","Massachusetts Institute of Technology faculty","Stanford University School of Engineering faculty","Public-key cryptographers","Modern cryptographers","The Bronx High School of Science alumni","IACR fellows","Polytechnic Institute of New York University alumni"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Martin_Hellman","wgRelevantArticleId":422387,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Martin-Hellman.jpg/86px-Martin-Hellman.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q476466","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Martin_Hellman" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Martin_Hellman&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Martin_Hellman&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Martin_Hellman" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Martin_Hellman skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Martin Hellman</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Martin Edward Hellman</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Martin-Hellman.jpg" class="image" title="Martin Edward Hellman"><img alt="Martin Edward Hellman" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Martin-Hellman.jpg/200px-Martin-Hellman.jpg" width="200" height="233" srcset="//upload.wikimedia.org/wikipedia/commons/d/d4/Martin-Hellman.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d4/Martin-Hellman.jpg 2x" data-file-width="240" data-file-height="280" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1945-10-02</span>)</span> October 2, 1945 <span class="noprint ForceAgeToShow">(age&#160;70)</span><br />
+<a href="/wiki/New_York" title="New York">New York</a></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/United_States" title="United States">American</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a><br />
+<a href="/wiki/Computer_science" title="Computer science">Computer science</a><br />
+<a href="/wiki/Electrical_engineering" title="Electrical engineering">Electrical engineering</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/New_York_University" title="New York University">New York University</a> (BSc, 1966)<br />
+<a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> (MS, 1967; PhD, 1969)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><a rel="nofollow" class="external text" href="http://search.proquest.com/docview/302464730/"><i>Learning with Finite Memory</i></a>&#160;<span style="font-size:90%;">(1969)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/Thomas_M._Cover" title="Thomas M. Cover">Thomas Cover</a></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a href="/wiki/Ralph_Merkle" title="Ralph Merkle">Ralph Merkle</a><br />
+<a href="/wiki/Taher_Elgamal" title="Taher Elgamal">Taher Elgamal</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Diffie%E2%80%93Hellman_key_exchange" title="Diffie–Hellman key exchange">Diffie–Hellman key exchange</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/IEEE_Centennial_Medal" title="IEEE Centennial Medal">IEEE Centennial Medal</a> <small style="font-size:85%;">(1984)</small><br />
+<a href="/wiki/EFF_Pioneer_Award" title="EFF Pioneer Award">EFF Pioneer Award</a> <small style="font-size:85%;">(1994)</small><br />
+<a href="/wiki/Louis_E._Levy_Medal" title="Louis E. Levy Medal" class="mw-redirect">Louis E. Levy Medal</a><small style="font-size:85%;">(1997)</small><br />
+<a rel="nofollow" class="external text" href="http://www.itsoc.org/honors/golden-jubilee-awards-for-technological-innovation">Golden Jubilee Awards for Technological Innovation</a> <small style="font-size:85%;">(1998)</small><br />
+<a href="/wiki/Marconi_Prize" title="Marconi Prize">Marconi Prize</a> <small style="font-size:85%;">(2000)</small><br />
+<a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a> Member <small>(2002)</small><br />
+<a href="/wiki/IEEE_Richard_W._Hamming_Medal" title="IEEE Richard W. Hamming Medal">Hamming Medal</a> <small>(2010)</small><br />
+<a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> Fellow <small>(2011)</small> <sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Website</b><br />
+<span class="url"><a rel="nofollow" class="external text" href="http://www-ee.stanford.edu/~hellman">www-ee<wbr />.stanford<wbr />.edu<wbr />/~hellman</a></span></td>
+</tr>
+</table>
+<p><b>Martin Edward Hellman</b> (born October 2, 1945) is an American <a href="/wiki/Cryptology" title="Cryptology" class="mw-redirect">cryptologist</a>, and is best known for his invention of <a href="/wiki/Public_key_cryptography" title="Public key cryptography" class="mw-redirect">public key cryptography</a> in cooperation with <a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Whitfield Diffie</a> and <a href="/wiki/Ralph_Merkle" title="Ralph Merkle">Ralph Merkle</a>.<sup id="cite_ref-microsoft_2-0" class="reference"><a href="#cite_note-microsoft-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-dblp_3-0" class="reference"><a href="#cite_note-dblp-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> Hellman is a longtime contributor to the computer privacy debate and is more recently known for promoting risk analysis studies on nuclear threats, including the NuclearRisk.org<sup id="cite_ref-NuclearRisk.org_9-0" class="reference"><a href="#cite_note-NuclearRisk.org-9"><span>[</span>9<span>]</span></a></sup> website.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Public_key_cryptography"><span class="tocnumber">2</span> <span class="toctext">Public key cryptography</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Computer_privacy_debate"><span class="tocnumber">3</span> <span class="toctext">Computer privacy debate</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#International_security"><span class="tocnumber">4</span> <span class="toctext">International security</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Beyond_War"><span class="tocnumber">4.1</span> <span class="toctext">Beyond War</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Breakthrough"><span class="tocnumber">4.2</span> <span class="toctext">Breakthrough</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Defusing_the_nuclear_threat"><span class="tocnumber">4.3</span> <span class="toctext">Defusing the nuclear threat</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Awards_and_honors"><span class="tocnumber">5</span> <span class="toctext">Awards and honors</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Hellman&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hellman graduated from the <a href="/wiki/Bronx_High_School_of_Science" title="Bronx High School of Science" class="mw-redirect">Bronx High School of Science</a>. He went on to earn his <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">Bachelor's degree</a> from <a href="/wiki/New_York_University" title="New York University">New York University</a> in 1966, and at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> he earned a <a href="/wiki/Master%27s_degree" title="Master's degree">Master's degree</a> in 1967 and a <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Ph.D.</a> in 1969,<sup id="cite_ref-hellmanphd_10-0" class="reference"><a href="#cite_note-hellmanphd-10"><span>[</span>10<span>]</span></a></sup> all in <a href="/wiki/Electrical_engineering" title="Electrical engineering">electrical engineering</a>.<sup id="cite_ref-HellmanHomePage_11-0" class="reference"><a href="#cite_note-HellmanHomePage-11"><span>[</span>11<span>]</span></a></sup> From 1968 to 1969 he worked at <a href="/wiki/IBM" title="IBM">IBM</a>'s Watson Research Center, where he encountered <a href="/wiki/Horst_Feistel" title="Horst Feistel">Horst Feistel</a>. From 1969 to 1971 he was an assistant professor at <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a>. He joined Stanford in 1971 as a professor, serving until 1996 when he became Professor Emeritus.<sup id="cite_ref-HellmanHomePage_11-1" class="reference"><a href="#cite_note-HellmanHomePage-11"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Public_key_cryptography">Public key cryptography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Hellman&amp;action=edit&amp;section=2" title="Edit section: Public key cryptography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hellman and <a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Whitfield Diffie</a>'s paper <i><a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1055638">New Directions in Cryptography</a></i> was published in 1976. It introduced a radically new method of distributing <a href="/wiki/Cryptography" title="Cryptography">cryptographic</a> keys, which went far toward solving one of the fundamental problems of cryptography, key distribution. It has become known as <a href="/wiki/Diffie%E2%80%93Hellman_key_exchange" title="Diffie–Hellman key exchange">Diffie–Hellman key exchange</a>. The article also seems to have stimulated the almost immediate public development of a new class of encryption algorithms, the <a href="/wiki/Asymmetric_key_algorithm" title="Asymmetric key algorithm" class="mw-redirect">asymmetric key algorithms</a>. Hellman and Diffie were awarded the Marconi Fellowship and accompanying prize in 2000 for work on public-key cryptography and for helping make cryptography a legitimate area of academic research.<sup id="cite_ref-Marconi_12-0" class="reference"><a href="#cite_note-Marconi-12"><span>[</span>12<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Computer_privacy_debate">Computer privacy debate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Hellman&amp;action=edit&amp;section=3" title="Edit section: Computer privacy debate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hellman has been a longtime contributor to the computer privacy debate. He and Diffie were the most prominent critics of the short key size of the <a href="/wiki/Data_Encryption_Standard" title="Data Encryption Standard">Data Encryption Standard</a> in 1975. An audio recording survives of their review of DES at Stanford in 1976 with Dennis Branstad of <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">NBS</a> and representatives of the <a href="/wiki/National_Security_Agency" title="National Security Agency">National Security Agency</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> Their concern was well-founded: subsequent history has shown not only that NSA actively intervened with IBM and NBS to shorten the key size, but also that the short key size enabled exactly the kind of massively parallel key crackers that Hellman and Diffie sketched out, which when ultimately built outside the classified world, made it clear that DES was insecure and obsolete. In 2012, a $10,000 commercially available machine can recover a DES key in days.</p>
+<p>Hellman also served (1994–96) on the National Research Council's Committee to Study National Cryptographic Policy, whose main recommendations have since been implemented.</p>
+<h2><span class="mw-headline" id="International_security">International security</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Hellman&amp;action=edit&amp;section=4" title="Edit section: International security">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hellman has been active in researching international security since 1985.</p>
+<h3><span class="mw-headline" id="Beyond_War">Beyond War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Hellman&amp;action=edit&amp;section=5" title="Edit section: Beyond War">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hellman was involved in the original <a href="/wiki/Beyond_War" title="Beyond War">Beyond War</a> movement, serving as the principal editor for the "BEYOND WAR: A New Way of Thinking" booklet.<sup id="cite_ref-BeyondWarNewWayOfThinking_14-0" class="reference"><a href="#cite_note-BeyondWarNewWayOfThinking-14"><span>[</span>14<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Breakthrough">Breakthrough</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Hellman&amp;action=edit&amp;section=6" title="Edit section: Breakthrough">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1987 more than 30 scholars came together to produce Russian and English editions of the book "Breakthrough: Emerging New Thinking, Soviet and Western Scholars Issue a Challenge to Build a World Beyond War". <a href="/wiki/Anatoly_Gromyko" title="Anatoly Gromyko">Anatoly Gromyko</a> and Martin Hellman served as the chief editors of this book. The authors of the book examine questions such as: How can we overcome the inexorable forces leading toward a clash between the United States and the Soviet Union? How do we build a common vision for the future? How can we restructure our thinking to synchronize with the imperative of our modern world?<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Defusing_the_nuclear_threat">Defusing the nuclear threat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Hellman&amp;action=edit&amp;section=7" title="Edit section: Defusing the nuclear threat">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hellman's current project in international security is to defuse the nuclear threat. In particular, he is studying the probabilities and risks associated with nuclear weapons and encouraging further international research in this area. His website NuclearRisk.org<sup id="cite_ref-NuclearRisk.org_9-1" class="reference"><a href="#cite_note-NuclearRisk.org-9"><span>[</span>9<span>]</span></a></sup> has been endorsed by a number of prominent individuals, including a former Director of the National Security Agency, Stanford's President Emeritus, and two Nobel Laureates.</p>
+<p>Hellman is a member of the Board of Directors for Daisy Alliance, a non-governmental organization based in Atlanta, Georgia, seeking global security through nuclear nonproliferation and disarmament.</p>
+<h2><span class="mw-headline" id="Awards_and_honors">Awards and honors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Hellman&amp;action=edit&amp;section=8" title="Edit section: Awards and honors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1997 he was awarded <a href="/wiki/The_Franklin_Institute" title="The Franklin Institute" class="mw-redirect">The Franklin Institute</a>'s <a href="/wiki/Louis_E._Levy_Medal" title="Louis E. Levy Medal" class="mw-redirect">Louis E. Levy Medal</a>,<sup id="cite_ref-LevyMedal_Laureates_17-0" class="reference"><a href="#cite_note-LevyMedal_Laureates-17"><span>[</span>17<span>]</span></a></sup> in 1981 the <a href="/wiki/IEEE_Donald_G._Fink_Prize_Paper_Award" title="IEEE Donald G. Fink Prize Paper Award">IEEE Donald G. Fink Prize Paper Award</a> (together with <a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Whitfield Diffie</a>),<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> in 1998 a Golden Jubilee Award for Technological Innovation from the <a href="/wiki/IEEE_Information_Theory_Society" title="IEEE Information Theory Society">IEEE Information Theory Society</a>,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> and in 2010 the <a href="/wiki/IEEE_Richard_W._Hamming_Medal" title="IEEE Richard W. Hamming Medal">IEEE Richard W. Hamming Medal</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<p>In 2011, he was inducted into the <a href="/wiki/National_Inventors_Hall_of_Fame" title="National Inventors Hall of Fame">National Inventors Hall of Fame</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></p>
+<p>Also in 2011, Hellman was made a Fellow of the <a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> for his work, with Whitfield Diffie and Ralph Merkle, on public key cryptography.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Hellman&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/bios/Martin,Hellman/">Martin Hellman 2011 Fellow</a></span></li>
+<li id="cite_note-microsoft-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-microsoft_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://academic.research.microsoft.com/Author/2003889">List of publications</a> from <a href="/wiki/Microsoft_Academic_Search" title="Microsoft Academic Search">Microsoft Academic Search</a></span></li>
+<li id="cite_note-dblp-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-dblp_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dblp.uni-trier.de/pers/hd/h/Hellman:Martin_E=">Martin Hellman's publications</a> indexed by the <a href="/wiki/DBLP" title="DBLP">DBLP Bibliography Server</a> at the <a href="/wiki/University_of_Trier" title="University of Trier">University of Trier</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Diffie, W.</a>; Hellman, M. (1976). <a rel="nofollow" class="external text" href="//ee.stanford.edu/%7Ehellman/publications/24.pdf">"New directions in cryptography"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/IEEE_Transactions_on_Information_Theory" title="IEEE Transactions on Information Theory">IEEE Transactions on Information Theory</a></i> <b>22</b> (6): 644–654. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FTIT.1976.1055638">10.1109/TIT.1976.1055638</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.atitle=New+directions+in+cryptography&amp;rft.aufirst=W.&amp;rft.au=Hellman%2C+M.&amp;rft.aulast=Diffie&amp;rft.date=1976&amp;rft.genre=article&amp;rft_id=%2F%2Fee.stanford.edu%2F%257Ehellman%2Fpublications%2F24.pdf&amp;rft_id=info%3Adoi%2F10.1109%2FTIT.1976.1055638&amp;rft.issue=6&amp;rft.jtitle=IEEE+Transactions+on+Information+Theory&amp;rft.pages=644-654&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=22" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Leung-Yan-Cheong, S.; Hellman, M. (1978). "The Gaussian wire-tap channel". <i>IEEE Transactions on Information Theory</i> <b>24</b> (4): 451. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FTIT.1978.1055917">10.1109/TIT.1978.1055917</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.atitle=The+Gaussian+wire-tap+channel&amp;rft.aufirst=S.&amp;rft.au=Hellman%2C+M.&amp;rft.aulast=Leung-Yan-Cheong&amp;rft.date=1978&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FTIT.1978.1055917&amp;rft.issue=4&amp;rft.jtitle=IEEE+Transactions+on+Information+Theory&amp;rft.pages=451&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=24" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Karnin, E.; Greene, J.; Hellman, M. (1983). "On secret sharing systems". <i>IEEE Transactions on Information Theory</i> <b>29</b>: 35. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FTIT.1983.1056621">10.1109/TIT.1983.1056621</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.atitle=On+secret+sharing+systems&amp;rft.aufirst=E.&amp;rft.au=Greene%2C+J.&amp;rft.au=Hellman%2C+M.&amp;rft.aulast=Karnin&amp;rft.date=1983&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FTIT.1983.1056621&amp;rft.jtitle=IEEE+Transactions+on+Information+Theory&amp;rft.pages=35&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Merkle, R.; Hellman, M. (1978). "Hiding information and signatures in trapdoor knapsacks". <i>IEEE Transactions on Information Theory</i> <b>24</b> (5): 525. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FTIT.1978.1055927">10.1109/TIT.1978.1055927</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.atitle=Hiding+information+and+signatures+in+trapdoor+knapsacks&amp;rft.aufirst=R.&amp;rft.au=Hellman%2C+M.&amp;rft.aulast=Merkle&amp;rft.date=1978&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FTIT.1978.1055927&amp;rft.issue=5&amp;rft.jtitle=IEEE+Transactions+on+Information+Theory&amp;rft.pages=525&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=24" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pohlig, S.; Hellman, M. (1978). "An improved algorithm for computing logarithms over&lt;tex&gt;GF(p)&lt;/tex&gt;and its cryptographic significance (Corresp.)". <i>IEEE Transactions on Information Theory</i> <b>24</b>: 106. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FTIT.1978.1055817">10.1109/TIT.1978.1055817</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.atitle=An+improved+algorithm+for+computing+logarithms+over%3Ctex%3EGF%28p%29%3C%2Ftex%3Eand+its+cryptographic+significance+%28Corresp.%29&amp;rft.aufirst=S.&amp;rft.au=Hellman%2C+M.&amp;rft.aulast=Pohlig&amp;rft.date=1978&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2FTIT.1978.1055817&amp;rft.jtitle=IEEE+Transactions+on+Information+Theory&amp;rft.pages=106&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=24" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NuclearRisk.org-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-NuclearRisk.org_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NuclearRisk.org_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://NuclearRisk.org">NuclearRisk.org</a></span></li>
+<li id="cite_note-hellmanphd-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-hellmanphd_10-0">^</a></b></span> <span class="reference-text"><cite class="citation thesis">Hellman, Martin (1969). <a rel="nofollow" class="external text" href="http://search.proquest.com/docview/302464730"><i>Learning with Finite Memory</i></a> (PhD thesis). Stanford University.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.aufirst=Martin&amp;rft.aulast=Hellman&amp;rft.date=1969&amp;rft.degree=PhD&amp;rft_id=http%3A%2F%2Fsearch.proquest.com%2Fdocview%2F302464730&amp;rft.inst=Stanford+University&amp;rft.title=Learning+with+Finite+Memory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-HellmanHomePage-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-HellmanHomePage_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HellmanHomePage_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Martin Hellman's webpage at Stanford University <a rel="nofollow" class="external free" href="http://www-ee.stanford.edu/~hellman">http://www-ee.stanford.edu/~hellman</a></span></li>
+<li id="cite_note-Marconi-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Marconi_12-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.columbia.edu/cu/record/archives/vol26/vol26_iss4/2604_Marconi_Honors_Investors.html">Columbia University press release regarding Marconi Fellowship</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.toad.com/des-stanford-meeting.html">"DES (Data Encryption Standard) Review at Stanford University"</a>. 1976<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.btitle=DES+%28Data+Encryption+Standard%29+Review+at+Stanford+University&amp;rft.date=1976&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.toad.com%2Fdes-stanford-meeting.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BeyondWarNewWayOfThinking-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-BeyondWarNewWayOfThinking_14-0">^</a></b></span> <span class="reference-text">Richard Rathbun, Rick Roney, Louise Smith, Donna Richeson, Don Fitton, Craig Ritchey, "BEYOND WAR: A New Way of Thinking", (Editors: Martin Hellman, Craig Barnes, Al Braun, Pat Chandler, Jack Li, Mac Lawrence, Tom Lindsay, Tom Osborne, Chris Rich, Nancy Ritchey, Karen Stevens and Judie Swope.) <a rel="nofollow" class="external text" href="http://traubman.igc.org/bwthinking.pdf">PDF available free online</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www-ee.stanford.edu/~hellman/Breakthrough/">Breakthrough website page</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Anatoly Gromyko, Martin Hellman, Craig Barnes, Alexander Nikitin, Donald Fitton, Sergei Kapitza, Elena Loshchenkova, William McGlashan, Andrei Melville, Harold Sandler, Olivia Simantob, "Breakthrough: Emerging New Thinking", Walker and Company, <a href="/wiki/Special:BookSources/0802710263" class="internal mw-magiclink-isbn">ISBN 0-8027-1026-3</a>, <a href="/wiki/Special:BookSources/0802710158" class="internal mw-magiclink-isbn">ISBN 0-8027-1015-8</a> and published simultaneously in the Soviet Union by Progress Publishing Company, Moscow. <a rel="nofollow" class="external text" href="http://www-ee.stanford.edu/~hellman/">Martin Hellman's Stanford website page</a>, <a rel="nofollow" class="external text" href="http://www-ee.stanford.edu/~hellman/Breakthrough/book/pdfs/breakthrough.pdf">PDF online free</a></span></li>
+<li id="cite_note-LevyMedal_Laureates-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-LevyMedal_Laureates_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fi.edu/winners/show_results.faw?gs=&amp;ln=&amp;fn=&amp;keyword=&amp;subject=&amp;award=LEVY+&amp;sy=1923&amp;ey=1999&amp;name=Submit">"Franklin Laureate Database – Louis E. Levy Medal Laureates"</a>. <a href="/wiki/Franklin_Institute" title="Franklin Institute">Franklin Institute</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 22,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.btitle=Franklin+Laureate+Database+%93+Louis+E.+Levy+Medal+Laureates&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fi.edu%2Fwinners%2Fshow_results.faw%3Fgs%3D%26ln%3D%26fn%3D%26keyword%3D%26subject%3D%26award%3DLEVY%2B%26sy%3D1923%26ey%3D1999%26name%3DSubmit&amp;rft.pub=Franklin+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="//www.ieee.org/documents/fink_rl.pdf">"IEEE Donald G. Fink Prize Paper Award Recipients"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 2,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.btitle=IEEE+Donald+G.+Fink+Prize+Paper+Award+Recipients&amp;rft.genre=unknown&amp;rft_id=%2F%2Fwww.ieee.org%2Fdocuments%2Ffink_rl.pdf&amp;rft.pub=IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.itsoc.org/honors/golden-jubilee-awards-for-technological-innovation">"Golden Jubilee Awards for Technological Innovation"</a>. <a href="/wiki/IEEE_Information_Theory_Society" title="IEEE Information Theory Society">IEEE Information Theory Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 14,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.btitle=Golden+Jubilee+Awards+for+Technological+Innovation&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.itsoc.org%2Fhonors%2Fgolden-jubilee-awards-for-technological-innovation&amp;rft.pub=IEEE+Information+Theory+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="//www.ieee.org/documents/hamming_rl.pdf">"IEEE Richard W. Hamming Medal Recipients"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 22,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.btitle=IEEE+Richard+W.+Hamming+Medal+Recipients&amp;rft.genre=unknown&amp;rft_id=%2F%2Fwww.ieee.org%2Fdocuments%2Fhamming_rl.pdf&amp;rft.pub=IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.invent.org/2011induction/1_3_11_induction_hellman.asp">"Meet the 2011 National Inventors Hall of Fame Inductees – Martin Hellman"</a>. <a href="/wiki/National_Inventors_Hall_of_Fame" title="National Inventors Hall of Fame">National Inventors Hall of Fame</a><span class="reference-accessdate">. Retrieved <span class="nowrap">May 5,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.btitle=Meet+the+2011+National+Inventors+Hall+of+Fame+Inductees+%93+Martin+Hellman&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.invent.org%2F2011induction%2F1_3_11_induction_hellman.asp&amp;rft.pub=National+Inventors+Hall+of+Fame&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/bios/Martin,Hellman/">"Martin Hellman"</a>. Computer History Museum<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMartin+Hellman&amp;rft.btitle=Martin+Hellman&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Ffellowawards%2Fhall%2Fbios%2FMartin%2CHellman%2F&amp;rft.pub=Computer+History+Museum&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Hellman&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Martin_Hellman" class="extiw" title="commons:Category:Martin Hellman">Martin Hellman</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://purl.umn.edu/107353">Oral history interview with Martin Hellman</a> Oral history interview 2004, Palo Alto, California. <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a>, University of Minnesota, Minneapolis. Hellman describes his invention of <a href="/wiki/Public_key_cryptography" title="Public key cryptography" class="mw-redirect">public key cryptography</a> with collaborators <a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Whitfield Diffie</a> and <a href="/wiki/Ralph_Merkle" title="Ralph Merkle">Ralph Merkle</a> at Stanford University in the mid-1970s. He also relates his subsequent work in cryptography with <a href="/wiki/Steve_Pohlig" title="Steve Pohlig" class="mw-redirect">Steve Pohlig</a> (the <a href="/wiki/Pohlig%E2%80%93Hellman_algorithm" title="Pohlig–Hellman algorithm">Pohlig–Hellman algorithm</a>) and others. Hellman addresses the <a href="/wiki/National_Security_Agency" title="National Security Agency">National Security Agency</a>’s (NSA) early efforts to contain and discourage academic work in the field, the Department of Commerce’s encryption export restrictions (under the <a href="/wiki/ITAR" title="ITAR" class="mw-redirect">International Traffic of Arms Regulation</a>, or ITAR), and key escrow (the so-called <a href="/wiki/Clipper_chip" title="Clipper chip">Clipper chip</a>). He also touches on the commercialization of cryptography with <a href="/wiki/RSA_Data_Security" title="RSA Data Security" class="mw-redirect">RSA Data Security</a> and <a href="/wiki/VeriSign" title="VeriSign" class="mw-redirect">VeriSign</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://nuclearrisk.org/">Martin Hellman's website on the risk of nuclear threat from nuclear war or nuclear terrorism</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.soe.ucsc.edu/news/event?ID=1512">"Defusing the nuclear threat and making the world safer"</a> Announcement of Hellman presentation at U.C. Santa Cruz; Oct. 2008</li>
+<li><a rel="nofollow" class="external text" href="http://media.omediaweb.com/rsa2009/preview/webcast.htm?id=1_5">Hellman at the 2009 RSA conference</a>, video with Hellman participating on the Cryptographer's Panel, April 21, 2009, Moscone Center, San Francisco</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=D1xnM3bbkCg"><span class="plainlinks">Soaring, Cryptography and Nuclear Weapons</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Kanellakis_Award_laureates" title="Template:Kanellakis Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Kanellakis_Award_laureates" title="Template talk:Kanellakis Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Kanellakis_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%">Winners of the <a href="/wiki/Paris_Kanellakis_Award" title="Paris Kanellakis Award">Paris Kanellakis Theory and Practice Award</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Adleman</a>, <a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Diffie</a>, <strong class="selflink">Hellman</strong>, <a href="/wiki/Ralph_Merkle" title="Ralph Merkle">Merkle</a>, <a href="/wiki/Ron_Rivest" title="Ron Rivest">Rivest</a>, <a href="/wiki/Adi_Shamir" title="Adi Shamir">Shamir</a> <small>(1996)</small></li>
+<li><a href="/wiki/Abraham_Lempel" title="Abraham Lempel">Lempel</a>, <a href="/wiki/Jacob_Ziv" title="Jacob Ziv">Ziv</a> <small>(1997)</small></li>
+<li><a href="/wiki/Randal_Bryant" title="Randal Bryant">Bryant</a>, <a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Clarke</a>, <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">Emerson</a>, <a href="/w/index.php?title=Kenneth_L._McMillan&amp;action=edit&amp;redlink=1" class="new" title="Kenneth L. McMillan (page does not exist)">McMillan</a> <small>(1998)</small></li>
+<li><a href="/wiki/Daniel_Sleator" title="Daniel Sleator">Sleator</a>, <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Tarjan</a> <small>(1999)</small></li>
+<li><a href="/wiki/Narendra_Karmarkar" title="Narendra Karmarkar">Karmarkar</a> <small>(2000)</small></li>
+<li><a href="/wiki/Eugene_Myers" title="Eugene Myers">Myers</a> <small>(2001)</small></li>
+<li><a href="/wiki/Peter_Franaszek" title="Peter Franaszek">Franaszek</a> <small>(2002)</small></li>
+<li><a href="/wiki/Gary_Miller_(computer_scientist)" title="Gary Miller (computer scientist)">Miller</a>, <a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Rabin</a>, <a href="/wiki/Robert_M._Solovay" title="Robert M. Solovay">Solovay</a>, <a href="/wiki/Volker_Strassen" title="Volker Strassen">Strassen</a> <small>(2003)</small></li>
+<li><a href="/wiki/Yoav_Freund" title="Yoav Freund">Freund</a>, <a href="/wiki/Robert_Schapire" title="Robert Schapire">Schapire</a> <small>(2004)</small></li>
+<li><a href="/wiki/Gerard_J._Holzmann" title="Gerard J. Holzmann">Holzmann</a>, <a href="/w/index.php?title=Robert_Kurshan&amp;action=edit&amp;redlink=1" class="new" title="Robert Kurshan (page does not exist)">Kurshan</a>, <a href="/wiki/Moshe_Vardi" title="Moshe Vardi">Vardi</a>, <a href="/wiki/Pierre_Wolper" title="Pierre Wolper">Wolper</a> <small>(2005)</small></li>
+<li><a href="/w/index.php?title=Robert_Brayton&amp;action=edit&amp;redlink=1" class="new" title="Robert Brayton (page does not exist)">Brayton</a> <small>(2006)</small></li>
+<li><a href="/wiki/Bruno_Buchberger" title="Bruno Buchberger">Buchberger</a> <small>(2007)</small></li>
+<li><a href="/wiki/Corinna_Cortes" title="Corinna Cortes">Cortes</a>, <a href="/wiki/Vladimir_Vapnik" title="Vladimir Vapnik">Vapnik</a> <small>(2008)</small></li>
+<li><a href="/wiki/Mihir_Bellare" title="Mihir Bellare">Bellare</a>, <a href="/wiki/Phillip_Rogaway" title="Phillip Rogaway">Rogaway</a> <small>(2009)</small></li>
+<li><a href="/wiki/Kurt_Mehlhorn" title="Kurt Mehlhorn">Mehlhorn</a> <small>(2010)</small></li>
+<li><a href="/wiki/Hanan_Samet" title="Hanan Samet">Samet</a> <small>(2011)</small></li>
+<li><a href="/wiki/Andrei_Broder" title="Andrei Broder">Broder</a>, <a href="/wiki/Moses_Charikar" title="Moses Charikar">Charikar</a>, <a href="/wiki/Piotr_Indyk" title="Piotr Indyk">Indyk</a> <small>(2012)</small></li>
+<li><a href="/w/index.php?title=Robert_D._Blumofe&amp;action=edit&amp;redlink=1" class="new" title="Robert D. Blumofe (page does not exist)">Blumofe</a>, <a href="/wiki/Charles_E._Leiserson" title="Charles E. Leiserson">Leiserson</a> <small>(2013)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Richard_W._Hamming_Medal_recipients" title="Template:Richard W. Hamming Medal recipients"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Richard_W._Hamming_Medal_recipients" title="Template talk:Richard W. Hamming Medal recipients"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Richard_W._Hamming_Medal_recipients&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/IEEE_Richard_W._Hamming_Medal" title="IEEE Richard W. Hamming Medal">IEEE Richard W. Hamming Medal</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1988–2000</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1988)</small></li>
+<li><a href="/wiki/Irving_S._Reed" title="Irving S. Reed">Irving S. Reed</a> <small>(1989)</small></li>
+<li><a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> / <a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> <small>(1990)</small></li>
+<li><a href="/wiki/Elwyn_Berlekamp" title="Elwyn Berlekamp">Elwyn Berlekamp</a> <small>(1991)</small></li>
+<li><a href="/wiki/Lotfi_A._Zadeh" title="Lotfi A. Zadeh">Lotfi A. Zadeh</a> <small>(1992)</small></li>
+<li><a href="/wiki/Jorma_Rissanen" title="Jorma Rissanen">Jorma Rissanen</a> <small>(1993)</small></li>
+<li><a href="/wiki/Gottfried_Ungerboeck" title="Gottfried Ungerboeck">Gottfried Ungerboeck</a> <small>(1994)</small></li>
+<li><a href="/wiki/Jacob_Ziv" title="Jacob Ziv">Jacob Ziv</a> <small>(1995)</small></li>
+<li><a href="/wiki/Mark_Semenovich_Pinsker" title="Mark Semenovich Pinsker">Mark Semenovich Pinsker</a> <small>(1996)</small></li>
+<li><a href="/wiki/Thomas_M._Cover" title="Thomas M. Cover">Thomas M. Cover</a> <small>(1997)</small></li>
+<li><a href="/wiki/David_D._Clark" title="David D. Clark">David D. Clark</a> <small>(1998)</small></li>
+<li><a href="/wiki/David_A._Huffman" title="David A. Huffman">David A. Huffman</a> <small>(1999)</small></li>
+<li><a href="/wiki/Solomon_W._Golomb" title="Solomon W. Golomb">Solomon W. Golomb</a> <small>(2000)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2001–present</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alexander_G._Fraser" title="Alexander G. Fraser">Alexander G. Fraser</a> <small>(2001)</small></li>
+<li><a href="/wiki/Peter_Elias" title="Peter Elias">Peter Elias</a> <small>(2002)</small></li>
+<li><a href="/wiki/Claude_Berrou" title="Claude Berrou">Claude Berrou</a> / <a href="/wiki/Alain_Glavieux" title="Alain Glavieux">Alain Glavieux</a> <small>(2003)</small></li>
+<li><a href="/wiki/Jack_Wolf" title="Jack Wolf">Jack K. Wolf</a> <small>(2004)</small></li>
+<li><a href="/wiki/Neil_Sloane" title="Neil Sloane">Neil Sloane</a> <small>(2005)</small></li>
+<li><a href="/wiki/Vladimir_Levenshtein" title="Vladimir Levenshtein">Vladimir Levenshtein</a> <small>(2006)</small></li>
+<li><a href="/wiki/Abraham_Lempel" title="Abraham Lempel">Abraham Lempel</a> <small>(2007)</small></li>
+<li><a href="/wiki/Sergio_Verd%C3%BA" title="Sergio Verdú">Sergio Verdú</a> <small>(2008)</small></li>
+<li><a href="/wiki/Peter_Franaszek" title="Peter Franaszek">Peter Franaszek</a> <small>(2009)</small></li>
+<li><a href="/wiki/Whitfield_Diffie" title="Whitfield Diffie">Whitfield Diffie</a> / <strong class="selflink">Martin Hellman</strong> / <a href="/wiki/Ralph_Merkle" title="Ralph Merkle">Ralph Merkle</a> <small>(2010)</small></li>
+<li><a href="/wiki/Toby_Berger" title="Toby Berger">Toby Berger</a> <small>(2011)</small></li>
+<li><a href="/wiki/Michael_Luby" title="Michael Luby">Michael Luby</a> / <a href="/wiki/Amin_Shokrollahi" title="Amin Shokrollahi">Amin Shokrollahi</a> <small>(2012)</small></li>
+<li><a href="/wiki/Robert_Calderbank" title="Robert Calderbank">Robert Calderbank</a> <small>(2013)</small></li>
+<li>Thomas Richardson / <a href="/w/index.php?title=R%C3%BCdiger_L._Urbanke&amp;action=edit&amp;redlink=1" class="new" title="Rüdiger L. Urbanke (page does not exist)">Rüdiger L. Urbanke</a> <small>(2014)</small></li>
+<li><a href="/wiki/Imre_Csisz%C3%A1r" title="Imre Csiszár">Imre Csiszár</a> <small>(2015)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n86-039843">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/26080784">26080784</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n86039843">n86039843</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/067823092">067823092</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1038
+Cached time: 20160107130643
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.506 seconds
+Real time usage: 0.584 seconds
+Preprocessor visited node count: 1757/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 50883/2097152 bytes
+Template argument size: 2169/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.200/10.000 seconds
+Lua memory usage: 3.52 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  469.802      1 - -total
+ 48.86%  229.530      1 - Template:Reflist
+ 25.75%  120.960      1 - Template:Infobox_scientist
+ 23.41%  109.960      1 - Template:Infobox
+ 20.45%   96.090      5 - Template:Cite_journal
+ 12.04%   56.576      7 - Template:Cite_web
+  7.59%   35.650      1 - Template:Commons_category
+  6.75%   31.696      4 - Template:Br_separated_entries
+  6.47%   30.391      1 - Template:Commons
+  5.94%   27.892      1 - Template:Sister_project
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:422387-0!*!0!!en!4!* and timestamp 20160107130642 and revision id 678328089
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Martin_Hellman&amp;oldid=678328089">https://en.wikipedia.org/w/index.php?title=Martin_Hellman&amp;oldid=678328089</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1945_births" title="Category:1945 births">1945 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:American_cryptographers" title="Category:American cryptographers">American cryptographers</a></li><li><a href="/wiki/Category:IBM_employees" title="Category:IBM employees">IBM employees</a></li><li><a href="/wiki/Category:New_York_University_alumni" title="Category:New York University alumni">New York University alumni</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_faculty" title="Category:Massachusetts Institute of Technology faculty">Massachusetts Institute of Technology faculty</a></li><li><a href="/wiki/Category:Stanford_University_School_of_Engineering_faculty" title="Category:Stanford University School of Engineering faculty">Stanford University School of Engineering faculty</a></li><li><a href="/wiki/Category:Public-key_cryptographers" title="Category:Public-key cryptographers">Public-key cryptographers</a></li><li><a href="/wiki/Category:Modern_cryptographers" title="Category:Modern cryptographers">Modern cryptographers</a></li><li><a href="/wiki/Category:The_Bronx_High_School_of_Science_alumni" title="Category:The Bronx High School of Science alumni">The Bronx High School of Science alumni</a></li><li><a href="/wiki/Category:IACR_fellows" title="Category:IACR fellows">IACR fellows</a></li><li><a href="/wiki/Category:Polytechnic_Institute_of_New_York_University_alumni" title="Category:Polytechnic Institute of New York University alumni">Polytechnic Institute of New York University alumni</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Martin+Hellman&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Martin+Hellman" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Martin_Hellman"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Martin_Hellman"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Martin_Hellman" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Martin_Hellman&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Martin_Hellman&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Martin_Hellman" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Martin_Hellman" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Martin_Hellman&amp;oldid=678328089" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Martin_Hellman&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q476466" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Martin_Hellman&amp;id=678328089" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Martin+Hellman">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Martin+Hellman&amp;returnto=Martin+Hellman&amp;oldid=678328089&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Martin_Hellman&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D8%AA%D9%86_%D9%87%D9%8A%D9%84%D9%85%D8%A7%D9%86" title="مارتن هيلمان – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Martin_Hellman" title="Martin Hellman – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Martin_Hellman" title="Martin Hellman – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Martin_Hellman" title="Martin Hellman – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D8%AA%DB%8C%D9%86_%D8%A7%D8%AF%D9%88%D8%A7%D8%B1%D8%AF_%D9%87%D9%84%D9%85%D9%86" title="مارتین ادوارد هلمن – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Martin_Hellman" title="Martin Hellman – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Martin_Hellman" title="Martin Hellman – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%98%D7%99%D7%9F_%D7%94%D7%9C%D7%9E%D7%9F" title="מרטין הלמן – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Martin_Hellman" title="Martin Hellman – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3" title="マーティン・ヘルマン – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Martin_Hellman" title="Martin Hellman – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Martin_Hellman" title="Martin Hellman – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Martin_Hellman" title="Martin Hellman – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BB%D0%BB%D0%BC%D0%B0%D0%BD,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD" title="Хеллман, Мартин – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Martin_Hellman" title="Martin Hellman – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Hellman" title="Hellman – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%A6%AC%E4%B8%81%C2%B7%E8%B5%AB%E7%88%BE%E6%9B%BC" title="馬丁·赫爾曼 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q476466#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 August 2015, at 18:10.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Martin_Hellman&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":703,"wgHostname":"mw1038"}); /* @nomin */
+} );</script>
+	</body>
+</html>

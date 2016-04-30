@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Whitfield Diffie - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Whitfield_Diffie","wgTitle":"Whitfield Diffie","wgCurRevisionId":698148487,"wgRevisionId":698148487,"wgArticleId":427776,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with accessdate and no URL","Articles containing potentially dated statements from 2008","All articles containing potentially dated statements","Commons category with page title same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with BNF identifiers","1944 births","Living people","American cryptographers","Modern cryptographers","Public-key cryptographers","Nortel employees","Sun Microsystems people","Massachusetts Institute of Technology alumni","Stanford University alumni","IACR fellows"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Whitfield_Diffie","wgRelevantArticleId":427776,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Whitfield_Diffie.png/71px-Whitfield_Diffie.png","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en","zh-cn","zh"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q462089","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Whitfield_Diffie" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Whitfield_Diffie&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Whitfield_Diffie&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Whitfield_Diffie" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Whitfield_Diffie skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Whitfield Diffie</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">"Diffie" redirects here. For the country music singer, see <a href="/wiki/Joe_Diffie" title="Joe Diffie">Joe Diffie</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Whitfield Diffie</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Whitfield_Diffie.png" class="image" title="Whitfield Diffie"><img alt="Whitfield Diffie" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Whitfield_Diffie.png/200px-Whitfield_Diffie.png" width="200" height="279" srcset="//upload.wikimedia.org/wikipedia/commons/d/d3/Whitfield_Diffie.png 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d3/Whitfield_Diffie.png 2x" data-file-width="204" data-file-height="285" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1944-06-05</span>)</span> June 5, 1944 <span class="noprint ForceAgeToShow">(age&#160;71)</span><br />
+Washington D.C</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/United_States" title="United States">United States</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a> AI lab</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> (B.S., 1965)</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Diffie%E2%80%93Hellman_key_exchange" title="Diffie–Hellman key exchange">Diffie–Hellman key exchange</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/Paris_Kanellakis_Award" title="Paris Kanellakis Award">Kanellakis Award</a> <small>(1996)</small><br />
+<a href="/wiki/Marconi_Prize" title="Marconi Prize">Marconi Prize</a> <small style="font-size:85%;">(2000)</small><br />
+<a href="/wiki/IEEE_Richard_W._Hamming_Medal" title="IEEE Richard W. Hamming Medal">Hamming Medal</a> <small>(2010)</small><br />
+<a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> Fellow (2011) <sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><b>Bailey Whitfield 'Whit' Diffie</b> (born June 5, 1944) is an <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Cryptographer" title="Cryptographer" class="mw-redirect">cryptographer</a> and one of the pioneers of <a href="/wiki/Public-key_cryptography" title="Public-key cryptography">public-key cryptography</a>.</p>
+<p>Diffie and <a href="/wiki/Martin_Hellman" title="Martin Hellman">Martin Hellman</a>'s paper <i>New Directions in Cryptography</i> was published in 1976. It introduced a radically new method of distributing <a href="/wiki/Cryptography" title="Cryptography">cryptographic</a> keys, that went far toward solving one of the fundamental problems of cryptography, <a href="/wiki/Key_distribution" title="Key distribution">key distribution</a>. It has become known as <a href="/wiki/Diffie%E2%80%93Hellman_key_exchange" title="Diffie–Hellman key exchange">Diffie–Hellman key exchange</a>. The article also seems to have stimulated the almost immediate public development of a new class of encryption algorithms, the <a href="/wiki/Asymmetric_key_algorithm" title="Asymmetric key algorithm" class="mw-redirect">asymmetric key algorithms</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>After a long career at <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a>, where he became a Sun Fellow, Diffie served for two and a half years as Vice President for Information Security and Cryptography at the <a href="/wiki/ICANN" title="ICANN">Internet Corporation for Assigned Names and Numbers</a> (2010–2012), a visiting scholar (2009–2010) and an affiliate (2010–2012)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> at the Freeman Spogli Institute's <a href="/wiki/Center_for_International_Security_and_Cooperation" title="Center for International Security and Cooperation">Center for International Security and Cooperation</a> at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background_and_career"><span class="tocnumber">1</span> <span class="toctext">Background and career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Public_key_cryptography"><span class="tocnumber">2</span> <span class="toctext">Public key cryptography</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Philosophical_leanings"><span class="tocnumber">3</span> <span class="toctext">Philosophical leanings</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Published_works"><span class="tocnumber">4</span> <span class="toctext">Published works</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background_and_career">Background and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whitfield_Diffie&amp;action=edit&amp;section=1" title="Edit section: Background and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Diffie was born in <a href="/wiki/New_York_City" title="New York City">New York City</a> to <a href="/wiki/Bailey_W._Diffie" title="Bailey W. Diffie">Bailey Wallys Diffie</a>, who taught Iberian history and culture at <a href="/wiki/City_College_of_New_York" title="City College of New York">City College of New York</a>, and Justine Louise Whitfield, a writer and scholar.<sup id="cite_ref-nytm19940712_4-0" class="reference"><a href="#cite_note-nytm19940712-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>His interest in cryptography began at "age 10 when his father, a professor, brought home the entire crypto shelf of the City College Library in New York."<sup id="cite_ref-nytm19940712_4-1" class="reference"><a href="#cite_note-nytm19940712-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>He received a <a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">Bachelor of Science</a> degree in <a href="/wiki/Mathematics" title="Mathematics">mathematics</a> from the <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a> in 1965. From 1965-1969, he worked for the <a href="/wiki/MITRE_Corporation" title="MITRE Corporation" class="mw-redirect">MITRE Corporation</a>. He did his graduate studies at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>. He received an <a href="/wiki/Honorary_doctorate" title="Honorary doctorate" class="mw-redirect">honorary doctorate</a> from the <a href="/wiki/Swiss_Federal_Institute_of_Technology_Z%C3%BCrich" title="Swiss Federal Institute of Technology Zürich" class="mw-redirect">Swiss Federal Institute of Technology</a> in 1992.<sup id="cite_ref-ol20110128_5-0" class="reference"><a href="#cite_note-ol20110128-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In 1975–76, Diffie and <a href="/wiki/Martin_Hellman" title="Martin Hellman">Martin Hellman</a> criticized the <a href="/wiki/National_Institute_for_Standards_and_Technology" title="National Institute for Standards and Technology" class="mw-redirect">NBS</a> proposed <a href="/wiki/Data_Encryption_Standard" title="Data Encryption Standard">Data Encryption Standard</a>, largely because its 56-bit key length was too short to prevent <a href="/wiki/Brute-force_attack" title="Brute-force attack">brute-force attack</a>. An audio recording survives of their review of DES at Stanford in 1976 with <a href="/w/index.php?title=Dennis_Branstad&amp;action=edit&amp;redlink=1" class="new" title="Dennis Branstad (page does not exist)">Dennis Branstad</a> of <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">NBS</a> and representatives of the <a href="/wiki/National_Security_Agency" title="National Security Agency">National Security Agency</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> Their concern was well-founded: subsequent history has shown not only that NSA actively intervened with IBM and NBS to shorten the key size, but also that the short key size enabled exactly the kind of massively parallel key crackers that Hellman and Diffie sketched out. When these were ultimately built outside the classified world, they made it clear that DES was insecure and obsolete. In 2012, a $10,000 commercially available machine could recover a DES key in days.</p>
+<p>Diffie was Manager of Secure Systems Research for <a href="/wiki/Nortel_Networks" title="Nortel Networks" class="mw-redirect">Northern Telecom</a>, where he designed the key management architecture for the <a href="/w/index.php?title=PDSO&amp;action=edit&amp;redlink=1" class="new" title="PDSO (page does not exist)">PDSO</a> security system for <a href="/wiki/X.25" title="X.25">X.25</a> networks.<sup id="cite_ref-ol20110128_5-1" class="reference"><a href="#cite_note-ol20110128-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In 1991 he joined <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a> Laboratories (in <a href="/wiki/Menlo_Park,_California" title="Menlo Park, California">Menlo Park, California</a>) as a Distinguished <a href="/wiki/Engineer" title="Engineer">Engineer</a>, working primarily on public policy aspects of cryptography. Diffie remained with Sun, serving as its Chief Security Officer and as a Vice President until November 2009. He was also a Sun Fellow.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>In 1992 he was awarded a <a href="/wiki/Doctorate" title="Doctorate">Doctorate</a> in Technical Sciences (Honoris Causa) by the <a href="/wiki/ETH_Zurich" title="ETH Zurich">ETH Zurich</a>. He is also a fellow of the <a href="/wiki/Marconi_Foundation" title="Marconi Foundation" class="mw-redirect">Marconi Foundation</a> and visiting fellow of the <a href="/wiki/Isaac_Newton_Institute" title="Isaac Newton Institute">Isaac Newton Institute</a>. He has received various awards from other organisations. In July 2008, he was also awarded a Degree of Doctor of Science (Honoris Causa) by <a href="/wiki/Royal_Holloway,_University_of_London" title="Royal Holloway, University of London">Royal Holloway, University of London</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> He was also awarded the <a href="/wiki/IEEE_Donald_G._Fink_Prize_Paper_Award" title="IEEE Donald G. Fink Prize Paper Award">IEEE Donald G. Fink Prize Paper Award</a> in 1981 (together with <a href="/wiki/Martin_E._Hellman" title="Martin E. Hellman" class="mw-redirect">Martin E. Hellman</a>),<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> <a href="/wiki/The_Franklin_Institute" title="The Franklin Institute" class="mw-redirect">The Franklin Institute</a>'s <a href="/wiki/Louis_E._Levy_Medal" title="Louis E. Levy Medal" class="mw-redirect">Louis E. Levy Medal</a> in 1997<sup id="cite_ref-LevyMedal_Laureates_10-0" class="reference"><a href="#cite_note-LevyMedal_Laureates-10"><span>[</span>10<span>]</span></a></sup> a Golden Jubilee Award for Technological Innovation from the <a href="/wiki/IEEE_Information_Theory_Society" title="IEEE Information Theory Society">IEEE Information Theory Society</a> in 1998,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> and the <a href="/wiki/IEEE_Richard_W._Hamming_Medal" title="IEEE Richard W. Hamming Medal">IEEE Richard W. Hamming Medal</a> in 2010.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>As of 2008<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Whitfield_Diffie&amp;action=edit">[update]</a></sup>, Diffie was a visiting professor at the <a href="/wiki/Information_Security_Group" title="Information Security Group">Information Security Group</a> based at <a href="/wiki/Royal_Holloway,_University_of_London" title="Royal Holloway, University of London">Royal Holloway, University of London</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>In May 2010, Diffie joined the Internet Corporation for Assigned Names and Numbers (<a href="/wiki/ICANN" title="ICANN">ICANN</a>) as Vice President for Information Security and Cryptography - a position he left in October 2012.<sup id="cite_ref-join_ICANN_14-0" class="reference"><a href="#cite_note-join_ICANN-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>In 2011, Diffie was named a Fellow of the <a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a> "for his work, with Martin Hellman and Ralph Merkle, on public key cryptography."<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>Diffie is a member of the technical advisory board at <a href="/wiki/Cryptomathic" title="Cryptomathic">Cryptomathic</a>, where he collaborates with researchers such as <a href="/wiki/Vincent_Rijmen" title="Vincent Rijmen">Vincent Rijmen</a>, <a href="/wiki/Ivan_Damg%C3%A5rd" title="Ivan Damgård">Ivan Damgård</a> and <a href="/wiki/Peter_Landrock" title="Peter Landrock">Peter Landrock</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Public_key_cryptography">Public key cryptography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whitfield_Diffie&amp;action=edit&amp;section=2" title="Edit section: Public key cryptography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the early 1970s, Diffie worked with <a href="/wiki/Martin_Hellman" title="Martin Hellman">Martin Hellman</a> to develop the fundamental ideas of dual-key, or <a href="/wiki/Public_key" title="Public key" class="mw-redirect">public key</a>, <a href="/wiki/Cryptography" title="Cryptography">cryptography</a>. They published their results in 1976—solving one of the fundamental problems of cryptography, <a href="/wiki/Key_distribution" title="Key distribution">key distribution</a>—and essentially broke the <a href="/wiki/Monopoly" title="Monopoly">monopoly</a> that had previously existed where <a href="/wiki/State_(polity)" title="State (polity)">government entities</a> controlled cryptographic technology and the terms on which other individuals could have access to it. "From the moment Diffie and Hellman published their findings..., the National Security Agency's crypto monopoly was effectively terminated. ... Every company, every citizen now had routine access to the sorts of cryptographic technology that not many years ago ranked alongside the atom bomb as a source of power."<sup id="cite_ref-nytm19940712_4-2" class="reference"><a href="#cite_note-nytm19940712-4"><span>[</span>4<span>]</span></a></sup> The solution has become known as <a href="/wiki/Diffie%E2%80%93Hellman_key_exchange" title="Diffie–Hellman key exchange">Diffie–Hellman key exchange</a>.</p>
+<h2><span class="mw-headline" id="Philosophical_leanings">Philosophical leanings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whitfield_Diffie&amp;action=edit&amp;section=3" title="Edit section: Philosophical leanings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Diffie self-identifies as an <a href="/wiki/Iconoclasm" title="Iconoclasm">iconoclast</a>. He has stated that he "was always concerned about <a href="/wiki/Individualism" title="Individualism">individuals</a>, an <a href="/wiki/Privacy#An_individual_right" title="Privacy">individual's privacy</a> as opposed to <a href="/wiki/Secrecy#Government_secrecy" title="Secrecy">government secrecy</a>."<sup id="cite_ref-nytm19940712_4-3" class="reference"><a href="#cite_note-nytm19940712-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Published_works">Published works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whitfield_Diffie&amp;action=edit&amp;section=4" title="Edit section: Published works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Diffie and <a href="/wiki/Susan_Landau" title="Susan Landau">Susan Landau</a>'s book <i><a href="/w/index.php?title=Privacy_on_the_Line&amp;action=edit&amp;redlink=1" class="new" title="Privacy on the Line (page does not exist)">Privacy on the Line</a></i> was published in 1998 on the politics of wiretapping and encryption. An updated and expanded edition appeared in 2007.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></li>
+<li>1976. (with <a href="/wiki/Martin_Hellman" title="Martin Hellman">Martin Hellman</a>). <i>New directions in cryptography</i>. <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1055638&amp;tag=1">Information Theory, IEEE Transactions on (Volume:22 , Issue: 6 )</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whitfield_Diffie&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/bios/Whitfield,Diffie/">Whitfield Diffie 2011 Fellow</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Levy, 2001, p. 90ff</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cisac.stanford.edu/people/Whitfield_Diffie">"Whitfield Diffie - CISAC"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-02-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.btitle=Whitfield+Diffie+-+CISAC&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcisac.stanford.edu%2Fpeople%2FWhitfield_Diffie&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nytm19940712-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-nytm19940712_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nytm19940712_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nytm19940712_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-nytm19940712_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Levy, Stephen (1994-07-12). "Battle of the Clipper Chip". <i><a href="/wiki/New_York_Times_Magazine" title="New York Times Magazine" class="mw-redirect">New York Times Magazine</a></i>. pp.&#160;44–51, plus cover photo of Diffie. <q><i>Whitfield Diffie's amazing breakthrough could guarantee computer privacy. But the Government, fearing crime and terror, wants to co-opt his magic key and listen in. ... High-tech has created a huge privacy gap. But miraculously, a fix has emerged: cheap, easy-to-use-, virtually unbreakable encryption. Cryptography is the silver bullet by which we can hope to reclaim our privacy. ... a remarkable discovery made almost 20 years ago, a breakthrough that combined with the obscure field of cryptography into the mainstream of communications policy. It began with Whitfield Diffie, a young computer scientist and cryptographer. He did not work for the government. ... He had been bitten by the cryptography bug at age 10 when his father, a professor, brought home the entire crypto shelf of the City College Library in New York. ... [Diffie] was always concerned about individuals, an individual's privacy as opposed to Government secrecy. ... Diffie, now 50, is still committed to those beliefs. ... [Diffie] and Martin E. Hellman, an electrical engineering professor at Stanford University, created a crypto revolution. ... Diffie was dissatisfied with the security [on computer systems] ... in the 1960s [because] a system manager had access to all passwords. ... A perfect system would eliminate the need for a trusted third party. ... led Diffie to think about a more general problem in cryptography: key management. ... When Diffie moved to Stanford University in 1969, he foresaw the rise of home computer terminals [and pondered] how to use them to make transactions. ... in the mid-1970s, Diffie and Hellman achieved a stunning breakthrough that changed cryptography forever. They split the cryptographic key. In their system, every user has two keys, a public one and a private one, that are unique to their owner. Whatever is scrambled by one key can be unscrambled by the other. ... It was an amazing solution, but even more remarkable was that this split-key system solved both of Diffie's problems, the desire to shield communications from eavesdroppers and also to provide a secure electronic identification for contracts and financial transactions done by computer. It provided the identification by the use of 'digital signatures' that verify the sender much the same way that a real signature validates a check or contract. ... From the moment Diffie and Hellman published their findings in 1976, the National Security Agency's crypto monopoly was effectively terminated. ... Every company, every citizen now had routine access to the sorts of cryptographic technology that not many years ago ranked alongside the atom bomb as a source of power.'</i></q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.atitle=Battle+of+the+Clipper+Chip&amp;rft.aufirst=Stephen&amp;rft.aulast=Levy&amp;rft.date=1994-07-12&amp;rft.genre=article&amp;rft.jtitle=New+York+Times+Magazine&amp;rft.pages=44-51%2C+plus+cover+photo+of+Diffie&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-ol20110128-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-ol20110128_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ol20110128_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://labs.oracle.com/people/mybio.php?uid=18607">"The People at Oracle Labs"</a>. <i>Bio</i>. Oracle Corporation. n.d<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-28</span></span>. <q><i>Whitfield Diffie, Chief Security Officer of Sun Microsystems, is Vice President and Sun Fellow and has been at Sun since 1991. As Chief Security Officer, Diffie is the chief exponent of Sun's security vision and responsible for developing Sun's strategy to achieve that vision.</i></q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.atitle=The+People+at+Oracle+Labs&amp;rft.chron=n.d.&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flabs.oracle.com%2Fpeople%2Fmybio.php%3Fuid%3D18607&amp;rft.jtitle=Bio&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.toad.com/des-stanford-meeting.html">"DES (Data Encryption Standard) Review at Stanford University"</a>. 1976<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.btitle=DES+%28Data+Encryption+Standard%29+Review+at+Stanford+University&amp;rft.date=1976&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.toad.com%2Fdes-stanford-meeting.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://research.sun.com/people/mybio.php?uid=18607">"Dr. Whitfield Diffie"</a>. <i>Sun Microsystems employee pages</i>. <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.atitle=Dr.+Whitfield+Diffie&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fresearch.sun.com%2Fpeople%2Fmybio.php%3Fuid%3D18607&amp;rft.jtitle=Sun+Microsystems+employee+pages&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.isg.rhul.ac.uk/node/284">"Honorary Degree awarded to Prof Whitfield Diffie, Visiting Professor to the ISG"</a>. <i><a href="/wiki/Information_Security_Group" title="Information Security Group">Information Security Group</a> website</i>. <a href="/wiki/Royal_Holloway_University" title="Royal Holloway University" class="mw-redirect">Royal Holloway University</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 19,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.atitle=Honorary+Degree+awarded+to+Prof+Whitfield+Diffie%2C+Visiting+Professor+to+the+ISG&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.isg.rhul.ac.uk%2Fnode%2F284&amp;rft.jtitle=Information+Security+Group+website&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ieee.org/documents/fink_rl.pdf">"IEEE Donald G. Fink Prize Paper Award Recipients"</a> <span style="font-size:85%;">(PDF)</span>. IEEE<span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.btitle=IEEE+Donald+G.+Fink+Prize+Paper+Award+Recipients&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ieee.org%2Fdocuments%2Ffink_rl.pdf&amp;rft.pub=IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-LevyMedal_Laureates-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-LevyMedal_Laureates_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fi.edu/winners/show_results.faw?gs=&amp;ln=&amp;fn=&amp;keyword=&amp;subject=&amp;award=LEVY+&amp;sy=1923&amp;ey=1999&amp;name=Submit">"Franklin Laureate Database - Louis E. Levy Medal Laureates"</a>. <a href="/wiki/Franklin_Institute" title="Franklin Institute">Franklin Institute</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 22,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.btitle=Franklin+Laureate+Database+-+Louis+E.+Levy+Medal+Laureates&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.fi.edu%2Fwinners%2Fshow_results.faw%3Fgs%3D%26ln%3D%26fn%3D%26keyword%3D%26subject%3D%26award%3DLEVY%2B%26sy%3D1923%26ey%3D1999%26name%3DSubmit&amp;rft.pub=Franklin+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.itsoc.org/honors/golden-jubilee-awards-for-technological-innovation">"Golden Jubilee Awards for Technological Innovation"</a>. <a href="/wiki/IEEE_Information_Theory_Society" title="IEEE Information Theory Society">IEEE Information Theory Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 14,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.btitle=Golden+Jubilee+Awards+for+Technological+Innovation&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.itsoc.org%2Fhonors%2Fgolden-jubilee-awards-for-technological-innovation&amp;rft.pub=IEEE+Information+Theory+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ieee.org/documents/hamming_rl.pdf">"IEEE Richard W. Hamming Medal Recipients"</a> <span style="font-size:85%;">(PDF)</span>. IEEE<span class="reference-accessdate">. Retrieved <span class="nowrap">November 11,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.btitle=IEEE+Richard+W.+Hamming+Medal+Recipients&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.ieee.org%2Fdocuments%2Fhamming_rl.pdf&amp;rft.pub=IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.isg.rhul.ac.uk/alumniconference">Alumni Reunion Conference</a>, Information Security Group, Royal Holloway, University of London, 2008, accessed 2010-07-20.</span></li>
+<li id="cite_note-join_ICANN-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-join_ICANN_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.icann.org/en/news/releases/release-14may10-en.pdf">"Cryptography Legend Whit Diffie Joins the ICANN Team"</a> <span style="font-size:85%;">(PDF)</span>. <i>ICANN News Release</i>. <a href="/wiki/ICANN" title="ICANN">ICANN</a>. May 14, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-28</span></span>. <q>Globally recognized as a leader in public-key cryptography, encryption and network security, Diffie has a long and distinguished career as a leading force for innovative thought. He brings extensive experience in the design, development and implementation of security methods for networks. ... Prior to coming to ICANN, Diffie served as Vice President, Fellow, and Chief Security Officer with <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a>, at which he had worked from 1991 to 2009. At Sun, Diffie focused on the most fundamental security problems facing modern communications and computing with emphasis on public policy as well as technology. Prior to joining Sun, Diffie was Manager of Secure Systems Research for <a href="/wiki/Northern_Telecom" title="Northern Telecom" class="mw-redirect">Northern Telecom</a>, where he played a key role in the design of Northern's first packet security product and in developing the group that was later to become <a href="/wiki/Entrust" title="Entrust">Entrust</a>.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.atitle=Cryptography+Legend+Whit+Diffie+Joins+the+ICANN+Team&amp;rft.date=2010-05-14&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.icann.org%2Fen%2Fnews%2Freleases%2Frelease-14may10-en.pdf&amp;rft.jtitle=ICANN+News+Release&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.computerhistory.org/fellowawards/hall/bios/Whitfield,Diffie/">"Whitfield Diffie"</a>. Computer History Museum<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.btitle=Whitfield+Diffie&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Ffellowawards%2Fhall%2Fbios%2FWhitfield%2CDiffie%2F&amp;rft.pub=Computer+History+Museum&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cryptomathic.com/company/management-team">"Cryptomathic Management Team"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWhitfield+Diffie&amp;rft.btitle=Cryptomathic+Management+Team&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.cryptomathic.com%2Fcompany%2Fmanagement-team&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://mitpress.mit.edu/books/privacy-line">[1]</a> MIT Press</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whitfield_Diffie&amp;action=edit&amp;section=6" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Steven_Levy" title="Steven Levy">Steven Levy</a>, <i><a href="/wiki/Crypto:_How_the_Code_Rebels_Beat_the_Government_Saving_Privacy_in_the_Digital_Age" title="Crypto: How the Code Rebels Beat the Government Saving Privacy in the Digital Age" class="mw-redirect">Crypto: How the Code Rebels Beat the Government — Saving Privacy in the Digital Age</a></i>, <a href="/wiki/Special:BookSources/0140244328" class="internal mw-magiclink-isbn">ISBN 0-14-024432-8</a>, 2001.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Whitfield_Diffie&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Whitfield_Diffie" class="extiw" title="commons:Category:Whitfield Diffie">Whitfield Diffie</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://purl.umn.edu/107353">Oral history interview with Martin Hellman</a> Oral history interview 2004, Palo Alto, California. <a href="/wiki/Charles_Babbage_Institute" title="Charles Babbage Institute">Charles Babbage Institute</a>, University of Minnesota, Minneapolis. <a href="/wiki/Martin_Hellman" title="Martin Hellman">Hellman</a> describes his invention of <a href="/wiki/Public_key_cryptography" title="Public key cryptography" class="mw-redirect">public key cryptography</a> with collaborators Whitfield Diffie and <a href="/wiki/Ralph_Merkle" title="Ralph Merkle">Ralph Merkle</a> at Stanford University in the mid-1970s. He also relates his subsequent work in cryptography with <a href="/wiki/Steve_Pohlig" title="Steve Pohlig" class="mw-redirect">Steve Pohlig</a> (the <a href="/wiki/Pohlig%E2%80%93Hellman_algorithm" title="Pohlig–Hellman algorithm">Pohlig–Hellman algorithm</a>) and others. Hellman addresses the <a href="/wiki/National_Security_Agency" title="National Security Agency">National Security Agency</a>'s (NSA) early efforts to contain and discourage academic work in the field, the Department of Commerce's <a href="/wiki/ITAR" title="ITAR" class="mw-redirect">encryption export restrictions</a>, and key escrow (the so-called <a href="/wiki/Clipper_chip" title="Clipper chip">Clipper chip</a>). He also touches on the commercialization of cryptography with <a href="/wiki/RSA_Data_Security" title="RSA Data Security" class="mw-redirect">RSA Data Security</a> and <a href="/wiki/VeriSign" title="VeriSign" class="mw-redirect">VeriSign</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.crankygeeks.com/2008/09/episode_133_a_classic_crankyge.php">Cranky Geeks Episode 133</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.wired.com/wired/archive/2.11/diffie.html?pg=1&amp;topic=">Wired Magazine biography of Whitfield Diffie</a></li>
+<li><a rel="nofollow" class="external text" href="http://chaosradio.ccc.de/cri008.html">Interview with Whitfield Diffie on Chaosradio Express International</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.crankygeeks.com/2007/07/episode_71_how_vulnerable_are.php#comments">Cranky Geeks Episode 71</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.crypto.com/papers/paa-ieee.pdf">Risking Communications Security: Potential Hazards of the Protect America Act</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?feature=player_embedded&amp;v=HYV0z8P_TsI#t=0s">RSA Conference 2010 USA: The Cryptographers Panel 1/6</a>, video with Diffie participating on the Cryptographer's Panel, April 21, 2009, Moscone Center, San Francisco</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Kanellakis_Award_laureates" title="Template:Kanellakis Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Kanellakis_Award_laureates" title="Template talk:Kanellakis Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Kanellakis_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%">Winners of the <a href="/wiki/Paris_Kanellakis_Award" title="Paris Kanellakis Award">Paris Kanellakis Theory and Practice Award</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Adleman</a>, <strong class="selflink">Diffie</strong>, <a href="/wiki/Martin_Hellman" title="Martin Hellman">Hellman</a>, <a href="/wiki/Ralph_Merkle" title="Ralph Merkle">Merkle</a>, <a href="/wiki/Ron_Rivest" title="Ron Rivest">Rivest</a>, <a href="/wiki/Adi_Shamir" title="Adi Shamir">Shamir</a> <small>(1996)</small></li>
+<li><a href="/wiki/Abraham_Lempel" title="Abraham Lempel">Lempel</a>, <a href="/wiki/Jacob_Ziv" title="Jacob Ziv">Ziv</a> <small>(1997)</small></li>
+<li><a href="/wiki/Randal_Bryant" title="Randal Bryant">Bryant</a>, <a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Clarke</a>, <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">Emerson</a>, <a href="/w/index.php?title=Kenneth_L._McMillan&amp;action=edit&amp;redlink=1" class="new" title="Kenneth L. McMillan (page does not exist)">McMillan</a> <small>(1998)</small></li>
+<li><a href="/wiki/Daniel_Sleator" title="Daniel Sleator">Sleator</a>, <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Tarjan</a> <small>(1999)</small></li>
+<li><a href="/wiki/Narendra_Karmarkar" title="Narendra Karmarkar">Karmarkar</a> <small>(2000)</small></li>
+<li><a href="/wiki/Eugene_Myers" title="Eugene Myers">Myers</a> <small>(2001)</small></li>
+<li><a href="/wiki/Peter_Franaszek" title="Peter Franaszek">Franaszek</a> <small>(2002)</small></li>
+<li><a href="/wiki/Gary_Miller_(computer_scientist)" title="Gary Miller (computer scientist)">Miller</a>, <a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Rabin</a>, <a href="/wiki/Robert_M._Solovay" title="Robert M. Solovay">Solovay</a>, <a href="/wiki/Volker_Strassen" title="Volker Strassen">Strassen</a> <small>(2003)</small></li>
+<li><a href="/wiki/Yoav_Freund" title="Yoav Freund">Freund</a>, <a href="/wiki/Robert_Schapire" title="Robert Schapire">Schapire</a> <small>(2004)</small></li>
+<li><a href="/wiki/Gerard_J._Holzmann" title="Gerard J. Holzmann">Holzmann</a>, <a href="/w/index.php?title=Robert_Kurshan&amp;action=edit&amp;redlink=1" class="new" title="Robert Kurshan (page does not exist)">Kurshan</a>, <a href="/wiki/Moshe_Vardi" title="Moshe Vardi">Vardi</a>, <a href="/wiki/Pierre_Wolper" title="Pierre Wolper">Wolper</a> <small>(2005)</small></li>
+<li><a href="/w/index.php?title=Robert_Brayton&amp;action=edit&amp;redlink=1" class="new" title="Robert Brayton (page does not exist)">Brayton</a> <small>(2006)</small></li>
+<li><a href="/wiki/Bruno_Buchberger" title="Bruno Buchberger">Buchberger</a> <small>(2007)</small></li>
+<li><a href="/wiki/Corinna_Cortes" title="Corinna Cortes">Cortes</a>, <a href="/wiki/Vladimir_Vapnik" title="Vladimir Vapnik">Vapnik</a> <small>(2008)</small></li>
+<li><a href="/wiki/Mihir_Bellare" title="Mihir Bellare">Bellare</a>, <a href="/wiki/Phillip_Rogaway" title="Phillip Rogaway">Rogaway</a> <small>(2009)</small></li>
+<li><a href="/wiki/Kurt_Mehlhorn" title="Kurt Mehlhorn">Mehlhorn</a> <small>(2010)</small></li>
+<li><a href="/wiki/Hanan_Samet" title="Hanan Samet">Samet</a> <small>(2011)</small></li>
+<li><a href="/wiki/Andrei_Broder" title="Andrei Broder">Broder</a>, <a href="/wiki/Moses_Charikar" title="Moses Charikar">Charikar</a>, <a href="/wiki/Piotr_Indyk" title="Piotr Indyk">Indyk</a> <small>(2012)</small></li>
+<li><a href="/w/index.php?title=Robert_D._Blumofe&amp;action=edit&amp;redlink=1" class="new" title="Robert D. Blumofe (page does not exist)">Blumofe</a>, <a href="/wiki/Charles_E._Leiserson" title="Charles E. Leiserson">Leiserson</a> <small>(2013)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Richard_W._Hamming_Medal_recipients" title="Template:Richard W. Hamming Medal recipients"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Richard_W._Hamming_Medal_recipients" title="Template talk:Richard W. Hamming Medal recipients"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Richard_W._Hamming_Medal_recipients&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/IEEE_Richard_W._Hamming_Medal" title="IEEE Richard W. Hamming Medal">IEEE Richard W. Hamming Medal</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1988–2000</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1988)</small></li>
+<li><a href="/wiki/Irving_S._Reed" title="Irving S. Reed">Irving S. Reed</a> <small>(1989)</small></li>
+<li><a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> / <a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> <small>(1990)</small></li>
+<li><a href="/wiki/Elwyn_Berlekamp" title="Elwyn Berlekamp">Elwyn Berlekamp</a> <small>(1991)</small></li>
+<li><a href="/wiki/Lotfi_A._Zadeh" title="Lotfi A. Zadeh">Lotfi A. Zadeh</a> <small>(1992)</small></li>
+<li><a href="/wiki/Jorma_Rissanen" title="Jorma Rissanen">Jorma Rissanen</a> <small>(1993)</small></li>
+<li><a href="/wiki/Gottfried_Ungerboeck" title="Gottfried Ungerboeck">Gottfried Ungerboeck</a> <small>(1994)</small></li>
+<li><a href="/wiki/Jacob_Ziv" title="Jacob Ziv">Jacob Ziv</a> <small>(1995)</small></li>
+<li><a href="/wiki/Mark_Semenovich_Pinsker" title="Mark Semenovich Pinsker">Mark Semenovich Pinsker</a> <small>(1996)</small></li>
+<li><a href="/wiki/Thomas_M._Cover" title="Thomas M. Cover">Thomas M. Cover</a> <small>(1997)</small></li>
+<li><a href="/wiki/David_D._Clark" title="David D. Clark">David D. Clark</a> <small>(1998)</small></li>
+<li><a href="/wiki/David_A._Huffman" title="David A. Huffman">David A. Huffman</a> <small>(1999)</small></li>
+<li><a href="/wiki/Solomon_W._Golomb" title="Solomon W. Golomb">Solomon W. Golomb</a> <small>(2000)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2001–present</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alexander_G._Fraser" title="Alexander G. Fraser">Alexander G. Fraser</a> <small>(2001)</small></li>
+<li><a href="/wiki/Peter_Elias" title="Peter Elias">Peter Elias</a> <small>(2002)</small></li>
+<li><a href="/wiki/Claude_Berrou" title="Claude Berrou">Claude Berrou</a> / <a href="/wiki/Alain_Glavieux" title="Alain Glavieux">Alain Glavieux</a> <small>(2003)</small></li>
+<li><a href="/wiki/Jack_Wolf" title="Jack Wolf">Jack K. Wolf</a> <small>(2004)</small></li>
+<li><a href="/wiki/Neil_Sloane" title="Neil Sloane">Neil Sloane</a> <small>(2005)</small></li>
+<li><a href="/wiki/Vladimir_Levenshtein" title="Vladimir Levenshtein">Vladimir Levenshtein</a> <small>(2006)</small></li>
+<li><a href="/wiki/Abraham_Lempel" title="Abraham Lempel">Abraham Lempel</a> <small>(2007)</small></li>
+<li><a href="/wiki/Sergio_Verd%C3%BA" title="Sergio Verdú">Sergio Verdú</a> <small>(2008)</small></li>
+<li><a href="/wiki/Peter_Franaszek" title="Peter Franaszek">Peter Franaszek</a> <small>(2009)</small></li>
+<li><strong class="selflink">Whitfield Diffie</strong> / <a href="/wiki/Martin_Hellman" title="Martin Hellman">Martin Hellman</a> / <a href="/wiki/Ralph_Merkle" title="Ralph Merkle">Ralph Merkle</a> <small>(2010)</small></li>
+<li><a href="/wiki/Toby_Berger" title="Toby Berger">Toby Berger</a> <small>(2011)</small></li>
+<li><a href="/wiki/Michael_Luby" title="Michael Luby">Michael Luby</a> / <a href="/wiki/Amin_Shokrollahi" title="Amin Shokrollahi">Amin Shokrollahi</a> <small>(2012)</small></li>
+<li><a href="/wiki/Robert_Calderbank" title="Robert Calderbank">Robert Calderbank</a> <small>(2013)</small></li>
+<li>Thomas Richardson / <a href="/w/index.php?title=R%C3%BCdiger_L._Urbanke&amp;action=edit&amp;redlink=1" class="new" title="Rüdiger L. Urbanke (page does not exist)">Rüdiger L. Urbanke</a> <small>(2014)</small></li>
+<li><a href="/wiki/Imre_Csisz%C3%A1r" title="Imre Csiszár">Imre Csiszár</a> <small>(2015)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n97-101609">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/74088727">74088727</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n97101609">n97101609</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000116726525">0000 0001 1672 6525</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/18517289X">18517289X</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb145345356">cb145345356</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb145345356">(data)</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1243
+Cached time: 20160106214908
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.309 seconds
+Real time usage: 0.386 seconds
+Preprocessor visited node count: 1619/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54142/2097152 bytes
+Template argument size: 1262/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.124/10.000 seconds
+Lua memory usage: 3.65 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  329.389      1 - -total
+ 36.92%  121.612      1 - Template:Reflist
+ 24.78%   81.632     12 - Template:Cite_web
+ 19.20%   63.230      1 - Template:Infobox_scientist
+ 16.91%   55.689      1 - Template:Infobox
+ 10.36%   34.138      1 - Template:Commons_category
+  9.39%   30.919      1 - Template:Redirect
+  9.15%   30.131      1 - Template:Commons
+  8.51%   28.036      1 - Template:Sister_project
+  7.66%   25.240      1 - Template:Side_box
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:427776-0!*!0!!en!4!* and timestamp 20160106214908 and revision id 698148487
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Whitfield_Diffie&amp;oldid=698148487">https://en.wikipedia.org/w/index.php?title=Whitfield_Diffie&amp;oldid=698148487</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1944_births" title="Category:1944 births">1944 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:American_cryptographers" title="Category:American cryptographers">American cryptographers</a></li><li><a href="/wiki/Category:Modern_cryptographers" title="Category:Modern cryptographers">Modern cryptographers</a></li><li><a href="/wiki/Category:Public-key_cryptographers" title="Category:Public-key cryptographers">Public-key cryptographers</a></li><li><a href="/wiki/Category:Nortel_employees" title="Category:Nortel employees">Nortel employees</a></li><li><a href="/wiki/Category:Sun_Microsystems_people" title="Category:Sun Microsystems people">Sun Microsystems people</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_alumni" title="Category:Massachusetts Institute of Technology alumni">Massachusetts Institute of Technology alumni</a></li><li><a href="/wiki/Category:Stanford_University_alumni" title="Category:Stanford University alumni">Stanford University alumni</a></li><li><a href="/wiki/Category:IACR_fellows" title="Category:IACR fellows">IACR fellows</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2008" title="Category:Articles containing potentially dated statements from 2008">Articles containing potentially dated statements from 2008</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Whitfield+Diffie&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Whitfield+Diffie" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Whitfield_Diffie"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Whitfield_Diffie"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Whitfield_Diffie" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Whitfield_Diffie&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Whitfield_Diffie&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Whitfield_Diffie" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Whitfield_Diffie" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Whitfield_Diffie&amp;oldid=698148487" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Whitfield_Diffie&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q462089" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Whitfield_Diffie&amp;id=698148487" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Whitfield+Diffie">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Whitfield+Diffie&amp;returnto=Whitfield+Diffie&amp;oldid=698148487&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Whitfield_Diffie&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%88%D9%8A%D8%AA%D9%81%D9%8A%D9%84%D8%AF_%D8%AF%D9%8A%D9%81%D9%8A" title="ويتفيلد ديفي – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%B9%E0%A7%81%E0%A6%87%E0%A6%9F%E0%A6%AB%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%A1_%E0%A6%A1%E0%A6%BF%E0%A6%AB%E0%A6%BF" title="হুইটফিল্ড ডিফি – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Whitfield_Diffie" title="Whitfield Diffie – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Whitfield_Diffie" title="Whitfield Diffie – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Whitfield_Diffie" title="Whitfield Diffie – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Whitfield_Diffie" title="Whitfield Diffie – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%9C%AB%ED%95%84%EB%93%9C_%EB%94%94%ED%94%BC" title="휫필드 디피 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Whitfield_Diffie" title="Whitfield Diffie – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%95%D7%99%D7%98%D7%A4%D7%99%D7%9C%D7%93_%D7%93%D7%99%D7%A4%D7%99" title="ויטפילד דיפי – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Whitfield_Diffie" title="Whitfield Diffie – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9B%E3%82%A4%E3%83%83%E3%83%88%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%87%E3%82%A3%E3%83%95%E3%82%A3%E3%83%BC" title="ホイットフィールド・ディフィー – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Whitfield_Diffie" title="Whitfield Diffie – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Whitfield_Diffie" title="Whitfield Diffie – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Whitfield_Diffie" title="Whitfield Diffie – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%84%D1%84%D0%B8,_%D0%A3%D0%B8%D1%82%D1%84%D0%B8%D0%BB%D0%B4" title="Диффи, Уитфилд – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Whitfield_Diffie" title="Whitfield Diffie – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%83%A0%E7%89%B9%E8%8F%B2%E7%88%BE%E5%BE%B7%C2%B7%E8%BF%AA%E8%8F%B2" title="惠特菲爾德·迪菲 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q462089#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 January 2016, at 08:12.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Whitfield_Diffie&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":464,"wgHostname":"mw1243"}); /* @nomin */
+} );</script>
+	</body>
+</html>

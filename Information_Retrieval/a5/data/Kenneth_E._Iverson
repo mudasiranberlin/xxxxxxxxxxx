@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Kenneth E. Iverson - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kenneth_E._Iverson","wgTitle":"Kenneth E. Iverson","wgCurRevisionId":697697607,"wgRevisionId":697697607,"wgArticleId":259163,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from May 2009","All articles lacking in-text citations","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","1920 births","2004 deaths","Canadian computer scientists","Harvard University alumni","IBM Fellows","I. P. Sharp Associates employees","People from Camrose, Alberta","Programming language designers","Queen's University alumni","Turing Award laureates"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kenneth_E._Iverson","wgRelevantArticleId":259163,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92629","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Kenneth_E._Iverson" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Kenneth_E._Iverson&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Kenneth_E._Iverson&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Kenneth_E._Iverson" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Kenneth_E_Iverson skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Kenneth E. Iverson</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(May 2009)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Kenneth Eugene Iverson</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1920-12-17</span>)</span>December 17, 1920<br />
+<a href="/wiki/Camrose,_Alberta" title="Camrose, Alberta">Camrose, Alberta</a>, <a href="/wiki/Canada" title="Canada">Canada</a></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>October 19, 2004<span style="display:none">(<span class="dday deathdate">2004-10-19</span>)</span> (aged&#160;83)<br />
+<a href="/wiki/Toronto" title="Toronto">Toronto</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a>, <a href="/wiki/Canada" title="Canada">Canada</a></td>
+</tr>
+<tr>
+<th scope="row">Citizenship</th>
+<td><a href="/wiki/Canadian" title="Canadian" class="mw-redirect">Canadian</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_Science" title="Computer Science" class="mw-redirect">Computer Science</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a><br />
+<a href="/wiki/International_Business_Machines" title="International Business Machines" class="mw-redirect">IBM</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Queen%27s_University" title="Queen's University">Queen's University</a><br />
+<a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/Wassily_Leontief" title="Wassily Leontief">Wassily Leontief</a> and <a href="/wiki/Howard_Aiken" title="Howard Aiken" class="mw-redirect">Howard Aiken</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Programming_language" title="Programming language">Programming languages</a>: <a href="/wiki/APL_(programming_language)" title="APL (programming language)">APL</a>, <a href="/wiki/J_(programming_language)" title="J (programming language)">J</a></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td><a href="/wiki/IBM_Fellow" title="IBM Fellow">IBM Fellow</a><br />
+<a href="/wiki/Harry_H._Goode_Memorial_Award" title="Harry H. Goode Memorial Award">Harry H. Goode Memorial Award</a> <small>(1975)</small><br />
+<a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> <small>(1979)</small><br />
+<a href="/wiki/Computer_Pioneer_Award" title="Computer Pioneer Award">Computer Pioneer Award</a></td>
+</tr>
+</table>
+<p><b>Kenneth Eugene Iverson</b> (17 December 1920&#160;– 19 October 2004) was a <a href="/wiki/Canadian" title="Canadian" class="mw-redirect">Canadian</a> <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a> noted for the development of the <a href="/wiki/APL_(programming_language)" title="APL (programming language)">APL</a> <a href="/wiki/Programming_language" title="Programming language">programming language</a> in 1962. He was honored with the <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> in 1979 for his contributions to <a href="/wiki/Mathematical_notation" title="Mathematical notation">mathematical notation</a> and <a href="/wiki/Programming_language_theory" title="Programming language theory">programming language theory</a>. The <a href="/wiki/Iverson_Award" title="Iverson Award">Iverson Award</a> for contributions to APL was named in his honor.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Life"><span class="tocnumber">1</span> <span class="toctext">Life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Work"><span class="tocnumber">2</span> <span class="toctext">Work</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Awards"><span class="tocnumber">3</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Major_publications"><span class="tocnumber">4</span> <span class="toctext">Major publications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Obituaries"><span class="tocnumber">7.1</span> <span class="toctext">Obituaries</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Life">Life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kenneth_E._Iverson&amp;action=edit&amp;section=1" title="Edit section: Life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ken Iverson was born on December 17, 1920 in <a href="/wiki/Camrose,_Alberta" title="Camrose, Alberta">Camrose</a>, a city in central <a href="/wiki/Alberta" title="Alberta">Alberta</a>, <a href="/wiki/Canada" title="Canada">Canada</a>. His parents were <a href="/wiki/Farmers" title="Farmers" class="mw-redirect">farmers</a> of <a href="/wiki/Norwegian_people" title="Norwegian people" class="mw-redirect">Norwegian descent</a> who came to Alberta from <a href="/wiki/North_Dakota" title="North Dakota">North Dakota</a>. While he showed an early aptitude for <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, teaching himself <a href="/wiki/Calculus" title="Calculus">calculus</a> while a teenager, he left school after the 9th grade to work on his parents' farm. However, during <a href="/wiki/World_War_II" title="World War II">World War II</a>, while he served in the <a href="/wiki/Royal_Canadian_Air_Force" title="Royal Canadian Air Force">Royal Canadian Air Force</a>, he qualified for a high school diploma by taking correspondence courses. After the war, he was able to enter <a href="/wiki/Queen%27s_University" title="Queen's University">Queen's University</a> in <a href="/wiki/Kingston,_Ontario" title="Kingston, Ontario">Kingston, Ontario</a> and graduated in 1950 with a <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">Bachelor's degree</a> in <a href="/wiki/Mathematics" title="Mathematics">Mathematics</a> and <a href="/wiki/Physics" title="Physics">Physics</a>.</p>
+<p>Continuing his education at <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a>, he received a <a href="/wiki/Master%27s_degree" title="Master's degree">Master's degree</a> in 1951 in Mathematics and started working with <a href="/wiki/Howard_Aiken" title="Howard Aiken" class="mw-redirect">Howard Aiken</a> and <a href="/wiki/Wassily_Leontief" title="Wassily Leontief">Wassily Leontief</a>. Howard Aiken had developed the <a href="/wiki/Harvard_Mark_I" title="Harvard Mark I">Harvard Mark I</a>, one of the first large-scale digital computers, while Wassily Leontief was an economist who was developing the <a href="/wiki/Input-output_model" title="Input-output model" class="mw-redirect">input-output model</a> of economic analysis, work for which he would later receive the <a href="/wiki/Nobel_prize" title="Nobel prize" class="mw-redirect">Nobel prize</a>. Leontief's model required large matrices and Iverson worked on programs that could evaluate these matrices on the <a href="/wiki/Harvard_Mark_IV" title="Harvard Mark IV">Harvard Mark IV</a> computer. Iverson received a <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Ph.D.</a> in <a href="/wiki/Applied_Mathematics" title="Applied Mathematics" class="mw-redirect">Applied Mathematics</a> in 1954 with a dissertation based on this work.</p>
+<p>Iverson stayed at Harvard as an <a href="/wiki/Assistant_professor" title="Assistant professor">assistant professor</a> for the next five years, but failed to get tenure.</p>
+<p>Iverson was hired by IBM in 1960 to develop his notation into a programming language for the <a href="/wiki/IBM_System/360" title="IBM System/360">IBM System/360</a>.</p>
+<p>In 1980, Iverson left IBM for <a href="/wiki/I._P._Sharp_Associates" title="I. P. Sharp Associates">I. P. Sharp Associates</a>, a leading Canadian APL timesharing company, where he, among other things, participated in the further development of the APL programming language. In 1987 he retired from I. P. Sharp.</p>
+<p>In the summer of 1989, <a href="/wiki/Roger_Hui" title="Roger Hui">Roger Hui</a> and <a href="/wiki/Arthur_Whitney_(computer_scientist)" title="Arthur Whitney (computer scientist)">Arthur Whitney</a>, along with Iverson, produced a short prototype interpreter which would later be the seed for the <a href="/wiki/J_(programming_language)" title="J (programming language)">J language</a>, a variant of APL. Iverson and <a href="/wiki/Roger_Hui" title="Roger Hui">Roger Hui</a> would continue collaborating on J for the next 15 years.</p>
+<p>Ken Iverson died of a stroke on October 19, 2004 at the age of 83.</p>
+<h2><span class="mw-headline" id="Work">Work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kenneth_E._Iverson&amp;action=edit&amp;section=2" title="Edit section: Work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Iverson developed a <a href="/wiki/Mathematical_notation" title="Mathematical notation">mathematical notation</a> that became known as Iverson Notation for manipulating arrays that he taught to his students, and described in his 1962 book <i>A Programming Language</i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> In 1960, he began work for <a href="/wiki/International_Business_Machines" title="International Business Machines" class="mw-redirect">IBM</a> and working with <a href="/wiki/Adin_Falkoff" title="Adin Falkoff">Adin Falkoff</a>, created APL based on the notation he had developed. He was named an <a href="/wiki/IBM_Fellow" title="IBM Fellow">IBM Fellow</a> in 1970.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>In late 1989, Ken Iverson and <a href="/wiki/Roger_Hui" title="Roger Hui">Roger Hui</a> began collaboration on an advanced continuation of an APL-like language which they called <a href="/wiki/J_(programming_language)" title="J (programming language)">J</a>, first demonstrated publicly at the APL90 conference the next year.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> The improvements were intended to fix some of the persistent character set issues that plagued APL since its inception, and to add new advanced features such as <a href="/wiki/Functional_programming" title="Functional programming">functional programming</a>, arrays of variables, and support for parallel <a href="/wiki/MIMD" title="MIMD">MIMD</a> operations, some of which do not appear in APL today. It was intended that the J language be an improvement over existing APL. The J interpreter and language continue to evolve today. A version is available from J Software under the <a href="/wiki/GPL3" title="GPL3" class="mw-redirect">GPL3</a> license.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kenneth_E._Iverson&amp;action=edit&amp;section=3" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a href="/wiki/IBM_Fellow" title="IBM Fellow">IBM Fellow</a></i> (<a href="/wiki/IBM" title="IBM">IBM</a>) (1970)</li>
+<li><i><a href="/wiki/Harry_H._Goode_Memorial_Award" title="Harry H. Goode Memorial Award">Harry H. Goode Memorial Award</a></i> (<a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a>) (1975)</li>
+<li><i><a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a></i> (<a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>) (1979)</li>
+<li><i><a href="/wiki/Computer_Pioneer_Award" title="Computer Pioneer Award">Computer Pioneer Award</a></i> [Charter recipient] (<a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a>) (1982)</li>
+<li>Honorary doctorate, <a href="/wiki/York_University" title="York University">York University</a>, Toronto, 1998</li>
+</ul>
+<h2><span class="mw-headline" id="Major_publications">Major publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kenneth_E._Iverson&amp;action=edit&amp;section=4" title="Edit section: Major publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">—— (1962). <a rel="nofollow" class="external text" href="http://www.jsoftware.com/papers/APL.htm"><i>A Programming Language</i></a>. John Wiley and Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-43014-5" title="Special:BookSources/0-471-43014-5">0-471-43014-5</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.btitle=A+Programming+Language&amp;rft.date=1962&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.jsoftware.com%2Fpapers%2FAPL.htm&amp;rft.isbn=0-471-43014-5&amp;rft.pub=John+Wiley+and+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">——; <a href="/wiki/Frederick_Brooks" title="Frederick Brooks" class="mw-redirect">Brooks, Frederick</a> (1963). <i>Automatic Data Processing</i>. John Wiley and Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-10599-6" title="Special:BookSources/0-471-10599-6">0-471-10599-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.au=Brooks%2C+Frederick&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.btitle=Automatic+Data+Processing&amp;rft.date=1963&amp;rft.genre=book&amp;rft.isbn=0-471-10599-6&amp;rft.pub=John+Wiley+and+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">——; <a href="/wiki/Adin_Falkoff" title="Adin Falkoff">Falkoff, A. D.</a>; Sussenguth, E. H. (1964). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20060813132807/http://www.research.ibm.com/journal/sj/032/falkoff.pdf">"A formal description of SYSTEM/360"</a> <span style="font-size:85%;">(PDF)</span>. <i>IBM Systems Journal</i> <b>3</b> (2): 198–262. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1147%2Fsj.32.0198">10.1147/sj.32.0198</a>. Archived from <a rel="nofollow" class="external text" href="http://www.research.ibm.com/journal/sj/032/falkoff.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2006-08-13.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.atitle=A+formal+description+of+SYSTEM%2F360&amp;rft.au=Falkoff%2C+A.+D.&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.au=Sussenguth%2C+E.+H.&amp;rft.date=1964&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.research.ibm.com%2Fjournal%2Fsj%2F032%2Ffalkoff.pdf&amp;rft_id=info%3Adoi%2F10.1147%2Fsj.32.0198&amp;rft.issue=2&amp;rft.jtitle=IBM+Systems+Journal&amp;rft.pages=198-262&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">—— (1966). <i>Elementary Functions: an algorithmic treatment</i>. Science Research Associates.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.btitle=Elementary+Functions%3A+an+algorithmic+treatment&amp;rft.date=1966&amp;rft.genre=book&amp;rft.pub=Science+Research+Associates&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">——; <a href="/wiki/Adin_Falkoff" title="Adin Falkoff">Falkoff, Adin</a> (1968). <a rel="nofollow" class="external text" href="http://keiapl.org/archive/APL360_UsersMan_Aug1968.pdf"><i>APL\360:User's Manual</i></a> <span style="font-size:85%;">(PDF)</span>. IBM<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.au=Falkoff%2C+Adin&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.btitle=APL%5C360%3AUser%27s+Manual&amp;rft.date=1968&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fkeiapl.org%2Farchive%2FAPL360_UsersMan_Aug1968.pdf&amp;rft.pub=IBM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">—— (January 1972). <a rel="nofollow" class="external text" href="http://www.softwarepreservation.org/projects/apl/paper/197201_APL%20In%20Exposition_320-3010.pdf">"APL in Exposition"</a> <span style="font-size:85%;">(PDF)</span>. <i>IBM Philadelphia Scientific Center</i> (IBM). Tech. Report No. 320-3010<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.atitle=APL+in+Exposition&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.date=1972-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.softwarepreservation.org%2Fprojects%2Fapl%2Fpaper%2F197201_APL%2520In%2520Exposition_320-3010.pdf&amp;rft.jtitle=IBM+Philadelphia+Scientific+Center&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=Tech.+Report+No.+320-3010" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">——; <a href="/wiki/Adin_Falkoff" title="Adin Falkoff">Falkoff, A. D.</a> (July 1973). <a rel="nofollow" class="external text" href="http://www.jsoftware.com/papers/APLDesign.htm">"The Design of APL"</a>. <i>IBM J. Research and Development</i> <b>17</b> (4): 324–334. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1147%2Frd.174.0324">10.1147/rd.174.0324</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.atitle=The+Design+of+APL&amp;rft.au=Falkoff%2C+A.+D.&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.date=1973-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jsoftware.com%2Fpapers%2FAPLDesign.htm&amp;rft_id=info%3Adoi%2F10.1147%2Frd.174.0324&amp;rft.issue=4&amp;rft.jtitle=IBM+J.+Research+and+Development&amp;rft.pages=324-334&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=17" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">——; <a href="/wiki/Adin_Falkoff" title="Adin Falkoff">Falkoff, A. D.</a> (August 1978). <a rel="nofollow" class="external text" href="http://www.jsoftware.com/papers/APLEvol.htm">"The evolution of APL"</a>. <i>ACM SIGPLAN Notices</i> <b>13</b> (8): 47–57. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F960118.808372">10.1145/960118.808372</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.atitle=The+evolution+of+APL&amp;rft.au=Falkoff%2C+A.+D.&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.date=1978-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jsoftware.com%2Fpapers%2FAPLEvol.htm&amp;rft_id=info%3Adoi%2F10.1145%2F960118.808372&amp;rft.issue=8&amp;rft.jtitle=ACM+SIGPLAN+Notices&amp;rft.pages=47-57&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">—— (August 1980). <a rel="nofollow" class="external text" href="http://www.jsoftware.com/papers/tot.htm">"Notation as a tool of thought"</a>. <i><a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Comm. ACM</a></i> <b>23</b> (8): 444–465. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F358896.358899">10.1145/358896.358899</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.atitle=Notation+as+a+tool+of+thought&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.date=1980-08&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jsoftware.com%2Fpapers%2Ftot.htm&amp;rft_id=info%3Adoi%2F10.1145%2F358896.358899&amp;rft.issue=8&amp;rft.jtitle=Comm.+ACM&amp;rft.pages=444-465&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=23" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">——; <a href="/wiki/Adin_Falkoff" title="Adin Falkoff">Falkoff, Adin D.</a> (1981). <i>A Source Book In APL</i>. APL Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-917326-10-5" title="Special:BookSources/0-917326-10-5">0-917326-10-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.au=Falkoff%2C+Adin+D.&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.btitle=A+Source+Book+In+APL&amp;rft.date=1981&amp;rft.genre=book&amp;rft.isbn=0-917326-10-5&amp;rft.pub=APL+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">—— (1990). <i>Tangible Math</i>. Iverson Software.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.btitle=Tangible+Math&amp;rft.date=1990&amp;rft.genre=book&amp;rft.pub=Iverson+Software&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">—— (1991). <a rel="nofollow" class="external text" href="http://www.jsoftware.com/papers/APLPersonalView.htm">"A personal view of APL"</a>. <i>IBM Systems Journal</i> <b>30</b> (4): 582–593. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1147%2Fsj.304.0582">10.1147/sj.304.0582</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.atitle=A+personal+view+of+APL&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jsoftware.com%2Fpapers%2FAPLPersonalView.htm&amp;rft_id=info%3Adoi%2F10.1147%2Fsj.304.0582&amp;rft.issue=4&amp;rft.jtitle=IBM+Systems+Journal&amp;rft.pages=582-593&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=30" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">—— (1991). <i>The ISI Dictionary of J</i>. Iverson Software.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.aufirst=K.+E.&amp;rft.aulast=Iverson&amp;rft.btitle=The+ISI+Dictionary+of+J&amp;rft.date=1991&amp;rft.genre=book&amp;rft.pub=Iverson+Software&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kenneth_E._Iverson&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/APL_(programming_language)" title="APL (programming language)">APL (programming language)</a></li>
+<li><a href="/wiki/J_(programming_language)" title="J (programming language)">J (programming language)</a></li>
+<li><a href="/wiki/Iverson_Award" title="Iverson Award">Iverson Award</a></li>
+<li><a href="/wiki/Iverson_bracket" title="Iverson bracket">Iverson bracket</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kenneth_E._Iverson&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">John Wiley &amp; Sons, <a href="/wiki/Special:BookSources/0471430145" class="internal mw-magiclink-isbn">ISBN 0-471-43014-5</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.almaden.ibm.com/u/mohan/fellow.html">Citation in Corporate Technical Recognition Event (CTRE) booklet, 3 June 1997</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation conference">Iverson, K. E.; <a href="/wiki/Roger_Hui" title="Roger Hui">Hui, R.</a>; <a href="/wiki/Eugene_McDonnell" title="Eugene McDonnell">McDonnell, E. E.</a>; <a href="/wiki/Arthur_Whitney_(computer_scientist)" title="Arthur Whitney (computer scientist)">Whitney, A. T.</a> (1990). "APL/?". <a rel="nofollow" class="external text" href="http://www.jsoftware.com/papers/J1990.htm"><i>APL '90 Conference proceedings on APL 90: for the future</i></a>. <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">ACM</a>. pp.&#160;192–200. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F97811.97845">10.1145/97811.97845</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-89791-371-X" title="Special:BookSources/0-89791-371-X">0-89791-371-X</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKenneth+E.+Iverson&amp;rft.aufirst=K.+E.&amp;rft.au=Hui%2C+R.&amp;rft.aulast=Iverson&amp;rft.au=McDonnell%2C+E.+E.&amp;rft.au=Whitney%2C+A.+T.&amp;rft.btitle=APL+%2790+Conference+proceedings+on+APL+90%3A+for+the+future&amp;rft.date=1990&amp;rft.genre=conference&amp;rft_id=http%3A%2F%2Fwww.jsoftware.com%2Fpapers%2FJ1990.htm&amp;rft_id=info%3Adoi%2F10.1145%2F97811.97845&amp;rft.isbn=0-89791-371-X&amp;rft.pages=192-200&amp;rft.pub=ACM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://jsoftware.com/source.htm">J Software Source Code page</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kenneth_E._Iverson&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="//en.wikiquote.org/wiki/Special:Search/Kenneth_E._Iverson" class="extiw" title="q:Special:Search/Kenneth E. Iverson">Kenneth E. Iverson</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.jsoftware.com/papers/">Papers by Kenneth E. Iverson</a> from Jsoftware website</li>
+<li><a rel="nofollow" class="external text" href="http://archive.vector.org.uk/art10012020">An Autobiographic Essay</a> (Vector, vol 23, No 4, 15 pages)</li>
+<li><a rel="nofollow" class="external text" href="http://www.science.ca/scientists/scientistprofile.php?pID=178">Short Biography</a> at the science.ca website</li>
+</ul>
+<h3><span class="mw-headline" id="Obituaries">Obituaries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kenneth_E._Iverson&amp;action=edit&amp;section=8" title="Edit section: Obituaries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://lambda-the-ultimate.org/node/334#comment-2575">Ehud Lamm's obituary</a> at <a href="/wiki/Lambda_the_Ultimate" title="Lambda the Ultimate">Lambda the Ultimate</a></li>
+<li><a rel="nofollow" class="external text" href="http://archive.vector.org.uk/22/3">Remembering Kenneth E. Iverson</a> Memorial issue of Vector, the Journal of the British APL Association</li>
+<li><a rel="nofollow" class="external text" href="http://keiapl.org/">A Celebration of the life of Kenneth Eugene Iverson</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Turing_Award_laureates" title="Template:Turing Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Turing_Award_laureates" title="Template talk:Turing Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Turing_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a> <small>(1966)</small></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Vincent Wilkes</a> <small>(1967)</small></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1968)</small></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> <small>(1969)</small></li>
+<li><a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a> <small>(1970)</small></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a> <small>(1971)</small></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a> <small>(1972)</small></li>
+<li><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a> <small>(1973)</small></li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> <small>(1974)</small></li>
+<li><a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a> / <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a> <small>(1975)</small></li>
+<li><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a> / <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> <small>(1976)</small></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> <small>(1977)</small></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a> <small>(1978)</small></li>
+<li><strong class="selflink">Kenneth E. Iverson</strong> <small>(1979)</small></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> <small>(1980)</small></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> <small>(1981)</small></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> <small>(1982)</small></li>
+<li><a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> / <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> <small>(1983)</small></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> <small>(1984)</small></li>
+<li><a href="/wiki/Richard_Karp" title="Richard Karp" class="mw-redirect">Richard Karp</a> <small>(1985)</small></li>
+<li><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a> / <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a> <small>(1986)</small></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a> <small>(1987)</small></li>
+<li><a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a> <small>(1988)</small></li>
+<li><a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a> <small>(1989)</small></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a> <small>(1990)</small></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> <small>(1991)</small></li>
+<li><a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a> <small>(1992)</small></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a> / <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a> <small>(1993)</small></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a> / <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a> <small>(1994)</small></li>
+<li><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a> <small>(1995)</small></li>
+<li><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a> <small>(1996)</small></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> <small>(1997)</small></li>
+<li><a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> <small>(1998)</small></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a> <small>(1999)</small></li>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Yao</a> <small>(2000)</small></li>
+<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a> / <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a> <small>(2001)</small></li>
+<li><a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a> / <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a> / <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a> <small>(2002)</small></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> <small>(2003)</small></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a> / <a href="/wiki/Bob_Kahn" title="Bob Kahn">Bob Kahn</a> <small>(2004)</small></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a> <small>(2005)</small></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a> <small>(2006)</small></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a> / <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a> / <a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a> <small>(2007)</small></li>
+<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> <small>(2008)</small></li>
+<li><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> <small>(2009)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie G. Valiant</a> <small>(2010)</small></li>
+<li><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a> <small>(2011)</small></li>
+<li><a href="/wiki/Shafi_Goldwasser" title="Shafi Goldwasser">Shafi Goldwasser</a> / <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a> <small>(2012)</small></li>
+<li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> <small>(2013)</small></li>
+<li><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n84-008141">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/8776065">8776065</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n84008141">n84008141</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000109528010">0000 0001 0952 8010</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/081526679">081526679</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=25261">25261</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00444353">00444353</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1113
+Cached time: 20160107142057
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.553 seconds
+Real time usage: 0.626 seconds
+Preprocessor visited node count: 1634/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46063/2097152 bytes
+Template argument size: 1056/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.344/10.000 seconds
+Lua memory usage: 4.04 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  539.840      1 - -total
+ 25.56%  138.006      7 - Template:Cite_book
+ 25.49%  137.613      6 - Template:Cite_journal
+ 17.66%   95.359      1 - Template:Infobox_scientist
+ 15.83%   85.467      1 - Template:Infobox
+ 11.60%   62.629      1 - Template:More_footnotes
+  7.27%   39.224      1 - Template:Ambox
+  7.13%   38.512      4 - Template:Br_separated_entries
+  6.72%   36.291      1 - Template:Reflist
+  6.27%   33.847      1 - Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:259163-0!*!0!!en!4!* and timestamp 20160107142056 and revision id 697697607
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Kenneth_E._Iverson&amp;oldid=697697607">https://en.wikipedia.org/w/index.php?title=Kenneth_E._Iverson&amp;oldid=697697607</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1920_births" title="Category:1920 births">1920 births</a></li><li><a href="/wiki/Category:2004_deaths" title="Category:2004 deaths">2004 deaths</a></li><li><a href="/wiki/Category:Canadian_computer_scientists" title="Category:Canadian computer scientists">Canadian computer scientists</a></li><li><a href="/wiki/Category:Harvard_University_alumni" title="Category:Harvard University alumni">Harvard University alumni</a></li><li><a href="/wiki/Category:IBM_Fellows" title="Category:IBM Fellows">IBM Fellows</a></li><li><a href="/wiki/Category:I._P._Sharp_Associates_employees" title="Category:I. P. Sharp Associates employees">I. P. Sharp Associates employees</a></li><li><a href="/wiki/Category:People_from_Camrose,_Alberta" title="Category:People from Camrose, Alberta">People from Camrose, Alberta</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:Queen%27s_University_alumni" title="Category:Queen's University alumni">Queen's University alumni</a></li><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_May_2009" title="Category:Articles lacking in-text citations from May 2009">Articles lacking in-text citations from May 2009</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Kenneth+E.+Iverson&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Kenneth+E.+Iverson" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Kenneth_E._Iverson"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Kenneth_E._Iverson"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Kenneth_E._Iverson" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Kenneth_E._Iverson&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Kenneth_E._Iverson&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Kenneth_E._Iverson" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kenneth_E._Iverson" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Kenneth_E._Iverson&amp;oldid=697697607" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Kenneth_E._Iverson&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92629" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kenneth_E._Iverson&amp;id=697697607" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Kenneth+E.+Iverson">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Kenneth+E.+Iverson&amp;returnto=Kenneth+E.+Iverson&amp;oldid=697697607&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Kenneth_E._Iverson&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%83%D9%8A%D9%86%D9%8A%D8%AB_%D8%A7%D9%8A%D9%81%D8%B1%D8%B3%D9%88%D9%86" title="كينيث ايفرسون – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%A5_%E0%A6%86%E0%A6%87%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A6%A8" title="কেনেথ আইভার্সন – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Kenneth_Iverson" title="Kenneth Iverson – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Kenneth_Iverson" title="Kenneth Iverson – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%A9%D9%86%D8%AA_%D8%A7%DB%8C_%D8%A2%DB%8C%D9%88%D8%B1%D8%B3%D9%86" title="کنت ای آیورسن – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Kenneth_Iverson" title="Kenneth Iverson – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="//ga.wikipedia.org/wiki/Kenneth_Iverson" title="Kenneth Iverson – Irish" lang="ga" hreflang="ga">Gaeilge</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%BC%80%EB%84%A4%EC%8A%A4_%EC%95%84%EC%9D%B4%EB%B2%84%EC%8A%A8" title="케네스 아이버슨 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Kenneth_Iverson" title="Kenneth Iverson – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Kenneth_Eugene_Iverson" title="Kenneth Eugene Iverson – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B1%E3%83%8D%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BD%E3%83%B3" title="ケネス・アイバーソン – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Kenneth_Iverson" title="Kenneth Iverson – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Kenneth_Iverson" title="Kenneth Iverson – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D0%B9%D0%B2%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D1%82" title="Айверсон, Кеннет – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Kenneth_Iverson" title="Kenneth Iverson – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%B5%D1%82_%D0%88._%D0%90%D1%98%D0%B2%D0%B5%D1%80%D1%81%D0%BE%D0%BD" title="Кенет Ј. Ајверсон – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%82%AF%E5%B0%BC%E6%96%AF%C2%B7%E8%89%BE%E4%BD%9B%E6%A3%AE" title="肯尼斯·艾佛森 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92629#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 January 2016, at 07:04.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Kenneth_E._Iverson&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1067"}); /* @nomin */
+} );</script>
+	</body>
+</html>

@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Shafi Goldwasser - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Shafi_Goldwasser","wgTitle":"Shafi Goldwasser","wgCurRevisionId":684552579,"wgRevisionId":684552579,"wgArticleId":842178,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from March 2013","Articles containing Hebrew-language text","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","1958 births","20th-century mathematicians","21st-century mathematicians","American computer scientists","American emigrants to Israel","Carnegie Mellon University alumni","Gödel Prize laureates","Grace Murray Hopper Award laureates","Israeli computer scientists","Israeli Jews","Jewish American scientists","Massachusetts Institute of Technology faculty","Members of the United States National Academy of Engineering","Members of the United States National Academy of Sciences","Modern cryptographers","Naturalized citizens of Israel","Living people","People from New York City","Theoretical computer scientists","Turing Award laureates","University of California, Berkeley alumni","Weizmann Institute faculty","Women mathematicians","Women computer scientists","IACR fellows","Israeli women academics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Shafi_Goldwasser","wgRelevantArticleId":842178,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Shafi_Goldwasser.JPG/100px-Shafi_Goldwasser.JPG","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["en-us","en","el"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q11609","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Shafi_Goldwasser" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Shafi_Goldwasser&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Shafi_Goldwasser&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Shafi_Goldwasser" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Shafi_Goldwasser skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Shafi Goldwasser</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Shafi Goldwasser</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.5em;"><a href="/wiki/File:Shafi_Goldwasser.JPG" class="image"><img alt="Shafi Goldwasser.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Shafi_Goldwasser.JPG/220px-Shafi_Goldwasser.JPG" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Shafi_Goldwasser.JPG/330px-Shafi_Goldwasser.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Shafi_Goldwasser.JPG/440px-Shafi_Goldwasser.JPG 2x" data-file-width="945" data-file-height="945" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>Shafrira Goldwasser<br />
+1958 (age&#160;57–58)<br />
+New York City</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td><a href="/wiki/Israeli_American" title="Israeli American" class="mw-redirect">Israeli American</a></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Computer_science" title="Computer science">Computer science</a>, <a href="/wiki/Cryptography" title="Cryptography">cryptography</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a></li>
+<li><a href="/wiki/Weizmann_Institute_of_Science" title="Weizmann Institute of Science">Weizmann Institute of Science</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a> (BS)</li>
+<li><a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> (PhD)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><a rel="nofollow" class="external text" href="http://search.proquest.com/docview/303337869"><i>Probabilistic Encryption: Theory and Applications</i></a>&#160;<span style="font-size:90%;">(1984)</span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisor</a></th>
+<td><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a><sup id="cite_ref-mathgene_1-0" class="reference"><a href="#cite_note-mathgene-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td>
+<div class="plainlist">
+<ul>
+<li>William Aiello</li>
+<li><a href="/wiki/Johan_H%C3%A5stad" title="Johan Håstad">Johan Håstad</a></li>
+<li>Joseph Kilian</li>
+<li>Tal Malkin</li>
+<li>Yishay Mansour</li>
+<li>Daniele Micciancio</li>
+<li>Guy Rothblum</li>
+<li><a href="/wiki/Amit_Sahai" title="Amit Sahai">Amit Sahai</a></li>
+<li><a href="/wiki/Salil_Vadhan" title="Salil Vadhan">Salil Vadhan</a></li>
+<li>Vinod Vaikuntanathan<sup id="cite_ref-mathgene_1-1" class="reference"><a href="#cite_note-mathgene-1"><span>[</span>1<span>]</span></a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Blum%E2%80%93Goldwasser_cryptosystem" title="Blum–Goldwasser cryptosystem">Blum–Goldwasser cryptosystem</a></li>
+<li><a href="/wiki/Goldwasser%E2%80%93Micali_cryptosystem" title="Goldwasser–Micali cryptosystem">Goldwasser–Micali cryptosystem</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">Grace Murray Hopper Award</a> (1996)</li>
+<li><a href="/wiki/G%C3%B6del_Prize" title="Gödel Prize">Gödel Prize</a> (1993, 2001)</li>
+<li><a href="/wiki/IEEE_Emanuel_R._Piore_Award" title="IEEE Emanuel R. Piore Award">IEEE Emanuel R. Piore Award</a> (2011)</li>
+<li><a href="/wiki/Turing_Award" title="Turing Award">ACM Turing Award</a> (2012)<sup id="cite_ref-turing_3-0" class="reference"><a href="#cite_note-turing-3"><span>[</span>3<span>]</span></a></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><b>Website</b><br />
+<div class="plainlist">
+<ul>
+<li><span class="url"><a rel="nofollow" class="external text" href="http://people.csail.mit.edu/shafi">people<wbr />.csail<wbr />.mit<wbr />.edu<wbr />/shafi</a></span></li>
+<li><span class="url"><a rel="nofollow" class="external text" href="http://www.wisdom.weizmann.ac.il/~shafi">www<wbr />.wisdom<wbr />.weizmann<wbr />.ac<wbr />.il<wbr />/~shafi</a></span></li>
+<li><span class="url"><a rel="nofollow" class="external text" href="http://www.eecs.mit.edu/people/faculty/shafrira-goldwasser">www<wbr />.eecs<wbr />.mit<wbr />.edu<wbr />/people<wbr />/faculty<wbr />/shafrira-goldwasser</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Shafrira Goldwasser</b> (<a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span lang="he" dir="rtl">שפרירה גולדווסר</span>‎; born 1958) is an American-born Israeli computer scientist. She is a professor of electrical engineering and <a href="/wiki/Computer_science" title="Computer science">computer science</a> at <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a>, and a professor of mathematical sciences at the <a href="/wiki/Weizmann_Institute_of_Science" title="Weizmann Institute of Science">Weizmann Institute of Science</a>, <a href="/wiki/Israel" title="Israel">Israel</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-acm_5-0" class="reference"><a href="#cite_note-acm-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-scopus_6-0" class="reference"><a href="#cite_note-scopus-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Scientific_career"><span class="tocnumber">2</span> <span class="toctext">Scientific career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Awards"><span class="tocnumber">3</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shafi_Goldwasser&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Born in <a href="/wiki/New_York_City" title="New York City">New York City</a>, Goldwasser obtained her <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">B.S.</a> (1979) in mathematics and science from <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a>, and <a href="/wiki/Master%27s_degree" title="Master's degree">M.S.</a> (1981) and <a href="/wiki/Doctorate" title="Doctorate">PhD</a> (1984) in computer science from the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> under the supervision of <a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a>, who is well known for advising some of the most prominent researchers in the field. She joined <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a> in 1983, and in 1997 became the first holder of the RSA Professorship. She became a professor at the <a href="/wiki/Weizmann_Institute_of_Science" title="Weizmann Institute of Science">Weizmann Institute of Science</a>, concurrent to her professorship at MIT, in 1993. She is a member of the <a href="/wiki/Theory_of_computation" title="Theory of computation">Theory of Computation</a> group at <a href="/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory" title="MIT Computer Science and Artificial Intelligence Laboratory">MIT Computer Science and Artificial Intelligence Laboratory</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> Goldwasser was a co-recipient of the 2012 <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Scientific_career">Scientific career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shafi_Goldwasser&amp;action=edit&amp;section=2" title="Edit section: Scientific career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Goldwasser's research areas include <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">computational complexity theory</a>, <a href="/wiki/Cryptography" title="Cryptography">cryptography</a> and <a href="/wiki/Computational_number_theory" title="Computational number theory">computational number theory</a>. She is the co-inventor of <a href="/wiki/Zero-knowledge_proof" title="Zero-knowledge proof">zero-knowledge proofs</a>, which probabilistically and interactively demonstrate the validity of an assertion without conveying any additional knowledge, and are a key tool in the design of <a href="/wiki/Cryptographic_protocol" title="Cryptographic protocol">cryptographic protocols</a>. Her work in complexity theory includes the classification of approximation problems, showing that some problems in <a href="/wiki/NP_(complexity)" title="NP (complexity)">NP</a> remain hard even when only an approximate solution is needed.</p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shafi_Goldwasser&amp;action=edit&amp;section=3" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Goldwasser has twice won the <a href="/wiki/G%C3%B6del_Prize" title="Gödel Prize">Gödel Prize</a> in <a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">theoretical computer science</a>: first in 1993 (for <i>"The knowledge complexity of interactive proof systems"</i>),<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> and again in 2001 (for <i>"Interactive Proofs and the Hardness of Approximating Cliques"</i>).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> Other awards include the <a href="/wiki/ACM_Grace_Murray_Hopper_Award" title="ACM Grace Murray Hopper Award" class="mw-redirect">ACM Grace Murray Hopper Award</a> (1996) for outstanding young computer professional of the year and the RSA Award in Mathematics (1998) for outstanding mathematical contributions to cryptography. In 2001 she was elected to the <a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">American Academy of Arts and Sciences</a>, in 2004 she was elected to the <a href="/wiki/National_Academy_of_Science" title="National Academy of Science" class="mw-redirect">National Academy of Science</a>, and in 2005 to the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a>. She was selected as an <a href="/wiki/International_Association_for_Cryptologic_Research" title="International Association for Cryptologic Research">IACR</a> Fellow in 2007. Goldwasser received the 2008-2009 Athena Lecturer Award of the Association for Computing Machinery's Committee on Women in Computing.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> She is the recipient of <a href="/wiki/The_Franklin_Institute" title="The Franklin Institute" class="mw-redirect">The Franklin Institute</a>'s <a href="/wiki/The_Franklin_Institute_Awards" title="The Franklin Institute Awards" class="mw-redirect">2010 Benjamin Franklin Medal</a> in Computer and Cognitive Science.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> She received the <a href="/wiki/IEEE_Emanuel_R._Piore_Award" title="IEEE Emanuel R. Piore Award">IEEE Emanuel R. Piore Award</a> in 2011, and was awarded the 2012 <a href="/wiki/Turing_Award" title="Turing Award">Turing Award</a> along with <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a> for their work in the field of cryptography.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shafi_Goldwasser&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-mathgene-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-mathgene_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mathgene_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=35879">Shafi Goldwasser</a> at the <a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">Mathematics Genealogy Project</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Goldwasser, S.; <a href="/wiki/Silvio_Micali" title="Silvio Micali">Micali, S.</a>; <a href="/wiki/Ron_Rivest" title="Ron Rivest">Rivest, R. L.</a> (1988). "A Digital Signature Scheme Secure Against Adaptive Chosen-Message Attacks". <i>SIAM Journal on Computing</i> <b>17</b> (2): 281. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1137%2F0217017">10.1137/0217017</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShafi+Goldwasser&amp;rft.atitle=A+Digital+Signature+Scheme+Secure+Against+Adaptive+Chosen-Message+Attacks&amp;rft.aufirst=S.&amp;rft.aulast=Goldwasser&amp;rft.au=Micali%2C+S.&amp;rft.au=Rivest%2C+R.+L.&amp;rft.date=1988&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1137%2F0217017&amp;rft.issue=2&amp;rft.jtitle=SIAM+Journal+on+Computing&amp;rft.pages=281&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=17" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-turing-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-turing_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Savage, N. (2013). "Proofs probable: Shafi Goldwasser and Silvio Micali laid the foundations for modern cryptography, with contributions including interactive and zero-knowledge proofs". <i>Communications of the ACM</i> <b>56</b> (6): 22. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F2461256.2461265">10.1145/2461256.2461265</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShafi+Goldwasser&amp;rft.atitle=Proofs+probable%3A+Shafi+Goldwasser+and+Silvio+Micali+laid+the+foundations+for+modern+cryptography%2C+with+contributions+including+interactive+and+zero-knowledge+proofs&amp;rft.aufirst=N.&amp;rft.aulast=Savage&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F2461256.2461265&amp;rft.issue=6&amp;rft.jtitle=Communications+of+the+ACM&amp;rft.pages=22&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=56" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.jewishexponent.com/article/19922/Jewish">Exponent: Shafi Goldwasser</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since March 2013">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-acm-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-acm_5-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://dl.acm.org/author_page.cfm?id=81100237195">Shafi Goldwasser</a> from the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery (ACM)</a> Digital Library</span></li>
+<li id="cite_note-scopus-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-scopus_6-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.scopus.com/authid/detail.url?authorId=7005292534">Shafi Goldwasser's publications</a> indexed by the <a href="/wiki/Scopus" title="Scopus">Scopus</a> bibliographic database, a service provided by <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a>.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Goldwasser, S.; Micali, S. (1984). "Probabilistic encryption". <i>Journal of Computer and System Sciences</i> <b>28</b> (2): 270. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0022-0000%2884%2990070-9">10.1016/0022-0000(84)90070-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShafi+Goldwasser&amp;rft.atitle=Probabilistic+encryption&amp;rft.aufirst=S.&amp;rft.aulast=Goldwasser&amp;rft.au=Micali%2C+S.&amp;rft.date=1984&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0022-0000%2884%2990070-9&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Computer+and+System+Sciences&amp;rft.pages=270&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=28" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bookrags.com/biography/shafi-goldwasser-wcs/">"Shafi Goldwasser Biography"</a>. <i>www.BookRags.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShafi+Goldwasser&amp;rft.atitle=Shafi+Goldwasser+Biography&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bookrags.com%2Fbiography%2Fshafi-goldwasser-wcs%2F&amp;rft.jtitle=www.BookRags.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">AbAbazorius, CSAIL (13 March 2013). <a rel="nofollow" class="external text" href="http://web.mit.edu/newsoffice/2013/goldwasser-and-micali-win-turing-award-0313.html">"Goldwasser and Micali win Turing Award"</a>. <i>MIT News</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShafi+Goldwasser&amp;rft.atitle=Goldwasser+and+Micali+win+Turing+Award&amp;rft.au=AbAbazorius%2C+CSAIL&amp;rft.date=2013-03-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2Fnewsoffice%2F2013%2Fgoldwasser-and-micali-win-turing-award-0313.html&amp;rft.jtitle=MIT+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Goldwasser, S.; Micali, S.; Rackoff, C. (1985). "The knowledge complexity of interactive proof-systems". <i>Proceedings of the seventeenth annual ACM symposium on Theory of computing - STOC '85</i>. p.&#160;291. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F22145.22178">10.1145/22145.22178</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0897911512" title="Special:BookSources/0897911512">0897911512</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShafi+Goldwasser&amp;rft.atitle=The+knowledge+complexity+of+interactive+proof-systems&amp;rft.aufirst=S.&amp;rft.aulast=Goldwasser&amp;rft.au=Micali%2C+S.&amp;rft.au=Rackoff%2C+C.&amp;rft.btitle=Proceedings+of+the+seventeenth+annual+ACM+symposium+on+Theory+of+computing++-+STOC+%2785&amp;rft.date=1985&amp;rft.genre=bookitem&amp;rft_id=info%3Adoi%2F10.1145%2F22145.22178&amp;rft.isbn=0897911512&amp;rft.pages=291&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Uriel_Feige" title="Uriel Feige">Feige, U.</a>; Goldwasser, S.; <a href="/wiki/Laszlo_Lov%C3%A1sz" title="Laszlo Lovász" class="mw-redirect">Lovász, L.</a>; <a href="/wiki/Shmuel_Safra" title="Shmuel Safra">Safra, S.</a>; <a href="/wiki/Mario_Szegedy" title="Mario Szegedy">Szegedy, M.</a> (1996). "Interactive proofs and the hardness of approximating cliques". <i><a href="/wiki/Journal_of_the_ACM" title="Journal of the ACM">Journal of the ACM</a></i> <b>43</b> (2): 268–292. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F226643.226652">10.1145/226643.226652</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShafi+Goldwasser&amp;rft.atitle=Interactive+proofs+and+the+hardness+of+approximating+cliques&amp;rft.aufirst=U.&amp;rft.au=Goldwasser%2C+S.&amp;rft.aulast=Feige&amp;rft.au=Lov%C3%A1sz%2C+L.&amp;rft.au=Safra%2C+S.&amp;rft.au=Szegedy%2C+M.&amp;rft.date=1996&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1145%2F226643.226652&amp;rft.issue=2&amp;rft.jtitle=Journal+of+the+ACM&amp;rft.pages=268-292&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=43" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wisdom.weizmann.ac.il">"Home"</a>. <i>weizmann.ac.il</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShafi+Goldwasser&amp;rft.atitle=Home&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wisdom.weizmann.ac.il&amp;rft.jtitle=weizmann.ac.il&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">News Office (21 October 2009). <a rel="nofollow" class="external text" href="http://web.mit.edu/newsoffice/2009/franklin-laureates.html">"Goldwasser, Stubbe named Franklin Institute laureates"</a>. <i>MIT News</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShafi+Goldwasser&amp;rft.atitle=Goldwasser%2C+Stubbe+named+Franklin+Institute+laureates&amp;rft.au=News+Office&amp;rft.date=2009-10-21&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2Fnewsoffice%2F2009%2Ffranklin-laureates.html&amp;rft.jtitle=MIT+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.acm.org/press-room/news-releases/2013/turing-award-12">"Goldwasser, Micali Receive ACM Turing Award for Advances in Cryptography"</a>. ACM<span class="reference-accessdate">. Retrieved <span class="nowrap">13 March</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AShafi+Goldwasser&amp;rft.btitle=Goldwasser%2C+Micali+Receive+ACM+Turing+Award+for+Advances+in+Cryptography&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.acm.org%2Fpress-room%2Fnews-releases%2F2013%2Fturing-award-12&amp;rft.pub=ACM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:G%C3%B6del_Prize_laureates" title="Template:Gödel Prize laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:G%C3%B6del_Prize_laureates" title="Template talk:Gödel Prize laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:G%C3%B6del_Prize_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/G%C3%B6del_Prize" title="Gödel Prize">Gödel Prize</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/L%C3%A1szl%C3%B3_Babai" title="László Babai">Babai</a> / <strong class="selflink">Goldwasser</strong> / <a href="/wiki/Silvio_Micali" title="Silvio Micali">Micali</a> / <a href="/wiki/Shlomo_Moran" title="Shlomo Moran">Moran</a> / <a href="/wiki/Charles_Rackoff" title="Charles Rackoff">Rackoff</a> <small>(1993)</small></li>
+<li><a href="/wiki/Johan_H%C3%A5stad" title="Johan Håstad">Håstad</a> <small>(1994)</small></li>
+<li><a href="/wiki/Neil_Immerman" title="Neil Immerman">Immerman</a> / <a href="/wiki/R%C3%B3bert_Szelepcs%C3%A9nyi" title="Róbert Szelepcsényi">Szelepcsényi</a> <small>(1995)</small></li>
+<li><a href="/wiki/Mark_Jerrum" title="Mark Jerrum">Jerrum</a> / <a href="/wiki/Alistair_Sinclair" title="Alistair Sinclair">Sinclair</a> <small>(1996)</small></li>
+<li><a href="/wiki/Joseph_Halpern" title="Joseph Halpern">Halpern</a> / <a href="/wiki/Yoram_Moses" title="Yoram Moses">Moses</a> <small>(1997)</small></li>
+<li><a href="/wiki/Seinosuke_Toda" title="Seinosuke Toda">Toda</a> <small>(1998)</small></li>
+<li><a href="/wiki/Peter_Shor" title="Peter Shor">Shor</a> <small>(1999)</small></li>
+<li><a href="/wiki/Moshe_Y._Vardi" title="Moshe Y. Vardi" class="mw-redirect">Vardi</a> / <a href="/wiki/Pierre_Wolper" title="Pierre Wolper">Wolper</a> <small>(2000)</small></li>
+<li><a href="/wiki/Sanjeev_Arora" title="Sanjeev Arora">Arora</a> / <a href="/wiki/Uriel_Feige" title="Uriel Feige">Feige</a> / <strong class="selflink">Goldwasser</strong> / <a href="/wiki/Carsten_Lund" title="Carsten Lund">Lund</a> / <a href="/wiki/L%C3%A1szl%C3%B3_Lov%C3%A1sz" title="László Lovász">Lovász</a> / <a href="/wiki/Rajeev_Motwani" title="Rajeev Motwani">Motwani</a> / <a href="/wiki/Shmuel_Safra" title="Shmuel Safra">Safra</a> / <a href="/wiki/Madhu_Sudan" title="Madhu Sudan">Sudan</a> / <a href="/wiki/Mario_Szegedy" title="Mario Szegedy">Szegedy</a> <small>(2001)</small></li>
+<li><a href="/wiki/G%C3%A9raud_S%C3%A9nizergues" title="Géraud Sénizergues">Sénizergues</a> <small>(2002)</small></li>
+<li><a href="/wiki/Yoav_Freund" title="Yoav Freund">Freund</a> / <a href="/wiki/Robert_Schapire" title="Robert Schapire">Schapire</a> <small>(2003)</small></li>
+<li><a href="/wiki/Maurice_Herlihy" title="Maurice Herlihy">Herlihy</a> / <a href="/wiki/Michael_Saks_(mathematician)" title="Michael Saks (mathematician)">Saks</a> / <a href="/wiki/Nir_Shavit" title="Nir Shavit">Shavit</a> / <a href="/wiki/Fotios_Zaharoglou" title="Fotios Zaharoglou">Zaharoglou</a> <small>(2004)</small></li>
+<li><a href="/wiki/Noga_Alon" title="Noga Alon">Alon</a> / <a href="/wiki/Yossi_Matias" title="Yossi Matias">Matias</a> / <a href="/wiki/Mario_Szegedy" title="Mario Szegedy">Szegedy</a> <small>(2005)</small></li>
+<li><a href="/wiki/Manindra_Agrawal" title="Manindra Agrawal">Agrawal</a> / <a href="/wiki/Neeraj_Kayal" title="Neeraj Kayal">Kayal</a> / <a href="/wiki/Nitin_Saxena" title="Nitin Saxena">Saxena</a> <small>(2006)</small></li>
+<li><a href="/wiki/Alexander_Razborov" title="Alexander Razborov">Razborov</a> / <a href="/wiki/Steven_Rudich" title="Steven Rudich">Rudich</a> <small>(2007)</small></li>
+<li><a href="/wiki/Shang-Hua_Teng" title="Shang-Hua Teng">Teng</a> / <a href="/wiki/Daniel_Spielman" title="Daniel Spielman">Spielman</a> <small>(2008)</small></li>
+<li><a href="/wiki/Omer_Reingold" title="Omer Reingold">Reingold</a> / <a href="/wiki/Salil_Vadhan" title="Salil Vadhan">Vadhan</a> / <a href="/wiki/Avi_Wigderson" title="Avi Wigderson">Wigderson</a> <small>(2009)</small></li>
+<li><a href="/wiki/Sanjeev_Arora" title="Sanjeev Arora">Arora</a> / <a href="/wiki/Joseph_S._B._Mitchell" title="Joseph S. B. Mitchell">Mitchell</a> <small>(2010)</small></li>
+<li><a href="/wiki/Johan_H%C3%A5stad" title="Johan Håstad">Håstad</a> <small>(2011)</small></li>
+<li><a href="/w/index.php?title=Elias_Koutsoupias&amp;action=edit&amp;redlink=1" class="new" title="Elias Koutsoupias (page does not exist)">Koutsoupias</a> / <a href="/wiki/Christos_Papadimitriou" title="Christos Papadimitriou">Papadimitriou</a> / <a href="/wiki/Tim_Roughgarden" title="Tim Roughgarden">Roughgarden</a> / <a href="/wiki/%C3%89va_Tardos" title="Éva Tardos">Tardos</a> / <a href="/wiki/Noam_Nisan" title="Noam Nisan">Nisan</a> / <a href="/w/index.php?title=Amir_Ronen&amp;action=edit&amp;redlink=1" class="new" title="Amir Ronen (page does not exist)">Ronen</a> <small>(2012)</small></li>
+<li><a href="/wiki/Dan_Boneh" title="Dan Boneh">Boneh</a> / <a href="/wiki/Matthew_K._Franklin" title="Matthew K. Franklin">Franklin</a> / <a href="/wiki/Antoine_Joux" title="Antoine Joux">Joux</a> <small>(2013)</small></li>
+<li><a href="/wiki/Ronald_Fagin" title="Ronald Fagin">Fagin</a> / <a href="/w/index.php?title=Amnon_Lotem&amp;action=edit&amp;redlink=1" class="new" title="Amnon Lotem (page does not exist)">Lotem</a> / <a href="/wiki/Moni_Naor" title="Moni Naor">Naor</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hopper_winners" title="Template:Hopper winners"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hopper_winners" title="Template talk:Hopper winners"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hopper_winners&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">Grace Murray Hopper Award</a> recipients</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Knuth</a>&#160;<small>(1971)</small></li>
+<li><a href="/wiki/Paul_H._Dirksen" title="Paul H. Dirksen" class="mw-redirect">Dirksen</a>&#160;<small>(1972)</small></li>
+<li><a href="/wiki/Paul_H._Cress" title="Paul H. Cress">Cress</a>&#160;<small>(1972)</small></li>
+<li><a href="/wiki/Lawrence_M._Breed" title="Lawrence M. Breed">Breed</a>/<a href="/wiki/Richard_H._Lathwell" title="Richard H. Lathwell">Lathwell</a>/<a href="/wiki/Roger_Moore_(computer_scientist)" title="Roger Moore (computer scientist)">Moore</a>&#160;<small>(1973)</small></li>
+<li><a href="/w/index.php?title=George_N._Baird&amp;action=edit&amp;redlink=1" class="new" title="George N. Baird (page does not exist)">Baird</a>&#160;<small>(1974)</small></li>
+<li><a href="/w/index.php?title=Allan_L._Scherr&amp;action=edit&amp;redlink=1" class="new" title="Allan L. Scherr (page does not exist)">Scherr</a>&#160;<small>(1975)</small></li>
+<li><a href="/wiki/Edward_H._Shortliffe" title="Edward H. Shortliffe">Shortliffe</a>&#160;<small>(1976)</small></li>
+<li><a href="/wiki/Ray_Kurzweil" title="Ray Kurzweil">Kurzweil</a>&#160;<small>(1978)</small></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Wozniak</a>&#160;<small>(1979)</small></li>
+<li><a href="/wiki/Robert_M._Metcalfe" title="Robert M. Metcalfe" class="mw-redirect">Metcalfe</a>&#160;<small>(1980)</small></li>
+<li><a href="/wiki/Daniel_S._Bricklin" title="Daniel S. Bricklin" class="mw-redirect">Bricklin</a>&#160;<small>(1981)</small></li>
+<li><a href="/wiki/Brian_Reid_(computer_scientist)" title="Brian Reid (computer scientist)">Reid</a>&#160;<small>(1982)</small></li>
+<li><a href="/wiki/Daniel_Henry_Holmes_Ingalls,_Jr." title="Daniel Henry Holmes Ingalls, Jr.">Ingalls</a>&#160;<small>(1984)</small></li>
+<li><a href="/w/index.php?title=Cordell_Green&amp;action=edit&amp;redlink=1" class="new" title="Cordell Green (page does not exist)">Green</a>&#160;<small>(1985)</small></li>
+<li><a href="/wiki/Bill_Joy" title="Bill Joy">Joy</a>&#160;<small>(1986)</small></li>
+<li><a href="/wiki/John_Ousterhout" title="John Ousterhout">Ousterhout</a>&#160;<small>(1987)</small></li>
+<li><a href="/wiki/Guy_L._Steele,_Jr." title="Guy L. Steele, Jr.">Steele</a>&#160;<small>(1988)</small></li>
+<li><a href="/wiki/W._Daniel_Hillis" title="W. Daniel Hillis" class="mw-redirect">Hillis</a>&#160;<small>(1989)</small></li>
+<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Stallman</a>&#160;<small>(1990)</small></li>
+<li><a href="/wiki/Feng-hsiung_Hsu" title="Feng-hsiung Hsu">Hsu</a>&#160;<small>(1991)</small></li>
+<li><a href="/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup">Stroustrup</a>&#160;<small>(1993)</small></li>
+<li><a href="/wiki/Shafrira_Goldwasser" title="Shafrira Goldwasser" class="mw-redirect">Goldwasser</a>&#160;<small>(1996)</small></li>
+<li><a href="/wiki/Wen-mei_Hwu" title="Wen-mei Hwu">Hwu</a>&#160;<small>(1999)</small></li>
+<li><a href="/wiki/Lydia_Kavraki" title="Lydia Kavraki">Kavraki</a>&#160;<small>(2000)</small></li>
+<li><a href="/wiki/George_Necula" title="George Necula">Necula</a>&#160;<small>(2001)</small></li>
+<li><a href="/wiki/Ramakrishnan_Srikant" title="Ramakrishnan Srikant">Srikant</a>&#160;<small>(2002)</small></li>
+<li><a href="/w/index.php?title=Stephen_W._Keckler&amp;action=edit&amp;redlink=1" class="new" title="Stephen W. Keckler (page does not exist)">Keckler</a>&#160;<small>(2003)</small></li>
+<li><a href="/wiki/Jennifer_Rexford" title="Jennifer Rexford">Rexford</a>&#160;<small>(2004)</small></li>
+<li><a href="/wiki/Omer_Reingold" title="Omer Reingold">Reingold</a>&#160;<small>(2005)</small></li>
+<li><a href="/wiki/Dan_Klein" title="Dan Klein">Klein</a>&#160;<small>(2006)</small></li>
+<li><a href="/wiki/Vern_Paxson" title="Vern Paxson">Paxson</a>&#160;<small>(2007)</small></li>
+<li><a href="/w/index.php?title=Dawson_Engler&amp;action=edit&amp;redlink=1" class="new" title="Dawson Engler (page does not exist)">Engler</a>&#160;<small>(2008)</small></li>
+<li><a href="/wiki/Tim_Roughgarden" title="Tim Roughgarden">Roughgarden</a>&#160;<small>(2009)</small></li>
+<li><a href="/wiki/Craig_Gentry_(computer_scientist)" title="Craig Gentry (computer scientist)">Gentry</a>&#160;<small>(2010)</small></li>
+<li><a href="/wiki/Luis_von_Ahn" title="Luis von Ahn">Ahn</a>&#160;<small>(2011)</small></li>
+<li><a href="/w/index.php?title=Martin_Casado&amp;action=edit&amp;redlink=1" class="new" title="Martin Casado (page does not exist)">Casado</a> and <a href="/wiki/Dina_Katabi" title="Dina Katabi">Katabi</a>&#160;<small>(2012)</small></li>
+<li><a href="/w/index.php?title=Pedro_Felipe_Felzenszwalb&amp;action=edit&amp;redlink=1" class="new" title="Pedro Felipe Felzenszwalb (page does not exist)">Felzenszwalb</a>&#160;<small>(2013)</small></li>
+<li><a href="/w/index.php?title=Sylvia_Ratnasamy&amp;action=edit&amp;redlink=1" class="new" title="Sylvia Ratnasamy (page does not exist)">Ratnasamy</a>&#160;<small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Turing_Award_laureates" title="Template:Turing Award laureates"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Turing_Award_laureates" title="Template talk:Turing Award laureates"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Turing_Award_laureates&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Turing_Award" title="Turing Award">A. M. Turing Award</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alan_Perlis" title="Alan Perlis">Alan Perlis</a> <small>(1966)</small></li>
+<li><a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Vincent Wilkes</a> <small>(1967)</small></li>
+<li><a href="/wiki/Richard_Hamming" title="Richard Hamming">Richard Hamming</a> <small>(1968)</small></li>
+<li><a href="/wiki/Marvin_Minsky" title="Marvin Minsky">Marvin Minsky</a> <small>(1969)</small></li>
+<li><a href="/wiki/James_H._Wilkinson" title="James H. Wilkinson">James H. Wilkinson</a> <small>(1970)</small></li>
+<li><a href="/wiki/John_McCarthy_(computer_scientist)" title="John McCarthy (computer scientist)">John McCarthy</a> <small>(1971)</small></li>
+<li><a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a> <small>(1972)</small></li>
+<li><a href="/wiki/Charles_Bachman" title="Charles Bachman">Charles Bachman</a> <small>(1973)</small></li>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a> <small>(1974)</small></li>
+<li><a href="/wiki/Allen_Newell" title="Allen Newell">Allen Newell</a> / <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a> <small>(1975)</small></li>
+<li><a href="/wiki/Michael_O._Rabin" title="Michael O. Rabin">Michael O. Rabin</a> / <a href="/wiki/Dana_Scott" title="Dana Scott">Dana Scott</a> <small>(1976)</small></li>
+<li><a href="/wiki/John_Backus" title="John Backus">John Backus</a> <small>(1977)</small></li>
+<li><a href="/wiki/Robert_W._Floyd" title="Robert W. Floyd">Robert W. Floyd</a> <small>(1978)</small></li>
+<li><a href="/wiki/Kenneth_E._Iverson" title="Kenneth E. Iverson">Kenneth E. Iverson</a> <small>(1979)</small></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">Tony Hoare</a> <small>(1980)</small></li>
+<li><a href="/wiki/Edgar_F._Codd" title="Edgar F. Codd">Edgar F. Codd</a> <small>(1981)</small></li>
+<li><a href="/wiki/Stephen_Cook" title="Stephen Cook">Stephen Cook</a> <small>(1982)</small></li>
+<li><a href="/wiki/Ken_Thompson" title="Ken Thompson">Ken Thompson</a> / <a href="/wiki/Dennis_Ritchie" title="Dennis Ritchie">Dennis Ritchie</a> <small>(1983)</small></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a> <small>(1984)</small></li>
+<li><a href="/wiki/Richard_Karp" title="Richard Karp" class="mw-redirect">Richard Karp</a> <small>(1985)</small></li>
+<li><a href="/wiki/John_Hopcroft" title="John Hopcroft">John Hopcroft</a> / <a href="/wiki/Robert_Tarjan" title="Robert Tarjan">Robert Tarjan</a> <small>(1986)</small></li>
+<li><a href="/wiki/John_Cocke" title="John Cocke">John Cocke</a> <small>(1987)</small></li>
+<li><a href="/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a> <small>(1988)</small></li>
+<li><a href="/wiki/William_Kahan" title="William Kahan">William Kahan</a> <small>(1989)</small></li>
+<li><a href="/wiki/Fernando_J._Corbat%C3%B3" title="Fernando J. Corbató">Fernando J. Corbató</a> <small>(1990)</small></li>
+<li><a href="/wiki/Robin_Milner" title="Robin Milner">Robin Milner</a> <small>(1991)</small></li>
+<li><a href="/wiki/Butler_Lampson" title="Butler Lampson">Butler Lampson</a> <small>(1992)</small></li>
+<li><a href="/wiki/Juris_Hartmanis" title="Juris Hartmanis">Juris Hartmanis</a> / <a href="/wiki/Richard_E._Stearns" title="Richard E. Stearns">Richard E. Stearns</a> <small>(1993)</small></li>
+<li><a href="/wiki/Edward_Feigenbaum" title="Edward Feigenbaum">Edward Feigenbaum</a> / <a href="/wiki/Raj_Reddy" title="Raj Reddy">Raj Reddy</a> <small>(1994)</small></li>
+<li><a href="/wiki/Manuel_Blum" title="Manuel Blum">Manuel Blum</a> <small>(1995)</small></li>
+<li><a href="/wiki/Amir_Pnueli" title="Amir Pnueli">Amir Pnueli</a> <small>(1996)</small></li>
+<li><a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> <small>(1997)</small></li>
+<li><a href="/wiki/Jim_Gray_(computer_scientist)" title="Jim Gray (computer scientist)">Jim Gray</a> <small>(1998)</small></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a> <small>(1999)</small></li>
+<li><a href="/wiki/Andrew_Yao" title="Andrew Yao">Andrew Yao</a> <small>(2000)</small></li>
+<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a> / <a href="/wiki/Kristen_Nygaard" title="Kristen Nygaard">Kristen Nygaard</a> <small>(2001)</small></li>
+<li><a href="/wiki/Ron_Rivest" title="Ron Rivest">Ron Rivest</a> / <a href="/wiki/Adi_Shamir" title="Adi Shamir">Adi Shamir</a> / <a href="/wiki/Leonard_Adleman" title="Leonard Adleman">Leonard Adleman</a> <small>(2002)</small></li>
+<li><a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a> <small>(2003)</small></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a> / <a href="/wiki/Bob_Kahn" title="Bob Kahn">Bob Kahn</a> <small>(2004)</small></li>
+<li><a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a> <small>(2005)</small></li>
+<li><a href="/wiki/Frances_E._Allen" title="Frances E. Allen">Frances E. Allen</a> <small>(2006)</small></li>
+<li><a href="/wiki/Edmund_M._Clarke" title="Edmund M. Clarke">Edmund M. Clarke</a> / <a href="/wiki/E._Allen_Emerson" title="E. Allen Emerson">E. Allen Emerson</a> / <a href="/wiki/Joseph_Sifakis" title="Joseph Sifakis">Joseph Sifakis</a> <small>(2007)</small></li>
+<li><a href="/wiki/Barbara_Liskov" title="Barbara Liskov">Barbara Liskov</a> <small>(2008)</small></li>
+<li><a href="/wiki/Charles_P._Thacker" title="Charles P. Thacker">Charles P. Thacker</a> <small>(2009)</small></li>
+<li><a href="/wiki/Leslie_Valiant" title="Leslie Valiant">Leslie G. Valiant</a> <small>(2010)</small></li>
+<li><a href="/wiki/Judea_Pearl" title="Judea Pearl">Judea Pearl</a> <small>(2011)</small></li>
+<li><strong class="selflink">Shafi Goldwasser</strong> / <a href="/wiki/Silvio_Micali" title="Silvio Micali">Silvio Micali</a> <small>(2012)</small></li>
+<li><a href="/wiki/Leslie_Lamport" title="Leslie Lamport">Leslie Lamport</a> <small>(2013)</small></li>
+<li><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a> <small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n89-672123">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/63159637">63159637</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n89672123">n89672123</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000110669590">0000 0001 1066 9590</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/109079183">109079183</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=35879">35879</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/01070223">01070223</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1179
+Cached time: 20160106172744
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.383 seconds
+Real time usage: 0.479 seconds
+Preprocessor visited node count: 1560/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 64085/2097152 bytes
+Template argument size: 5159/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.174/10.000 seconds
+Lua memory usage: 4.12 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  408.749      1 - -total
+ 45.13%  184.451      1 - Template:Reflist
+ 24.91%  101.816      1 - Template:Infobox_scientist
+ 22.75%   92.978      1 - Template:Infobox
+ 18.52%   75.692      4 - Template:Cite_journal
+  8.84%   36.132      3 - Template:Category_handler
+  8.54%   34.926      1 - Template:Lang-he
+  8.19%   33.490      1 - Template:Authority_control
+  8.03%   32.840      1 - Template:Language_with_name
+  7.42%   30.320      1 - Template:Lang
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:842178-0!*!0!!en!4!* and timestamp 20160106172743 and revision id 684552579
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Shafi_Goldwasser&amp;oldid=684552579">https://en.wikipedia.org/w/index.php?title=Shafi_Goldwasser&amp;oldid=684552579</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1958_births" title="Category:1958 births">1958 births</a></li><li><a href="/wiki/Category:20th-century_mathematicians" title="Category:20th-century mathematicians">20th-century mathematicians</a></li><li><a href="/wiki/Category:21st-century_mathematicians" title="Category:21st-century mathematicians">21st-century mathematicians</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:American_emigrants_to_Israel" title="Category:American emigrants to Israel">American emigrants to Israel</a></li><li><a href="/wiki/Category:Carnegie_Mellon_University_alumni" title="Category:Carnegie Mellon University alumni">Carnegie Mellon University alumni</a></li><li><a href="/wiki/Category:G%C3%B6del_Prize_laureates" title="Category:Gödel Prize laureates">Gödel Prize laureates</a></li><li><a href="/wiki/Category:Grace_Murray_Hopper_Award_laureates" title="Category:Grace Murray Hopper Award laureates">Grace Murray Hopper Award laureates</a></li><li><a href="/wiki/Category:Israeli_computer_scientists" title="Category:Israeli computer scientists">Israeli computer scientists</a></li><li><a href="/wiki/Category:Israeli_Jews" title="Category:Israeli Jews">Israeli Jews</a></li><li><a href="/wiki/Category:Jewish_American_scientists" title="Category:Jewish American scientists">Jewish American scientists</a></li><li><a href="/wiki/Category:Massachusetts_Institute_of_Technology_faculty" title="Category:Massachusetts Institute of Technology faculty">Massachusetts Institute of Technology faculty</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Sciences" title="Category:Members of the United States National Academy of Sciences">Members of the United States National Academy of Sciences</a></li><li><a href="/wiki/Category:Modern_cryptographers" title="Category:Modern cryptographers">Modern cryptographers</a></li><li><a href="/wiki/Category:Naturalized_citizens_of_Israel" title="Category:Naturalized citizens of Israel">Naturalized citizens of Israel</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_New_York_City" title="Category:People from New York City">People from New York City</a></li><li><a href="/wiki/Category:Theoretical_computer_scientists" title="Category:Theoretical computer scientists">Theoretical computer scientists</a></li><li><a href="/wiki/Category:Turing_Award_laureates" title="Category:Turing Award laureates">Turing Award laureates</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_alumni" title="Category:University of California, Berkeley alumni">University of California, Berkeley alumni</a></li><li><a href="/wiki/Category:Weizmann_Institute_faculty" title="Category:Weizmann Institute faculty">Weizmann Institute faculty</a></li><li><a href="/wiki/Category:Women_mathematicians" title="Category:Women mathematicians">Women mathematicians</a></li><li><a href="/wiki/Category:Women_computer_scientists" title="Category:Women computer scientists">Women computer scientists</a></li><li><a href="/wiki/Category:IACR_fellows" title="Category:IACR fellows">IACR fellows</a></li><li><a href="/wiki/Category:Israeli_women_academics" title="Category:Israeli women academics">Israeli women academics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_March_2013" title="Category:Articles with dead external links from March 2013">Articles with dead external links from March 2013</a></li><li><a href="/wiki/Category:Articles_containing_Hebrew-language_text" title="Category:Articles containing Hebrew-language text">Articles containing Hebrew-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shafi+Goldwasser&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shafi+Goldwasser" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Shafi_Goldwasser"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Shafi_Goldwasser"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Shafi_Goldwasser" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Shafi_Goldwasser&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Shafi_Goldwasser&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Shafi_Goldwasser" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Shafi_Goldwasser" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Shafi_Goldwasser&amp;oldid=684552579" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Shafi_Goldwasser&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q11609" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Shafi_Goldwasser&amp;id=684552579" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Shafi+Goldwasser">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Shafi+Goldwasser&amp;returnto=Shafi+Goldwasser&amp;oldid=684552579&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Shafi_Goldwasser&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B4%D8%A7%D9%81%D8%B1%D9%8A%D8%B1%D8%A7_%D8%BA%D9%88%D9%84%D8%AF%D9%81%D8%A7%D8%B3%D8%B1" title="شافريرا غولدفاسر – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%B6%E0%A6%AB%E0%A6%BF_%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B8%E0%A6%BE%E0%A6%B0" title="শফি গোল্ডওয়েসার – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Shafrira_Goldwasser" title="Shafrira Goldwasser – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Shafrira_Goldwasser" title="Shafrira Goldwasser – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Shafrira_Goldwasser" title="Shafrira Goldwasser – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B4%D9%81%DB%8C%D8%B9_%DA%AF%D9%88%D9%84%D8%AF%D9%88%D8%A7%D8%B3%D8%B1" title="شفیع گولدواسر – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Shafi_Goldwasser" title="Shafi Goldwasser – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Shafi_Goldwasser" title="Shafi Goldwasser – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A9%D7%A4%D7%99_%D7%92%D7%95%D7%9C%D7%93%D7%95%D7%95%D7%A1%D7%A8" title="שפי גולדווסר – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Shafi_Goldwasser" title="Shafi Goldwasser – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%95%E3%82%A3%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AF%E3%83%83%E3%82%B5%E3%83%BC" title="シャフィ・ゴールドワッサー – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Shafrira_Goldwasser" title="Shafrira Goldwasser – Occitan" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Shafrira_Goldwasser" title="Shafrira Goldwasser – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Shafrira_Goldwasser" title="Shafrira Goldwasser – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8C%D0%B4%D0%B2%D0%B0%D1%81%D1%81%D0%B5%D1%80,_%D0%A8%D0%B0%D1%84%D0%B8" title="Гольдвассер, Шафи – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Shafi_Goldwasser" title="Shafi Goldwasser – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%8E%8E%E8%8F%B2%C2%B7%E6%88%88%E5%BE%B7%E7%93%A6%E5%A1%9E%E5%B0%94" title="莎菲·戈德瓦塞尔 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q11609#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 October 2015, at 10:02.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Shafi_Goldwasser&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1251"}); /* @nomin */
+} );</script>
+	</body>
+</html>

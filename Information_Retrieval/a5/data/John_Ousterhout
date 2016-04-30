@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>John Ousterhout - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"John_Ousterhout","wgTitle":"John Ousterhout","wgCurRevisionId":688010892,"wgRevisionId":688010892,"wgArticleId":42072,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["BLP articles lacking sources from April 2010","Articles with hCards","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Computer programmers","Stanford University School of Engineering faculty","University of California, Berkeley faculty","Fellows of the Association for Computing Machinery","Carnegie Mellon University alumni","Grace Murray Hopper Award laureates","Yale University alumni","Living people","1954 births","Programming language designers","Place of birth missing (living people)","American computer scientists","Members of the United States National Academy of Engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"John_Ousterhout","wgRelevantArticleId":42072,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ouster_face.png/75px-Ouster_face.png","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q92636","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.9" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/John_Ousterhout" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=John_Ousterhout&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=John_Ousterhout&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/John_Ousterhout" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.9/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-John_Ousterhout skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">John Ousterhout</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-BLP_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biographical article</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help by adding <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Defamation" title="Defamation">libelous</a> or harmful.</span> <small><i>(April 2010)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">John Ousterhout</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Ouster_face.png" class="image"><img alt="Ouster face.png" src="//upload.wikimedia.org/wikipedia/commons/5/59/Ouster_face.png" width="108" height="144" data-file-width="108" data-file-height="144" /></a></td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1954-10-15</span>)</span> October 15, 1954 <span class="noprint ForceAgeToShow">(age&#160;61)</span><br />
+<span class="birthplace"><a href="/w/index.php?title=Solano_County,_USA&amp;action=edit&amp;redlink=1" class="new" title="Solano County, USA (page does not exist)">Solano County, USA</a></span></td>
+</tr>
+<tr>
+<th scope="row">Education</th>
+<td><a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">Bachelor's degree</a> in physics, <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Ph.D</a> in computer science</td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Tcl" title="Tcl">Tcl</a>, <a href="/wiki/Tk_(framework)" title="Tk (framework)" class="mw-redirect">Tk</a>, <a href="/wiki/Magic_(software)" title="Magic (software)">Magic</a></td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td><a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">Grace Murray Hopper Award</a> <small>(1987)</small><br />
+<a href="/wiki/ACM_Software_System_Award" title="ACM Software System Award">ACM Software System Award</a></td>
+</tr>
+</table>
+<p><b>John Kenneth Ousterhout</b> (<span class="nowrap"><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="/ˈ/ primary stress follows">ˈ</span><span title="/oʊ/ long 'o' in 'code'">oʊ</span><span title="'s' in 'sigh'">s</span><span title="'t' in 'tie'">t</span><span title="/ər/ 'er' in 'finger'">ər</span><span title="'h' in 'hi'">h</span><span title="/aʊ/ 'ou' in 'pout'">aʊ</span><span title="'t' in 'tie'">t</span></span>/</a></span></span>, born October 15, 1954) is the <a href="/wiki/Chairman" title="Chairman">chairman</a> of <a href="/wiki/Electric_Cloud" title="Electric Cloud">Electric Cloud, Inc.</a> and a <a href="/wiki/Professor" title="Professor">professor</a> of <a href="/wiki/Computer_science" title="Computer science">computer science</a> at <a href="/wiki/Stanford_University" title="Stanford University">Stanford University</a>. He founded Electric Cloud with <a href="/wiki/John_Graham-Cumming" title="John Graham-Cumming">John Graham-Cumming</a>. Ousterhout previously was a professor of computer science at <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> where he created the <a href="/wiki/Tcl" title="Tcl">Tcl</a> <a href="/wiki/Scripting_language" title="Scripting language">scripting language</a> and the <a href="/wiki/Tk_(framework)" title="Tk (framework)" class="mw-redirect">Tk</a> platform-independent <a href="/wiki/Widget_toolkit" title="Widget toolkit">widget toolkit</a>, and proposed the idea of <a href="/wiki/Coscheduling" title="Coscheduling">coscheduling</a>. Ousterhout also led the research group that designed the experimental <a href="/wiki/Sprite_operating_system" title="Sprite operating system" class="mw-redirect">Sprite operating system</a> and the first <a href="/wiki/Log-structured_file_system" title="Log-structured file system">log-structured file system</a>. Ousterhout is also the original author of the <a href="/wiki/Magic_(software)" title="Magic (software)">Magic</a> <a href="/wiki/VLSI" title="VLSI" class="mw-redirect">VLSI</a> <a href="/wiki/Computer-aided_design" title="Computer-aided design">Computer-aided design</a> program.</p>
+<p>He received his <a href="/wiki/Bachelor%27s_degree" title="Bachelor's degree">Bachelor's degree</a> in Physics from <a href="/wiki/Yale_University" title="Yale University">Yale University</a> in 1975, and his <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">Ph.D.</a> in computer science from <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a> in 1980.</p>
+<p>Ousterhout received the <a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">Grace Murray Hopper Award</a> in 1987 for his work on <a href="/wiki/CAD" title="CAD" class="mw-redirect">CAD</a> systems for <a href="/wiki/Very-large-scale_integration" title="Very-large-scale integration">very-large-scale integrated circuits</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> For the same work, he was inducted in 1994 as a <a href="/wiki/Fellow" title="Fellow">Fellow</a> of the <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> Ousterhout is a member of the <a href="/wiki/National_Academy_of_Engineering" title="National Academy of Engineering">National Academy of Engineering</a>.</p>
+<p>In 1994, Ousterhout left Berkeley to join <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a> Laboratories, which hired a team to join him in Tcl development. After several years at Sun, he left and co-founded <a href="/w/index.php?title=Scriptics&amp;action=edit&amp;redlink=1" class="new" title="Scriptics (page does not exist)">Scriptics, Inc.</a> (later renamed Ajuba Solutions) in January 1998 to provide professional Tcl development tools. Most of the Tcl team followed him from Sun. Ajuba was purchased by <a href="/wiki/Interwoven" title="Interwoven">Interwoven</a> in October 2000. He joined the faculty of Stanford University in 2008.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Selected_works"><span class="tocnumber">1</span> <span class="toctext">Selected works</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Selected_works">Selected works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Ousterhout&amp;action=edit&amp;section=1" title="Edit section: Selected works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation journal"><a href="/wiki/Michael_Stonebraker" title="Michael Stonebraker">Michael Stonebraker</a>; <a href="/wiki/Randy_Katz" title="Randy Katz">Randy Katz</a>, <a href="/wiki/David_Patterson_(computer_scientist)" title="David Patterson (computer scientist)">David Patterson</a>,John Ousterhout (1988). <a rel="nofollow" class="external text" href="http://db.cs.berkeley.edu/papers/ERL-M88-19.pdf">"THE DESIGN OF XPRS"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/VLDB" title="VLDB">VLDB</a></i>: 318–330<span class="reference-accessdate">. Retrieved <span class="nowrap">25 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohn+Ousterhout&amp;rft.atitle=THE+DESIGN+OF+XPRS&amp;rft.au=Michael+Stonebraker&amp;rft.au=Randy+Katz%2C+David+Patterson%2CJohn+Ousterhout&amp;rft.date=1988&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdb.cs.berkeley.edu%2Fpapers%2FERL-M88-19.pdf&amp;rft.jtitle=VLDB&amp;rft.pages=318-330&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Ousterhout&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Ousterhout%27s_dichotomy" title="Ousterhout's dichotomy">Ousterhout's dichotomy</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Ousterhout&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://awards.acm.org/citation.cfm?id=1957745&amp;srt=all&amp;aw=145&amp;ao=GMHOPPER&amp;yr=1987">Grace Murray Hopper Award citation</a>, retrieved 2010-04-21.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://fellows.acm.org/fellow_citation.cfm?id=1957745&amp;srt=all">ACM Fellow citation</a>, retrieved 2010-04-21.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=John_Ousterhout&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.tcl.tk/advocacy/tclHistory.html">John's recounting of Tcl's early days</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stanford.edu/~ouster/cgi-bin/home.php">Ousterhout's personal home page</a></li>
+<li><a rel="nofollow" class="external text" href="ftp://ftp.tcl.tk/pub/tcl/doc/tut.tar.Z">Tutorial material authored by Ousterhout</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stanford.edu/~ouster/">Ousterhout's web page at Stanford University</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hopper_winners" title="Template:Hopper winners"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hopper_winners" title="Template talk:Hopper winners"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hopper_winners&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Grace_Murray_Hopper_Award" title="Grace Murray Hopper Award">Grace Murray Hopper Award</a> recipients</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Donald_Knuth" title="Donald Knuth">Knuth</a>&#160;<small>(1971)</small></li>
+<li><a href="/wiki/Paul_H._Dirksen" title="Paul H. Dirksen" class="mw-redirect">Dirksen</a>&#160;<small>(1972)</small></li>
+<li><a href="/wiki/Paul_H._Cress" title="Paul H. Cress">Cress</a>&#160;<small>(1972)</small></li>
+<li><a href="/wiki/Lawrence_M._Breed" title="Lawrence M. Breed">Breed</a>/<a href="/wiki/Richard_H._Lathwell" title="Richard H. Lathwell">Lathwell</a>/<a href="/wiki/Roger_Moore_(computer_scientist)" title="Roger Moore (computer scientist)">Moore</a>&#160;<small>(1973)</small></li>
+<li><a href="/w/index.php?title=George_N._Baird&amp;action=edit&amp;redlink=1" class="new" title="George N. Baird (page does not exist)">Baird</a>&#160;<small>(1974)</small></li>
+<li><a href="/w/index.php?title=Allan_L._Scherr&amp;action=edit&amp;redlink=1" class="new" title="Allan L. Scherr (page does not exist)">Scherr</a>&#160;<small>(1975)</small></li>
+<li><a href="/wiki/Edward_H._Shortliffe" title="Edward H. Shortliffe">Shortliffe</a>&#160;<small>(1976)</small></li>
+<li><a href="/wiki/Ray_Kurzweil" title="Ray Kurzweil">Kurzweil</a>&#160;<small>(1978)</small></li>
+<li><a href="/wiki/Steve_Wozniak" title="Steve Wozniak">Wozniak</a>&#160;<small>(1979)</small></li>
+<li><a href="/wiki/Robert_M._Metcalfe" title="Robert M. Metcalfe" class="mw-redirect">Metcalfe</a>&#160;<small>(1980)</small></li>
+<li><a href="/wiki/Daniel_S._Bricklin" title="Daniel S. Bricklin" class="mw-redirect">Bricklin</a>&#160;<small>(1981)</small></li>
+<li><a href="/wiki/Brian_Reid_(computer_scientist)" title="Brian Reid (computer scientist)">Reid</a>&#160;<small>(1982)</small></li>
+<li><a href="/wiki/Daniel_Henry_Holmes_Ingalls,_Jr." title="Daniel Henry Holmes Ingalls, Jr.">Ingalls</a>&#160;<small>(1984)</small></li>
+<li><a href="/w/index.php?title=Cordell_Green&amp;action=edit&amp;redlink=1" class="new" title="Cordell Green (page does not exist)">Green</a>&#160;<small>(1985)</small></li>
+<li><a href="/wiki/Bill_Joy" title="Bill Joy">Joy</a>&#160;<small>(1986)</small></li>
+<li><strong class="selflink">Ousterhout</strong>&#160;<small>(1987)</small></li>
+<li><a href="/wiki/Guy_L._Steele,_Jr." title="Guy L. Steele, Jr.">Steele</a>&#160;<small>(1988)</small></li>
+<li><a href="/wiki/W._Daniel_Hillis" title="W. Daniel Hillis" class="mw-redirect">Hillis</a>&#160;<small>(1989)</small></li>
+<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Stallman</a>&#160;<small>(1990)</small></li>
+<li><a href="/wiki/Feng-hsiung_Hsu" title="Feng-hsiung Hsu">Hsu</a>&#160;<small>(1991)</small></li>
+<li><a href="/wiki/Bjarne_Stroustrup" title="Bjarne Stroustrup">Stroustrup</a>&#160;<small>(1993)</small></li>
+<li><a href="/wiki/Shafrira_Goldwasser" title="Shafrira Goldwasser" class="mw-redirect">Goldwasser</a>&#160;<small>(1996)</small></li>
+<li><a href="/wiki/Wen-mei_Hwu" title="Wen-mei Hwu">Hwu</a>&#160;<small>(1999)</small></li>
+<li><a href="/wiki/Lydia_Kavraki" title="Lydia Kavraki">Kavraki</a>&#160;<small>(2000)</small></li>
+<li><a href="/wiki/George_Necula" title="George Necula">Necula</a>&#160;<small>(2001)</small></li>
+<li><a href="/wiki/Ramakrishnan_Srikant" title="Ramakrishnan Srikant">Srikant</a>&#160;<small>(2002)</small></li>
+<li><a href="/w/index.php?title=Stephen_W._Keckler&amp;action=edit&amp;redlink=1" class="new" title="Stephen W. Keckler (page does not exist)">Keckler</a>&#160;<small>(2003)</small></li>
+<li><a href="/wiki/Jennifer_Rexford" title="Jennifer Rexford">Rexford</a>&#160;<small>(2004)</small></li>
+<li><a href="/wiki/Omer_Reingold" title="Omer Reingold">Reingold</a>&#160;<small>(2005)</small></li>
+<li><a href="/wiki/Dan_Klein" title="Dan Klein">Klein</a>&#160;<small>(2006)</small></li>
+<li><a href="/wiki/Vern_Paxson" title="Vern Paxson">Paxson</a>&#160;<small>(2007)</small></li>
+<li><a href="/w/index.php?title=Dawson_Engler&amp;action=edit&amp;redlink=1" class="new" title="Dawson Engler (page does not exist)">Engler</a>&#160;<small>(2008)</small></li>
+<li><a href="/wiki/Tim_Roughgarden" title="Tim Roughgarden">Roughgarden</a>&#160;<small>(2009)</small></li>
+<li><a href="/wiki/Craig_Gentry_(computer_scientist)" title="Craig Gentry (computer scientist)">Gentry</a>&#160;<small>(2010)</small></li>
+<li><a href="/wiki/Luis_von_Ahn" title="Luis von Ahn">Ahn</a>&#160;<small>(2011)</small></li>
+<li><a href="/w/index.php?title=Martin_Casado&amp;action=edit&amp;redlink=1" class="new" title="Martin Casado (page does not exist)">Casado</a> and <a href="/wiki/Dina_Katabi" title="Dina Katabi">Katabi</a>&#160;<small>(2012)</small></li>
+<li><a href="/w/index.php?title=Pedro_Felipe_Felzenszwalb&amp;action=edit&amp;redlink=1" class="new" title="Pedro Felipe Felzenszwalb (page does not exist)">Felzenszwalb</a>&#160;<small>(2013)</small></li>
+<li><a href="/w/index.php?title=Sylvia_Ratnasamy&amp;action=edit&amp;redlink=1" class="new" title="Sylvia Ratnasamy (page does not exist)">Ratnasamy</a>&#160;<small>(2014)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n81-041478">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/113870421">113870421</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n81041478">n81041478</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000117802390">0000 0001 1780 2390</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/172296900">172296900</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/167960873">167960873</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1053
+Cached time: 20160106154743
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.262 seconds
+Real time usage: 0.344 seconds
+Preprocessor visited node count: 1079/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23059/2097152 bytes
+Template argument size: 770/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.111/10.000 seconds
+Lua memory usage: 2.75 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  295.853      1 - -total
+ 42.09%  124.537      1 - Template:Infobox_person
+ 25.59%   75.722      1 - Template:Infobox
+ 21.08%   62.367      1 - Template:BLP_sources
+ 14.32%   42.355      1 - Template:Cite_journal
+ 13.43%   39.737      1 - Template:Ambox
+ 10.53%   31.157      5 - Template:Br_separated_entries
+  8.11%   23.989      1 - Template:Authority_control
+  7.41%   21.918      1 - Template:Wikidata_image
+  5.72%   16.932      1 - Template:IPAc-en
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42072-0!*!0!!en!4!* and timestamp 20160106154742 and revision id 688010892
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=John_Ousterhout&amp;oldid=688010892">https://en.wikipedia.org/w/index.php?title=John_Ousterhout&amp;oldid=688010892</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_programmers" title="Category:Computer programmers">Computer programmers</a></li><li><a href="/wiki/Category:Stanford_University_School_of_Engineering_faculty" title="Category:Stanford University School of Engineering faculty">Stanford University School of Engineering faculty</a></li><li><a href="/wiki/Category:University_of_California,_Berkeley_faculty" title="Category:University of California, Berkeley faculty">University of California, Berkeley faculty</a></li><li><a href="/wiki/Category:Fellows_of_the_Association_for_Computing_Machinery" title="Category:Fellows of the Association for Computing Machinery">Fellows of the Association for Computing Machinery</a></li><li><a href="/wiki/Category:Carnegie_Mellon_University_alumni" title="Category:Carnegie Mellon University alumni">Carnegie Mellon University alumni</a></li><li><a href="/wiki/Category:Grace_Murray_Hopper_Award_laureates" title="Category:Grace Murray Hopper Award laureates">Grace Murray Hopper Award laureates</a></li><li><a href="/wiki/Category:Yale_University_alumni" title="Category:Yale University alumni">Yale University alumni</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:1954_births" title="Category:1954 births">1954 births</a></li><li><a href="/wiki/Category:Programming_language_designers" title="Category:Programming language designers">Programming language designers</a></li><li><a href="/wiki/Category:American_computer_scientists" title="Category:American computer scientists">American computer scientists</a></li><li><a href="/wiki/Category:Members_of_the_United_States_National_Academy_of_Engineering" title="Category:Members of the United States National Academy of Engineering">Members of the United States National Academy of Engineering</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_April_2010" title="Category:BLP articles lacking sources from April 2010">BLP articles lacking sources from April 2010</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Place_of_birth_missing_(living_people)" title="Category:Place of birth missing (living people)">Place of birth missing (living people)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=John+Ousterhout&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=John+Ousterhout" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/John_Ousterhout"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:John_Ousterhout"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/John_Ousterhout" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=John_Ousterhout&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=John_Ousterhout&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/John_Ousterhout" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/John_Ousterhout" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=John_Ousterhout&amp;oldid=688010892" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=John_Ousterhout&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q92636" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=John_Ousterhout&amp;id=688010892" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=John+Ousterhout">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=John+Ousterhout&amp;returnto=John+Ousterhout&amp;oldid=688010892&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=John_Ousterhout&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/John_Ousterhout" title="John Ousterhout – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/John_Ousterhout" title="John Ousterhout – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/John_Ousterhout" title="John Ousterhout – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/John_Ousterhout" title="John Ousterhout – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/John_Ousterhout" title="John Ousterhout – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/John_Ousterhout" title="John Ousterhout – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/John_Ousterhout" title="John Ousterhout – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/John_Ousterhout" title="John Ousterhout – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/John_Ousterhout" title="John Ousterhout – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/John_Ousterhout" title="John Ousterhout – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D1%83%D1%81%D1%82%D0%B5%D1%80%D1%85%D0%B0%D1%83%D1%82,_%D0%94%D0%B6%D0%BE%D0%BD" title="Оустерхаут, Джон – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/John_K._Ousterhout" title="John K. Ousterhout – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD_%D0%9E%D1%81%D1%82%D0%B5%D1%80%D1%85%D1%83%D1%82" title="Джон Остерхут – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q92636#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 October 2015, at 01:54.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=John_Ousterhout&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.9/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1179"}); /* @nomin */
+} );</script>
+	</body>
+</html>
